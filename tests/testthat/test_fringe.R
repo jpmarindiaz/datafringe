@@ -95,24 +95,24 @@ test_that("Create fringe with dic", {
 #   expect_true(fringeColValidate(t,"number","unique"))
 # })
 #
-# test_that("fringeIO",{
-#   t <- fringe(mtcars)
-#   writeFringe(t)
-#   f <- readFringe(file = "mtcars")
-#   unlink("mtcars.csv")
-#   unlink("mtcars.yaml")
-#   expect_true(sameFringes(t,f))
-#   # write
-#   filename <- "sampleFringe"
-#   tmpDir <- tempdir()
-#   writeFringe(t,file = filename, path = tmpDir)
-#   f2 <- readFringe(file = filename, path=tmpDir)
-#   expect_true(sameFringes(t,f2))
-#   expect_true(file.exists(file.path(tmpDir,paste0(filename,".csv"))))
-#   expect_true(file.exists(file.path(tmpDir,paste0(filename,".yaml"))))
-#   unlink(file.path(tmpDir,paste0(filename,".csv")))
-#   unlink(file.path(tmpDir,paste0(filename,".yaml")))
-# })
+test_that("fringeIO",{
+  t <- fringe(mtcars)
+  writeFringe(t)
+  f <- readFringe("mtcars")
+  unlink("mtcars.csv")
+  unlink("mtcars.yaml")
+  expect_true(sameFringes(t,f))
+  # write
+  filename <- "sampleFringe"
+  tmpDir <- tempdir()
+  writeFringe(t,file = filename, path = tmpDir)
+  f2 <- readFringe(file = filename, path=tmpDir)
+  expect_true(sameFringes(t,f2))
+  expect_true(file.exists(file.path(tmpDir,paste0(filename,".csv"))))
+  expect_true(file.exists(file.path(tmpDir,paste0(filename,".yaml"))))
+  unlink(file.path(tmpDir,paste0(filename,".csv")))
+  unlink(file.path(tmpDir,paste0(filename,".yaml")))
+})
 #
 #
 #

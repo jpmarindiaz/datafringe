@@ -69,9 +69,9 @@ Fringe <- R6Class("Fringe",
                       else self$dic_$d$cdescriptions[idx] <- newDescriptions
                       self$validate()
                     },
-                    writeCSV = function(file = NULL, path = NULL, type = "all"){
+                    writeCSV = function(path = NULL, type = "all"){
                       path <- path %||% "."
-                      name <- file_path_sans_ext(file) %||% self$name
+                      name <- "fringe" %||% self$name
                       file <- file.path(path,paste0(name,"-data.csv"))
                       write_csv(self$data,file)
                       file <- file.path(path,paste0(name,"-dic_.csv"))

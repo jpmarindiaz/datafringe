@@ -1,28 +1,22 @@
 #' @export
-writeFringe <- function(f,file = NULL, path = NULL){
-  path <- path %||% "."
+writeFringe <- function(f,path = NULL){
   if(!isFringe(f))
     stop("not a fringe")
-  name <- f$writeCSV(file, path)
+  name <- f$writeCSV(path)
   name
 }
 
 #' @export
-readFringe <- function(name, path = NULL){
-  path <- path %||% "."
-  file <- file_path_sans_ext(file)
-  yamlFile <- paste0(file,".yaml")
-  csvFile <- paste0(file,".csv")
-  d <- read.csv(file.path(path,csvFile),stringsAsFactors = FALSE)
-  l <- list()
-  if(file.exists(file.path(path, yamlFile)))
-    l <- yaml.load_file(file.path(path,yamlFile))
-  fringe(data = d,
-        name = l$name,
-        description = l$description,
-        ctypes = l$ctypes,
-        cformats = l$cformats,
-        cdescriptions = l$cdescriptions)
+readFringe <- function(path = NULL, forceDic = TRUE){
+  path <- path %||% getwd()
+  dic <- NULL
+  dataFile <- paste0(path,"-data.csv")
+  dicFile <- paste0(path,"-dic_.csv")
+  data <- read_csv(dataFile)
+  if(forceDic){
+    dic <- read_csv(dicFile)
+  }
+  fringe(data = d,dic = dic)
 }
 
 
