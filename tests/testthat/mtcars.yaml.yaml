@@ -1,0 +1,55 @@
+name: mtcars
+description: ''
+cnames:
+- mpg
+- cyl
+- disp
+- hp
+- drat
+- wt
+- qsec
+- vs
+- am
+- gear
+- carb
+ctypes:
+- Nu
+- Nu
+- Nu
+- Nu
+- Nu
+- Nu
+- Nu
+- Nu
+- Nu
+- Nu
+- Nu
+cformats:
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+cdescriptions:
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+ftype: Nu-Nu-Nu-Nu-Nu-Nu-Nu-Nu-Nu-Nu-Nu
+nrows: 32
+ncols: 11
+data: ./mtcars.yaml.csv
+

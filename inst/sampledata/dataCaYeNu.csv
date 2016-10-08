@@ -1,0 +1,193 @@
+DEPARTAMENTO,Año,Hectáreas
+Amazonas,2008,836.0
+Antioquia,2008,6096.0
+Arauca,2008,447.0
+Bolívar,2008,5847.0
+Boyacá,2008,197.0
+Caldas,2008,187.0
+Caqueta,2008,4303.0
+Cauca,2008,5422.0
+Cesar,2008,5.0
+Choco,2008,2794.0
+Córdoba,2008,1710.0
+Cundinamarca,2008,12.0
+Guainía,2008,625.0
+Guaviare,2008,6629.0
+La Guajira,2008,160.0
+Magdalena,2008,391.0
+Meta,2008,5525.0
+Nariño,2008,19612.0
+Norte De Santander,2008,2886.0
+Putumayo,2008,9658.0
+Santander,2008,1791.0
+Valle Del Cauca,2008,2089.0
+Vaupés,2008,557.0
+Vichada,2008,3174.0
+Amazonas,2009,312.0
+Antioquia,2009,5096.0
+Arauca,2009,430.0
+Bolívar,2009,5346.0
+Boyacá,2009,204.0
+Caldas,2009,186.0
+Caqueta,2009,3985.0
+Cauca,2009,6597.0
+Cesar,2009,0.0
+Choco,2009,1789.0
+Córdoba,2009,3113.0
+Cundinamarca,2009,0.0
+Guainía,2009,606.0
+Guaviare,2009,8660.0
+La Guajira,2009,182.0
+Magdalena,2009,169.0
+Meta,2009,4469.0
+Nariño,2009,17639.0
+Norte De Santander,2009,2713.0
+Putumayo,2009,5633.0
+Santander,2009,1066.0
+Valle Del Cauca,2009,997.0
+Vaupés,2009,395.0
+Vichada,2009,3228.0
+Amazonas,2010,338.0
+Antioquia,2010,5350.0
+Arauca,2010,247.0
+Bolívar,2010,3324.0
+Boyacá,2010,105.0
+Caldas,2010,46.0
+Caqueta,2010,2578.0
+Cauca,2010,5908.0
+Cesar,2010,0.0
+Choco,2010,3158.0
+Córdoba,2010,3889.0
+Cundinamarca,2010,32.0
+Guainía,2010,446.0
+Guaviare,2010,5701.0
+La Guajira,2010,134.0
+Magdalena,2010,121.0
+Meta,2010,3008.0
+Nariño,2010,15951.0
+Norte De Santander,2010,1889.0
+Putumayo,2010,4785.0
+Santander,2010,673.0
+Valle Del Cauca,2010,665.0
+Vaupés,2010,721.0
+Vichada,2010,2743.0
+Amazonas,2011,122.0
+Antioquia,2011,3104.0
+Arauca,2011,132.0
+Bolívar,2011,2207.0
+Boyacá,2011,93.0
+Caldas,2011,46.0
+Caqueta,2011,3327.0
+Cauca,2011,6066.0
+Cesar,2011,0.0
+Choco,2011,2511.0
+Córdoba,2011,1088.0
+Cundinamarca,2011,18.0
+Guainía,2011,318.0
+Guaviare,2011,6839.0
+La Guajira,2011,16.0
+Magdalena,2011,46.0
+Meta,2011,3040.0
+Nariño,2011,17231.0
+Norte De Santander,2011,3490.0
+Putumayo,2011,9951.0
+Santander,2011,595.0
+Valle Del Cauca,2011,981.0
+Vaupés,2011,277.0
+Vichada,2011,2264.0
+Amazonas,2012,98.0
+Antioquia,2012,2725.0
+Arauca,2012,81.0
+Bolívar,2012,1968.0
+Boyacá,2012,10.0
+Caldas,2012,16.0
+Caqueta,2012,3695.0
+Cauca,2012,4325.0
+Cesar,2012,13.0
+Choco,2012,3429.0
+Córdoba,2012,1046.0
+Cundinamarca,2012,0.0
+Guainía,2012,301.0
+Guaviare,2012,3851.0
+La Guajira,2012,10.0
+Magdalena,2012,37.0
+Meta,2012,2699.0
+Nariño,2012,10231.0
+Norte De Santander,2012,4516.0
+Putumayo,2012,6148.0
+Santander,2012,111.0
+Valle Del Cauca,2012,482.0
+Vaupés,2012,254.0
+Vichada,2012,1242.0
+Amazonas,2013,110.0
+Antioquia,2013,991.0
+Arauca,2013,69.0
+Bolívar,2013,925.0
+Boyacá,2013,17.0
+Caldas,2013,8.0
+Caqueta,2013,4322.0
+Cauca,2013,3326.0
+Cesar,2013,13.0
+Choco,2013,1661.0
+Córdoba,2013,439.0
+Cundinamarca,2013,0.0
+Guainía,2013,81.0
+Guaviare,2013,4725.0
+La Guajira,2013,6.0
+Magdalena,2013,37.0
+Meta,2013,2898.0
+Nariño,2013,13177.0
+Norte De Santander,2013,6325.0
+Putumayo,2013,7667.0
+Santander,2013,77.0
+Valle Del Cauca,2013,398.0
+Vaupés,2013,184.0
+Vichada,2013,713.0
+Amazonas,2014,173.0
+Antioquia,2014,2293.0
+Arauca,2014,25.0
+Bolívar,2014,1565.0
+Boyacá,2014,14.0
+Caldas,2014,0.0
+Caqueta,2014,6542.0
+Cauca,2014,6389.0
+Cesar,2014,10.0
+Choco,2014,1741.0
+Córdoba,2014,560.0
+Cundinamarca,2014,0.0
+Guainía,2014,66.0
+Guaviare,2014,5658.0
+La Guajira,2014,0.0
+Magdalena,2014,9.0
+Meta,2014,5042.0
+Nariño,2014,17285.0
+Norte De Santander,2014,6944.0
+Putumayo,2014,13609.0
+Santander,2014,26.0
+Valle Del Cauca,2014,561.0
+Vaupés,2014,109.0
+Vichada,2014,511.0
+Amazonas,2015,111.0
+Antioquia,2015,2402.0
+Arauca,2015,17.0
+Bolívar,2015,1044.0
+Boyacá,2015,8.0
+Caldas,2015,0.0
+Caqueta,2015,7712.0
+Cauca,2015,8660.0
+Cesar,2015,32.0
+Choco,2015,1489.0
+Córdoba,2015,1363.0
+Cundinamarca,2015,0.0
+Guainía,2015,37.0
+Guaviare,2015,5423.0
+La Guajira,2015,0.0
+Magdalena,2015,7.0
+Meta,2015,5002.0
+Nariño,2015,29755.0
+Norte De Santander,2015,11527.0
+Putumayo,2015,20068.0
+Santander,2015,21.0
+Valle Del Cauca,2015,690.0
+Vaupés,2015,33.0
+Vichada,2015,683.0

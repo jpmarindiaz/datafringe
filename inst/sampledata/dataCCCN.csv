@@ -1,0 +1,45 @@
+"Género","Tipo.Mascota","type","V1"
+"","","Nuevo",3
+"","","Ocasional",2
+"","Gato","Desertor",2
+"","Gato","Nuevo",6
+"","Gato","Ocasional",7
+"","Gato","Recurrente",6
+"","Perro","Desertor",4
+"","Perro","Nuevo",21
+"","Perro","Ocasional",21
+"","Perro","Recurrente",18
+"","Perro y Gato","Ocasional",2
+"Femenino","","Desertor",6
+"Femenino","","Nuevo",28
+"Femenino","","Ocasional",21
+"Femenino","","Recurrente",10
+"Femenino","Gato","Desertor",44
+"Femenino","Gato","Nuevo",124
+"Femenino","Gato","Ocasional",94
+"Femenino","Gato","Recurrente",167
+"Femenino","Otra","Ocasional",2
+"Femenino","Otra","Recurrente",1
+"Femenino","Perro","Desertor",98
+"Femenino","Perro","Nuevo",371
+"Femenino","Perro","Ocasional",373
+"Femenino","Perro","Recurrente",376
+"Femenino","Perro y Gato","Desertor",2
+"Femenino","Perro y Gato","Nuevo",21
+"Femenino","Perro y Gato","Ocasional",14
+"Femenino","Perro y Gato","Recurrente",20
+"Masculino","","Desertor",4
+"Masculino","","Nuevo",21
+"Masculino","","Ocasional",17
+"Masculino","","Recurrente",5
+"Masculino","Gato","Desertor",12
+"Masculino","Gato","Nuevo",15
+"Masculino","Gato","Ocasional",20
+"Masculino","Gato","Recurrente",41
+"Masculino","Perro","Desertor",50
+"Masculino","Perro","Nuevo",167
+"Masculino","Perro","Ocasional",178
+"Masculino","Perro","Recurrente",183
+"Masculino","Perro y Gato","Nuevo",1
+"Masculino","Perro y Gato","Ocasional",3
+"Masculino","Perro y Gato","Recurrente",2

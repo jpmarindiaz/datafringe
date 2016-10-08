@@ -1,0 +1,16 @@
+Package: datafringe
+Version: 0.0.0.1
+Title: Fringer
+Author: Juan Pablo Marin Diaz
+Maintainer: Juan Pablo Marin Diaz <jpmarindiaz@gmail.com>
+Description: Fringes
+License: GLP-3
+LazyData: no
+Depends:
+    R (>= 3.0.0),
+    R6,
+    lubridate,
+    tidyverse
+Suggests:
+    testthat
+RoxygenNote: 5.0.1
