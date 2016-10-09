@@ -7,16 +7,32 @@
 #' @examples \dontrun{
 #' fringe <- newDatafringeFromDatafringe(mtcars)
 #' }
-sampleData <- function(ftype, asFringe=FALSE){
-  dir <- system.file("sampledata",package="fringer", mustWork=TRUE)
-  if(!ftype %in% availableSampleData()){
-    stop("No data for this ftype")
-    }
-  else{
-    filename <- paste0("data",ftype,".csv")
-    out <- read.csv(file.path(dir,filename), stringsAsFactors=FALSE)
+sampleData <- function(ftype,nrow = 20,asFringe=FALSE,...){
+  #nrow <- 100
+  #ftype <- "Ca-Ye-Da"
+  ftypes <- strsplit(ftype,"-")[[1]]
+  if(!all(ftypes %in% names(availableCtypes()))) stop("Wrong ftype")
+  ncols <- length(ftypes)
+  ca <- function(n) sample(paste0("cat",LETTERS[1:5]),n,replace = TRUE)
+  nu <- function(n) round(rnorm(n,1000,300)*1)
+  da <- function(n,type = "seq"){
+    # type = seq || random
+    seqdates <- seq(as.Date('2000-01-01'),length.out=n, by="day")
+    if(type == "seq") return(seqdates)
+    sample(seq(as.Date('2000-01-01'),length.out=n/10, by="day"),n=n,replace = TRUE)
   }
-  if(asFringe){out <- fringe(out)}
+  ye <- function(n, type = "seq"){
+    seqyear <- seq(1900,length.out = n)
+    if(type == "seq") return(seqyear)
+    sample(seq(1900,length.out = n/10),n, replace = TRUE)
+  }
+  s <- list(Ca = ca, Nu = nu, Da = da, Ye = ye)
+  sel <- s[ftypes]
+  params <- rep(list(n = nrow),ncols)
+  d <- invoke_map(sel, params)
+  names(d) <- letterNames(ncols)
+  out <- as_data_frame(d)
+  if(asFringe){out <- fringe(d)}
   out
 }
 

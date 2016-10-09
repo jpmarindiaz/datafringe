@@ -3,16 +3,16 @@ context("dic")
 test_that("Create Dic", {
 
   ctypes <- c("Ca","Nu")
-  dic <- data_frame(id=letters[1:2],ctypes = ctypes)
+  dic <- data_frame(id=letters[1:2],ctype = ctypes)
   dic1 <- createDic(data_frame(a="x",b=1),dic)
-  expect_equal(dic1 %>% select(id,ctypes),dic)
+  expect_equal(dic1 %>% select(id,ctype),dic)
 
   dicMeta <- Dic$new(dic,ncol = 10, moreInfo = "more info")
   expect_equal(dicMeta$meta,list(ncol = 10, moreInfo = "more info"))
 
   d <- mtcars
   dic2 <- createDic(d)
-  expect_equal(unique(dic2$ctypes),"Nu")
+  expect_equal(unique(dic2$ctype),"Nu")
 
   dic_ <- createDic(d, as_data_frame = FALSE)
   expect_equal(class(dic_),c("Dic","R6"))

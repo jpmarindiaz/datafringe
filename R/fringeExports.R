@@ -5,8 +5,7 @@ fringe<- function(data, dic=NULL,
     warning("data is already a Fringe")
     return(data)
   }
-  # if(nrow(data) >0)
-  #rownames(data) <- NULL
+  #Fringe$new(data,dic_ = dic)
   fringe <- Fringe$new(data,
                     dic_ = dic,
                     name = name %||% deparse(substitute(data)),
@@ -45,6 +44,7 @@ sameFringes <- function(f1,f2){
     identical(getCnames(f1),getCnames(f2)),
     identical(getCtypes(f1),getCtypes(f2)),
     identical(getCformats(f1),getCformats(f2)),
+    identical(f1$dic_$d,f2$dic_$d),
     identical(f1$d,f2$d)
   )
 }
@@ -67,21 +67,21 @@ getCnames <- function(fringe){
 #' @export
 getCdescriptions <- function(fringe){
   if(!isFringe(fringe)) stop('class is not Fringe')
-  fringe$dic_$d$cdescriptions
+  fringe$dic_$d$cdescription
 }
 
 #' @export
 getCtypes <- function(fringe, cols = NULL){
   if(!isFringe(fringe))
     fringe <- fringe(fringe)
-  fringe$dic_$d$ctypes
+  fringe$dic_$d$ctype
 }
 
 #' @export
 getCformats <- function(fringe){
   if(!isFringe(fringe))
     fringe <- fringe(fringe)
-  fringe$dic_$d$cformats
+  fringe$dic_$d$cformat
 }
 
 

@@ -4,7 +4,7 @@
 \alias{sampleData}
 \title{Creates a new Datafringe from a dataframe}
 \usage{
-sampleData(ftype, asFringe = FALSE)
+sampleData(ftype, nrow = 20, asFringe = FALSE, ...)
 }
 \arguments{
 \item{d}{might be a json string, data fringe or list of data fringes.}

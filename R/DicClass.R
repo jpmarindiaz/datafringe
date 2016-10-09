@@ -10,13 +10,14 @@ Dic <- R6Class("Dic",
                    self$meta <- list(...)
                  },
                  validate = function(d){
-                   if(!all(c("id","ctypes") %in% names(d) ))
-                     stop("Need id, ctype and name for dictionary")
+                   attr(d, "spec") <- NULL
+                   if(!all(c("id","ctype") %in% names(d) ))
+                     stop("Need id and ctype for dictionary")
                    availableCtypeNames <- names(availableCtypes())
-                   if(!all(self$d$ctypes %in% availableCtypeNames))
+                   if(!all(self$d$ctype %in% availableCtypeNames))
                      stop("ctypes not in ",availableCtypeNames)
-                   self$d$cformats <- d$cformats %||% NA
-                   self$d$cdescriptions <- d$cdescriptions %||% NA
+                   self$d$cformat <- d$cformat %||% NA
+                   self$d$cdescription <- d$cdescription %||% NA
 
                    #if(self$d$ctypes == "D")
                    #if(!self$cformat %in% availableCformats$D)

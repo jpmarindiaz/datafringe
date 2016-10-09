@@ -4,18 +4,44 @@ document()
 #install()
 #test()
 
+f <- readFringe(path = "~/Desktop/objetivos-bogota")
+names(f$dic_$d)
+dic <- f$dic_$d
+getCtypes(f)
+
+selectFringeCtypes(f,"Ca")
+
+
+
+
+
+x <- sampleData("Ca-Ye")
+fringe(x)
+
+x <- sampleData("Ca-Ye")
+dic <- data_frame(id = letters[1:2],ctype = c("Ca","Ye"))
+f <- fringe(x,dic)
+
+writeFringe(f,"~/Desktop")
+readFringe("~/Desktop/x")
+
+t <- fringe(mtcars)
+writeFringe(t)
+f <- readFringe("mtcars", forceDic = FALSE)
+f
+f <- readFringe("mtcars", forceDic = FALSE, name = "HOLA")
+f
+
+
+
+
 ctypes <- c("Ca","Nu")
 dic <- data_frame(id=letters[1:2],ctypes = ctypes)
 d <- data_frame(a="x",b=1)
 fr <- fringe(d,dic)
-
 writeFringe(fr,"~/Desktop")
-readFringe(path ="~/Desktop/fringe")
+readFringe(path ="~/Desktop/d")
 
-
-t <- fringe(mtcars)
-writeFringe(t)
-f <- readFringe("fringe", forceDic = FALSE)
 
 # FRINGE
 void = data.frame(col1 = character(0), col2 = character(0))

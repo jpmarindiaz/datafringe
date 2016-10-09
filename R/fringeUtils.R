@@ -1,5 +1,5 @@
 
-availableCtypes <- c("Ca","Nu","Da","Dy","Mn","Yr","Ho","Dt","Tx","Ge","Im","Au")
+availableCtypes <- c("Ca","Nu","Da","Dy","Mn","Ye","Ho","Dt","Tx","Ge","Im","Au")
 
 #' @export
 availableCtypes <- function(){
@@ -10,7 +10,7 @@ availableCtypes <- function(){
     "Da" = "Dates",
     "Dy" = "Day",
     "Mn" = "Month",
-    "Yr" = "Years",
+    "Ye" = "Years",
     "Ho" = "Hours",
     "Dt" = "Datetime",
     "Tx" = "Text",
@@ -23,15 +23,15 @@ availableCtypes <- function(){
 #' @export
 availableCformats <- function(){
   list(
-  "Ca" = "",
-  "Nu" = "",
-  "Dt" = c("yyyy-mm-dd","unixTimeStamp"),
-  "Ho" = "HH:MM:SS",
-  "Dt" = "yyyy-mm-dd hh:mm:ss",
-  "Ge" = c("code","name","latNum","lonNum"),
-  "Tx" = c("plain","html","markdown"),
-  "Im" = c("imageUrl","file"),
-  "Au" = "audio"
+    "Ca" = "",
+    "Nu" = "",
+    "Dt" = c("yyyy-mm-dd","unixTimeStamp"),
+    "Ho" = "HH:MM:SS",
+    "Dt" = "yyyy-mm-dd hh:mm:ss",
+    "Ge" = c("code","name","latNum","lonNum"),
+    "Tx" = c("plain","html","markdown"),
+    "Im" = c("imageUrl","file"),
+    "Au" = "audio"
   )
 }
 
@@ -118,7 +118,7 @@ forceCtypes <- function(df, ctypes, cformat = NULL){
     if(ctypes[i]=="Im"){
       if(!isImgUrl(df[,i])) stop ("Not an image Url")
       df[,i]<- as.character(df[,i])
-      }
+    }
     if(ctypes[i]=="Dt"){df[,i]<- parseDatetime(df[,i],"Dt")}
     if(ctypes[i]=="Tm"){df[,i]<- parseDatetime(df[,i],"Tm")}
     if(ctypes[i]=="Ho"){df[,i]<- parseDatetime(df[,i],"Ho")}
@@ -149,4 +149,17 @@ getDictionary <- function(d){
   data.frame(id = getCnames(d), name = getCnames(d),ctype = getCtypes(d),stringsAsFactors = FALSE)
 }
 
-
+letterNames <- function(n){
+  if(n<27)
+    return(letters[1:n])
+  if(n<703){
+    l2 <- expand(data_frame(A=letters,B=letters),A,B) %>% unite("l",A,B,sep="") %>% .$l
+    return(c(letters,l2)[1:n])
+  }
+  if(n < 18279){ # 26 + 676 + 17576 = 18278
+    l2 <- expand(data_frame(A=letters,B=letters),A,B) %>% unite("l",A,B,sep="") %>% .$l
+    l3 <- expand(data_frame(A=letters,B=letters,C=letters),A,B,C) %>% unite("l",A,B,C,sep="") %>% .$l
+    return(c(letters,l2,l3)[1:n])
+  }
+  stop("Cannot handle data with more than 18279 columns")
+}

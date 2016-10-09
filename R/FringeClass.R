@@ -18,11 +18,18 @@ Fringe <- R6Class("Fringe",
                     ) {
                       if(missing(d)) stop("Need a dataframe")
                       d <- as_tibble(d)
+                      d <- remove_rownames(d)
+                      attr(d, "spec") <- NULL
+                      attr(dic_, "spec") <- NULL
                       if(!"tbl_df" %in% class(d)) stop("Need a tbl_df")
-                      if(is.null(dic_)) dic_ <- createDic(d, as_data_frame = FALSE)
-                      else dic_ <- createDic(d, dic = dic_, as_data_frame = FALSE)
+                      if(is.null(dic_)){
+                        dic_ <- createDic(d, as_data_frame = FALSE)
+                      }
+                      else{
+                        dic_ <- createDic(d, dic = dic_, as_data_frame = FALSE)
+                      }
 
-                      ctypes <- dic_$d$ctypes %||% guessCtypes(d)
+                      ctypes <- dic_$d$ctype %||% guessCtypes(d)
                       cformats <- dic_$d$cformats %||% guessCformats(d)
                       self$name <- name %||% ""
                       self$description <- description  %||% ""
@@ -32,9 +39,8 @@ Fringe <- R6Class("Fringe",
                       #d <- removeRowAllNA(d)
                       #d <- naToEmpty(d)
                       #fd <- forceCtypes(as.data.frame(d), ctypes)
-                      fd <- d
-                      names(fd) <- letters[1:ncol(fd)]
-                      self$d <- fd
+                      names(d) <- letterNames(ncol(d))
+                      self$d <- d
                       self$validate()
                     },
                     validate = function(){
@@ -45,13 +51,13 @@ Fringe <- R6Class("Fringe",
                       self$dic_$d$id
                     },
                     getCtypes = function(){
-                      self$dic_$d$ctypes
+                      self$dic_$d$ctype
                     },
                     getCformats = function(){
-                      self$dic_$d$cformats
+                      self$dic_$d$cformat
                     },
                     getCdescriptions = function(){
-                      self$dic_$d$cdescriptions
+                      self$dic_$d$cdescription
                     },
                     setCnames = function(newNames, idx = NULL){
                       originalCnames <- self$dic_$d$id
@@ -62,21 +68,21 @@ Fringe <- R6Class("Fringe",
                       self$validate()
                     },
                     setCdescriptions = function(newDescriptions, idx = NULL){
-                      originalCdescriptions <- self$dic_$d$cdescriptions
+                      originalCdescriptions <- self$dic_$d$cdescription
                       if(length(newDescriptions)!= length(originalCdescriptions) && is.null(idx))
                         stop("cdescriptions must be the same length as original")
-                      if(is.null(idx)) self$dic_$d$cdescriptions <- newDescriptions
-                      else self$dic_$d$cdescriptions[idx] <- newDescriptions
+                      if(is.null(idx)) self$dic_$d$cdescription <- newDescriptions
+                      else self$dic_$d$cdescription[idx] <- newDescriptions
                       self$validate()
                     },
-                    writeCSV = function(path = NULL, type = "all"){
+                    writeCSV = function(path, type = "all"){
                       path <- path %||% "."
-                      name <- "fringe" %||% self$name
+                      name <- self$name %||% "fringe"
                       file <- file.path(path,paste0(name,"-data.csv"))
                       write_csv(self$data,file)
                       file <- file.path(path,paste0(name,"-dic_.csv"))
                       write_csv(self$dic_$d,file)
-                      name
+                      file.path(path,name)
                     },
                     asList = function(){
                       list(

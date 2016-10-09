@@ -7,8 +7,8 @@ writeFringe <- function(f,path = NULL){
 }
 
 #' @export
-readFringe <- function(path = NULL, forceDic = TRUE){
-  path <- path %||% getwd()
+readFringe <- function(path, forceDic = TRUE, name = NULL){
+  name <- name %||% basename(path)
   dic <- NULL
   dataFile <- paste0(path,"-data.csv")
   dicFile <- paste0(path,"-dic_.csv")
@@ -16,7 +16,7 @@ readFringe <- function(path = NULL, forceDic = TRUE){
   if(forceDic){
     dic <- read_csv(dicFile)
   }
-  fringe(data = d,dic = dic)
+  fringe(data = data,dic = dic, name = name)
 }
 
 
