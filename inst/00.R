@@ -12,17 +12,27 @@ guessCtype(v)
 guessCtypes(df)
 
 
+f <- sampleData("Ca-Ye", asFringe = TRUE)
+f
+f2 <- keepFringeRows(f,"a","catA")
+f2
+f
+
+
 
 ###
 
 f <- readFringe(path = "~/Desktop/objetivos-bogota")
+
+keepFringeRows(f,"Ciudad","Bogotá")
+
 names(f$dic_$d)
 dic <- f$dic_$d
 getCtypes(f)
 
 varsNu <- selectDicCtypes(f,"Nu",as_list = TRUE)
 selectedVarNu <- flatten_chr(sample(varsNu,3))
-fchrono <- selectFringeCols(f,c("Anio" ,selectedVarNu))
+fchrono <- selectFringeCols(f,cols = c(selectedVarNu,"Anio"))
 
 
 selectDicCtypes(f,"Ca")
@@ -31,18 +41,16 @@ selectFringeCtypes(f,"Ca")
 getCnames(f)
 
 
-## ADD TEST FOR SELECT COLS
+## TODO ADD TEST FOR SELECT COLS
+
 f2 <- selectFringeCols(f,c("Ciudad" ,"v1_d_001"))
 getClabels(f2)
-
+selectFringeCols(f,cols = c(selectedVarNu,"Anio")) ## also in other order
 getDictionary(f)
 getCinfo(f,"label")
 
 
-f <- sampleData("Ca-Ye", asFringe = TRUE)
 selectDicCtypes(f,"Ca", as_list = TRUE)
-
-
 
 
 x <- sampleData("Ca-Ye")

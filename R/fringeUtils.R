@@ -138,14 +138,7 @@ getColumnNames <- function(fringe){
 }
 
 removeRowAllNA <- function(d){
-  idx <- !is.na(d)
-  idx <- rowSums(idx) > 0
-  if(ncol(d)==1){
-    out <- data.frame(d[idx,])
-    names(out) <- names(d)
-    return(out)
-  }
-  d[idx,]
+  d %>% filter(apply(., 1, function(x) !all(is.na(x))))
 }
 
 #' @export

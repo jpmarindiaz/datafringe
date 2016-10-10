@@ -154,22 +154,7 @@ selectColumns <- function(fringe,fields){
   fringe(fringe$data[fields],name = fringe$name, description = fringe$description)
 }
 
-#' @export
-selectFringeCols <- function(fringeIn,cols){
-  if(!class(fringeIn)[1] %in% c("Fringe","data.frame"))
-    stop("fringe must be either a Fringe of a data.frame")
-  if(!isFringe(fringeIn)) fringe <- fringe(fringeIn)
-  else fringe <- fringeIn
-  if(class(cols) %in% c("numeric","integer"))
-    cols <- getCnames(fringe)[cols]
-  if(! all(cols %in% getCnames(fringe)))
-    stop("cols not in fringe")
-  d <- getDatafringe(fringe)
-  dic <- fringe$dic_$d %>% filter(id %in% cols)
-  out <- d[cols]
-  if(isFringe(fringeIn)) return(fringe(out,dic))
-  out
-}
+
 
 #' @export
 setCnames <- function(t,cnames, idx = NULL){
