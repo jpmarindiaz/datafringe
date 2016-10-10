@@ -32,7 +32,7 @@ test_that("Create Fringe", {
   Fringe$new(iris)
   fringe <- fringe(iris)
   expect_equal("iris",fringe$name)
-  expect_equal(fringe$data, iris)
+  expect_equal(fringe$data, fct_to_chr(iris))
   df <- sampleData('Ca-Nu', asFringe = TRUE)
   expect_equal(getCtypes(df),c('Ca','Nu'))
   expect_equal(getCnames(df),c('a','b'))
@@ -77,6 +77,16 @@ test_that("Sample Data", {
   expect_error(sampleData("XXXXXX", asFringe = TRUE))
 })
 
+test_that("Fringe funs", {
+  f <- sampleData("Ca-Nu-Ye", asFringe = TRUE)
+  ctypes <- c("Ca","Ye")
+  dic2 <- selectDicCtypes(f,ctypes)
+  expect_equal(dic2$ctype,"Ca")
+  f2 <- selectFringeCtypes(f,ctypes)
+  expect_equal(getFtype(f2),"Ca")
+})
+
+
 
 # test_that("fringeValidations", {
 #   t <- sampleData("Ca-Nu",asFringe = TRUE)
@@ -97,7 +107,7 @@ test_that("fringeIO",{
   writeFringe(f1)
   f2 <- readFringe("mtcars")
   unlink("mtcars-data.csv")
-  unlink("mtcars-dic.csv")
+  unlink("mtcars-dic_.csv")
   expect_true(sameFringes(f1,f2))
   # write
   path <- tempdir()

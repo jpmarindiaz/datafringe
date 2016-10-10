@@ -59,15 +59,19 @@ getDefaultCformats <- function(ctypes){
 guessCtype <- function(v){
   if("data.frame" %in% class(v))
     v <- v %>% flatten
-  v <- v[!is.na(v)]
+  v <- unique(v[!is.na(v)])
   if(length(v) == 0)
     return("_")
   if(class(v) %in% c("integer","numeric")){
     ctype <- "Nu"
-    # if(all(v %in% 1000:2200)) ctype <- "Yr"
+    # if(all(v %in% 1000:2200)) ctype <- "Ye"
     # if(all(v %in% 1:31)) ctype <- "Dy"
     #if(all(v %in% 1:12)) ctype <- "Mn"
     return(ctype)
+  }
+
+  if(class(v)!= "factor" & !has_warning(as.numeric(v))){
+    return("Nu")
   }
   dth <- whichDTH(v)
   if(!is.null(dth))
@@ -110,6 +114,7 @@ guessFtype <- function(df){
 }
 
 forceCtypes <- function(df, ctypes, cformat = NULL){
+  df <- as.data.frame(df)
   if(ncol(df)!= length(ctypes)) stop("number of df cols must be the same as col types length")
   for (i in seq_along(ctypes)){
     if(ctypes[i]=="Nu"){df[,i]<- as.numeric(df[,i])}
@@ -124,7 +129,7 @@ forceCtypes <- function(df, ctypes, cformat = NULL){
     if(ctypes[i]=="Ho"){df[,i]<- parseDatetime(df[,i],"Ho")}
     if(ctypes[i]=="Ge"){df[,i]<- as.numeric(df[,i])}
   }
-  df
+  as_data_frame(df)
 }
 
 getColumnNames <- function(fringe){
@@ -145,8 +150,7 @@ removeRowAllNA <- function(d){
 
 #' @export
 getDictionary <- function(d){
-  d <- fringe(d)
-  data.frame(id = getCnames(d), name = getCnames(d),ctype = getCtypes(d),stringsAsFactors = FALSE)
+  f$dic_$d
 }
 
 letterNames <- function(n){

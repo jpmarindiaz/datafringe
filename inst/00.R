@@ -4,19 +4,46 @@ document()
 #install()
 #test()
 
+
+v <- c("1",NA,"2")
+v <- factor(letters[1:5])
+guessCtype(v)
+
+guessCtypes(df)
+
+
+
+###
+
 f <- readFringe(path = "~/Desktop/objetivos-bogota")
 names(f$dic_$d)
 dic <- f$dic_$d
 getCtypes(f)
 
+varsNu <- selectDicCtypes(f,"Nu",as_list = TRUE)
+selectedVarNu <- flatten_chr(sample(varsNu,3))
+fchrono <- selectFringeCols(f,c("Anio" ,selectedVarNu))
+
+
+selectDicCtypes(f,"Ca")
+selectDicCtypes(f,"Ca", as_list = TRUE)
 selectFringeCtypes(f,"Ca")
+getCnames(f)
+
+
+## ADD TEST FOR SELECT COLS
+f2 <- selectFringeCols(f,c("Ciudad" ,"v1_d_001"))
+getClabels(f2)
+
+getDictionary(f)
+getCinfo(f,"label")
+
+
+f <- sampleData("Ca-Ye", asFringe = TRUE)
+selectDicCtypes(f,"Ca", as_list = TRUE)
 
 
 
-
-
-x <- sampleData("Ca-Ye")
-fringe(x)
 
 x <- sampleData("Ca-Ye")
 dic <- data_frame(id = letters[1:2],ctype = c("Ca","Ye"))

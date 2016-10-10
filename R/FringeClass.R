@@ -38,9 +38,9 @@ Fringe <- R6Class("Fringe",
                       self$ftype <- paste0(sort(self$getCtypes()),collapse = "-")
                       #d <- removeRowAllNA(d)
                       #d <- naToEmpty(d)
-                      #fd <- forceCtypes(as.data.frame(d), ctypes)
+                      d <- forceCtypes(d, ctypes)
                       names(d) <- letterNames(ncol(d))
-                      self$d <- d
+                      self$d <- as_tibble(d)
                       self$validate()
                     },
                     validate = function(){
@@ -125,7 +125,6 @@ Fringe <- R6Class("Fringe",
                     data = function(){
                       d <- self$d
                       names(d) <- self$getCnames()
-                      row.names(d) <- NULL
                       d
                     }
                   )

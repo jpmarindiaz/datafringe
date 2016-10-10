@@ -65,6 +65,14 @@ getCnames <- function(fringe){
 }
 
 #' @export
+getClabels <- function(fringe){
+  if(isFringe(fringe))
+    return(fringe$dic_$d$name)
+  if(is.data.frame(fringe))
+    return(names(fringe))
+}
+
+#' @export
 getCdescriptions <- function(fringe){
   if(!isFringe(fringe)) stop('class is not Fringe')
   fringe$dic_$d$cdescription
@@ -157,8 +165,9 @@ selectFringeCols <- function(fringeIn,cols){
   if(! all(cols %in% getCnames(fringe)))
     stop("cols not in fringe")
   d <- getDatafringe(fringe)
+  dic <- fringe$dic_$d %>% filter(id %in% cols)
   out <- d[cols]
-  if(isFringe(fringeIn)) return(fringe(out))
+  if(isFringe(fringeIn)) return(fringe(out,dic))
   out
 }
 
