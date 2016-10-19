@@ -41,6 +41,11 @@ selectFringeCtypes(f,"Ca")
 getCnames(f)
 
 
+## TODO ADD TEST FOR
+##getClables
+## selectDicCtypes --- make sure it returns labels
+
+
 ## TODO ADD TEST FOR SELECT COLS
 
 f2 <- selectFringeCols(f,c("Ciudad" ,"v1_d_001"))

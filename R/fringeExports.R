@@ -67,7 +67,7 @@ getCnames <- function(fringe){
 #' @export
 getClabels <- function(fringe){
   if(isFringe(fringe))
-    return(fringe$dic_$d$name)
+    return(fringe$dic_$d$label)
   if(is.data.frame(fringe))
     return(names(fringe))
 }

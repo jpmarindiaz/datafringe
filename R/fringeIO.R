@@ -7,8 +7,9 @@ writeFringe <- function(f,path = NULL){
 }
 
 #' @export
-readFringe <- function(path, forceDic = TRUE, name = NULL){
+readFringe <- function(path, forceDic = TRUE, name = NULL, verbose = FALSE){
   name <- name %||% basename(path)
+  if(verbose) message("Reading: ",name,"\n")
   dic <- NULL
   dataFile <- paste0(path,"-data.csv")
   dicFile <- paste0(path,"-dic_.csv")
