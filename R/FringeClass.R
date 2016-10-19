@@ -36,10 +36,11 @@ Fringe <- R6Class("Fringe",
                       self$recordName <- recordName %||% "observation"
                       self$dic_ <- dic_
                       self$ftype <- paste0(sort(self$getCtypes()),collapse = "-")
-                      d <- removeRowAllNA(d)
                       #d <- naToEmpty(d)
+                      #message(ctypes, ncols(d))
                       d <- forceCtypes(d, ctypes)
                       names(d) <- letterNames(ncol(d))
+                      #d <- discard_all_na_cols(d)
                       self$d <- as_tibble(d)
                       self$validate()
                     },

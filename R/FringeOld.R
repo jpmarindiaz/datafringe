@@ -37,7 +37,7 @@
 #'                                           cdescriptions = cdescriptions)
 #'                       self$fields <- fieldList
 #'                       self$ftype <- paste0(sort(self$getCtypes()),collapse = "-")
-#'                       d <- removeRowAllNA(d)
+#'                       d <- discard_all_na(d)
 #'                       d <- naToEmpty(d)
 #'                       fd <- forceCtypes(as.data.frame(d), ctypes)
 #'                       names(fd) <- letters[1:ncol(fd)]

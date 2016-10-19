@@ -137,8 +137,15 @@ getColumnNames <- function(fringe){
   unlist(Map(function(i){i$name},fringe$fields))
 }
 
-removeRowAllNA <- function(d){
+#' @export
+discard_all_na_rows <- function(d){
   d %>% filter(apply(., 1, function(x) !all(is.na(x))))
+}
+
+#' @export
+discard_all_na_cols <- function(d){
+  f <- function(x)!all(is.na(x))
+  d %>% keep(f)
 }
 
 #' @export

@@ -4,6 +4,13 @@ document()
 #install()
 #test()
 
+void = data_frame(col1 = character(0), col2 = character(0))
+tv <- fringe(void)
+Fringe$new(void)
+
+
+
+
 
 v <- c("1",NA,"2")
 v <- factor(letters[1:5])
@@ -17,6 +24,8 @@ f
 f2 <- keepFringeRows(f,"a","catA")
 f2
 f
+
+
 
 
 
