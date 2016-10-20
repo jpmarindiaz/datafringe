@@ -1,4 +1,14 @@
 
+#' @export
+keep_not_na_FringeRows <- function(fringeIn){
+  if(!class(fringeIn)[1] %in% c("Fringe","data.frame"))
+    stop("fringe must be either a Fringe of a data.frame")
+  if(!isFringe(fringeIn)) fringe <- fringe(fringeIn)
+  else fringe <- fringeIn
+  data <- fringe$data %>% discard_any_na_rows()
+  dic <- fringe$dic_$d
+  fringe(data,dic)
+}
 
 #' @export
 keepFringeRows <- function(fringeIn,col,values){

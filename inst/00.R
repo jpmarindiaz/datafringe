@@ -26,6 +26,9 @@ f2
 f
 
 
+## ADD TEST FOR keep_not_na_fringe
+f <- fringe(data_frame(x =c("1",NA,"2"), y = sample2(letters[1:3],3)))
+keep_not_na_FringeRows(f)
 
 
 
