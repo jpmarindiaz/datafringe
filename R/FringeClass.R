@@ -28,7 +28,6 @@ Fringe <- R6Class("Fringe",
                       else{
                         dic_ <- createDic(d, dic = dic_, as_data_frame = FALSE)
                       }
-
                       ctypes <- dic_$d$ctype %||% guessCtypes(d)
                       cformats <- dic_$d$cformats %||% guessCformats(d)
                       self$name <- name %||% ""

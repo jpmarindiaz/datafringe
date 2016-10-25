@@ -12,6 +12,9 @@ test_that("Fringe utils", {
   expect_equal(fr,fr2)
   expect_equal(getFtype(fr),"Ca-Nu")
   expect_equal(fr$dic_,createDic(d, as_data_frame = FALSE))
+  dic2 <- rbind(dic,c("c","Ge"))
+  fr3 <- fringe(d,dic2)
+  expect_equal(fr$dic_,fr3$dic_)
 })
 
 test_that("Create Fringe", {
