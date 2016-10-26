@@ -1,7 +1,8 @@
-# fringer
+# datafringe
 
-## Todo
+## Todo's
 
+Add validation for diccionary... cannot have multiple vars with same id
 
 - Guess ctypes (from sample)
 - Guess all possible ftypes

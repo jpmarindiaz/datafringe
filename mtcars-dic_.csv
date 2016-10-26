@@ -1,0 +1,12 @@
+id,ctype,name,cformat,cdescription
+mpg,Nu,mpg,NA,NA
+cyl,Nu,cyl,NA,NA
+disp,Nu,disp,NA,NA
+hp,Nu,hp,NA,NA
+drat,Nu,drat,NA,NA
+wt,Nu,wt,NA,NA
+qsec,Nu,qsec,NA,NA
+vs,Nu,vs,NA,NA
+am,Nu,am,NA,NA
+gear,Nu,gear,NA,NA
+carb,Nu,carb,NA,NA
