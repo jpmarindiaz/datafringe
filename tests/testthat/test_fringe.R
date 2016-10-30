@@ -87,7 +87,14 @@ test_that("Fringe funs", {
   expect_equal(dic2$ctype,"Ca")
   f2 <- selectFringeCtypes(f,ctypes)
   expect_equal(getFtype(f2),"Ca")
-})
+  f3 <- sampleData("Ca-Ca-Ca-Nu")
+  dic <- data_frame(id=letters[1:4],
+                    ctype = c("Ca","Ca","Ca","Nu"),
+                    visualize = c(NA,TRUE,FALSE,TRUE))
+  f3 <- fringe(f3,dic)
+  dic3 <- selectDicCtypes(f3,ctypes = c("Ca","Nu"), filter = "visualize")
+  expect_equal(dic3$id, c("b","d"))
+  })
 
 
 
@@ -108,6 +115,7 @@ test_that("Fringe funs", {
 test_that("fringeIO",{
   f1 <- fringe(mtcars)
   writeFringe(f1)
+  f2 <- readFringe("mtcars", forceDic = FALSE)
   f2 <- readFringe("mtcars")
   unlink("mtcars-data.csv")
   unlink("mtcars-dic_.csv")

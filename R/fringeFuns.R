@@ -55,8 +55,13 @@ selectFringeCtypes <- function(f,ctypes){
 }
 
 #' @export
-selectDicCtypes <- function(f,ctypes, as_list = FALSE){
+selectDicCtypes <- function(f,ctypes, as_list = FALSE, filter = NULL){
   out <- f$dic_$d %>% filter(ctype %in% ctypes)
+  if(!is.null(filter)){
+    if(!filter %in% names(out)) stop("Filter not in diccionary")
+    filter_criteria <- interp(~ filter == TRUE, filter = as.name(filter))
+    out <- out %>% filter_(filter_criteria)
+  }
   if(as_list){
     # setNames(transpose(out),out$id) # in case we want the full dic as list
     out_list <- as.list(setNames(out$id, out$label))
