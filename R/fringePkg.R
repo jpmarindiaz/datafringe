@@ -1,5 +1,5 @@
 #' @export
-list_fringe <- function(path, groups = NULL){
+list_fringes <- function(path, groups = NULL){
   fidxpath <- file.path(path,"fringe_idx.csv")
   fidx <- read_csv(fidxpath)
   dbs <- fidx  %>% filter(!is.na(id))
@@ -21,9 +21,9 @@ list_fringe <- function(path, groups = NULL){
 
 #' @export
 load_fringes <- function(path, groups = NULL, n_max = Inf){
-  frs <- list_fringe(path)
+  frs <- list_fringes(path)
   groups <- groups %||% unique(frs$group)
-  frs <- list_fringe(path, groups = groups)
+  frs <- list_fringes(path, groups = groups)
   paths <- file.path(path,frs$id)
   names(paths) <- frs$id
   #f <- readFringe(paths[5],name="hola")
