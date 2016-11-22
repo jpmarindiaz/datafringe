@@ -72,6 +72,20 @@ test_that("Create fringe with dic", {
   fr <- fringe(d,dic)
   expect_equal(getFtype(fr),"Ca-Nu")
   expect_equal(fr$dic_,createDic(d, dic, as_data_frame = FALSE))
+  # test fringe with dic not in same order
+  ctypes <- c("Nu","Ca")
+  dic <- data_frame(id=c("b","a"),ctypes = ctypes)
+  d <- data_frame(a="x",b=1)
+  fr <- fringe(d,dic)
+  expect_equal(getFtype(fr),"Ca-Nu")
+  expect_equal(fr$dic_,createDic(d, dic, as_data_frame = FALSE))
+
+  # test fringe error vars in data not in dic
+  ctypes <- c("Nu","Ca")
+  dic <- data_frame(id=c("b","a"),ctypes = ctypes)
+  d <- data_frame(a="x",x=1)
+
+  expect_error(fringe(d,dic),"Vars in data not in diccionary: x")
 })
 
 test_that("Sample Data", {
@@ -130,5 +144,6 @@ test_that("fringeIO",{
   expect_true(file.exists(file.path(path,paste0(f1$name,"-dic_.csv"))))
   unlink(file.path(path,paste0(f1$name,"-data.csv")))
   unlink(file.path(path,paste0(f1$name,"-dic_.csv")))
+
 })
 

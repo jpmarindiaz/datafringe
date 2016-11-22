@@ -3,7 +3,8 @@
 createDic <- function(d, dic = NULL, as_data_frame = TRUE,...){
   if(!is.null(dic)){
     if(!all( names(d) %in% dic$id))
-      stop("Vars in data not in diccionary")
+      stop("Vars in data not in diccionary: ",
+           paste(names(d)[!names(d) %in% dic$id],collapse="\n"))
     dic$ctype <- dic$ctype %||% guessCtypes(d)
   }else{
     dic <- data_frame(id=names(d), ctype = guessCtypes(d))
