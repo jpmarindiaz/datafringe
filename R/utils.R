@@ -59,3 +59,21 @@ file_path_sans_ext <- function (x)
 {
   sub("([^.]+)\\.[[:alnum:]]+$", "\\1", x)
 }
+
+
+#' Read contents of a system file into a character string
+#' @name sysfile
+#' @description sysfile
+#' @param string string
+#' @return string
+#' @export
+#' @examples \dontrun{
+#' }
+sysfile <- function(..., package = "datafringe"){
+  if (is.null(package)){
+    path = file.path(...)
+  } else {
+    path = system.file(..., package = package)
+  }
+  path
+}

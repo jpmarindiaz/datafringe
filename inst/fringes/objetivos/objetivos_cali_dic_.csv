@@ -1,0 +1,969 @@
+id,label,ctype,UNIDAD,TEMA,FUENTE
+Anio,Año,Ye,NA,NA,NA
+v0_ep_001,total de metros de epe,Nu,M2,espacio publico,DAPM
+v0_ep_003,numero de metros cuadrados recuperados,Nu,M2,espacio publico,SGCS
+v0_ep_005,numero de operativos realizados,Nu,#,espacio publico,SGCS
+v0_ep_006,espacio publico por habitante,Nu,M2/HABITANTE,espacio publico,DAPM
+v0_ep_010,espacio publico efectivo-parques,Nu,M2,espacio publico,DAPM
+v0_ep_010_1,espacio publico efectivo-parques otros,Nu,M2,espacio publico,DAPM
+v0_ep_011,espacio publico efectivo -plazas y plazoletas,Nu,M2,espacio publico,DAPM
+v0_ep_011_1,espacio publico efectivo -plazas y plazoletas otros,Nu,M2,espacio publico,DAPM
+v0_ep_012,espacio publico efectivo-zonas verdes,Nu,M2,espacio publico,DAPM
+v0_ep_012_1,espacio publico efectivo-zonas verdes,Nu,M2,espacio publico,DAPM
+v0_ep_013,indice de espacio publico efectivo por habitante-parques,Nu,M2/HABITANTE,espacio publico,DAPM
+v0_ep_014,indice de espacio publico efectivo por habitante-plazas y plazoletas,Nu,M2/HABITANTE,espacio publico,DAPM
+v0_ep_015,indice de espacio publico efectivo por habitante-zonas verdes,Nu,M2/HABITANTE,espacio publico,DAPM
+v0_ep_016,total espacio publico generado y recuperado,Nu,M2,espacio publico,CÁLCULO CCV
+v0_ep_017,espacio publico generado,Nu,M2,espacio publico,CÁLCULO CCV
+v0_ep_018,espacio publico recuperado,Nu,M2,espacio publico,CÁLCULO CCV
+v0_ep_019,licencias de ocupacion de espacio publico expedidas,Nu,#,espacio publico,DAPM
+v0_ep_020,certificados de adecuacion de zonas verdes,Nu,#,espacio publico,DAPM
+v0_ep_021,numero de ocupaciones removidas (kioskos),Nu,#,espacio publico,SGCS
+v10_ep_001_02,"mantenimiento arboreo: podas avenidas norte, sur y mio",Nu,#,medio ambiente,DAGMA
+v10_ep_001_03,mantenimiento arboreo: talas,Nu,#,medio ambiente,DAGMA
+v10_ep_001_04,"mantenimiento arboreo: talas avenidas norte, sur y mio",Nu,#,medio ambiente,DAGMA
+v10_ep_001_05,numero de arboles,Nu,#,medio ambiente,DAGMA
+v10_ep_001_06,mantenimiento de zonas verdes por parte del dagma,Nu,MILES DE METROS CUADRADOS,medio ambiente,DAGMA
+v10_ep_001_07,basureros erradicados cronicos intervenidos por el dagma,Nu,#,medio ambiente,DAGMA
+v10_ep_001_08,basureros impactados cronicos intervenidos por el dagma,Nu,#,medio ambiente,DAGMA
+v10_ep_001_09,transferencias,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v10_ep_001_10,ingresos bajos,Nu,%,actividad economica,DANE
+v10_ep_001_11,disoluciones,Nu,MILLONES DE PESOS,actividad economica,CCC
+v10_ep_001_12,act. inmobiliarias,Nu,#,actividad economica,CCC
+v10_ep_001_13,industria,Nu,#,actividad economica,CCC
+v10_ep_001_14,"agricult., ganaderia, caza, silvic., y pesca",Nu,#,actividad economica,CCC
+v10_ep_001_15,construccion,Nu,#,actividad economica,CCC
+v10_ep_001_16,informacion y comunicaciones,Nu,#,actividad economica,CCC
+v10_ep_001_17,"activ., artisticas, de entrete. y recreacion",Nu,#,actividad economica,CCC
+v10_ep_001_18,act. financieras y de seguros,Nu,#,actividad economica,CCC
+v10_ep_001_19,"act. profesionales, cientificas y tecnicas",Nu,#,actividad economica,CCC
+v10_ep_001_20,act. de aten. de salud humana y asist. soc.,Nu,#,actividad economica,CCC
+v10_ep_001_21,alojamiento y servicios de comida,Nu,#,actividad economica,CCC
+v10_ep_001_22,comercio,Nu,MILLONES DE PESOS,actividad economica,CCC
+v10_ep_001_23,otras act. de servicios,Nu,#,actividad economica,CCC
+v10_ep_001_24,explotacion de minas y canteras,Nu,#,actividad economica,CCC
+v10_ep_001_25,"distri. gua; evac., y tratam., de aguas res., gestion de desechos y activ., de san. amb.",Nu,#,actividad economica,CCC
+v10_ep_001_26,educacion,Nu,#,actividad economica,CCC
+v10_ep_001_27,act. de servicios adm. y de apoyo,Nu,#,actividad economica,CCC
+v10_ep_001_28,#n/a,Nu,#,actividad economica,CCC
+v10_ep_001_29,act. de hogares individuales en calidad de empleadores,Nu,#,actividad economica,CCC
+v10_ep_001_30,admon publica y defensa,Nu,#,actividad economica,CCC
+v10_ep_001_31,"suministro de electricidad, gas, vapor y aire acond.",Nu,#,actividad economica,CCC
+v10_ep_001_32,indice de atractividad de inversiones-inai,Nu,ÍNDICE,actividad economica,Ranking De Ciudades Latinoamericanas Para La Atracción De Inversiones 2014. U. del Rosario de Colombia y la consultora IdN Inteligencia de Negocios (Chile)
+v10_ep_001_33,transporte y almacenamiento,Nu,MILLONES DE PESOS,actividad economica,CCC
+v10_ep_001_34,doing businnes,Nu,POSICIÓN,actividad economica,"DBCOL 2013, Banco Mundial."
+v10_ep_001_35,doing businnes facilidad de registro de propiedades,Nu,POSICIÓN,actividad economica,"DBCOL 2013, Banco Mundial."
+v14_ee_0_10,mantenimiento arboreo: podas,Nu,#,medio ambiente,DAGMA
+v14_ee_0_122,doing businnes facilidad de registro de propiedades,Nu,POSICIÓN,actividad economica,"DBCOL 2013, Banco Mundial."
+v14_ee_0_123,doing businnes facilidad de apertura de un negocio,Nu,POSICIÓN,actividad economica,"DBCOL 2013, Banco Mundial."
+v14_ee_0_124,doing businnes facilidad de apertura de un negocio,Nu,POSICIÓN,actividad economica,"DBCOL 2013, Banco Mundial."
+v14_ee_0_125,participacion del sector promocion del desarrollo en el total de inversion,Nu,%,actividad economica,FUT-CGR
+v14_ee_0_126,total de inversion sector promocion del desarrollo,Nu,MILLONES DE PESOS,actividad economica,FUT-CGR
+v14_ee_0_127,adicion de maquinaria y equipo,Nu,MILLONES DE PESOS,actividad economica,FUT-CGR
+v14_ee_0_128,"asistencia tec. en procesos de prod., distr. y comer. y acceso a fuentes de financiacion",Nu,MILLONES DE PESOS,actividad economica,FUT-CGR
+v14_ee_0_129,"construccion, mejoramiento y mantenimiento de infraes.a fisica",Nu,MILLONES DE PESOS,actividad economica,FUT-CGR
+v14_ee_0_13,act. inmobiliarias,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_130,fomento y apoyo a la apropiacion de tecnologia en proc. empresariales,Nu,MILLONES DE PESOS,actividad economica,FUT-CGR
+v14_ee_0_131,prom. de asociaciones y alianzas para el desarrollo empresarial e industrial,Nu,MILLONES DE PESOS,actividad economica,FUT-CGR
+v14_ee_0_132,promocion de capacitacion para empleo,Nu,MILLONES DE PESOS,actividad economica,FUT-CGR
+v14_ee_0_133,promocion del desarrollo turistico,Nu,MILLONES DE PESOS,actividad economica,FUT-CGR
+v14_ee_0_134,reservas de inversion en el sector vigencia anterior (ley 819 de 2003),Nu,MILLONES DE PESOS,actividad economica,FUT-CGR
+v14_ee_0_135,"proy. integrales de ciencia, tecnologia e innovacion",Nu,MILLONES DE PESOS,actividad economica,FUT-CGR
+v14_ee_0_136,indice de calidad del empleo en cali,Nu,ÍNDICE,actividad economica,"MIGRACIONES Y SU IMPACTO SOBRE EL MERCADO LABORAL, JOHN JAMES MORA, 2013.
+A PARTIR DE GEIH 2012 Y ENCUESTA DE EMPLEO Y CALIDAD DE VIDA 2012 DE MINTRABAJO
+"
+v14_ee_0_137,ingreso per capita,Nu,$,politica social,DANE
+v14_ee_0_14,industria,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_15,"agricult., ganaderia, caza, silvic., y pesca",Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_16,construccion,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_17,informacion y comunicaciones,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_18,"activ., artisticas, de entrete. y recreacion",Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_19,act. financieras y de seguros,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_2,ingresos medios,Nu,%,actividad economica,DANE
+v14_ee_0_20,"act. profesionales, cientificas y tecnicas",Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_21,act. de aten. de salud humana y asist. soc.,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_22,alojamiento y servicios de comida,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_23,otras act. de servicios,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_24,explotacion de minas y canteras,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_25,"distri. gua; evac., y tratam., de aguas res., gestion de desechos y activ., de san. amb.",Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_26,educacion,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_27,act. de servicios adm. y de apoyo,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_28,act. de hogares individuales en calidad de empleadores,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_29,admon publica y defensa,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_3,ingresos altos,Nu,%,actividad economica,DANE
+v14_ee_0_30,"suministro de electricidad, gas, vapor y aire acond.",Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_31,comercio,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_32,transporte y almacenamiento,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_33,act. inmobiliarias,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_34,industria,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_35,"agricult., ganaderia, caza, silvic., y pesca",Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_36,construccion,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_37,informacion y comunicaciones,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_38,"activ., artisticas, de entrete. y recreacion",Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_39,act. financieras y de seguros,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_4,indice de calidad del empleo: total,Nu,ÍNDICE,actividad economica,RCCV
+v14_ee_0_40,"act. profesionales, cientificas y tecnicas",Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_41,act. de aten. de salud humana y asist. soc.,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_42,alojamiento y servicios de comida,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_43,otras act. de servicios,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_44,explotacion de minas y canteras,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_45,"distri. gua; evac., y tratam., de aguas res., gestion de desechos y activ., de san. amb.",Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_46,educacion,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_47,act. de servicios adm. y de apoyo,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_48,#n/a,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_49,act. de hogares individuales en calidad de empleadores,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_5,indice de calidad del empleo: asalariados,Nu,ÍNDICE,actividad economica,RCCV
+v14_ee_0_50,admon publica y defensa,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_51,"suministro de electricidad, gas, vapor y aire acond.",Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_52,comercio,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_53,transporte y almacenamiento,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_54,act. inmobiliarias,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_55,industria,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_56,"agricult., ganaderia, caza, silvic., y pesca",Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_57,construccion,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_58,informacion y comunicaciones,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_59,"activ., artisticas, de entrete. y recreacion",Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_6,indice de calidad del empleo: independientes,Nu,ÍNDICE,actividad economica,RCCV
+v14_ee_0_60,act. financieras y de seguros,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_61,"act. profesionales, cientificas y tecnicas",Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_62,act. de aten. de salud humana y asist. soc.,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_63,alojamiento y servicios de comida,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_64,otras act. de servicios,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_65,explotacion de minas y canteras,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_66,"distri. gua; evac., y tratam., de aguas res., gestion de desechos y activ., de san. amb.",Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_67,educacion,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_68,act. de servicios adm. y de apoyo,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_69,#n/a,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_7,inversion neta,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_70,act. de hogares individuales en calidad de empleadores,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_71,admon publica y defensa,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_72,"suministro de electricidad, gas, vapor y aire acond.",Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_73,inversion neta,Ca,#,actividad economica,CCC
+v14_ee_0_74,numero de empresas creadas en cali,Nu,#,actividad economica,CCC
+v14_ee_0_75,reformas,Nu,#,actividad economica,CCC
+v14_ee_0_76,disoluciones,Nu,#,actividad economica,CCC
+v14_ee_0_77,comercio,Nu,#,actividad economica,CCC
+v14_ee_0_78,transporte y almacenamiento,Nu,#,actividad economica,CCC
+v14_ee_0_79,act. inmobiliarias,Nu,#,actividad economica,CCC
+v14_ee_0_8,constituciones,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_80,industria,Nu,#,actividad economica,CCC
+v14_ee_0_81,"agricult., ganaderia, caza, silvic., y pesca",Nu,#,actividad economica,CCC
+v14_ee_0_82,construccion,Nu,#,actividad economica,CCC
+v14_ee_0_83,informacion y comunicaciones,Nu,#,actividad economica,CCC
+v14_ee_0_84,"activ., artisticas, de entrete. y recreacion",Nu,#,actividad economica,CCC
+v14_ee_0_85,act. financieras y de seguros,Nu,#,actividad economica,CCC
+v14_ee_0_86,"act. profesionales, cientificas y tecnicas",Nu,#,actividad economica,CCC
+v14_ee_0_87,act. de aten. de salud humana y asist. soc.,Nu,#,actividad economica,CCC
+v14_ee_0_88,alojamiento y servicios de comida,Nu,#,actividad economica,CCC
+v14_ee_0_89,otras act. de servicios,Nu,#,actividad economica,CCC
+v14_ee_0_9,reformas,Nu,MILLONES DE PESOS,actividad economica,CCC
+v14_ee_0_90,explotacion de minas y canteras,Nu,#,actividad economica,CCC
+v14_ee_0_91,"distri. gua; evac., y tratam., de aguas res., gestion de desechos y activ., de san. amb.",Nu,#,actividad economica,CCC
+v14_ee_0_92,educacion,Nu,#,actividad economica,CCC
+v14_ee_0_93,act. de servicios adm. y de apoyo,Nu,#,actividad economica,CCC
+v14_ee_0_94,#n/a,Nu,#,actividad economica,CCC
+v14_ee_0_95,act. de hogares individuales en calidad de empleadores,Nu,#,actividad economica,CCC
+v14_ee_0_96,admon publica y defensa,Nu,#,actividad economica,CCC
+v14_ee_0_97,"suministro de electricidad, gas, vapor y aire acond.",Nu,#,actividad economica,CCC
+v14_ee_0_98,comercio,Nu,#,actividad economica,CCC
+v14_ee_0_99,transporte y almacenamiento,Nu,#,actividad economica,CCC
+v1_cr_001_10,bibliotecas publicas en cali,Nu,#,cultura y turismo,SCT
+v1_cr_009,espacios publicos de deporte y recreacion  por cada 100 mil habitantes,Nu,POR 100 MIL HABITANTES,deporte y recreacion,SDR
+v1_cr_009_01,espacios publicos de deporte y recreacion (unidades recreativas y escenarios deportivos),Nu,#,deporte y recreacion,SDR
+v1_cr_009_02,espacios publicos de deporte y recreacion (unidades recreativas y escenarios deportivos) cuenca norte,Nu,#,deporte y recreacion,SDR
+v1_cr_009_03,espacios publicos de deporte y recreacion (unidades recreativas y escenarios deportivos) cuenca sur,Nu,#,deporte y recreacion,SDR
+v1_cr_009_04,espacios publicos de deporte y recreacion (unidades recreativas y escenarios deportivos) cuenca centro,Nu,#,deporte y recreacion,SDR
+v1_cr_034,equipamiento comunitario relacionado con cultura.,Nu,#,cultura y turismo,SCT
+v1_cr_0_67,usuarios de bibliotecas por 100 mil hab,Nu,POR 100 MIL HABITANTES,cultura y turismo,SCT
+v1_cr_0_68,usuarios de bibliotecas total,Nu,#,cultura y turismo,SCT
+v1_cr_0_69,numero de noches reportadas,Nu,#,cultura y turismo,COTELVALLE
+v1_cr_0_70,noches reportadas huespedes nacionales,Nu,#,cultura y turismo,COTELVALLE
+v1_cr_0_71,noches reportadas huespedes internacionales,Nu,#,cultura y turismo,COTELVALLE
+v1_cr_0_72,ventas del sector hotelero,Nu,$,cultura y turismo,COTELVALLE
+v1_cr_0_73,eventos icca realizados,Nu,#,cultura y turismo,CEVP
+v1_cr_0_74,eventos realizados en centro de eventos valle del pacifico,Nu,#,cultura y turismo,CEVP
+v1_cr_0_75,eventos realizados en centro de eventos valle del pacifico eventos locales y regionales,Nu,#,cultura y turismo,CEVP
+v1_cr_0_76,eventos realizados en centro de eventos valle del pacifico eventos nacionales,Nu,#,cultura y turismo,CEVP
+v1_cr_0_77,eventos realizados en centro de eventos valle del pacifico eventos internacionales,Nu,#,cultura y turismo,CEVP
+v1_cr_0_78,total visitantes,Nu,#,cultura y turismo,CEVP
+v1_cr_0_79,beneficiados programas,Nu,#,deporte y recreacion,SDR
+v1_cr_0_80,beneficiarios centros de iniciacion y formacion deportiva,Nu,#,deporte y recreacion,SDR
+v1_cr_0_81,beneficiarios actividades recreativas de aerobicos,Nu,#,deporte y recreacion,SDR
+v1_cr_0_82,beneficiarios gimnasia dirigida adulto mayor,Nu,#,deporte y recreacion,SDR
+v1_d_001,poblacion de cali,Nu,#,general,DANE / TOMADO DE CALI EN CIFRAS DAPM
+v1_d_001_01,grupos poblacionales del sisben iii (a diciembre) primera infancia (0-4 anos),Nu,# DE PERSONAS,politica social,DAPM
+v1_d_001_02,grupos poblacionales del sisben iii (a diciembre) adultos mayores (60 anos y mas),Nu,# DE PERSONAS,politica social,DAPM
+v1_d_001_03,grupos poblacionales del sisben iii (a diciembre) mujeres,Nu,# DE PERSONAS,politica social,DAPM
+v1_d_001_04,"grupos poblacionales del sisben iii (a diciembre) ninos, ninas y adolescentes (5-14 anos)",Nu,# DE PERSONAS,politica social,DAPM
+v1_d_001_05,grupos poblacionales del sisben iii (a diciembre) juventud (15-24 anos) (sisben iii a junio /2012),Nu,# DE PERSONAS,politica social,DAPM
+v1_d_001_06,grupos poblacionales del sisben iii (a diciembre) poblacion total encuestada,Nu,# DE PERSONAS,politica social,DAPM
+v1_d_001_07,grupos poblacionales del sisben iii (a diciembre) poblacion con discapacidad,Nu,# DE PERSONAS,politica social,DAPM
+v2_p_001,incidencia de la pobreza,Nu,%,politica social,DANE
+v2_p_002,incidencia de la pobreza extrema,Nu,%,politica social,DANE
+v2_p_009,indice de  gini,Nu,%,politica social,DANE
+v3_gp_000_1,"recaudo transferencias de la nacion ley 715, sistema general de participaciones.",Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_10,ingresos tributarios,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_11,predial unificado,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_12,sobretasa a la gasolina,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_13,industria y comercio,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_14,otros,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_15,ingresos no tributarios,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_16,de capital,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_17,porcentaje del gasto total destinado a la inversion,Nu,%,finanzas publicas,DAHM
+v3_gp_000_18,gastos totales,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_19,funcionamiento,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_2,"recaudo transferencias de la nacion ley 715, sistema general de participaciones. proposito general",Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_20,servicios personales,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_21,gastos generales,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_23,inversion de dependencia  secretaria educacion,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_24,inversion de dependencia  secretaria salud,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_25,inversion de dependencia  infraestructura,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_26,inversion de dependencia  planeacion municipal,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_27,inversion de dependencia  deporte y recreacion,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_28,inversion de dependencia  cultura y turismo,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_29,inversion de dependencia dagma,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_3,"recaudo transferencias de la nacion ley 715, sistema general de participaciones. salud",Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_30,inversion de dependencia gobierno,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_31,inversion de dependencia   transito y transporte,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_32,inversion de dependencia  hacienda municipal,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_33,inversion de dependencia  secretaria vivienda,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_34,inversion de dependencia  desarrollo territorial,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_35,inversion de dependencia  secretaria general,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_36,inversion de dependencia desarrollo administrativo,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_37,inversion de dependencia direccion juridica,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_38,inversion de dependencia  control disciplinario,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_39,inversion de dependencia  control interno,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_4,"recaudo transferencias de la nacion ley 715, sistema general de participaciones. educacion",Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_40,inversion de dependencia  saldo de la deuda,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_41,servicio de la deuda,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_42,abono a capital,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_43,pago de intereses de la deuda,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_47,predios que pagan oportunamente el impuesto predial,Nu,%,finanzas publicas,DAHM
+v3_gp_000_5,"recaudo transferencias de la nacion ley 715, sistema general de participaciones. alimentacion escolar",Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_6,"recaudo transferencias de la nacion ley 715, sistema general de participaciones. agua potable y saneamiento basico",Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_7,"recaudo transferencias de la nacion ley 715, sistema general de participaciones. atencion integral a la primera infancia",Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_8,ingresos totales,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_000_9,ingresos corrientes,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_gp_006,inversion en cali,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_01,inversion sector agropecuario,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_02,participacion por sectores en la inversion total,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_03,participacion por sectores sector ambiental,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_04,participacion sector atencion a grupos vulnerables - promocion social,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_05,participacion sector centros de reclusion,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_06,participacion sector cultura,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_07,participacion sector deporte y recreacion,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_08,participacion sector desarrollo comunitario,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_09,participacion sector educacion,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_10,inversion sector agropecuario,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_11,participacion sector equipamiento,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_12,inversion agua potable y saneamiento basico (sin incluir proy.de vis),Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_13,participacion sector fortalecimiento institucional,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_14,inversion sector ambiental,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_15,participacion sector gastos especificos de regalias y compensaciones,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_16,inversion sector atencion a grupos vulnerables - promocion social,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_17,participacion sector justicia y seguridad,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_18,inversion sector centros de reclusion,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_19,participacion sector prevencion y atencion de desastres,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_20,inversion sector cultura,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_21,participacion sector promocion del desarrollo,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_22,inversion sector deporte y recreacion,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_23,participacion sector salud,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_24,inversion sector desarrollo comunitario,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_25,participacion sector servicios publicos diferentes a acueducto alcantarillado y aseo (sin incluir proyectos de vis),Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_26,inversion sector educacion,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_27,participacion sector transporte,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_28,inversion sector equipamiento,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_29,participacion sector vivienda,Nu,%,finanzas publicas,FUT-CGR
+v3_gp_006_30,inversion sector fortalecimiento institucional,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_31,inversion sector gastos especificos de regalias y compensaciones,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_32,inversion sector justicia y seguridad,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_33,inversion sector prevencion y atencion de desastres,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_34,inversion sector promocion del desarrollo,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_35,inversion sector salud,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_36,inversion sector servicios publicos diferentes a acueducto alcantarillado y aseo (sin incluir proyectos de vis),Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_37,inversion sector transporte,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_38,inversion sector vivienda,Nu,MILLONES DE PESOS,finanzas publicas,FUT-CGR
+v3_gp_006_39,balanza comercial,Nu,MILLONES DE DOLARES,actividad economica,CCC
+v3_gp_014,porcentaje de contribuyentes que pagan oportunamentel el impuesto de industria y comercio,Nu,%,finanzas publicas,DAHM
+v3_gp_024,indicador de desempeno fiscal,Nu,0-100,finanzas publicas,DNP
+v3_gp_035_04,capacidad de endeudamiento,Nu,%,finanzas publicas,DAHM
+v3_gp_035_05,capacidad de pago,Nu,%,finanzas publicas,DAHM
+v3_gp_035_15,inversion,Nu,MILLONES DE PESOS,finanzas publicas,DAHM
+v3_s_005,tasa  mortalidad materna,Nu,POR CADA 100 MIL NV,salud,SSPM
+v3_s_006,% ninos con bajo peso al nacer,Nu,%,salud,SSPM
+v3_s_007,tasa de fecundidad en adolescentes,Nu,NÚMERO DE NACIDOS POR 1000 MUJERES/ DE 15 A 19 AÑOS DE EDAD,salud,SSPM
+v3_s_008,"cobertura en vacunacion dpt , en menores de un ano",Nu,%,salud,SSPM
+v3_s_009,"cobertura en vacunacion,srp triple viral   en menores de un ano",Nu,%,salud,SSPM
+v3_s_010_1,tasa de mortalidad de ninos menores de 1 ano,Nu,MUERTES/MIL NV,salud,SSPM
+v3_s_010_2,numero de muertes de ninos menores de 1 ano,Nu,#,salud,SSPM
+v3_s_011,tasa de mortalidad de ninos menores de 5 anos,Nu,MUERTES/MIL NV,salud,SSPM
+v3_s_013,"cobertura en vacunacion, hemophilus influenza b,  en menores de un ano",Nu,%,salud,SSPM
+v3_s_014,"cobertura en vacunacion, de a-polio  en menores de un ano",Nu,%,salud,SSPM
+v3_s_015,"cobertura en vacunacion, en bcg (29 dias a 1 ano)",Nu,%,salud,SSPM
+v3_s_016,"cobertura en vacunacion f. amarilla , en menores de un ano",Nu,%,salud,SSPM
+v3_s_017,"cobertura en vacunacion hepatitis b , en menores de un ano",Nu,%,salud,SSPM
+v3_s_021,numero de afiliados al regimen subsidiado,Nu,#,salud,SSPM
+v3_s_022,cobertura del regimen subsidiado de salud,Nu,%,salud,SSPM
+v3_s_024,cobertura del regimen contributivo de salud,Nu,%,salud,SSPM
+v3_s_029,tasa de mortalidad por eda en ninos menores de 5 anos,Nu,POR CADA 100 MIL MENORES DE 5 AÑOS,salud,SSPM
+v3_s_030,tasa de mortalidad por ira en ninos menores de 5 anos,Nu,POR CADA 100 MIL MENORES DE 5 AÑOS,salud,SSPM
+v3_s_045,esperanza de vida al nacer,Nu,AÑOS,salud,CALI EN CIFRAS Y SSPM
+v3_s_058,# ninos con bajo peso al nacer,Nu,#,salud,SSPM
+v3_s_059,total principales eventos de obligatoria notificacion,Nu,#,salud,SSPM
+v3_s_060,"principales eventos de obligatoria notificacion, reportados por dengue",Nu,#,salud,SSPM
+v3_s_061,"principales eventos de obligatoria notificacion, reportados por agresiones por animales",Nu,#,salud,SSPM
+v3_s_062,"principales eventos de obligatoria notificacion, reportados por varicela individual",Nu,#,salud,SSPM
+v3_s_063,"principales eventos de obligatoria notificacion, reportados por vcm, vif, vsx",Nu,#,salud,SSPM
+v3_s_064,"principales eventos de obligatoria notificacion, reportados por tuberculosis pulmonar",Nu,#,salud,SSPM
+v3_s_065,"principales eventos de obligatoria notificacion, reportados por  dengue grave",Nu,#,salud,SSPM
+v3_s_066,"principales eventos de obligatoria notificacion, reportados por intoxicacion por farmacos",Nu,#,salud,SSPM
+v3_s_067,"principales eventos de obligatoria notificacion, reportados por vih - sida - mortalidad por sida",Nu,#,salud,SSPM
+v3_s_068,"principales eventos de obligatoria notificacion, reportados por leptospirosis",Nu,#,salud,SSPM
+v3_s_069,"principales eventos de obligatoria notificacion, reportados por morbilidad materna extrema",Nu,#,salud,SSPM
+v3_s_070,"principales eventos de obligatoria notificacion, reportados por bajo peso al nacer",Nu,#,salud,SSPM
+v3_s_071,"principales eventos de obligatoria notificacion, reportados por nfermedades transmitidas por alimentos",Nu,#,salud,SSPM
+v3_s_072,"principales eventos de obligatoria notificacion, reportados por esi - irag (vigilancia centinela)",Nu,#,salud,SSPM
+v3_s_073,"principales eventos de obligatoria notificacion, reportados por tos ferina",Nu,#,salud,SSPM
+v3_s_074,"principales eventos de obligatoria notificacion, reportados por tuberculosis extrapulmonar",Nu,#,salud,SSPM
+v3_s_075,"principales eventos de obligatoria notificacion, reportados por otros eventos",Nu,#,salud,SSPM
+v3_s_076,casos nuevos de vih/sida,Nu,#,salud,SSPM
+v3_s_077,numero de afiliados al regimen contributivo de salud,Nu,#,salud,SSPM
+v3_s_078,"cobertura en vacunacion rotavirus (2 a 5 meses) , en menores de un ano",Nu,%,salud,SSPM
+v3_s_078_09,# de contrataciones de servicios para poblacion pobre no asegurada ppna-cali,Nu,#,salud,SSPM
+v3_s_079,contratacion  servicios para poblacion pobre no asegurada ppna-cali,Nu,MILLONES DE PESOS,salud,SSPM
+v3_s_080,numero de muertes maternas,Nu,#,salud,SSPM
+v3_s_089,nacidos vivos,Nu,#,salud,DANE
+v3_s_090,poblacion mujeres adolescentes,Nu,#,salud,SSPM
+v3_s_091,nacidos vivos en adolescentes,Nu,#,salud,DANE
+v3_s_092,participacion de nacimientos en adolescentes en el total,Nu,%,salud,DANE
+v4_e_001,tasa (%) de cobertura bruta en educacion inicial (3-4 anos),Nu,%,educacion,SEM
+v4_e_002,tasa de cobertura neta en transicion,Nu,%,educacion,SEM
+v4_e_003,tasa de cobertura neta en primaria,Nu,%,educacion,SEM
+v4_e_004,tasa de cobertura neta en secundaria,Nu,%,educacion,SEM
+v4_e_012,tasa de cobertura bruta total,Nu,%,educacion,SEM
+v4_e_013,tasa de cobertura neta en media,Nu,%,educacion,SEM
+v4_e_014,tasa de cobertura bruta en transicion,Nu,%,educacion,SEM
+v4_e_015,tasa de cobertura bruta en primaria,Nu,%,educacion,SEM
+v4_e_016,tasa de cobertura bruta en secundaria,Nu,%,educacion,SEM
+v4_e_018,tasa de cobertura neta total,Nu,%,educacion,SEM
+v4_e_019,tasa de cobertura bruta en media,Nu,%,educacion,SEM
+v4_e_022,matricula total en el nivel: educacion inicial,Nu,#,educacion,SEM
+v4_e_026,matricula total,Nu,#,educacion,SEM
+v4_e_040,tasa repitencia,Nu,%,educacion,SEM
+v4_e_045,matricula sector contratado,Nu,#,educacion,SEM
+v4_e_050,matricula sector contratada- poblacion regular,Nu,#,educacion,SEM
+v4_e_058,matricula sector contratada-poblacion vulnerable,Nu,#,educacion,SEM
+V4_e_060,% de colegios oficiales segun rendimiento alto en las pruebas saber 11. por sector,Nu,%,educacion,SEM
+v4_e_061,% de colegios oficiales segun rendimiento medio en las pruebas saber 11. por sector,Nu,%,educacion,SEM
+v4_e_062,% de colegios oficiales segun rendimiento bajo en las pruebas saber 11. por sector,Nu,%,educacion,SEM
+V4_e_063,% de colegios privados segun rendimiento alto en las pruebas saber 11. por sector,Nu,%,educacion,SEM
+v4_e_064,% de colegios privados segun rendimiento medio en las pruebas saber 11. por sector,Nu,%,educacion,SEM
+v4_e_065,% de colegios privados segun rendimiento bajo en las pruebas saber 11. por sector,Nu,%,educacion,SEM
+v4_e_0_99,tasa desercion,Nu,%,educacion,SEM
+v4_e_114,matricula sector privada,Nu,#,educacion,SEM
+v4_e_115,matricula sector oficial,Nu,#,educacion,SEM
+v4_e_119,matricula total en el nivel:  transicion,Nu,#,educacion,SEM
+v4_e_120,matricula total en el nivel: primaria,Nu,#,educacion,SEM
+v4_e_121,matricula total en el nivel: secundaria,Nu,#,educacion,SEM
+v4_e_122,matricula total en el nivel: media,Nu,#,educacion,SEM
+v4_e_151,matricula en educacion superior posgrados todos,Nu,#,educacion,MEN
+v4_e_160,promedio puntaje en biologia pruebas saber 11,Nu,PUNTAJE,educacion,ICFES
+v4_e_161,promedio puntaje en ciencias sociales pruebas saber 11,Nu,PUNTAJE,educacion,ICFES
+v4_e_162,promedio puntaje en filosofia pruebas saber 11,Nu,PUNTAJE,educacion,ICFES
+v4_e_163,promedio puntaje en fisica pruebas saber 11,Nu,PUNTAJE,educacion,ICFES
+v4_e_164,promedio puntaje en ingles pruebas saber 11,Nu,PUNTAJE,educacion,ICFES
+v4_e_165,promedio puntaje en lenguaje pruebas saber 11,Nu,PUNTAJE,educacion,ICFES
+v4_e_166,promedio puntaje en matematicas pruebas saber 11,Nu,PUNTAJE,educacion,ICFES
+v4_e_167,promedio puntaje en quimica pruebas saber 11,Nu,PUNTAJE,educacion,ICFES
+v4_e_168,participacion oficial % en el total de matriculas registradas en i.e. financiadas con recursos publicos,Nu,%,educacion,SEM
+v4_e_169,participacion contratada % en el total de matriculas registradas en i.e. financiadas con recursos publicos,Nu,%,educacion,SEM
+v4_e_170,matricula total en el nivel: educacion especial,Nu,#,educacion,SEM
+v4_e_171,matricula total en el nivel: adultos,Nu,#,educacion,SEM
+v4_e_174,tasa reprobacion,Nu,%,educacion,SEM
+v4_e_175,tasa aprobacion,Nu,%,educacion,SEM
+v4_e_176,presupuesto inversion en primera infancia,Nu,MILLONES DE PESOS,educacion,SEM
+v4_e_177,ejecucion inversion en primera infancia,Nu,MILLONES DE PESOS,educacion,SEM
+v4_e_178,total de ninos en edad 0-4 anos,Nu,#,educacion,SEM
+v4_e_179,total de ninos atendidos,Nu,#,educacion,SEM
+v4_e_180,computadores instalados en i.e. oficiales,Nu,#,educacion,SEM
+v4_e_181,estudiantes benficiados de desayunos escolares en cali,Nu,#,educacion,SEM
+v4_e_182,numero de estudiantes beneficiados de transporte escolar,Nu,#,educacion,SEM
+v4_e_183,numero de estudiantes beneficiados de kits escolares,Nu,#,educacion,SEM
+v4_e_184,numero de estudiantes beneficiados de gratuidad,Nu,#,educacion,SEM
+v4_e_185,numero de i.e. oficiales en cali. numero de instituciones educativas,Nu,#,educacion,SEM
+v4_e_186,numero de i.e. oficiales en cali. numero de sedes por comunas,Nu,#,educacion,SEM
+v4_e_187,% total de colegios segun rendimiento alto en las pruebas saber 11,Nu,%,educacion,SEM
+v4_e_188,% de colegios contratada segun rendimiento alto en las pruebas saber 11. por sector,Nu,%,educacion,SEM
+v4_e_189,% total de colegios segun rendimiento medio en las pruebas saber 11,Nu,%,educacion,SEM
+v4_e_190,% de colegios contratada segun rendimiento medio en las pruebas saber 11. por sector,Nu,%,educacion,SEM
+v4_e_191,% total de colegios segun rendimiento bajo en las pruebas saber 11: total,Nu,%,educacion,SEM
+v4_e_192,% de colegios contratados segun rendimiento bajo en las pruebas saber 11. por sector,Nu,%,educacion,SEM
+v4_e_193,resultado general pisa-lenguaje,Nu,PUNTAJE,educacion,MEN
+v4_e_194,resultado oficial pisa-lenguaje,Nu,PUNTAJE,educacion,MEN
+v4_e_195,resultado no oficial pisa-lenguaje,Nu,PUNTAJE,educacion,MEN
+v4_e_196,resultado general pisa-matematicas,Nu,PUNTAJE,educacion,MEN
+v4_e_197,resultado oficial pisa-lmatematicas,Nu,PUNTAJE,educacion,MEN
+v4_e_198,resultado no oficial pisa-matematicas,Nu,PUNTAJE,educacion,MEN
+v4_e_199,resultado general pisa-ciencias,Nu,PUNTAJE,educacion,MEN
+v4_e_200,resultado oficial pisa-ciencias,Nu,PUNTAJE,educacion,MEN
+v4_e_201,resultado no oficial pisa-ciencias,Nu,PUNTAJE,educacion,MEN
+v4_e_205,pruebas saber 3º - lenguaje nivel insuficiente y minimo,Nu,%,educacion,ICFES
+v4_e_206,pruebas saber 3º - lenguaje nivel satisfactorio y avanzado,Nu,%,educacion,ICFES
+v4_e_207,pruebas saber 3º - matematicas nivel insuficiente y minimo,Nu,%,educacion,ICFES
+v4_e_208,pruebas saber 3º - matematicas nivel satisfactorio y avanzado,Nu,%,educacion,ICFES
+v4_e_209,pruebas saber 5º - lenguaje nivel insuficiente y minimo,Nu,%,educacion,ICFES
+v4_e_210,pruebas saber 5º - lenguaje nivel satisfactorio y avanzado,Nu,%,educacion,ICFES
+v4_e_211,pruebas saber 5º - matematicas nivel insuficiente y minimo,Nu,%,educacion,ICFES
+v4_e_212,pruebas saber 5º - matematicas nivel satisfactorio y avanzado,Nu,%,educacion,ICFES
+v4_e_213,pruebas saber 9º - lenguaje nivel insuficiente y minimo,Nu,%,educacion,ICFES
+v4_e_214,pruebas saber 9º - lenguaje nivel satisfactorio y avanzado,Nu,%,educacion,ICFES
+v4_e_215,pruebas saber 9º - matematicas nivel insuficiente y minimo,Nu,%,educacion,ICFES
+v4_e_216,pruebas saber 9º - matematicas nivel satisfactorio y avanzado,Nu,%,educacion,ICFES
+v4_ee_001,tasa de inflacion en cali,Nu,ÍNDICE,actividad economica,DANE
+v4_ee_011,turistas extranjeros que reportan a cali como destino princial,Nu,#,cultura y turismo,VICEMINTURISMO
+v4_ee_013,pib de cali,Nu,MILLONES DE PESOS,actividad economica,DANE
+v4_e_R181,estudiantes benficiados de desayunos escolares en cali,Nu,#,educacion,SEM
+v4_e_R182,numero de estudiantes beneficiados de transporte escolar,Nu,#,educacion,SEM
+v4_e_R183,numero de estudiantes beneficiados de kits escolares por comunas,Nu,#,educacion,SEM
+v4_e_R184,numero de estudiantes beneficiados de gratuidad por comunas,Nu,#,educacion,SEM
+v5_ml_002,tasa de ocupacion,Nu,%,actividad economica,DANE
+v5_ml_003,informales,Nu,MILES DE PERSONAS,actividad economica,DANE
+v5_ml_003_01,poblacion en edad de trabajar,Nu,MILES DE PERSONAS,actividad economica,DANE
+v5_ml_003_02,poblacion economicamente activa,Nu,MILES DE PERSONAS,actividad economica,DANE
+v5_ml_003_04,desocupados,Nu,MILES DE PERSONAS,actividad economica,DANE
+v5_ml_003_08,subempleo subjetivo,Nu,MILES DE PERSONAS,actividad economica,DANE
+v5_ml_004,tasa de desempleo,Nu,%,actividad economica,DANE
+v5_ml_004_03,tasa de subempleo subjetivo,Nu,%,actividad economica,DANE
+v5_ml_005,tasa de desempleo jovenes entre 14 y 28 anos,Nu,%,actividad economica,DANE
+v5_ml_0_1,ipc. variacion anual  alimentos,Nu,%,actividad economica,DANE
+v5_ml_013,formales,Nu,MILES DE PERSONAS,actividad economica,DANE
+v5_ml_0_2,ipc. variacion anual vivienda,Nu,%,actividad economica,DANE
+v5_ml_020,ocupados (formales e informales),Nu,MILES DE PERSONAS,actividad economica,DANE
+v5_ml_0_3,ipc. variacion anual vestuario,Nu,%,actividad economica,DANE
+v5_ml_0_4,ipc. variacion anual salud,Nu,%,actividad economica,DANE
+v5_ml_0_5,ipc. variacion anual educacion,Nu,%,actividad economica,DANE
+v5_ml_0_6,ipc. variacion anual diversion,Nu,%,actividad economica,DANE
+v5_ml_0_7,ipc. variacion anual transporte,Nu,%,actividad economica,DANE
+v5_ml_0_8,ipc. variacion anual comunicaciones,Nu,%,actividad economica,DANE
+v5_ml_0_9,ipc. variacion anual otros gastos,Nu,%,actividad economica,DANE
+v5_ml_3_003,tasa de informalidad,Nu,%,actividad economica,DANE
+v6_sc_001_75,hurto a entidades financieras,Nu,#,seguridad y convivencia,MECAL
+v6_sc_001_79,casos de pirateria terrestre,Nu,#,seguridad y convivencia,MECAL
+v6_sc_004,victimas de hurto a personas en la via publica,Nu,%,seguridad y convivencia,MECAL
+v6_sc_005_01,tasa homicidios por cada 100.000 habitantes,Nu,POR CADA 100.000 HABITANTES,seguridad y convivencia,SGCS
+v6_sc_0_1,plan desarme,Nu,#,seguridad y convivencia,SGCS
+v6_sc_0_10,menores  infractores (capturas),Nu,#,seguridad y convivencia,MECAL
+v6_sc_0_11,menores  infractores (capturas) hombres,Nu,#,seguridad y convivencia,MECAL
+v6_sc_0_12,menores  infractores (capturas) mujeres,Nu,#,seguridad y convivencia,MECAL
+v6_sc_0_13,menores  infractores (capturas) 10,Nu,#,seguridad y convivencia,MECAL
+v6_sc_0_14,menores  infractores (capturas) 11,Nu,#,seguridad y convivencia,MECAL
+v6_sc_0_15,menores  infractores (capturas) 12,Nu,#,seguridad y convivencia,MECAL
+v6_sc_016,hurto al comercio,Nu,#,seguridad y convivencia,MECAL
+v6_sc_0_16,menores  infractores (capturas) 13,Nu,#,seguridad y convivencia,MECAL
+v6_sc_0_17,menores  infractores (capturas) 14,Nu,#,seguridad y convivencia,MECAL
+v6_sc_018,motocicletas hurtadas.,Nu,#,seguridad y convivencia,MECAL
+v6_sc_0_18,menores  infractores (capturas) 15,Nu,#,seguridad y convivencia,MECAL
+v6_sc_019,hurto a personas,Nu,#,seguridad y convivencia,MECAL
+v6_sc_0_19,menores  infractores (capturas) 16,Nu,#,seguridad y convivencia,MECAL
+v6_sc_0_2,plan desarme-con permiso,Nu,#,seguridad y convivencia,SGCS
+v6_sc_0_20,menores  infractores (capturas) 17,Nu,#,seguridad y convivencia,MECAL
+v6_sc_021,hurto a residencias,Nu,#,seguridad y convivencia,MECAL
+v6_sc_0_21,presupuesto para seguridad en cali,Nu,$,seguridad y convivencia,MECAL
+v6_sc_0_22,presupuesto para seguridad en cali por aportante alcaldia,Nu,MILLONES DE PESOS,seguridad y convivencia,MECAL
+v6_sc_023,vehiculos hurtados.,Nu,#,seguridad y convivencia,MECAL
+v6_sc_0_23,presupuesto para seguridad en cali por aportante nacion,Nu,MILLONES DE PESOS,seguridad y convivencia,MECAL
+v6_sc_024,secuestros,Nu,#,seguridad y convivencia,MECAL
+v6_sc_0_24,presupuesto para seguridad en cali por aportante policia,Nu,MILLONES DE PESOS,seguridad y convivencia,MECAL
+v6_sc_0_25,policias por cada 100 mil habitantes,Nu,POR 100 MIL HABITANTES,seguridad y convivencia,MECAL
+v6_sc_0_26,vehiculos mecal: motocicletas,Nu,#,seguridad y convivencia,MECAL
+v6_sc_027,lesiones personales,Nu,#,seguridad y convivencia,MECAL
+v6_sc_0_27,vehiculos mecal: carros,Nu,#,seguridad y convivencia,MECAL
+v6_sc_028,numero de homicidios,Nu,#,seguridad y convivencia,MEDILEGAL
+v6_sc_0_28,fugas de los centros de formacion juvenil,Nu,#,seguridad y convivencia,ICBF
+v6_sc_028_01,numero de homicidios por mecanismo arma de fuego,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_02,numero de homicidios por mecanismo arma blanca,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_03,numero de homicidios por mecanismo otras armas,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_04,numero de homicidios por presunto movil venganza,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_05,numero de homicidios por presunto movil por establecer,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_06,numero de homicidios por presunto movil pandilla,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_07,numero de homicidios por presunto movil rina,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_08,numero de homicidios por presunto movil  atraco,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_09,numero de homicidios por presunto movil pasional,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_10,numero de homicidios por presunto movil,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_11,numero de homicidios por presunto movil bala perdida,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_12,numero de homicidios por genero hombres,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_13,numero de homicidios por genero mujeres,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_14,numero de homicidios por edad 0-18,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_15,numero de homicidios por edad 18-25,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_16,numero de homicidios por edad 26-35,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_17,numero de homicidios por edad 36-45,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_18,numero de homicidios por edad 46-55,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_19,numero de homicidios por edad 56-65,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_20,numero de homicidios por edad 65+,Nu,#,seguridad y convivencia,SGCS
+v6_sc_028_21,numero de homicidios por edad sd,Nu,#,seguridad y convivencia,SGCS
+v6_sc_0_29,adolescentes y jovenes internos en los centros de formacion del icbf cali (promedio),Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_3,plan desarme-sin permiso,Nu,#,seguridad y convivencia,SGCS
+v6_sc_0_30,adolescentes y jovenes internos en los centros de formacion del icbf cali capacidad),Nu,#,seguridad y convivencia,ICBF
+v6_sc_031,muertes violentas-suicidio,Nu,#,seguridad y convivencia,SGCS
+v6_sc_0_31,adolescente en conflicto con la ley penal,Nu,#,seguridad y convivencia,ICBF
+v6_sc_031_01,muertes violentas-suicidio-por mecanismo arma,Nu,#,seguridad y convivencia,SGCS
+v6_sc_031_02,muertes violentas-suicidio-por mecanismo ahorcamiento,Nu,#,seguridad y convivencia,SGCS
+v6_sc_031_03,muertes violentas-suicidio-por mecanismo toxicos,Nu,#,seguridad y convivencia,SGCS
+v6_sc_031_04,muertes violentas-suicidio-por mecanismo,Nu,#,seguridad y convivencia,SGCS
+v6_sc_031_05,muertes violentas-en accidentes transito,Nu,#,seguridad y convivencia,SGCS
+v6_sc_031_06,muertes violentas-en accidentes transito peaton,Nu,#,seguridad y convivencia,SGCS
+v6_sc_031_07,muertes violentas-en accidentes transito motociclista,Nu,#,seguridad y convivencia,SGCS
+v6_sc_031_08,muertes violentas-en accidentes transito ciclista,Nu,#,seguridad y convivencia,SGCS
+v6_sc_031_09,muertes violentas-en accidentes transito por  conductor,Nu,#,seguridad y convivencia,SGCS
+v6_sc_031_10,muertes violentas-en accidentes transito otros,Nu,#,seguridad y convivencia,SGCS
+v6_sc_031_11,muertes violentas-muertes accidentales,Nu,#,seguridad y convivencia,SGCS
+v6_sc_031_12,muertes violentas-muertes accidentales por mecanismo caida,Nu,#,seguridad y convivencia,SGCS
+v6_sc_031_13,muertes violentas-muertes accidentales por mecanismo ahogamiento,Nu,#,seguridad y convivencia,SGCS
+v6_sc_031_14,muertes violentas-muertes accidentales por mecanismo ingestion,Nu,#,seguridad y convivencia,SGCS
+v6_sc_031_15,muertes violentas-muertes accidentales por mecanismo electrocutados,Nu,#,seguridad y convivencia,SGCS
+v6_sc_031_16,muertes violentas-muertes accidentales por mecanismo otras,Nu,#,seguridad y convivencia,SGCS
+v6_sc_031_17,muertes violentas-homicidios,Nu,#,seguridad y convivencia,SGCS
+v6_sc_0_32,adolescente en conflicto con la ley penal por edad 14,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_33,adolescente en conflicto con la ley penal por edad 15,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_34,adolescente en conflicto con la ley penal por edad 16,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_35,adolescente en conflicto con la ley penal por edad 17,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_36,adolescente en conflicto con la ley penal por edad 18+,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_37,adolescente en conflicto con la ley penal por edad si,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_38,adolescente en conflicto con la ley penal por genero hombres,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_39,adolescente en conflicto con la ley penal por genero mujeres,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_4,plan motos,Nu,#,seguridad y convivencia,SGCS
+v6_sc_0_40,adolescente en conflicto con la ley penal por genero lgtbi,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_41,adolescente en conflicto con la ley penal por genero si,Nu,#,seguridad y convivencia,ICBF
+v6_sc_042,violencia intrafamiliar,Nu,POR 100 MIL HABITANTES,seguridad y convivencia,FORENSIS
+v6_sc_0_42,denuncias por menores en situacion de riesgo,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_43,denuncias por menores en situacion de riesgo falta de responsables,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_44,denuncias por menores en situacion de riesgo abuso sexual,Nu,#,seguridad y convivencia,ICBF
+v6_sc_045,numero de homicidios,Nu,#,seguridad y convivencia,SGCS
+v6_sc_0_45,denuncias por menores en situacion de riesgo maltrato psicologico,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_46,denuncias por menores en situacion de riesgo fisico,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_47,denuncias por menores en situacion de riesgo negligencia,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_48,denuncias por menores en situacion de riesgo otros,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_49,denuncias por menores en situacion de riesgo maltrato a ninos,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_5,vehiculos recuperados - motos,Nu,#,seguridad y convivencia,SGCS
+v6_sc_0_50,denuncias por menores en situacion de riesgo comportamiento,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_51,denuncias por menores  consumo de spa,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_52,denuncias por menores  discapacidad,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_53,denuncias por menores  trabajo infantil,Nu,#,seguridad y convivencia,ICBF
+v6_sc_0_54,ingresos de procesos judiciales por tipo de sistema,Nu,#,seguridad y convivencia,CSJ VALLE
+v6_sc_0_55,ingresos de procesos judiciales por tipo de sistema sistemas tradicionales,Nu,#,seguridad y convivencia,CSJ VALLE
+v6_sc_0_56,ingresos de procesos judiciales por tipo de sistema sistemas de oralidad,Nu,#,seguridad y convivencia,CSJ VALLE
+v6_sc_0_57,egresos totales,Nu,#,seguridad y convivencia,CSJ VALLE
+v6_sc_0_58,ingresos de procesos judiciales por tipo de sistema sistemas tradicionales,Nu,#,seguridad y convivencia,CSJ VALLE
+v6_sc_0_59,ingresos de procesos judiciales por tipo de sistema sistemas de oralidad,Nu,#,seguridad y convivencia,CSJ VALLE
+v6_sc_0_6,vehiculos recuperados -carros,Nu,#,seguridad y convivencia,SGCS
+v6_sc_0_60,represados de procesos judiciales por tipo de sistema,Nu,#,seguridad y convivencia,CSJ VALLE
+v6_sc_0_61,represados de procesos judiciales  sistemas tradicionales,Nu,#,seguridad y convivencia,CSJ VALLE
+v6_sc_0_62,represados de procesos judiciales  sistemas de oralidad,Nu,#,seguridad y convivencia,CSJ VALLE
+v6_sc_0_7,violencia familiar,Nu,#,seguridad y convivencia,SGCS
+v6_sc_0_8,violencia intrafamiliar,Nu,#,seguridad y convivencia,FORENSIS
+v7_v_001_01,actualizacion catastral,Nu,#,finanzas publicas,DAHM
+v7_v_001_84,arboles sembrados por el dagma en el programa guayacanes 2012-2015,Nu,#,medio ambiente,DAGMA
+v7_v_003,tasa de  cobertura del servicio de acueducto,Nu,%,servicios publicos,EMCALI
+v7_v_006,tasa de cobertura de alcantarillado,Nu,%,servicios publicos,EMCALI
+v7_v_008,tasa de  cobertura del servicio de aseo,Nu,%,servicios publicos,EMCALI
+v7_v_014_1,suscriptores residenciales-acueducto,Nu,#,servicios publicos,EMCALI
+v7_v_015,suscriptores totales-alcantarillado,Nu,#,servicios publicos,EMCALI
+v7_v_015_1,suscriptores residenciales-alcantarillado,Nu,#,servicios publicos,EMCALI
+v7_v_016,suscriptores totales -acueducto,Nu,#,servicios publicos,EMCALI
+v7_v_019_1,tasa de cobertura residencial de energia electrica,Nu,%,servicios publicos,EMCALI
+v7_v_021,tasa de cobertura gas domiciliario,Nu,%,servicios publicos,GDO
+v7_v_026_1,tasa de  cobertura del servicio de telefonia fija,Nu,%,servicios publicos,EMCALI
+v7_v_030,subsidios de vivienda entregados en cali,Nu,#,vivienda,SVS
+v7_v_055,titulacion de predios total,Nu,#,vivienda,SVS
+v7_v_092,numero de suscriptores-telefonia,Nu,#,servicios publicos,EMCALI
+v7_v_093,"tarifas: energia
+consumo subsistencia $/hwh
+estrato 1",Nu,$/HWH,servicios publicos,EMCALI
+v7_v_094,"tarifas: energia
+consumo subsistencia $/hwh
+estrato 2",Nu,$/HWH,servicios publicos,EMCALI
+v7_v_095,"tarifas: energia
+consumo subsistencia $/hwh
+estrato 3",Nu,$/HWH,servicios publicos,EMCALI
+v7_v_096,"tarifas energia: 
+consumo por encima del nivel de subsistencia, $/kmwh
+estrato 1",Nu,$/HWH,servicios publicos,EMCALI
+v7_v_097,"tarifas energia: 
+consumo por encima del nivel de subsistencia, $/kmwh
+estrato 2
+",Nu,$/HWH,servicios publicos,EMCALI
+v7_v_098,"tarifas energia: 
+consumo por encima del nivel de subsistencia, $/kmwh
+estrato 3
+",Nu,$/HWH,servicios publicos,EMCALI
+v7_v_099,"tarifas energia: 
+consumo por encima del nivel de subsistencia, $/kmwh
+estrato 4
+",Nu,$/HWH,servicios publicos,EMCALI
+v7_v_100,"tarifas energia: 
+consumo por encima del nivel de subsistencia, $/kmwh
+estrato 5
+",Nu,$/HWH,servicios publicos,EMCALI
+v7_v_101,"tarifas energia: 
+consumo por encima del nivel de subsistencia, $/kmwh
+estrato 6
+",Nu,$/HWH,servicios publicos,EMCALI
+v7_v_1_01,promedio aguas residuales tratadas (m3/seg),Nu,#,servicios publicos,EMCALI
+v7_v_102,"tarifas energia: 
+consumo por encima del nivel de subsistencia, $/kmwh
+comercial
+",Nu,$/HWH,servicios publicos,EMCALI
+v7_v_103,"tarifas energia: 
+consumo por encima del nivel de subsistencia, $/kmwh
+industrial",Nu,$/HWH,servicios publicos,EMCALI
+v7_v_104,"tarifas energia: 
+consumo por encima del nivel de subsistencia, $/kmwh
+oficial y  especial",Nu,$/HWH,servicios publicos,EMCALI
+v7_v_105,"tarifas acueducto:
+cargo fijo estrato 1",Nu,$,servicios publicos,EMCALI
+v7_v_106,"tarifas acueducto:
+cargo fijo estrato 2",Nu,$,servicios publicos,EMCALI
+v7_v_107,"tarifas acueducto:
+cargo fijo estrato 3",Nu,$,servicios publicos,EMCALI
+v7_v_108,"tarifas acueducto:
+cargo fijo estrato 4",Nu,$,servicios publicos,EMCALI
+v7_v_109,"tarifas acueducto:
+cargo fijo estrato 5",Nu,$,servicios publicos,EMCALI
+v7_v_110,"tarifas acueducto:
+cargo fijo estrato 6",Nu,$,servicios publicos,EMCALI
+v7_v_111,tarifas acueducto: cargo fijo comercial,Nu,$,servicios publicos,EMCALI
+v7_v_112,tarifas acueducto: cargo fijo industrial,Nu,$,servicios publicos,EMCALI
+v7_v_113,tarifas acueducto: cargo fijo oficial y especial,Nu,$,servicios publicos,EMCALI
+v7_v_114,"tarifas acueducto:
+consumo basico estrato 1",Nu,$/M3,servicios publicos,EMCALI
+v7_v_115,"tarifas acueducto:
+consumo basico estrato 2",Nu,$/M3,servicios publicos,EMCALI
+v7_v_116,"tarifas acueducto:
+consumo basico estrato 3",Nu,$/M3,servicios publicos,EMCALI
+v7_v_117,"tarifas acueducto:
+consumo basico estrato 4",Nu,$/M3,servicios publicos,EMCALI
+v7_v_118,"tarifas acueducto:
+consumo basico estrato 5",Nu,$/M3,servicios publicos,EMCALI
+v7_v_119,"tarifas acueducto:
+consumo basico estrato 6",Nu,$/M3,servicios publicos,EMCALI
+v7_v_120,"tarifas acueducto:
+consumo basico estrato comercial",Nu,$/M3,servicios publicos,EMCALI
+v7_v_121,"tarifas acueducto:
+consumo basico estrato industrial",Nu,$/M3,servicios publicos,EMCALI
+v7_v_122,"tarifas acueducto:
+consumo basico estrato oficial y especial",Nu,$/M3,servicios publicos,EMCALI
+v7_v_123,"tarifas alcantarillado:
+cargo fijo estrato 1",Nu,$,servicios publicos,EMCALI
+v7_v_124,"tarifas alcantarillado:
+cargo fijo estrato 2",Nu,$,servicios publicos,EMCALI
+v7_v_125,"tarifas alcantarillado:
+cargo fijo estrato 3",Nu,$,servicios publicos,EMCALI
+v7_v_126,"tarifas alcantarillado:
+cargo fijo estrato 4",Nu,$,servicios publicos,EMCALI
+v7_v_127,"tarifas alcantarillado:
+cargo fijo estrato 5",Nu,$,servicios publicos,EMCALI
+v7_v_128,"tarifas alcantarillado:
+cargo fijo estrato 6",Nu,$,servicios publicos,EMCALI
+v7_v_129,"tarifas alcantarillado:
+cargo fijo comercial",Nu,$,servicios publicos,EMCALI
+v7_v_130,"tarifas alcantarillado:
+cargo fijo industrial",Nu,$,servicios publicos,EMCALI
+v7_v_131,"tarifas alcantarillado:
+cargo fijo oficial y especial",Nu,$,servicios publicos,EMCALI
+v7_v_132,"tarifas alcantarillado:
+consumo basico estrato 1",Nu,$/M3,servicios publicos,EMCALI
+v7_v_133,"tarifas alcantarillado:
+consumo basico estrato 1",Nu,$/M3,servicios publicos,EMCALI
+v7_v_134,"tarifas alcantarillado:
+consumo basico estrato 2",Nu,$/M3,servicios publicos,EMCALI
+v7_v_135,"tarifas alcantarillado:
+consumo basico estrato 3",Nu,$/M3,servicios publicos,EMCALI
+v7_v_136,"tarifas alcantarillado:
+consumo basico estrato 4",Nu,$/M3,servicios publicos,EMCALI
+v7_v_137,"tarifas alcantarillado:
+consumo basico estrato 5",Nu,$/M3,servicios publicos,EMCALI
+v7_v_138,"tarifas alcantarillado:
+consumo basico estrato comercial",Nu,$/M3,servicios publicos,EMCALI
+v7_v_139,"tarifas alcantarillado:
+consumo basico insdustrial",Nu,$/M3,servicios publicos,EMCALI
+v7_v_140,"tarifas alcantarillado:
+consumo basico oficial y especial",Nu,$/M3,servicios publicos,EMCALI
+v7_v_141,suscriptores servicio de gas domiciliario,Nu,#,servicios publicos,GDO
+v7_v_142,catastro,Nu,#,servicios publicos,GDO
+v7_v_143,indice de continuidad del servicio de acueducto,Nu,HRS/DÍA,servicios publicos,EMCALI
+v7_v_144,tiempo de atencion danos acueducto,Nu,HORAS,servicios publicos,EMCALI
+v7_v_145,tiempo de atencion danos alcantarillado,Nu,HORAS,servicios publicos,EMCALI
+v7_v_146,tiempo de instalacion individual de acueducto,Nu,DÍAS,servicios publicos,EMCALI
+v7_v_147,tiempo de atencion danos en red matriz,Nu,HORAS,servicios publicos,EMCALI
+v7_v_148,cantidad de danos reparados en red matriz,Nu,#,servicios publicos,EMCALI
+v7_v_149,utilizacion capacidad ptarc (promedio mes),Nu,%,servicios publicos,EMCALI
+v7_v_150,indicador riesgo de calidad del agua potable - irca,Nu,0-1,servicios publicos,EMCALI
+v7_v_151,suscriptores emsirva,Nu,#,servicios publicos,EMSIRVA
+v7_v_152,indice de agua no contabilizada,Nu,%,servicios publicos,EMCALI
+v7_v_153,indice de perdidas de energia,Nu,%,servicios publicos,EMCALI
+v7_v_154,participacion en el mercado de telefonia,Nu,%,servicios publicos,EMCALI
+v7_v_155,participacion en el mercado de banda ancha,Nu,%,servicios publicos,EMCALI
+v7_v_156,nivel de satisfaccion usuarios de emcali,Nu,%,servicios publicos,EMCALI
+v7_v_157,eventos de alta turbiedad y contaminacion,Nu,#,servicios publicos,EMCALI
+v7_v_158,eventos atendidos por el reservorio,Nu,#,servicios publicos,EMCALI
+v7_v_159,suspensiones totales del servicio de acueducto,Nu,#,servicios publicos,EMCALI
+v7_v_160,total de metros lineales de reposicion de redes de acueducto y alcantarillado,Nu,M2,servicios publicos,EMCALI
+v7_v_161,metros lineales de reposicion de redes de acueducto,Nu,M2,servicios publicos,EMCALI
+v7_v_162,metros lineales de reposicion de redes de alcantarillado,Nu,M2,servicios publicos,EMCALI
+v7_v_163,inversion en proyectos de reposicion de redes de acueducto y alcantarillado,Nu,MILLONES DE PESOS,servicios publicos,EMCALI
+v7_v_164,inversion en proyectos de reposicion de redes de acueducto y alcantarillado,Nu,MILLONES DE PESOS,servicios publicos,EMCALI
+v7_v_165,inversion en proyectos de reposicion de redes de acueducto y alcantarillado,Nu,MILLONES DE PESOS,servicios publicos,EMCALI
+v7_v_166,proyectos de inversion orientados a mayor cobertura,Nu,MILLONES DE PESOS,servicios publicos,EMCALI
+v7_v_167,proyectos de inversion orientados a mayor cobertura,Nu,MILLONES DE PESOS,servicios publicos,EMCALI
+v7_v_1_67,nº de mejoramientos de vivienda,Nu,#,vivienda,SVS
+v7_v_168,proyectos de inversion orientados a mayor cobertura,Nu,MILLONES DE PESOS,servicios publicos,EMCALI
+v7_v_1_68,unidades habitacionales vendidas en cali,Nu,#,vivienda,CAMACOL
+v7_v_169,cartera de emcali: acueducto y alcantarillado,Nu,$,servicios publicos,EMCALI
+v7_v_170,cartera de emcali: energia,Nu,$,servicios publicos,EMCALI
+v7_v_171,cartera de emcali: telecomunicaciones,Nu,$,servicios publicos,EMCALI
+v7_v_172,cartera de emcali: total,Nu,$,servicios publicos,EMCALI
+v7_v_173,total de hogares,Nu,#,vivienda,SVS
+v7_v_174,total deficit de viviendas,Nu,#,vivienda,SVS
+v7_v_175,deficit cualitativo de vivienda,Nu,#,vivienda,SVS
+v7_v_176,deficit cuantitativo de vivienda,Nu,#,vivienda,SVS
+v7_v_177,hogares con deficit cuantitativo,Nu,#,vivienda,SVS
+v7_v_178,hogares con deficit cuantitativo cohabitacion unipersonales,Nu,#,vivienda,SVS
+v7_v_179,viviendas entregadas por el municipio (vis+vip),Nu,#,vivienda,SVS
+v7_v_180,licencias de construccion aprobadas,Nu,#,vivienda,DANE
+v7_v_181,licencias de construccion aprobadas,Nu,#,vivienda,DANE
+v7_v_182,licencias de construccion aprobadas,Nu,#,vivienda,DANE
+v7_v_183,obras de mitigacion de riesgos: inversion,Nu,MILLONES DE PESOS,vivienda,SVS
+v7_v_184,obras de mitigacion de riesgos: metros lineales,Nu,METROS,vivienda,SVS
+v8_ma_00_1,emisiones gei per capita,Nu,TONELADA ANUAL PER CÁPITA,medio ambiente,DAGMA
+v8_ma_00_10,calidad del aire (ica) la flora,Nu,ÍNDICE,medio ambiente,DAGMA
+v8_ma_00_11,calidad del aire (ica) pance,Nu,ÍNDICE,medio ambiente,DAGMA
+v8_ma_00_12,calidad del aire (ica) univalle,Nu,ÍNDICE,medio ambiente,DAGMA
+v8_ma_00_13,calidad del aire (ica) la ermita,Nu,ÍNDICE,medio ambiente,DAGMA
+v8_ma_00_14,calidad del aire (ica) calaveralejo,Nu,ÍNDICE,medio ambiente,DAGMA
+v8_ma_00_15,calidad del aire (ica) compartir,Nu,ÍNDICE,medio ambiente,DAGMA
+v8_ma_00_17,quejas recibidas por el dagma,Nu,#,medio ambiente,DAGMA
+v8_ma_00_18,quejas recibidas por el dagma ruido,Nu,#,medio ambiente,DAGMA
+v8_ma_00_19,quejas recibidas por el dagma emisiones,Nu,#,medio ambiente,DAGMA
+v8_ma_00_2,total  de emisiones de co2,Nu,TONELADAS,medio ambiente,DAGMA
+v8_ma_00_20,quejas recibidas por el dagma olores,Nu,#,medio ambiente,DAGMA
+v8_ma_00_21,quejas recibidas por el dagma ocupacion espacio publico,Nu,#,medio ambiente,DAGMA
+v8_ma_00_22,quejas recibidas por el dagma vertimientos,Nu,#,medio ambiente,DAGMA
+v8_ma_00_23,quejas recibidas por el dagma contaminacion visual,Nu,#,medio ambiente,DAGMA
+v8_ma_00_24,quejas recibidas por el dagma otros,Nu,#,medio ambiente,DAGMA
+v8_ma_00_25,zonas verdes adoptados por el sector privado,Nu,M2,medio ambiente,DAGMA
+v8_ma_00_26,total sobretasa cali girado a cvc,Nu,$,medio ambiente,DAGMA
+v8_ma_00_27,recursos ejecutados por el dagmapresupuesto total  segun fuente de financiacion,Nu,MILLONES DE PESOS,medio ambiente,DAGMA
+v8_ma_00_28,recursos ejecutados por el dagma segun fuente de financiacion presupuesto transferido,Nu,MILLONES DE PESOS,medio ambiente,DAGMA
+v8_ma_00_29,recursos ejecutados por el dagma segun fuente de financiacion,Nu,MILLONES DE PESOS,medio ambiente,DAGMA
+v8_ma_00_3,emisiones de co2 por transporte,Nu,TONELADAS,medio ambiente,DAGMA
+v8_ma_00_30,recursos ejecutados por el dagma segun fuente de financiacion recursos propios,Nu,MILLONES DE PESOS,medio ambiente,DAGMA
+v8_ma_00_31,incidentes atendidos por la oficina de prevencion y atencion de desastres atencion de abejas,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_32,incidentes atendidos por la oficina de prevencion y atencion de desastres rescate por accidente de transito,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_33,incidentes atendidos por la oficina de prevencion y atencion de desastres incendio estructural,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_34,incidentes atendidos por la oficina de prevencion y atencion de desastres rescates de emergencia,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_35,incidentes atendidos por la oficina de prevencion y atencion de desastres incendio forestal urbano,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_36,incidentes atendidos por la oficina de prevencion y atencion de desastres rescate de animal,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_37,incidentes atendidos por la oficina de prevencion y atencion de desastres falsas alarmas,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_38,incidentes atendidos por la oficina de prevencion y atencion de desastres incendio de basuras y otros,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_39,incidentes atendidos por la oficina de prevencion y atencion de desastres incendio forestal rural,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_4,emisiones de co2 equivalente por consumo de combustible por industrias,Nu,TONELADAS,medio ambiente,DAGMA
+v8_ma_00_40,incidentes atendidos por la oficina de prevencion y atencion de desastres incendio vehicular,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_41,incidentes atendidos por la oficina de prevencion y atencion de desastres auxilio a enfermo,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_42,incidentes atendidos por la oficina de prevencion y atencion de desastres caidas,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_43,incidentes atendidos por la oficina de prevencion y atencion de desastres fuga de gas,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_44,incidentes atendidos por la oficina de prevencion y atencion de desastres incendio electrico,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_45,incidentes atendidos por la oficina de prevencion y atencion de desastres otros,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_46,incidentes atendidos por la oficina de prevencion y atencion de desastres derrames de combustible,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_47,incidentes atendidos por la oficina de prevencion y atencion de desastres fuga de gas,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_48,incidentes atendidos por la oficina de prevencion y atencion de desastres inundaciones,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_49,incidentes atendidos por la oficina de prevencion y atencion de desastres derrumbes y deslizamientos,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_5,emisiones co2 por consumo de energia electrica,Nu,TONELADAS,medio ambiente,DAGMA
+v8_ma_00_50,incidentes atendidos por la oficina de prevencion y atencion de desastres incidentes con materiales peligrosos,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_51,incidentes atendidos por la oficina de prevencion y atencion de desastres colapsos en estructura,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_52,incidentes atendidos por la oficina de prevencion y atencion de desastres incendio de liquidos inflamables o,Nu,#,medio ambiente,"CLOPAD, SGCS"
+v8_ma_00_53,areas con plan de manejo sostenible en cali,Nu,HÉCTAREAS,medio ambiente,DAGMA
+v8_ma_00_6,emisiones de co2 distribucion y consumo de combustible sector domestico y comercial,Nu,TONELADAS,medio ambiente,DAGMA
+v8_ma_00_7,emisiones de co2 por generacion de residuos,Nu,TONELADAS,medio ambiente,DAGMA
+v8_ma_00_8,calidad del aire (ica) era-obrero,Nu,ÍNDICE,medio ambiente,DAGMA
+v8_ma_00_9,calidad del aire (ica) base aerea,Nu,ÍNDICE,medio ambiente,DAGMA
+v8_ma_015_01,indice de calidad del agua en la entrada de los rios a la ciudad,Nu,ÍNDICE,medio ambiente,DAGMA
+v8_ma_015_02,indice de calidad del agua en la desembocadura de los rios,Nu,ÍNDICE,medio ambiente,DAGMA
+v8_ma_023,consumo medio de agua por suscriptor,Nu,M3,medio ambiente,EMCALI
+v8_ma_03,aguas residuales que reciben tratamiento de acuerdo a normas nacionales,Nu,%,medio ambiente,EMCALI
+v8_ma_039,nivel de contaminacion hidrica (sst),Nu,KG/DÍA,medio ambiente,DAGMA
+v8_ma_039_1,nivel de contaminacion hidrica (sst) meta,Nu,KG/DÍA,medio ambiente,DAGMA
+v8_ma_04,generacion de residuos solidos urbanos,Nu,TONELADAS,servicios publicos,EMSIRVA
+v8_ma_040,nivel de contaminacion hidrica (dbo5) demanda biologica de oxigeno,Nu,TON/AÑO,medio ambiente,DAGMA
+v8_ma_040_1,nivel de contaminacion hidrica (dbo5) meta por parte de emcali,Nu,KG/DÍA,medio ambiente,DAGMA
+v8_ma_042,arboles por habitantes,Nu,PER CÁPITA,medio ambiente,DAGMA
+v8_ma_042_1,caudal (m3/s) a tratar por la ptar-c,Nu,M3/S,medio ambiente,DAGMA
+v8_ma_05_01,concentracion de pm 10 centro: era obrero,Nu,ΜG/M3,medio ambiente,DAGMA
+v8_ma_05_02,concentracion de pm 10 estacion norte,Nu,ΜG/M3,medio ambiente,DAGMA
+v8_ma_05_03,concentracion de pm 10 estacion pance,Nu,ΜG/M3,medio ambiente,DAGMA
+v8_ma_05_04,concentracion de pm 10 estacion la ermita,Nu,ΜG/M3,medio ambiente,DAGMA
+v8_ma_05_05,concentracion de pm 10 estacion canaveralejo,Nu,ΜG/M3,medio ambiente,DAGMA
+v9_m_001_45,pavimentacion nueva,Nu,KM,infraestructura,SIV
+v9_m_001_46,plan bacheo,Nu,M2,infraestructura,SIV
+v9_m_001_47,plan bacheo rural,Nu,M2,infraestructura,SIV
+v9_m_001_48,area reparada. mantenimiento,Nu,KM,infraestructura,SIV
+v9_m_005_07,parque automotor matriculado,Nu,#,movilidad,"CALI EN CIFRAS, DAPM"
+v9_m_005_10,numero de personas atropelladas,Nu,#,movilidad,STTM
+v9_m_007,tasa de muertes por accidentes de transito al ano,Nu,#,movilidad,STTM
+v9_m_007_01,muertes por accidentes de transito al ano peaton,Nu,#,movilidad,STTM
+v9_m_007_02,muertes por accidentes de transito al ano motocicleta,Nu,#,movilidad,STTM
+v9_m_007_03,muertes por accidentes de transito al ano conductor,Nu,#,movilidad,STTM
+v9_m_007_04,muertes por accidentes de transito al ano pasajero,Nu,#,movilidad,STTM
+v9_m_007_05,muertes por accidentes de transito al ano ciclicta,Nu,#,movilidad,STTM
+v9_m_007_06,muertes por accidentes de transito al ano sin dato,Nu,#,movilidad,STTM
+v9_m_009,kilometros de ciclovida,Nu,#,deporte y recreacion,SDR
+v9_m_0_1,recaudo de la contribucion valorizacion,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_10,recaudo de la contribucion valorizacion. por mes septiembre,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_100,ingresos recaudados por el sitm enero,Nu,MILLONES DE PESOS,movilidad,METRO CALI
+v9_m_0_101,ingresos recaudados por el sitm febrero,Nu,MILLONES DE PESOS,movilidad,METRO CALI
+v9_m_0_102,ingresos recaudados por el sitm marzo,Nu,MILLONES DE PESOS,movilidad,METRO CALI
+v9_m_0_103,ingresos recaudados por el sitm abril,Nu,MILLONES DE PESOS,movilidad,METRO CALI
+v9_m_0_104,ingresos recaudados por el sitm mayo,Nu,MILLONES DE PESOS,movilidad,METRO CALI
+v9_m_0_105,ingresos recaudados por el sitm junio,Nu,MILLONES DE PESOS,movilidad,METRO CALI
+v9_m_0_106,ingresos recaudados por el sitm julio,Nu,MILLONES DE PESOS,movilidad,METRO CALI
+v9_m_0_107,ingresos recaudados por el sitm agosto,Nu,MILLONES DE PESOS,movilidad,METRO CALI
+v9_m_0_108,ingresos recaudados por el sitm septiembre,Nu,MILLONES DE PESOS,movilidad,METRO CALI
+v9_m_0_109,ingresos recaudados por el sitm octubre,Nu,MILLONES DE PESOS,movilidad,METRO CALI
+v9_m_0_11,recaudo de la contribucion valorizacion. por mes obtubre,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_110,ingresos recaudados por el sitm noviembre,Nu,MILLONES DE PESOS,movilidad,METRO CALI
+v9_m_0_111,ingresos recaudados por el sitm diciembre,Nu,MILLONES DE PESOS,movilidad,METRO CALI
+v9_m_0_112,puntos de venta y recarga de tarjetas dentro y fuera de las estaciones,Nu,#,movilidad,METRO CALI
+v9_m_0_113,puntos de venta y recarga de tarjetas dentro y fuera de las estaciones (fuera),Nu,#,movilidad,METRO CALI
+v9_m_0_114,puntos de venta y recarga de tarjetas dentro y fuera de las estaciones (puntos),Nu,#,movilidad,METRO CALI
+v9_m_0_115,numero de tarjetas recargadas del sitm,Nu,#,movilidad,METRO CALI
+v9_m_0_116,numero de tarjetas recargadas del sitm por tipo frecuente,Nu,#,movilidad,METRO CALI
+v9_m_0_117,numero de tarjetas recargadas del sitm por tipo univiaje,Nu,#,movilidad,METRO CALI
+v9_m_0_118,velocidad promedio del sistema por tipo de ruta (troncal).,Nu,#,movilidad,METRO CALI
+v9_m_0_119,velocidad promedio del sistema por tipo de ruta (pretroncal).,Nu,#,movilidad,METRO CALI
+v9_m_0_12,recaudo de la contribucion valorizacion. por mes noviembre,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_120,velocidad promedio del sistema por tipo de ruta (alimentadora).,Nu,#,movilidad,METRO CALI
+v9_m_0_121,nivel de satisfaccion usuarios mio,Nu,%,movilidad,METRO CALI
+v9_m_0_122,porcentaje de hogares donde hay bicicleta,Nu,%,movilidad,DANE
+v9_m_0_123,porcentaje de hogares donde hay moto,Nu,%,movilidad,DANE
+v9_m_0_124,porcentaje de hogares donde hay carro particular,Nu,%,movilidad,DANE
+v9_m_0_13,recaudo de la contribucion valorizacion. por mes diciembre,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_14,recaudo de la contribucion valorizacion. acumulado por tipo de contribuyente,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_15,recaudo de la contribucion valorizacion. acumulado por tipo de contribuyente estrato 1,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_016,accidentes de transito,Nu,#,movilidad,STTM
+v9_m_0_16,recaudo de la contribucion valorizacion. acumulado por tipo de contribuyente estrato 2,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_016_01,accidentes de transito. por mes enero,Nu,#,movilidad,STTM
+v9_m_016_02,accidentes de transito. por mes febrero,Nu,#,movilidad,STTM
+v9_m_016_03,accidentes de transito. por mes marzo,Nu,#,movilidad,STTM
+v9_m_016_04,accidentes de transito. por mes abril,Nu,#,movilidad,STTM
+v9_m_016_05,accidentes de transito. por mes mayo,Nu,#,movilidad,STTM
+v9_m_016_06,accidentes de transito. por mes junio,Nu,#,movilidad,STTM
+v9_m_016_07,accidentes de transito. por mes julio,Nu,#,movilidad,STTM
+v9_m_016_08,accidentes de transito. por mes agosto,Nu,#,movilidad,STTM
+v9_m_016_09,accidentes de transito. por mes septiembre,Nu,#,movilidad,STTM
+v9_m_016_10,accidentes de transito. por mes octubre,Nu,#,movilidad,STTM
+v9_m_016_11,accidentes de transito. por mes noviembre,Nu,#,movilidad,STTM
+v9_m_016_12,accidentes de transito. por mes diciembre,Nu,#,movilidad,STTM
+v9_m_0_17,recaudo de la contribucion valorizacion. acumulado por tipo de contribuyente estrato 3,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_018,muertes por accidentes de transito al ano,Nu,#,movilidad,STTM
+v9_m_0_18,recaudo de la contribucion valorizacion. acumulado por tipo de contribuyente estrato 4,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_19,recaudo de la contribucion valorizacion. acumulado por tipo de contribuyente estrato 5,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_2,recaudo de la contribucion valorizacion. por mes enero,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_20,recaudo de la contribucion valorizacion. acumulado por tipo de contribuyente estrato 6,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_21,recaudo de la contribucion valorizacion. acumulado por tipo de contribuyente comercial,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_22,recaudo de la contribucion valorizacion. acumulado por tipo de contribuyente industrial,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_23,recaudo de la contribucion valorizacion. acumulado por tipo de contribuyente lote,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_24,recaudo de la contribucion valorizacion. acumulado por tipo de contribuyente institucional,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_25,recaudo de la contribucion valorizacion. acumulado por tipo de contribuyente mixto,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_26,recaudo de la contribucion valorizacion. acumulado por tipo de contribuyente rutal,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_27,avance fisico de las megaobras grupo 1,Nu,%,infraestructura,SIV
+v9_m_0_28,avance fisico de las megaobras grupo 2,Nu,%,infraestructura,SIV
+v9_m_0_29,avance fisico de las megaobras grupo 3,Nu,%,infraestructura,SIV
+v9_m_0_3,recaudo de la contribucion valorizacion. por mes febrero,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_30,numero de automoviles per capita,Nu,VEHÍCULOS PER CÁPITA,movilidad,STTM
+v9_m_0_31,numero de automoviles per capita 2,Nu,VEHÍCULOS PER CÁPITA,movilidad,STTM
+v9_m_0_33,sistema de semaforizado equipos,Nu,#,movilidad,STTM
+v9_m_0_34,numero de choques,Nu,#,movilidad,STTM
+v9_m_0_35,heridos,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_36,heridos por tipo de lesionado bicicleta,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_37,heridos por tipo de lesionado motocicleta,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_38,heridos por tipo de lesionado peaton,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_39,heridos por tipo de lesionado transporte de carga,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_4,recaudo de la contribucion valorizacion. por mes marzo,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_40,heridos por tipo de lesionado transporte de pasajeros,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_41,heridos por tipo de lesionado transporte particular,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_42,heridos por tipo de lesionado sin informacion,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_43,heridos por tipo de lesionado otro,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_44,heridos en accidente de transito,Nu,#,movilidad,STTM
+v9_m_045,porcentaje de la malla vial en buen estado,Nu,%,infraestructura,SIV
+v9_m_0_45,heridos en accidente de transito: peaton,Nu,#,movilidad,STTM
+v9_m_045_1,inventario de la malla vial en cali,Nu,KM,infraestructura,SIV
+v9_m_045_2,inventario de la malla vial en cali por tipo rigido,Nu,KM,infraestructura,SIV
+v9_m_045_3,inventario de la malla vial en cali por tipo flexible,Nu,KM,infraestructura,SIV
+v9_m_045_4,inventario de la malla vial en cali. por tipo adoquin,Nu,KM,infraestructura,SIV
+v9_m_045_5,inventario de la malla vial en cali por tipo tierra / afirmado,Nu,KM,infraestructura,SIV
+v9_m_046,porcentaje de la malla vial en mal estado,Nu,%,infraestructura,SIV
+v9_m_0_46,heridos en accidente de transito: motociclista,Nu,#,movilidad,STTM
+v9_m_047,porcentaje de la malla vial en regular estado,Nu,%,infraestructura,SIV
+v9_m_0_47,heridos en accidente de transito: conductor,Nu,#,movilidad,STTM
+v9_m_0_48,heridos en accidente de transito: pasajero,Nu,#,movilidad,STTM
+v9_m_0_49,heridos en accidente de transito: ciclista,Nu,#,movilidad,STTM
+v9_m_0_5,recaudo de la contribucion valorizacion. por mes abril,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_50,heridos en accidente de transito: menor de edad,Nu,#,movilidad,STTM
+v9_m_0_51,heridos en accidente de transito: no reporto,Nu,#,movilidad,STTM
+v9_m_0_52,heridos en accidente de transito: pasajero moto,Nu,#,movilidad,STTM
+v9_m_0_53,heridos en accidente de transito: sin dato,Nu,#,movilidad,STTM
+v9_m_0_55,muertos,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_56,muertos por tipo bicicleta,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_57,muertos por tipo motocicleta,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_58,muertos por tipo peaton,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_59,muertos por tipo transporte de carga,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_6,recaudo de la contribucion valorizacion. por mes mayo,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_60,muertos por tipo transporte de pasajeros,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_61,muertos por tipo transporte particular,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_62,muertos por tipo sin info,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_63,muertos por tipo,Nu,#,movilidad,"MEDILEGAL, DADO X FNPVIAL"
+v9_m_0_64,infracciones registradas,Nu,#,movilidad,STTM
+v9_m_0_65,infracciones canceladas,Nu,#,movilidad,STTM
+v9_m_0_66,cursos viales aplicados,Nu,#,movilidad,STTM
+v9_m_0_67,resoluciones por embriaguez aplicadas,Nu,#,movilidad,STTM
+v9_m_0_68,"flota de buses del transporte publico colectivo retirado
+",Nu,#,movilidad,STTM
+v9_m_0_69,vehiculos requeridos,Nu,#,movilidad,METRO CALI
+v9_m_0_7,recaudo de la contribucion valorizacion. por mes junio,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_70,vehiculos en circulacion,Nu,#,movilidad,METRO CALI
+v9_m_071,parque automotor matriculado por tipo particular,Nu,#,movilidad,"CALI EN CIFRAS, DAPM"
+v9_m_0_71,vehiculos vinculados a la flota del mio,Nu,#,movilidad,METRO CALI
+v9_m_072,parque automotor matriculado por tipo motos,Nu,#,movilidad,"CALI EN CIFRAS, DAPM"
+v9_m_0_72,numero de vehiculos vinculados a la flota del mio articulados,Nu,#,movilidad,METRO CALI
+v9_m_073,parque automotor matriculado por tipo publico,Nu,#,movilidad,"CALI EN CIFRAS, DAPM"
+v9_m_0_73,numero de vehiculos vinculados a la flota del mio padron,Nu,#,movilidad,METRO CALI
+v9_m_073_01,parque automotor matriculado por tipo oficial,Nu,#,movilidad,"CALI EN CIFRAS, DAPM"
+v9_m_0_74,numero de vehiculos vinculados a la flota del mio complementario,Nu,#,movilidad,METRO CALI
+v9_m_0_75,rutas implementadas,Nu,#,movilidad,METRO CALI
+v9_m_076,sistema de semaforizado intersecciones,Nu,#,movilidad,STTM
+v9_m_0_76,rutas implementadas por tipo de ruta  troncal,Nu,#,movilidad,METRO CALI
+v9_m_0_77,rutas implementadas por tipo de ruta  pretroncal,Nu,#,movilidad,METRO CALI
+v9_m_0_78,rutas implementadas por tipo de ruta  complementario,Nu,#,movilidad,METRO CALI
+v9_m_0_79,cobertura sitm mio,Nu,%,movilidad,METRO CALI
+v9_m_0_8,recaudo de la contribucion valorizacion. por mes julio,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_80,ipk general promedio diciembre,Nu,#,movilidad,METRO CALI
+v9_m_0_81,pasajeros movilizados por el sitm,Nu,#,movilidad,METRO CALI
+v9_m_0_82,pasajeros movilizados por el sitm enero,Nu,#,movilidad,METRO CALI
+v9_m_0_83,pasajeros movilizados por el sitm febrero,Nu,#,movilidad,METRO CALI
+v9_m_0_84,pasajeros movilizados por el sitm marzo,Nu,#,movilidad,METRO CALI
+v9_m_0_85,pasajeros movilizados por el sitm abri,Nu,#,movilidad,METRO CALI
+v9_m_0_86,pasajeros movilizados por el sitm mayo,Nu,#,movilidad,METRO CALI
+v9_m_0_87,pasajeros movilizados por el sitm junio,Nu,#,movilidad,METRO CALI
+v9_m_0_88,pasajeros movilizados por el sitm julio,Nu,#,movilidad,METRO CALI
+v9_m_0_89,pasajeros movilizados por el sitm agosto,Nu,#,movilidad,METRO CALI
+v9_m_0_9,recaudo de la contribucion valorizacion. por mes agosto,Nu,MILLONES DE PESOS,infraestructura,SIV
+v9_m_0_90,pasajeros movilizados por el sitm septiembre,Nu,#,movilidad,METRO CALI
+v9_m_0_91,pasajeros movilizados por el sitm octubre,Nu,#,movilidad,METRO CALI
+v9_m_0_92,pasajeros movilizados por el sitm noviembre,Nu,#,movilidad,METRO CALI
+v9_m_0_93,pasajeros movilizados por el sitm diciembre,Nu,#,movilidad,METRO CALI
+v9_m_0_94,n° promedio de pasajeros diarios movilizados por tipo de ruta,Nu,#,movilidad,METRO CALI
+v9_m_0_95,n° promedio de pasajeros diarios movilizados por tipo de ruta  troncal,Nu,#,movilidad,METRO CALI
+v9_m_0_96,n° promedio de pasajeros diarios movilizados por tipo de ruta  pretroncal,Nu,#,movilidad,METRO CALI
+v9_m_0_97,n° promedio de pasajeros diarios movilizados por tipo de ruta complemento,Nu,#,movilidad,METRO CALI
+v9_m_0_98,pasajeros movilizados en promedio diario por el sitm,Nu,#,movilidad,METRO CALI
+v9_m_0_99,ingresos recaudados por el sitm,Nu,MILLONES DE PESOS,movilidad,METRO CALI
+v9_m_129,muertes violentas,Nu,#,seguridad y convivencia,SGCS

@@ -1,0 +1,524 @@
+id,label,ctype,dimension,categoria,fuente,fuente mas confiable
+Anio,Año,Ye,NA,NA,NA,NA
+v14_ee_007,Doing business,Nu,DINÁMICA EMPRESARIAL,EMPRESARIAL,Banco Mundial,Banco Mundial
+v0_ep_002,Porcentaje de ciudadanos que se sienten satisfechos o muy satisfechos con el espacio público de la ciudad,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v0_ep_002_1,Porcentaje de personas que se sienten satisfechas o muy satisfechas o muy satisfechas con el medio de transporte que utilizan habitualmente,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v0_ep_008,Área verde por habitante,Nu,ÁREAS VERDES,ÁREAS VERDES ACCESIBLES A LOS CIUDADANOS,Secretaría de Planeación,Secretaría de Planeación
+v0_ep_011,"Espacio público  efectivo por habitante (parques, plaza, plazoletas, zonas verdes)",Nu,MOVILIDAD Y ESPACIO PÚBLICO,ESPACIO PÚBLICO,Secretaría de Planeación,Secretaría de Planeación
+v10_ep_001_04,Número de árboles por habitante,Nu,ÁREAS VERDES,ÁREAS VERDES ACCESIBLES A LOS CIUDADANOS,"Secretaría de Infraestructura, UTP, CARDER",Universidad Técnológica de Pereira
+v10_ep_001_05,promedio de árboles por habitante,Nu,ÁREAS VERDES,ÁREAS VERDES ACCESIBLES A LOS CIUDADANOS,NA,NA
+v12_pc_006,Porcentaje de población que considera que la empresa privada está haciendo acciones por mejorar su calidad de vida,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de percepción ciudadana, Pereira Cómo Vamos","Encuesta de percepción ciudadana, Pereira Cómo Vamos"
+v12_pc_007,Porcentaje de población que considera que las universidades están haciendo acciones por mejorar su calidad de vida.,Nu,EDUCACIÓN,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v13_gp_004_01,Ingresos Tributarios por habitante,Nu,FINANZAS PÚBLICAS,INGRESOS,NA,NA
+v13_gp_004_03,Dependencia de las transferencias,Nu,FINANZAS PÚBLICAS,INGRESOS,"Secretaría de Hacienda, Secretaría de Planeación, Contaduría General de la Nación-FUT, Contraloría Municipal",Secretaría de Hacienda
+v14_ee_002,Tasa de penetración de internet,Nu,MACROECONÓMICO,INTERNET,MINTIC,Ministerio de Tecnologías de la Información y las Comunicaciones (MINTIC)
+v14_ee_012,Crecimiento PIB,Nu,MACROECONÓMICO,PRODUCCIÓN,Cálculos de la Cámara de Comercio,Cálculos de la Cámara de Comercio
+v14_ee_013,PIB per cápita,Nu,MACROECONÓMICO,PRODUCCIÓN,Cálculos de la Cámara de Comercio,Cálculos de la Cámara de Comercio
+v1_cr_009,No. de habitantes por instalaciones deportivas públicas,Nu,"CULTURA, RECREACIÓN Y DEPORTE",DEPORTE,Secretaría de Deporte y Recreación,Secretaría de Deporte y Recreación
+v1_cr_009_01,Número de escenarios deportivos,Nu,"CULTURA, RECREACIÓN Y DEPORTE",DEPORTE,NA,NA
+v1_cr_0_1,Programas de promoción deportiva y actividad física,Nu,"CULTURA, RECREACIÓN Y DEPORTE",DEPORTE,Secretaría de Deporte y Recreación,Secretaría de Deporte y Recreación
+v1_cr_0_10,Número de personas participantes de proceso de formación cultural y artística,Nu,"CULTURA, RECREACIÓN Y DEPORTE",CULTURA Y RECREACIÓN,Instituto Municipal de Cultura y Fomento al Turismo,Instituto Municipal de Cultura y Fomento al Turismo
+v1_cr_0_11,"Inversión realizada en bibliotecas, centros culturales e infraestructura cultural",Nu,"CULTURA, RECREACIÓN Y DEPORTE",CULTURA Y RECREACIÓN,Instituto Municipal de Cultura y Fomento al Turismo,Instituto Municipal de Cultura y Fomento al Turismo
+v1_cr_0_12,Porcentaje de personas que leyó por lo menos un libro,Nu,"CULTURA, RECREACIÓN Y DEPORTE",CULTURA Y RECREACIÓN,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v1_cr_0_13,Porcentaje de población que  participa de alguna actividad cultural,Nu,"CULTURA, RECREACIÓN Y DEPORTE",CULTURA Y RECREACIÓN,"Encuesta de percepción ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v1_cr_0_14,Porcentaje de población que participa en al menos una actividad deportiva o recreativa,Nu,"CULTURA, RECREACIÓN Y DEPORTE",CULTURA Y RECREACIÓN,"Encuesta de percepción ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v1_cr_0_15,Número de campañas de Cultura Ciudadana,Nu,CAMPAÑAS,CAMPAÑAS DE CULTURA CIUDADANA,Instituto Municipal de Tránsito,Instituto Municipal de Tránsito
+v1_cr_0_16,Presupuesto destinado a campañas de Cultura Ciudadana,Nu,CAMPAÑAS,CAMPAÑAS DE CULTURA CIUDADANA,NA,NA
+v1_cr_0_17,Número de campañas de Cultura Ciudadana desde el Instituto Municipal de Cultura y fomento al Turismo,Nu,CAMPAÑAS,CAMPAÑAS DE CULTURA CIUDADANA,Instituto Municipal de Cultura y Fomento al Turismo,Instituto Municipal de Cultura y Fomento al Turismo
+v1_cr_0_18,Presupuesto destinado a campañas de Cultura Ciudadana desde el Instituto Municipal de Cultura y fomento al Turismo,Nu,CAMPAÑAS,CAMPAÑAS DE CULTURA CIUDADANA,NA,NA
+v1_cr_0_19,Total de comparendos por infracciones de tránsito,Nu,INTELIGENCIA VIAL,COMPARENDOS,Instituto Municipal de Tránsito,Instituto Municipal de Tránsito
+v1_cr_0_2,Servicios en Recreación,Nu,"CULTURA, RECREACIÓN Y DEPORTE",DEPORTE,Comfamiliar Risaralda,Comfamiliar Risaralda
+v1_cr_0_20,Porcentaje de contribuyentes que pagan el predial,Nu,CULTURA TRIBUTARIA,CULTURA DE PAGO,Secretaría de Hacienda,Secretaría de Hacienda
+v1_cr_0_21,Porcentaje de contribuyentes que pagan Industria y comercio,Nu,CULTURA TRIBUTARIA,CULTURA DE PAGO,Secretaría de Hacienda,Secretaría de Hacienda
+v1_cr_0_22,Porcentaje  de contribuyentes que pagan valorización,Nu,CULTURA TRIBUTARIA,CULTURA DE PAGO,Secretaria de Hacienda,Secretaria de Hacienda
+v1_cr_0_3,Servicios en Deportes,Nu,"CULTURA, RECREACIÓN Y DEPORTE",DEPORTE,Comfamiliar Risaralda,Comfamiliar Risaralda
+v1_cr_0_4,Número de visitas a biblioteca públicas,Nu,"CULTURA, RECREACIÓN Y DEPORTE",CULTURA Y RECREACIÓN,Instituto Municipal de Cultura y Fomento al Turismo,Instituto Municipal de Cultura y Fomento al Turismo
+v1_cr_0_5,Número de Bibliotecas públicas y privadas en la Ciudad,Nu,"CULTURA, RECREACIÓN Y DEPORTE",CULTURA Y RECREACIÓN,Instituto Municipal de Cultura y Fomento al Turismo,Instituto Municipal de Cultura y Fomento al Turismo
+v1_cr_0_6,Número de visitas a bibliotecas públicas por cada 100 mil habitantes,Nu,"CULTURA, RECREACIÓN Y DEPORTE",CULTURA Y RECREACIÓN,Instituto Municipal de Cultura y Fomento al Turismo,Instituto Municipal de Cultura y Fomento al Turismo
+v1_cr_0_7,Porcentaje de Población que participa en actividades cultural y/o recreativa,Nu,"CULTURA, RECREACIÓN Y DEPORTE",CULTURA Y RECREACIÓN,Instituto Municipal de Cultura y Fomento al Turismo,Instituto Municipal de Cultura y Fomento al Turismo
+v1_cr_0_8,Equipamientos Culturales Públicos,Nu,"CULTURA, RECREACIÓN Y DEPORTE",CULTURA Y RECREACIÓN,Instituto Municipal de Cultura y Fomento al Turismo,Instituto Municipal de Cultura y Fomento al Turismo
+v1_cr_0_9,Número de eventos culturales organizados en el Municipio,Nu,"CULTURA, RECREACIÓN Y DEPORTE",CULTURA Y RECREACIÓN,Instituto Municipal de Cultura y Fomento al Turismo,Instituto Municipal de Cultura y Fomento al Turismo
+v1_d_001,Población Total,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,DANE,DANE
+v1_d_001_1,Pirámide poblacional,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,DANE,DANE
+v1_d_001_10,Pirámide poblacional total Mujeres 40-44,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_11,Pirámide poblacional total Mujeres 45-49,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_12,Pirámide poblacional total Mujeres 50-54,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_13,Pirámide poblacional total Mujeres 55-59,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_14,Pirámide poblacional total Mujeres 60-64,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_15,Pirámide poblacional total Mujeres 65-69,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_16,Pirámide poblacional total Mujeres 70-74,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_17,Pirámide poblacional total Mujeres 75-79,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_18,Pirámide poblacional total Mujeres 80 Y MÁS,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_19,Pirámide poblacional total Hombres,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_2,Pirámide poblacional total Mujeres 0-4,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_20,Pirámide poblacional total Hombres 0-4,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_21,Pirámide poblacional total Hombres 5-9,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_22,Pirámide poblacional total Hombres 10-14,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_23,Pirámide poblacional total Hombres 15-19,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_24,Pirámide poblacional total Hombres 2 0-24,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_25,Pirámide poblacional total Hombres 25-29,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_26,Pirámide poblacional total Hombres 3 0-34,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_27,Pirámide poblacional total Hombres 35-39,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_28,Pirámide poblacional total Hombres 40-44,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_29,Pirámide poblacional total Hombres 45-49,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_3,Pirámide poblacional total Mujeres 5-9,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_30,Pirámide poblacional total Hombres 50-54,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_31,Pirámide poblacional total Hombres 55-59,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_32,Pirámide poblacional total Hombres 60-64,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_33,Pirámide poblacional total Hombres 65-69,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_34,Pirámide poblacional total Hombres 70-74,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_35,Pirámide poblacional total Hombres 75-79,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_36,Pirámide poblacional total Hombres 80 Y MÁS,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_4,Pirámide poblacional total Mujeres 10-14,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_5,Pirámide poblacional total Mujeres 15-19,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_6,Pirámide poblacional total Mujeres 20-24,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_7,Pirámide poblacional total Mujeres 25-29,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_8,Pirámide poblacional total Mujeres 30-34,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_001_9,Pirámide poblacional total Mujeres 35-39,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,NA,NA
+v1_d_002,Porcentaje de Población en el Área Urbana,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,DANE,DANE
+v1_d_002_02,Población Urbana,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,DANE,DANE
+v1_d_008,Densidad (neta) de la población urbana,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ESPACIO PÚBLICO,Secretaría de Planeación,Secretaría de Planeación
+v1_d_010,Tasa de crecimiento de la población,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,DANE,DANE
+v1_d_011,Índice de envejecimiento,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,DANE,DANE
+v1_d_014,Tasa de dependencia,Nu,DEMOGRÁFICA,ESTRUCTURA POBLACIONAL,DANE,DANE
+v1_d_018,Esperanza de vida al nacer,Nu,SALUD,ESPERANZA DE VIDA AL NACER,DANE,NA
+v1_d_020,Esperanza de vida al nacer hombres,Nu,SALUD,ESPERANZA DE VIDA AL NACER,DANE,NA
+v1_d_021,Esperanza de vida al nacer mujeres,Nu,SALUD,ESPERANZA DE VIDA AL NACER,DANE,NA
+v2_p_001,Incidencia de la pobreza monetaria (Área Metropolitana),Nu,POBREZA Y EQUIDAD,POBREZA,DANE,DANE
+v2_p_001_01,Ingreso per cápita de la unidad de gasto por dominio,Nu,POBREZA Y EQUIDAD,POBREZA,DANE,DANE
+v2_p_002,Incidencia de la pobreza monetaria extrema (Área Metropolitana),Nu,POBREZA Y EQUIDAD,POBREZA,DANE,DANE
+v2_p_003,Variación porcentual en el ingreso promedio del hogar,Nu,POBREZA Y EQUIDAD,POBREZA,DANE,DANE
+v2_p_003_01,NBI,Ca,POBREZA Y EQUIDAD,POBREZA,DANE (Censo 2005),"DANE (Censo 2005, última actualización 29 de junio de 2011)"
+v2_p_004,Coeficiente de Gini (Área Metropolitana),Nu,POBREZA Y EQUIDAD,DESIGUALDAD,DANE,DANE
+v2_p_005,Tasa de Cobertura del Programa Unidos,Nu,POBREZA Y EQUIDAD,POBREZA,DPS,DPS
+v2_p_006,Porcentaje de familias promovidas en el Programa Unidos,Nu,POBREZA Y EQUIDAD,POBREZA,DPS,DPS
+v2_p_011,Índice de Pobreza Multidimensional Municipal (Región Central),Nu,POBREZA Y EQUIDAD,POBREZA,DANE,DANE
+v2_pc_001,Porcentaje de población que pertenece a alguna organización social,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v2_pc_002,Porcentaje de participación electoral  Cámara,Nu,PARTICIPACIÓN CIUDADANA,"PORCENTAJE DE PARTICIPACIÓN ELECTORAL, ULTIMA ELECCIÓN COMPARADA",Registraduría Nacional del Estado Civil,Registraduría Nacional del Estado Civil
+v2_pc_002_1,Porcentaje de participación electoral Senado,Nu,PARTICIPACIÓN CIUDADANA,"PORCENTAJE DE PARTICIPACIÓN ELECTORAL, ULTIMA ELECCIÓN COMPARADA",Registraduría Nacional del Estado Civil,Registraduría Nacional del Estado Civil
+v2_pc_002_2,Porcentaje de participación electoral Presidencia,Nu,PARTICIPACIÓN CIUDADANA,"PORCENTAJE DE PARTICIPACIÓN ELECTORAL, ULTIMA ELECCIÓN COMPARADA",Registraduría Nacional del Estado Civil,Registraduría Nacional del Estado Civil
+v2_pc_002_3,Porcentaje de participación electoral Concejo y Administradoras Locales,Nu,PARTICIPACIÓN CIUDADANA,"PORCENTAJE DE PARTICIPACIÓN ELECTORAL, ULTIMA ELECCIÓN COMPARADA",NA,Registraduría Nacional del Estado Civil
+v2_pc_002_4,Porcentaje de participación electoral Alcaldía,Nu,PARTICIPACIÓN CIUDADANA,"PORCENTAJE DE PARTICIPACIÓN ELECTORAL, ULTIMA ELECCIÓN COMPARADA",Registraduría Nacional del Estado Civil,Registraduría Nacional del Estado Civil
+v2_pc_003,Porcentaje de población que considera que la alcaldía esta haciendo acciones por mejorar su calidad de vida,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v2_pc_004,Porcentaje de población que considera que el Concejo esta haciendo acciones por mejorar su calidad de vida,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de percepción ciudadana, Pereira Cómo Vamos","Encuesta de percepción ciudadana, Pereira Cómo Vamos"
+v2_pc_005,Porcentaje de población que considera que el Gobierno Nacional está haciendo acciones por mejorar su calidad de vida,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de percepción ciudadana, Pereira Cómo Vamos","Encuesta de percepción ciudadana, Pereira Cómo Vamos"
+v2_pc_008,Porcentaje de población que considera que ninguna entidad está haciendo acciones por mejorar su calidad de vida,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v2_pc_009,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente al cuidado y uso de los espacios públicos,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v2_pc_010,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente al cumplimiento de las normas básicas de tránsito,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v2_pc_011,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente al respeto de las normas ambientales,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v2_pc_012,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente al respeto por la vida,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v2_pc_013,Porcentaje de población que  considera que los residentes de su ciudad se comporta bien o muy bien frente al respeto por las niñas y niños,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v2_pc_014,Porcentaje de población que considera que los residentes de su ciudad se comporta bien o muy bien frente al respeto por las mujeres,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v2_pc_015,Porcentaje de población que considera probable o muy probable ser castigado o amonestado por infligir las normas y señales de tránsito,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v2_pc_016,Porcentaje de población que considera probable o muy probable ser castigado o amonestado por no pagar impuestos,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v2_pc_017,Porcentaje de población que considera probable o muy probable ser castigado o amonestado por portar armas,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v2_s_00_1,Instituciones prestadoras de servicio de salud acreditadas en Pereira,Nu,SALUD,CALIDAD,ONAC,NA
+v2_s_00_10,Enfermedades de los dientes y sus anexos,Nu,SALUD,INCIDENCIA DE ENFERMEDADES,Secretaria de Salud Municipal,NA
+v2_s_00_11,Infecciones respiratorias agudas,Nu,SALUD,INCIDENCIA DE ENFERMEDADES,NA,NA
+v2_s_00_12,"Signos, síntomas y estados morbosos mal definidos",Nu,SALUD,INCIDENCIA DE ENFERMEDADES,NA,NA
+v2_s_00_13,Enfermedades  intestinales infecciosas y parasitarias,Nu,SALUD,INCIDENCIA DE ENFERMEDADES,NA,NA
+v2_s_00_14,Traumatismos (excluye fracturas y luxaciones),Nu,SALUD,INCIDENCIA DE ENFERMEDADES,NA,NA
+v2_s_00_15,Trastornos gástricos funcionales,Nu,SALUD,INCIDENCIA DE ENFERMEDADES,NA,NA
+v2_s_00_16,Otras enfermedades del sistema urinario,Nu,SALUD,INCIDENCIA DE ENFERMEDADES,NA,NA
+v2_s_00_17,Enfermedad hipertensiva,Nu,SALUD,INCIDENCIA DE ENFERMEDADES,NA,NA
+v2_s_00_18,Enfermedades del pulmón,Ca,SALUD,INCIDENCIA DE ENFERMEDADES,NA,NA
+v2_s_00_19,Enfermedades del oído y la mastoides,Nu,SALUD,INCIDENCIA DE ENFERMEDADES,NA,NA
+v2_s_00_20,Lesiones,Nu,SALUD,INCIDENCIA DE ENFERMEDADES,NA,NA
+v2_s_00_22,Condiciones materno perinatales,Ca,SALUD,INCIDENCIA DE ENFERMEDADES,NA,NA
+v2_s_00_25,Otras enfermedades,Nu,SALUD,INCIDENCIA DE ENFERMEDADES,NA,NA
+v2_s_00_26,Tasas de mortalidad específica,Nu,SALUD,MORTALIDAD GENERAL,DANE,NA
+v2_s_00_27,Número de casos  mortalidad específica,Nu,SALUD,MORTALIDAD GENERAL,NA,NA
+v2_s_00_28,Hombres  tasa de mortalidad específica,Nu,SALUD,MORTALIDAD GENERAL,NA,NA
+v2_s_00_29,Número de casos  mortalidad específica hombres,Nu,SALUD,MORTALIDAD GENERAL,NA,NA
+v2_s_00_3,población infantil menores de un año fallecida por cada 1000 niños,Nu,SALUD,MORTALIDAD INFANTIL POR CAUSAS,Secretaria de Salud Municipal,NA
+v2_s_00_30,mujeres  tasa de mortalidad específica,Nu,SALUD,MORTALIDAD GENERAL,NA,NA
+v2_s_00_31,Número de casos  mortalidad específica mujeres,Nu,SALUD,MORTALIDAD GENERAL,NA,NA
+v2_s_00_32,mortalidad general Pereira,Nu,SALUD,MORTALIDAD GENERAL,NA,NA
+v2_s_00_33,Tasa de mortalidad general,Nu,SALUD,MORTALIDAD GENERAL,DANE,NA
+v2_s_00_34,Mortalidad prematura por enfermedades no contagiosas,Nu,SALUD,MORTALIDAD GENERAL,Secretaria de Salud Municipal,NA
+v2_s_00_35,Mortalidad por enfermedades Infecciosas,Nu,SALUD,MORTALIDAD GENERAL,Secretaria de Salud Municipal,NA
+v2_s_00_4,Número de embarazo adolescente (Proporción de Embarazo adolescente (El DANE muestra la procedencia de la adolescentes embarazo),Nu,SALUD,SEXUAL Y REPRODUCTIVA,DANE,NA
+v2_s_00_5,Número de nacimientos de madre en el rango de edad entre los 10 y 14 años,Nu,SALUD,SEXUAL Y REPRODUCTIVA,DANE,NA
+v2_s_00_6,Número de nacimientos de madre en el rango de edad entre los 15 y 19 años,Nu,SALUD,SEXUAL Y REPRODUCTIVA,DANE,NA
+v2_s_00_7,Número de nacimientos de madre en el rango de edad entre los 15 y 19 años*100/Total de nacimientos en Pereira,Nu,SALUD,SEXUAL Y REPRODUCTIVA,DANE,NA
+v2_s_00_8,Número de nacimientos de madres entre los 15 a  19 años *1.000/Población total femenina en el municipio en el rango de 15 a 19 años,Nu,SALUD,SEXUAL Y REPRODUCTIVA,DANE,NA
+v2_s_00_9,Población total femenina en el municipio que se encuentra en el rango de los 15 a 19 años,Nu,SALUD,SEXUAL Y REPRODUCTIVA,DANE,NA
+v3_gp_001,Índice de Gobierno Abierto (IGA),Nu,FINANZAS PÚBLICAS,BUEN GOBIERNO,Procuraduría Regional de Risaralda,Procuraduría Regional de Risaralda
+v3_gp_002,Ingresos propios como porcentaje de ingresos totales,Nu,FINANZAS PÚBLICAS,INGRESOS,NA,NA
+v3_gp_004,Transferencias totales como porcentaje de ingreso total,Nu,FINANZAS PÚBLICAS,INGRESOS,NA,NA
+v3_gp_005,Gasto inversión como porcentaje del gasto total,Nu,FINANZAS PÚBLICAS,INGRESOS,NA,NA
+v3_gp_007,Saldo de la deuda sobre ingresos corrientes,Nu,FINANZAS PÚBLICAS,DEUDA,NA,NA
+v3_gp_008,Porcentaje de población que se siente satisfecho o muy satisfecho  con la forma como la alcaldía invierte los recursos,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de percepción ciudadana, Pereira Cómo Vamos","Encuesta de percepción ciudadana, Pereira Cómo Vamos"
+v3_gp_009,Porcentaje de ciudadanos que califica la gestión del alcalde con 4 o 5 en escala de 1  a 5,Nu,PERCEPCIÓN CIUDADANA,PERCEPCIÓN CIUDADANA,"Encuesta de percepción ciudadana, Pereira Cómo Vamos","Encuesta de percepción ciudadana, Pereira Cómo Vamos"
+v3_gp_0_1,Porcentaje de  Inversión sobre gastos totales,Nu,FINANZAS PÚBLICAS,GASTOS,NA,NA
+v3_gp_0_2,Inversión Per Cápita,Nu,FINANZAS PÚBLICAS,GASTOS,NA,NA
+v3_gp_024,Índice de desempeño fiscal,Ca,FINANZAS PÚBLICAS,DESEMPEÑO,DNP,Departamento Nacional de Planeación
+v3_gp_027,Capacidad de ahorro,Nu,FINANZAS PÚBLICAS,INGRESOS,NA,NA
+v3_gp_028,Capacidad de autofinanciamiento del funcionamiento,Nu,FINANZAS PÚBLICAS,GASTOS,NA,NA
+v3_gp_0_3,Eficiencia en el recaudo,Nu,FINANZAS PÚBLICAS,GASTOS,NA,NA
+v3_gp_035_02,IPC,Nu,MACROECONÓMICO,INFLACIÓN,DANE,DANE
+v3_gp_035_05,Indicador solvencia deuda,Nu,FINANZAS PÚBLICAS,DEUDA,NA,NA
+v3_gp_0_4,Carga tributaria per cápita,Ca,FINANZAS PÚBLICAS,GASTOS,NA,NA
+v3_gp_0_5,Porcentaje del presupuesto de inversión ejecutado a través de procesos de contratación por convocatoria pública,Ca,FINANZAS PÚBLICAS,BUEN GOBIERNO,Secretaría de Hacienda,Secretaría Jurídica
+v3_gp_054_1,Número de veedurías ciudadanas vigentes/registradas,Nu,PARTICIPACIÓN CIUDADANA,VEEDURÍAS,Personaría Municipal,Personaría Municipal
+v3_gp_054_2,Porcentaje del presupuesto participativo ejecutado,Nu,PARTICIPACIÓN CIUDADANA,PRESUPUESTO PARTICIPATIVO,Secretaría de Planeación,Secretaría de Planeación
+v3_gp_0_6,Número de proponentes en procesos de convocatoria pública,Ca,FINANZAS PÚBLICAS,BUEN GOBIERNO,Secretaría Jurídica o de Contratación,Secretaría Jurídica o de Contratación
+v3_gp_0_7,Índice de Transparencia Municipal,Nu,FINANZAS PÚBLICAS,BUEN GOBIERNO,Transparencia por Colombia,Transparencia por Colombia
+v3_s_001,Cobertura en aseguramiento,Nu,SALUD,COBERTURA ASEGURAMIENTO EN SALUD,Ministerio de Salud - SISPRO,NA
+v3_s_002,Porcentaje de población que requirió el servicio de salud y accedió al mismo,Nu,SALUD,PERCEPCIÓN CIUDADANA,Encuesta de Percepción ciudadana Pereira Cómo Vamos,NA
+v3_s_003_01,Porcentaje de población que utilizó el servicio de salud y se siente satisfecha o muy  satisfecha con el servicio de salud,Nu,SALUD,PERCEPCIÓN CIUDADANA,Encuesta de Percepción ciudadana Pereira Cómo Vamos,NA
+v3_s_005,Tasa de Mortalidad materna,Nu,SALUD,SEXUAL Y REPRODUCTIVA,Secretaria de Salud Municipal,NA
+v3_s_006,Porcentaje de niños con bajo peso al nacer,Nu,SALUD,DESNUTRICIÓN Y MAL NUTRICIÓN,DANE,NA
+v3_s_006_38,Incidencia de VIH/SIDA,Nu,SALUD,INCIDENCIA DE ENFERMEDADES,Secretaria de Salud Municipal,NA
+v3_s_008,Cobertura de vacunación DPT Tercera dosis (menores de 1 año),Nu,SALUD,COBERTURA VACUNACIÓN,Ministerio de Salud,NA
+v3_s_012,Porcentaje de desnutrición crónica para menores de cinco años,Nu,SALUD,DESNUTRICIÓN Y MAL NUTRICIÓN,Secretaría de Salud Municipal,NA
+v3_s_017_03,Cobertura de vacunación TV (Triple Viral) en  1 año,Nu,SALUD,COBERTURA VACUNACIÓN,Ministerio de Salud,NA
+v3_s_022,Porcentaje Cobertura régimen Subsidiado,Nu,SALUD,COBERTURA ASEGURAMIENTO EN SALUD,Ministerio de Salud - SISPRO,NA
+v3_s_024,Porcentaje Cobertura régimen contributivo,Nu,SALUD,COBERTURA ASEGURAMIENTO EN SALUD,Ministerio de Salud - SISPRO,NA
+v3_s_025,Porcentaje  cobertura régimen de excepción,Nu,SALUD,COBERTURA ASEGURAMIENTO EN SALUD,Ministerio de Salud - SISPRO,NA
+v3_s_028,Tasa de mortalidad menores de 5 años,Nu,SALUD,MORTALIDAD INFANTIL POR CAUSAS,Secretaria de Salud Municipal,NA
+v3_s_029,población que muere por causa de la enfermedad diarreica aguda (EDA) por cada 100.000 habitantes,Nu,SALUD,MORTALIDAD INFANTIL POR CAUSAS,Secretaría de Salud Municipal,NA
+v3_s_030,población infantil que muere por causa de Infección Respiratoria Aguda (IRA) por cada 100.000 habitantes,Nu,SALUD,MORTALIDAD INFANTIL POR CAUSAS,Secretaría de Salud Municipal,NA
+v3_s_036,Número de camas por cada 1.000 habitantes de Risaralda,Nu,SALUD,CALIDAD,Secretaría de Salud Departamental,NA
+v4_e_001,Tasa de cobertura neta en educación inicial (Pre jardín y jardín),Nu,EDUCACIÓN,COBERTURA,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_002,Tasa de cobertura neta en preescolar (transición),Nu,EDUCACIÓN,COBERTURA,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_003,Tasa de cobertura neta en básica primaria,Nu,EDUCACIÓN,COBERTURA,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_004,Tasa de cobertura neta en básica secundaria,Nu,EDUCACIÓN,COBERTURA,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_005,Tasa de cobertura neta en media vocacional,Nu,EDUCACIÓN,COBERTURA,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_008_32,Porcentaje de Población en edad de trabajar (Área Metropolitana),Nu,MERCADO LABORAL,GENERAL CIUDADES Y ÁREAS METROPOLITANAS,DANE,DANE
+v4_e_0_1,Número de alumnos matriculados en Primaria oficial,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_0_10,Postgrado,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_0_11,Total Matricula sin SENA,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_012,Tasa global de cobertura bruta en educación,Nu,EDUCACIÓN,COBERTURA,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_0_12,Técnica SENA,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_013,Tasa de cobertura bruta en preescolar (transición),Nu,EDUCACIÓN,COBERTURA,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_0_13,Tecnológica SENA,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_014,Tasa de cobertura bruta en básica primaria,Nu,EDUCACIÓN,COBERTURA,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_0_14,Total Matricula SENA,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_015,Tasa de cobertura bruta en básica secundaria,Nu,EDUCACIÓN,COBERTURA,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_0_15,TOTAL MATRICULA PREGRADO,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_016,Tasa de cobertura bruta en media vocacional,Nu,EDUCACIÓN,COBERTURA,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_0_16,Porcentaje de estudiantes en Postgrado en el Sistema Universitario,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,Ministerio de Educación,Ministerio de Educación
+v4_e_0_17,Tasa global de cobertura neta en educación,Nu,EDUCACIÓN,COBERTURA,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_0_18,Relación alumnos por computador en Instituciones Educativas oficiales,Nu,EDUCACIÓN,COBERTURA,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_0_19,Colegios oficiales con acceso a Internet,Nu,EDUCACIÓN,COBERTURA,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_0_2,Número de alumnos matriculados en Primaria no oficial,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_020,Número de alumnos matriculados en Prejardin-Jardín colegio oficial,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_0_20,Ratio estudiantes /docentes (Educación Primaria),Nu,EDUCACIÓN,COBERTURA,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_021,Número de alumnos matriculados en Prejardin-Jardín colegio no oficial,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_0_21,Número de sedes educativas oficiales,Nu,EDUCACIÓN,ESTABLECIMIENTOS EDUCATIVOS,Secretaria de Educación de Pereira,Ministerio de Educación
+v4_e_0_22,Número de sedes educativas oficiales Área urbana,Nu,EDUCACIÓN,ESTABLECIMIENTOS EDUCATIVOS,NA,NA
+v4_e_0_23,Número de sedes educativas oficiales Área rural,Nu,EDUCACIÓN,ESTABLECIMIENTOS EDUCATIVOS,NA,NA
+v4_e_024,Número de alumnos matriculados en Transición colegio no oficial,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_0_24,Número de sedes educativas oficiales Total de sedes no oficiales,Nu,EDUCACIÓN,ESTABLECIMIENTOS EDUCATIVOS,NA,NA
+v4_e_025,Número de alumnos matriculados en Transición colegio oficial,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_0_25,Tasa  de deserción escolar sector público de 0 a 11,Nu,EDUCACIÓN,EFICIENCIA INTERNA,Ministerio de Educación,Secretaria de Educación de Pereira
+v4_e_0_26,"Tasa de Repetición en básica primaria, básica secundaria y media vocacional",Nu,EDUCACIÓN,EFICIENCIA INTERNA,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_0_27,Tasa de Analfabetismo personas mayores a 12 años,Ca,EDUCACIÓN,ANALFABETISMO,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_0_28,Duración de estudios por nivel primaria,Nu,EDUCACIÓN,AÑOS DE EDUCACIÓN,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_029,"Tasa de deserción escolar básica primaria, básica secundaria y media vocacional.",Nu,EDUCACIÓN,EFICIENCIA INTERNA,Secretaria de Educación de Pereira,Ministerio de Educación (SIMAT)
+v4_e_0_29,Duración de estudios por nivel secundaria,Nu,EDUCACIÓN,AÑOS DE EDUCACIÓN,NA,NA
+v4_e_029_01,Deserción Transición,Nu,EDUCACIÓN,EFICIENCIA INTERNA,NA,NA
+v4_e_029_02,Deserción Primaria,Nu,EDUCACIÓN,EFICIENCIA INTERNA,NA,NA
+v4_e_029_03,Deserción Secundaria,Nu,EDUCACIÓN,EFICIENCIA INTERNA,NA,NA
+v4_e_029_04,Deserción Media,Nu,EDUCACIÓN,EFICIENCIA INTERNA,NA,NA
+v4_e_029_05,Deserción Básica,Nu,EDUCACIÓN,EFICIENCIA INTERNA,NA,NA
+v4_e_029_06,Tasa de deserción Educación Superior (RISARALDA),Nu,EDUCACIÓN,EFICIENCIA INTERNA,Ministerio de Educación,Ministerio de Educación
+v4_e_0_3,Número de alumnos matriculados en Secundaria oficial,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_0_30,Años promedio de educación población,Nu,EDUCACIÓN,AÑOS DE EDUCACIÓN,Ministerio de Educación,Ministerio de Educación
+v4_e_0_31,Resultados  lenguaje 5 grado,Nu,EDUCACIÓN,CALIDAD DE LA EDUCACIÓN,ICFES,ICFES
+v4_e_0_32,Resultados Lenguaje 9 grado,Ca,EDUCACIÓN,CALIDAD DE LA EDUCACIÓN,NA,NA
+v4_e_0_33,Resultados Matemáticas 5 grado,Nu,EDUCACIÓN,CALIDAD DE LA EDUCACIÓN,NA,NA
+v4_e_0_34,Resultados Matemáticas 9 grado,Nu,EDUCACIÓN,CALIDAD DE LA EDUCACIÓN,NA,NA
+v4_e_0_35,Resultados Lenguaje grado 11,Nu,EDUCACIÓN,CALIDAD DE LA EDUCACIÓN,ICFES,ICFES
+v4_e_0_36,Resultados Inglés grado 11,Nu,EDUCACIÓN,CALIDAD DE LA EDUCACIÓN,NA,NA
+v4_e_0_37,Resultados Matemáticas grado 11,Nu,EDUCACIÓN,CALIDAD DE LA EDUCACIÓN,NA,NA
+v4_e_0_38,Puntaje promedio pruebas saber colegios Oficiales,Nu,EDUCACIÓN,CALIDAD DE LA EDUCACIÓN,NA,NA
+v4_e_0_39,Puntaje promedio pruebas saber colegios No oficiales,Nu,EDUCACIÓN,CALIDAD DE LA EDUCACIÓN,NA,NA
+v4_e_0_4,Número de alumnos matriculados en Secundaria no oficial,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_0_40,Porcentaje de estudiantes en nivel superior en colegios oficiales,Nu,EDUCACIÓN,CALIDAD DE LA EDUCACIÓN,NA,NA
+v4_e_0_41,Porcentaje de estudiantes en nivel superior en colegios no oficiales,Nu,EDUCACIÓN,CALIDAD DE LA EDUCACIÓN,NA,NA
+v4_e_0_42,Porcentaje de estudiantes en nivel muy superior en colegios oficiales,Nu,EDUCACIÓN,CALIDAD DE LA EDUCACIÓN,NA,NA
+v4_e_0_43,Porcentaje de estudiantes en nivel muy superior en colegios no oficiales,Nu,EDUCACIÓN,CALIDAD DE LA EDUCACIÓN,NA,NA
+v4_e_0_44,Porcentaje de estudiantes de 11° con dominio del ingles con nivel B1 o B+,Nu,EDUCACIÓN,CALIDAD DE LA EDUCACIÓN,ICFES,ICFES
+v4_e_0_49,Tasa de asistencia escolar de 5 a 16 años,Nu,EDUCACIÓN,ASISTENCIA ESCOLAR,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_e_0_5,Número de alumnos matriculados en Media oficial,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_0_50,Tasa de cobertura bruta en Educación Superior,Ca,EDUCACIÓN,EDUCACIÓN SUPERIOR,Ministerio de Educación,Ministerio de Educación
+v4_e_0_52,Deserción,Nu,EDUCACIÓN,EDUCACIÓN SUPERIOR,Ministerio de Educación,Ministerio de Educación
+v4_e_0_53,Oferta de programas por acreditados,Nu,EDUCACIÓN,EDUCACIÓN SUPERIOR,Ministerio de Educación,Ministerio de Educación
+v4_e_0_54,Oferta de programas no  acreditados,Nu,EDUCACIÓN,EDUCACIÓN SUPERIOR,NA,NA
+v4_e_0_56,"Número de graduados Agronomía, Veterinaria y afines",Nu,EDUCACIÓN,EDUCACIÓN SUPERIOR,Ministerio de Educación,Ministerio de Educación
+v4_e_0_57,Número de graduados Bellas Artes,Nu,EDUCACIÓN,EDUCACIÓN SUPERIOR,NA,NA
+v4_e_0_58,Número de graduados Ciencias de la Educación,Nu,EDUCACIÓN,EDUCACIÓN SUPERIOR,NA,NA
+v4_e_0_59,Número de graduados Ciencias de la Salud,Nu,EDUCACIÓN,EDUCACIÓN SUPERIOR,NA,NA
+v4_e_0_6,Número de alumnos matriculados en Media no oficial,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_0_60,Número de graduados Ciencias Sociales y Humanas,Nu,EDUCACIÓN,EDUCACIÓN SUPERIOR,NA,NA
+v4_e_0_61,"Número de graduados Economía, Administración, Contaduría y afines",Nu,EDUCACIÓN,EDUCACIÓN SUPERIOR,NA,NA
+v4_e_0_62,"Número de graduados Ingeniería, Arquitectura, Urbanismo y afines",Nu,EDUCACIÓN,EDUCACIÓN SUPERIOR,NA,NA
+v4_e_0_63,Número de graduados Matemáticas y Ciencia Naturales,Nu,EDUCACIÓN,EDUCACIÓN SUPERIOR,NA,NA
+v4_e_0_64,Número de graduados Tasa de estudiantes de pregrado,Nu,EDUCACIÓN,EDUCACIÓN SUPERIOR,Ministerio de Educación,SNIES
+v4_e_0_65,Tasa de estudiantes de posgrado,Nu,EDUCACIÓN,EDUCACIÓN SUPERIOR,Ministerio de Educación,SNIES
+v4_e_0_7,Número de alumnos matriculados en educación superior,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,Ministerio de Educación,Ministerio de Educación
+v4_e_0_8,Tecnológica,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_0_9,Universitaria,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_1_1,Número de alumnos matriculados (Matrícula Total),Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,Ministerio de Educación
+v4_e_114,Número de alumnos matriculados (Matrícula Total) no oficial,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_114_1,Número de alumnos matriculados en colegios No oficial,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_115,Número de alumnos matriculados (Matrícula Total) oficial,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_115_1,Número de alumnos matriculados en colegio Oficial,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+V4-e_116,Número de alumnos matriculados (Matrícula Total) urbana,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_117,Número de alumnos matriculados (Matrícula Total) rural,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_118,Número de alumnos matriculados en Prejardin-Jardín,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_118_1,Número de alumnos matriculados en Prescolar,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,Secretaria de Educación de Pereira,Secretaria de Educación
+v4_e_119,Número de alumnos matriculados en Transición,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,NA,NA
+v4_e_120,Número de alumnos matriculados en Primaria,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,Secretaria de Educación de Pereira,Ministerio de Educación
+v4_e_121,Número de alumnos matriculados en Secundaria,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,Secretaria de Educación de Pereira,NA
+v4_e_122,Número de alumnos matriculados en Media,Nu,EDUCACIÓN,NUMERO DE ALUMNOS MATRICULADOS EN PEREIRA,Secretaria de Educación de Pereira,NA
+v4_e_130,Tasa de cobertura bruta en educación inicial (Pre jardín y jardín),Nu,EDUCACIÓN,COBERTURA,Secretaria de Educación de Pereira,Secretaria de Educación de Pereira
+v4_ee_001,Tasa de inflación,Nu,MACROECONÓMICO,INFLACIÓN,DANE,DANE
+v4_ee_0_1,Inflación Alimentos,Nu,MACROECONÓMICO,INFLACIÓN,DANE,DANE
+v4_ee_0_10,Participación PIB Nacional,Nu,MACROECONÓMICO,PRODUCCIÓN,Cálculos de la Cámara de Comercio,Cálculos de la Cámara de Comercio
+v4_ee_0_12,Diferencia entre el número de sociedades creadas y el número de sociedades liquidadas,Nu,DINÁMICA EMPRESARIAL,EMPRESARIAL,Cámara de Comercio,Cámara de Comercio
+v4_ee_0_13,Variación % neta entre el número de empresas constituidas,Nu,DINÁMICA EMPRESARIAL,EMPRESARIAL,Cámara de Comercio,Cámara de Comercio
+v4_ee_0_14,Variación % neta entre el número de empresas  liquidadas,Nu,DINÁMICA EMPRESARIAL,EMPRESARIAL,Cámara de Comercio,Cámara de Comercio
+v4_ee_0_2,Inflación Vivienda,Nu,MACROECONÓMICO,INFLACIÓN,NA,NA
+v4_ee_0_3,Inflación Vestuario,Nu,MACROECONÓMICO,INFLACIÓN,NA,NA
+v4_ee_0_4,Inflación Salud,Nu,MACROECONÓMICO,INFLACIÓN,NA,NA
+v4_ee_0_5,Inflación Educación,Nu,MACROECONÓMICO,INFLACIÓN,NA,NA
+v4_ee_0_6,Inflación Esparcimiento,Nu,MACROECONÓMICO,INFLACIÓN,NA,NA
+v4_ee_0_7,Inflación Transporte,Nu,MACROECONÓMICO,INFLACIÓN,NA,NA
+v4_ee_0_8,Inflación Comunicaciones,Nu,MACROECONÓMICO,INFLACIÓN,NA,NA
+v4_ee_0_9,Inflación Otros gastos,Nu,MACROECONÓMICO,INFLACIÓN,NA,NA
+v5_ml_001,Tasa Global de Participación (Área Metropolitana),Nu,MERCADO LABORAL,GENERAL CIUDADES Y ÁREAS METROPOLITANAS,DANE,DANE
+v5_ml_001_1,Tasa de crecimiento del empleo (Área Metropolitana),Nu,MERCADO LABORAL,GENERAL CIUDADES Y ÁREAS METROPOLITANAS,DANE,DANE
+v5_ml_002,Tasa de Ocupación (Área Metropolitana),Nu,MERCADO LABORAL,GENERAL CIUDADES Y ÁREAS METROPOLITANAS,DANE,DANE
+v5_ml_003,Tasa  de informalidad (Área Metropolitana),Ca,MERCADO LABORAL,GENERAL CIUDADES Y ÁREAS METROPOLITANAS,DANE,DANE
+v5_ml_004,Tasa de Desempleo (Área Metropolitana),Nu,MERCADO LABORAL,GENERAL CIUDADES Y ÁREAS METROPOLITANAS,DANE,DANE
+v5_ml_004_03,Tasa de subempleo subjetivo (Área Metropolitana),Nu,MERCADO LABORAL,GENERAL CIUDADES Y ÁREAS METROPOLITANAS,DANE,DANE
+v5_ml_005,Tasa de desempleo juvenil (15- 25 años),Nu,MERCADO LABORAL,GENERAL CIUDADES Y ÁREAS METROPOLITANAS,DANE,DANE
+v5_ml_010,Tasa de subempleo objetivo (Área Metropolitana),Nu,MERCADO LABORAL,GENERAL CIUDADES Y ÁREAS METROPOLITANAS,DANE,DANE
+v6_sc_001_03,Número de muertes violentas por tipo,Nu,SEGURIDAD,HOMICIDIOS Y MUERTES VIOLENTAS,Policía Nacional,Policía Nacional
+v6_sc_001_60,Tasa de lesionados en accidentes de tránsito,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,Instituto Nacional de Medicina Legal,Instituto Nacional de Medicina Legal
+v6_sc_001_73,Número de hurto de vehículos,Nu,SEGURIDAD,DELITOS DE IMPACTO,Policía Nacional,Policía Nacional
+v6_sc_001_76,Número de hurto de motocicletas,Nu,SEGURIDAD,DELITOS DE IMPACTO,Policía Nacional,Policía Nacional
+v6_sc_001_77,Hurto a personas,Nu,SEGURIDAD,DELITOS DE IMPACTO,Policía Nacional,Policía Nacional
+v6_sc_001_82,Tasa Hurto a establecimientos comerciales y Bancos,Nu,SEGURIDAD,DELITOS DE IMPACTO,Policía Nacional,Policía Nacional
+v6_sc_001_85,Tasa Hurto a personas,Nu,SEGURIDAD,DELITOS DE IMPACTO,Policía Nacional,Policía Nacional
+v6_sc_001_86,Tasa Hurto a residencias,Nu,SEGURIDAD,DELITOS DE IMPACTO,Policía Nacional,Policía Nacional
+v6_sc_004,Porcentaje de personas victimas de hurto en la vía pública,Nu,SEGURIDAD,DELITOS DE IMPACTO,DANE,DANE - Encuesta de convivencia y seguridad ciudadana
+v6_sc_005,Tasa de homicidios,Nu,SEGURIDAD,HOMICIDIOS Y MUERTES VIOLENTAS,Instituto Nacional de Medicina Legal,Instituto Nacional de Medicina Legal
+v6_sc_005_51,Tasa de hurto de vehículos,Nu,SEGURIDAD,DELITOS DE IMPACTO,Policía Nacional,Policía Nacional
+v6_sc_005_52,Tasa de hurto de motocicletas,Nu,SEGURIDAD,DELITOS DE IMPACTO,Policía Nacional,Policía Nacional
+v6_sc_007,Tasa de homicidios de personas entre 15 y 24 años de edad,Nu,SEGURIDAD,HOMICIDIOS Y MUERTES VIOLENTAS,Policía Nacional,Instituto Nacional de Medicina Legal
+v6_sc_008_01,Número de homicidios de personas entre 15 y 24 años de edad,Nu,SEGURIDAD,HOMICIDIOS Y MUERTES VIOLENTAS,Policía Nacional,Instituto Nacional de Medicina Legal
+v6_sc_0_1,Tasa de hurto con violencia (rapiña),Nu,SEGURIDAD,HOMICIDIOS Y MUERTES VIOLENTAS,Instituto Nacional de Medicina Legal,Policía Nacional
+v6_sc_010,Porcentaje de ciudadanos que fue extorsionado o lo han intentado extorsionar,Nu,SEGURIDAD,DELITOS DE IMPACTO,DANE,DANE
+v6_sc_0_11,Tasa de adolescentes infractores de la Ley Penal  por cada 1.000 adolescentes de  (14 a 17 años),Ca,SEGURIDAD,MENOR INFRACTOR DE LA LEY PENAL,ICBF,ICBF
+v6_sc_0_12,Porcentaje de adolescentes vinculados a procesos judiciales que reinciden (14 a 17 años),Nu,SEGURIDAD,MENOR INFRACTOR DE LA LEY PENAL,ICBF,ICBF
+v6_sc_0_13,"Cárcel ""La Cuarenta"" (capacidad)",Ca,SEGURIDAD,SITUACIÓN CARCELARIA,INPEC,Reclusorio de hombres
+v6_sc_0_14,"Total Población Cárcel ""La Cuarenta""",Nu,SEGURIDAD,SITUACIÓN CARCELARIA,NA,NA
+v6_sc_0_15,"Nivel de HacinamientoCárcel ""La Cuarenta""",Nu,SEGURIDAD,SITUACIÓN CARCELARIA,NA,NA
+v6_sc_0_16,"Cárcel ""El Buen Pastor""",Nu,SEGURIDAD,SITUACIÓN CARCELARIA,INPEC,Reclusorio de mujeres
+v6_sc_0_17,"Total Población Cárcel ""El Buen Pastor""",Nu,SEGURIDAD,SITUACIÓN CARCELARIA,NA,NA
+v6_sc_0_18,"Nivel de HacinamientoCárcel ""El Buen Pastor""",Nu,SEGURIDAD,SITUACIÓN CARCELARIA,NA,NA
+v6_sc_0_19,Porcentaje de población que fue víctima de un delito en los últimos 12 meses,Nu,SEGURIDAD,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos",Encuesta de Percepción Ciudadana Pereira Cómo Vamos
+v6_sc_0_2,Número de personas asesinadas,Nu,SEGURIDAD,HOMICIDIOS Y MUERTES VIOLENTAS,NA,NA
+v6_sc_0_20,Porcentaje de ciudadanos que fueron víctimas de algún delito y denunciaron el hecho,Nu,SEGURIDAD,PERCEPCIÓN CIUDADANA,"Encuesta de percepción ciudadana, Pereira Cómo Vamos",Encuesta de Percepción ciudadana Pereira Cómo Vamos
+v6_sc_0_21,Porcentaje de ciudadanos que se sienten seguros o muy seguros en la ciudad,Nu,SEGURIDAD,PERCEPCIÓN CIUDADANA,"Encuesta de percepción ciudadana, Pereira Cómo Vamos",Encuesta de Percepción ciudadana Pereira Cómo Vamos
+v6_sc_024,Número de Secuestros,Nu,SEGURIDAD,DELITOS DE IMPACTO,Policía Nacional,Policía Nacional
+v6_sc_027,Lesiones personales,Nu,SEGURIDAD,DELITOS DE IMPACTO,Policía Nacional,Instituto Nacional de Medicina Legal
+v6_sc_028,Corregimientos con mayor incidencia de homicidios,Nu,SEGURIDAD,HOMICIDIOS Y MUERTES VIOLENTAS,NA,NA
+v6_sc_028_1,Corregimientos con mayor incidencia de homicidios,Nu,SEGURIDAD,DELITOS DE IMPACTO,Policía Nacional,Instituto Nacional de Medicina Legal
+v6_sc_0_3,Número de suicidios,Nu,SEGURIDAD,HOMICIDIOS Y MUERTES VIOLENTAS,NA,NA
+v6_sc_036,Número de personas muertas accidentalmente,Nu,SEGURIDAD,HOMICIDIOS Y MUERTES VIOLENTAS,NA,NA
+v6_sc_0_4,Víctimas de homicidios 0-17,Nu,SEGURIDAD,HOMICIDIOS Y MUERTES VIOLENTAS,Policía Nacional - Medicina Legal,Policía Nacional
+v6_sc_0_5,Víctimas de homicidios 18-34,Nu,SEGURIDAD,HOMICIDIOS Y MUERTES VIOLENTAS,NA,NA
+v6_sc_0_6,Víctimas de homicidios 35-49,Nu,SEGURIDAD,HOMICIDIOS Y MUERTES VIOLENTAS,NA,NA
+v6_sc_0_7,Víctimas de homicidios 50-64,Nu,SEGURIDAD,HOMICIDIOS Y MUERTES VIOLENTAS,NA,NA
+v6_sc_0_8,Víctimas de homicidios 65+,Nu,SEGURIDAD,HOMICIDIOS Y MUERTES VIOLENTAS,NA,NA
+v6_sc_0_9,Víctimas de homicidios SI,Nu,SEGURIDAD,HOMICIDIOS Y MUERTES VIOLENTAS,NA,NA
+v7_v_001_77,Consumo anual de energía eléctrica per cápita,Nu,ENERGÍA,EFICIENCIA EN EL USO DE LA ENERGÍA,Empresa de Energía de Pereira,Empresa de Energía de Pereira
+v7_v_003,Cobertura Acueducto,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,Aguas y Aguas de Pereira,Aguas y Aguas de Pereira
+v7_v_003_1,Número de personas con acceso al servicio de acueducto en la ciudad de Pereira por estrato socioeconómico,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,Aguas y Aguas de Pereira,Aguas y Aguas de Pereira
+v7_v_003_2,Cobertura Acueducto estrato Bajo bajo,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v7_v_003_3,Cobertura Acueducto estrato Bajo,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v7_v_003_4,Cobertura Acueducto estrato Medio bajo,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v7_v_003_5,Cobertura Acueducto estrato Medio,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v7_v_003_6,Cobertura Acueducto estrato Medio alto,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v7_v_003_7,Cobertura Acueducto estrato Alto,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v7_v_005,Agua no contabilizada,Nu,AGUA,EFICIENCIA EN LA PRESTACIÓN DEL SERVICIO DEL AGUA,Aguas y Aguas,Aguas y Aguas
+v7_v_006,Cobertura Alcantarillado,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,Aguas y Aguas de Pereira,Aguas y Aguas de Pereira
+v7_v_006_1,Número de hogares con acceso al servicio de alcantarillado,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,Aguas y Aguas de Pereira,Aguas y Aguas de Pereira
+v7_v_006_2,Cobertura Alcantarillado estrato Bajo bajo,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v7_v_006_3,Cobertura Alcantarillado estrato Bajo,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v7_v_006_4,Cobertura Alcantarillado estrato Medio bajo,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v7_v_006_5,Cobertura Alcantarillado estrato Medio,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v7_v_006_6,Cobertura Alcantarillado estrato Medio alto,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v7_v_006_7,Cobertura Alcantarillado estrato Alto,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v7_v_008,Cobertura de Aseo,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,ATESA,ATESA
+v7_v_0_1,% de personas con  otra forma de tenencia de vivienda,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,TENENCIA DE VIVIENDA,Secretaría de Planeación,Secretaría de Gestión Inmobiliaria
+v7_v_0_10,Vivienda no VIS,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,VIVIENDAS NUEVAS,NA,NA
+v7_v_010_1,Número de hogares con acceso al servicio de energía eléctrica,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,Empresa de Energía de Pereira
+v7_v_010_10,Promedio diario de consumo de kWh,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v7_v_010_8,Consumo anual de kWh facturados y promedio mensual de consumo en la ciudad,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,Aguas y Aguas de Pereira,Empresa de Energía de Pereira
+v7_v_010_9,Promedio mensual de consumo de kWh,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v7_v_0_11,Viviendas VIP,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,VIVIENDAS NUEVAS,NA,NA
+v7_v_0_12,Total Viviendas Unifamiliares,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,VIVIENDAS NUEVAS,NA,NA
+v7_v_013,Déficit cuantitativo,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,DÉFICIT DE VIVIENDA,Secretaría de Planeación,Secretaría de Gestión Inmobiliaria
+v7_v_0_13,Total Viviendas Multifamiliares,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,VIVIENDAS NUEVAS,NA,NA
+v7_v_014,Déficit cualitativo,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,DÉFICIT DE VIVIENDA,Secretaría de Planeación,Secretaría de Gestión Inmobiliaria
+v7_v_0_14,Número Subsidios Vivienda Interés Social                  (El informe de gestión se hace tanto con recursos propios y otorgados por el Gobierno Nacional),Nu,VIVIENDA Y SERVICIOS PÚBLICOS,VIVIENDAS NUEVAS,Comfamiliar Risaralda,Comfamiliar Risaralda
+v7_v_0_15,Valor Subsidios Vivienda Interés Social con Recursos Comfamiliar Risaralda,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,VIVIENDAS NUEVAS,Comfamiliar Risaralda,Comfamiliar Risaralda
+v7_v_0_16,Número Subsidios Vivienda Interés Social con Recursos Gobierno Nacional,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,VIVIENDAS NUEVAS,Comfamiliar Risaralda,Comfamiliar Risaralda
+v7_v_017,% de personas con vivienda propia,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,TENENCIA DE VIVIENDA,Secretaría de Planeación,Secretaría de Gestión Inmobiliaria
+v7_v_0_17,Valor Subsidios Vivienda Interés Social con Recursos Gobierno Nacional,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,VIVIENDAS NUEVAS,Comfamiliar Risaralda,Comfamiliar Risaralda
+v7_v_0_18,Participación porcentual de la VIS en total de unidades de vivienda licenciadas,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,VIVIENDAS NUEVAS,DANE,DANE
+v7_v_0_2,Número de viviendas reubicadas o relocalizadas,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,DÉFICIT DE VIVIENDA,Secretaría de Planeación,Secretaría de Planeación
+v7_v_021,% de personas con vivienda  en arriendo,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,TENENCIA DE VIVIENDA,Secretaría de Planeación,Secretaría de Gestión Inmobiliaria
+v7_v_021_01,Número de hogares con acceso a gas domiciliario,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,EFIGAS
+v7_v_021_08,Cobertura del servicio de Gas Domiciliario estrato Número de usuarios de Telefonía Fija,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,Ministerio de Tecnologías de la Información y las Comunicaciones (construcción propia),Ministerio de Tecnologías de la Información y las Comunicaciones (construcción propia)
+v7_v_0_3,Número de  asentamientos (viviendas) de origen formal,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,CALIDAD DE LA CONSTRUCCIÓN,"Secretaría de Planeación, curadurías,",Secretaría de Planeación
+v7_v_0_33,Número de usuarios de Internet Residencial,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,ACCESO A LA INFORMACIÓN Y TELECOMUNICACIONES,Ministerio de Tecnologías de la Información y las Comunicaciones,Ministerio de Tecnologías de la Información y las Comunicaciones
+v7_v_0_36,Porcentaje de personas que se encuentran satisfechas o muy satisfechas con la vivienda que habitan,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v7_v_0_37,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servicio de acueducto,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v7_v_0_38,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servicio de alcantarillado,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v7_v_0_39,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servicio de Aseo,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v7_v_0_4,Metros cuadrados en Asentamientos,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,CALIDAD DE LA CONSTRUCCIÓN,NA,NA
+v7_v_0_40,Porcentaje de población que se manifiesta estar satisfecho o muy satisfecho con el servicio de Energía,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,PERCEPCIÓN CIUDADANA,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos","Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v7_v_0_5,Tasa de crecimiento unidades VIS iniciadas,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,VIVIENDAS NUEVAS,CAMACOL,Cálculo propio - DANE
+v7_v_051,Número de viviendas ubicadas en zonas de alto riesgo desagregadas por tipos de riesgo,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,VULNERABILIDAD,Secretaría de Planeación,Carder
+v7_v_053,Número de  asentamientos (viviendas) de origen informal,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,CALIDAD DE LA CONSTRUCCIÓN,Secretaría de Gobierno y Secretaría de Planeación,Secretaría de Gobierno - Control Físico
+v7_v_0_6,Tasa de crecimiento unidades NO VIS iniciadas,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,VIVIENDAS NUEVAS,CAMACOL,Cálculo propio - DANE
+v7_v_0_7,Tasa de crecimiento unidades VIP iniciadas,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,VIVIENDAS NUEVAS,CAMACOL,Cálculo propio - DANE
+v7_v_0_8,Viviendas Nuevas,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,VIVIENDAS NUEVAS,"CAMACOL, DANE, Ministerio de Vivienda",DANE
+v7_v_0_9,Viviendas VIS,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,VIVIENDAS NUEVAS,NA,NA
+v8_ma_002,Consumo anual de agua per cápita,Nu,AGUA,EFICIENCIA EN EL USO DEL AGUA,Aguas y Aguas,Aguas y Aguas
+v8_ma_002_0,Consumo anual de metros cúbicos facturados y promedio mensual de consumo en la ciudad,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,Aguas y Aguas de Pereira,Aguas y Aguas de Pereira
+v8_ma_002_1,Promedio mensual de consumo de m3,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v8_ma_002_10,Promedio Consumo mensual (metros cúbicos) por tipo,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,Aguas y Aguas de Pereira - SUI,Aguas y Aguas de Pereira
+v8_ma_002_11,Promedio Consumo mensual estrato BAJO-BAJO,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v8_ma_002_12,Promedio Consumo mensual estrato BAJO,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v8_ma_002_13,Promedio Consumo mensual estrato MEDIO BAJO,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v8_ma_002_14,Promedio Consumo mensual estrato MEDIO,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v8_ma_002_15,Promedio Consumo mensual estrato MEDIO ALTO,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v8_ma_002_16,Promedio Consumo mensual estrato ALTO,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v8_ma_002_17,Porcentaje de agua tratada no contabilizada en facturación,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,Empresas de Servicios Públicos,Aguas y Aguas de Pereira
+v8_ma_002_2,Promedio diario de consumo de m3,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v8_ma_002_3,Valor por metro cúbico de agua de consumo básico  por estratos,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,Aguas y Aguas de Pereira,Aguas y Aguas de Pereira
+v8_ma_002_4,Valor por metro cúbico de agua  estrato BAJO-BAJO,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v8_ma_002_5,Valor por metro cúbico de agua  estrato BAJO,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v8_ma_002_6,Valor por metro cúbico de agua  estrato MEDIO BAJO,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v8_ma_002_7,Valor por metro cúbico de agua  estrato MEDIO,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v8_ma_002_8,Valor por metro cúbico de agua  estrato MEDIO ALTO,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v8_ma_002_9,Valor por metro cúbico de agua  estrato ALTO,Nu,VIVIENDA Y SERVICIOS PÚBLICOS,SERVICIOS PÚBLICOS,NA,NA
+v8_ma_004,Generación de residuos sólidos urbanos de los habitantes de Pereira,Nu,GESTIÓN DE RECURSOS SÓLIDOS,COBERTURA DE RECOLECCIÓN DE RESIDUOS SÓLIDOS,Empresa de Aseo de Pereira- ATESA,ATESA
+v8_ma_0_1,Número de hogares con conexiones domiciliarias de agua por red,Nu,AGUA,COBERTURA DEL AGUA,Aguas y Aguas,Aguas y Aguas
+v8_ma_0_10,Total de metros cúbicos de gas natural,Nu,ENERGÍA,EFICIENCIA EN EL USO DE LA ENERGÍA,Efigás y Área Metropolitana,Efigas
+v8_ma_0_11,Porcentaje de energías renovables sobre el total del consumo eléctrico,Nu,ENERGÍA,ENERGÍAS ALTERNATIVAS Y RENOVABLES,Empresa de Energía de Pereira,Empresa de Energía de Pereira
+v8_ma_0_12,Uso de energía de fuentes renovables no convencionales,Nu,ENERGÍA,ENERGÍAS ALTERNATIVAS Y RENOVABLES,Empresa de Energía de Pereira,Empresa de Energía de Pereira
+v8_ma_0_13,Empresas que cumplen con las normas de calidad del aire,Nu,RUIDO,CONCENTRACIÓN DE CONTAMINANTES EN EL AIRE,CARDER,CARDER
+v8_ma_0_14,Vehículos que cumplen con las normas de emisión de gases,Nu,RUIDO,CONCENTRACIÓN DE CONTAMINANTES EN EL AIRE,Diagnosticentros,Diagnosticentros
+v8_ma_015,Calidad de agua,Nu,AGUA,EFICIENCIA EN LA PRESTACIÓN DEL SERVICIO DEL AGUA,Aguas y Aguas,Aguas y Aguas
+v8_ma_015_1,Oferta disponible de metros cúbicos de agua anual superficial,Nu,AGUA,OFERTA DE AGUA,Aguas y Aguas,CARDER
+v8_ma_0_16,"Existencia, monitoreo y cumplimiento de regulaciones sobre polución acústica",Ca,RUIDO,CONTROL DEL RUIDO,CARDER,CARDER
+v8_ma_0_17,Número de puntos críticos de generación de ruido ambiental,Ca,RUIDO,CONTROL DEL RUIDO,NA,CARDER
+v8_ma_0_2,Oferta disponible de metros cúbicos de agua anual subterránea,Nu,AGUA,OFERTA DE AGUA,CARDER,CARDER
+v8_ma_03,Porcentaje de aguas residuales que reciben tratamiento de acuerdo a normas nacionales,Nu,AGUA,TRATAMIENTO DE AGUAS RESIDUALES,Aguas y Aguas,Aguas y Aguas
+v8_ma_0_3,Porcentaje de empresas que cumplen con normas de calidad de vertimiento de agua,Nu,AGUA,TRATAMIENTO DE AGUAS RESIDUALES,CARDER,CARDER
+v8_ma_0_4,Porcentaje de la población de la ciudad con recolección regular de residuos sólidos,Nu,GESTIÓN DE RECURSOS SÓLIDOS,COBERTURA DE RECOLECCIÓN DE RESIDUOS SÓLIDOS,Secretaría de Planeación,Secretaría de Planeación
+v8_ma_0_5,Vida útil el relleno sanitario,Nu,GESTIÓN DE RECURSOS SÓLIDOS,COBERTURA DE RECOLECCIÓN DE RESIDUOS SÓLIDOS,"Empresa de Aseo de Pereira- ATESA, CARDER",CARDER
+v8_ma_05_2,Concentración de PM 11 (carder),Nu,RUIDO,CONCENTRACIÓN DE CONTAMINANTES EN EL AIRE,NA,NA
+v8_ma_0_7,Total de galones de gasolina,Ca,ENERGÍA,EFICIENCIA EN EL USO DE LA ENERGÍA,Fendipetróleo y Área Metropolitana,Área Metropolitana Centro Occidente
+v8_ma_08,Porcentaje de población afectada por desastres naturales,Nu,DESASTRES NATURALES,DESASTRES NATURALES,Sistema  Nacional de Atención y Prevención de Desastres,Unidad  Nacional de Atención y Prevención de Desastres
+v8_ma_08_1,"Porcentaje de hogares o edificaciones que han sido afectados por precipitaciones, vendavales o eventos extremos.",Ca,DESASTRES NATURALES,DESASTRES NATURALES,Oficina de Gestión de Riesgo,Unidad  Nacional de Atención y Prevención de Desastres
+v8_ma_08_2,"Hogares afectados durante precipitaciones, vendavales o eventos extremos",Nu,DESASTRES NATURALES,DESASTRES NATURALES,NA,NA
+v9_m_001_01,Número de pasajeros movilizados por transporte masivo en un año,Nu,MOVILIDAD Y ESPACIO PÚBLICO,SISTEMA DE TRANSPORTE MASIVO,Megabús,Megabús
+v9_m_002,Promedio diario de pasajeros del sistema de transporte masivo,Nu,MOVILIDAD Y ESPACIO PÚBLICO,SISTEMA DE TRANSPORTE MASIVO,DANE,Megabús
+v9_m_007_1,Número de accidentes de tránsito por cada 100.000 habitantes,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,Instituto Municipal de Tránsito,Instituto Municipal de Tránsito
+v9_m_009,Km de ciclovías exclusivas existentes,Nu,MOVILIDAD Y ESPACIO PÚBLICO,INFRAESTRUCTURA,Secretaría de Transito,Secretaría de Infraestructura
+v9_m_0_1,% de cumplimiento del promedio diario de pasajeros en el STM frente al referente Conpes *,Nu,MOVILIDAD Y ESPACIO PÚBLICO,SISTEMA DE TRANSPORTE MASIVO,Megabús,Megabús
+v9_m_0_10,parque automotor Buseta,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,NA,NA
+v9_m_0_11,parque automotor Bus,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,NA,NA
+v9_m_0_12,parque automotor Camión,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,NA,NA
+v9_m_0_13,parque automotor Volqueta,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,NA,NA
+v9_m_0_14,parque automotor Tracto-Camión,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,NA,NA
+v9_m_0_15,parque automotor Maquinaria Agrícola,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,NA,NA
+v9_m_016,Accidentes de tránsito discriminados por tipo de vehículo,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,Instituto Municipal de Tránsito,Instituto Municipal de Tránsito
+v9_m_0_16,parque automotor Otros,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,NA,NA
+v9_m_016_01,Accidentes de tránsito Automóviles,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_02,Accidentes de tránsito Motos,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_03,Accidentes de tránsito Camperos,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_04,Accidentes de tránsito Camionetas,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_05,Accidentes de tránsito Microbús,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_06,Accidentes de tránsito Buseta,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_07,Accidentes de tránsito Bus,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_08,Accidentes de tránsito Camión,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_09,Accidentes de tránsito Volqueta,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_10,Accidentes de tránsito Tracto-Camión,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_11,Accidentes de tránsito Maquinaria Agrícola,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_12,Accidentes de tránsito otros,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_13,Accidentes de tránsito por gravedad,Ca,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,Instituto Municipal de Tránsito,Instituto Municipal de Tránsito
+v9_m_016_14,Accidentes de tránsito por gravedad Choque,Ca,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_15,Accidentes de tránsito por gravedad Atropello,Ca,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_16,Accidentes de tránsito por gravedad Volcamiento,Ca,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_17,Accidentes de tránsito por gravedad Caída Ocupante,Ca,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_18,IAccidentes de tránsito por gravedad ncendio,Ca,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_016_19,Accidentes de tránsito por gravedad Otros,Ca,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_017,Tasa de Mortalidad en accidentes de tránsito,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,Instituto Nacional de Medicina Legal,Instituto Municipal de Tránsito
+v9_m_0_17,Total del parque automotor por clase,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,Instituto Municipal de Tránsito,Instituto Municipal de Tránsito
+v9_m_017_1,Total de muertes en accidentes de tránsito por tipo de víctima,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,Instituto Municipal de Tránsito,Instituto Municipal de Tránsito
+v9_m_017_2,muertes en accidentes de tránsito Peatón,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_017_3,muertes en accidentes de tránsito Pasajero,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_017_4,muertes en accidentes de tránsito Conductor,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_017_5,muertes en accidentes de tránsito Motocicleta,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_017_6,muertes en accidentes de tránsito Parrillero,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_017_7,muertes en accidentes de tránsito Ciclista,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_017_8,muertes en accidentes de tránsito  Sin información,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_18,parque automotor Vehículos Particulares,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,NA,NA
+v9_m_0_19,parque automotor Vehículos Públicos,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,NA,NA
+v9_m_0_2,Cobertura de Kilómetros troncales construidos,Nu,MOVILIDAD Y ESPACIO PÚBLICO,SISTEMA DE TRANSPORTE MASIVO,Megabús,Megabús
+v9_m_0_20,parque automotor Vehículos Oficiales,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,NA,NA
+v9_m_0_21,parque automotor Tasa de automóviles,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,Instituto Municipal de Tránsito,Instituto Municipal de Tránsito
+v9_m_0_22,parque automotor Tasa de motos,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,Instituto Municipal de Tránsito,Instituto Municipal de Tránsito
+v9_m_0_3,Estado de las vías del Megabús,Nu,MOVILIDAD Y ESPACIO PÚBLICO,SISTEMA DE TRANSPORTE MASIVO,Megabús,Megabús
+v9_m_0_33,No. de personas atropelladas,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,Instituto Municipal de Tránsito,Instituto Municipal de Tránsito
+v9_m_0_34,"Tres principales causas de accidentes de tránsito (exceso, velocidad, embriaguez)",Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,Instituto Municipal de Tránsito,Instituto Municipal de Tránsito
+v9_m_0_35,Total lesionados en accidentes de tránsito por tipo,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,Instituto Municipal de Tránsito,Instituto Municipal de Tránsito
+v9_m_0_36,Total lesionados en accidentes de tránsito  Peatón,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_37,Total lesionados en accidentes de tránsito Pasajero,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_38,Total lesionados en accidentes de tránsito Conductor,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_39,Total lesionados en accidentes de tránsito Motocicleta,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_4,Total del parque automotor por tipo,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,Instituto Municipal de Tránsito,Instituto Municipal de Tránsito
+v9_m_0_40,Total lesionados en accidentes de tránsito Parrillero,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_41,Total lesionados en accidentes de tránsito Ciclista,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_42,Porcentaje de víctimas por tipo,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,Instituto Nacional de Medicina Legal,Intituto Municipal de Tránsito
+v9_m_0_43,Porcentaje de víctimas Peatón,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_44,Porcentaje de víctimas Pasajero,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_45,Porcentaje de víctimas Conductor,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_46,Porcentaje de víctimas Motocicleta,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_47,Porcentaje de víctimas Parrillero,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_48,Porcentaje de víctimas Ciclista,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_49,Porcentaje de víctimas Sin información,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_5,parque automotor Automóviles,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,NA,NA
+v9_m_0_50,Porcentaje de lesionados por tipo,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,Instituto Nacional de Medicina Legal,NA
+v9_m_0_51,Porcentaje de lesionados Peatón,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_52,Porcentaje de lesionados Pasajero,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_53,Porcentaje de lesionados Conductor,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_54,Porcentaje de lesionados Motocicleta,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_55,Porcentaje de lesionados Parrillero,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_56,Porcentaje de lesionados Ciclista,Nu,MOVILIDAD Y ESPACIO PÚBLICO,ACCIDENTALIDAD,NA,NA
+v9_m_0_57,Variación  porcentual en el número de pasajeros del transporte público (Área Metropolitana),Nu,MOVILIDAD Y ESPACIO PÚBLICO,TRANSPORTE URBANO,DANE,DANE
+v9_m_0_58,Distribución modal  megabus,Nu,MOVILIDAD Y ESPACIO PÚBLICO,TRANSPORTE URBANO,Instituto Municipal de Tránsito,"Encuesta de Percepción Ciudadana, Pereira Cómo Vamos"
+v9_m_0_59,Distribución modal  Bus,Nu,MOVILIDAD Y ESPACIO PÚBLICO,TRANSPORTE URBANO,NA,NA
+v9_m_0_6,parque automotor Motos,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,NA,NA
+v9_m_0_60,Distribución modal  Colectivo,Nu,MOVILIDAD Y ESPACIO PÚBLICO,TRANSPORTE URBANO,NA,NA
+v9_m_0_61,Distribución modal  Taxi,Nu,MOVILIDAD Y ESPACIO PÚBLICO,TRANSPORTE URBANO,NA,NA
+v9_m_0_62,Distribución modal  Carro,Nu,MOVILIDAD Y ESPACIO PÚBLICO,TRANSPORTE URBANO,NA,NA
+v9_m_0_63,Distribución modal  Moto,Nu,MOVILIDAD Y ESPACIO PÚBLICO,TRANSPORTE URBANO,NA,NA
+v9_m_0_64,Distribución modal  A pie,Nu,MOVILIDAD Y ESPACIO PÚBLICO,TRANSPORTE URBANO,NA,NA
+v9_m_0_65,Distribución modal  Bicicleta,Nu,MOVILIDAD Y ESPACIO PÚBLICO,TRANSPORTE URBANO,NA,NA
+v9_m_0_66,Distribución modal  Otros,Nu,MOVILIDAD Y ESPACIO PÚBLICO,TRANSPORTE URBANO,NA,NA
+v9_m_0_7,parque automotor Camperos,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,NA,NA
+v9_m_0_8,parque automotor Camionetas,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,NA,NA
+v9_m_0_9,parque automotor Microbús,Nu,MOVILIDAD Y ESPACIO PÚBLICO,PARQUE AUTOMOTOR,NA,NA
+v9_m_1_016,Número de personas muertas en accidentes de tránsito,Nu,SEGURIDAD,HOMICIDIOS Y MUERTES VIOLENTAS,NA,NA

@@ -1,0 +1,258 @@
+id,label,ctype
+Anio,ano del dato,Ye
+m9_m_001_001,promedio diario y variacion en el numero de pasajeros del transporte publico urbano.,Nu
+m9_m_001_002,total pasajeros transportados en buses,Nu
+m9_m_001_003,total pasajeros transportados en busetas,Nu
+m9_m_001_004,total pasajeros transportados en microbuses-colectivos,Nu
+v1_d_001,poblacion total,Nu
+v1_d_001_02,poblacion resto,Nu
+v1_d_001_03,mortalidad mujeres,Nu
+v1_d_033_01,total defunciones,Nu
+v13_gp_004_01,ingresos tributarios percapita,Nu
+v13_gp_004_02,transferencias,Nu
+v13_gp_004_03,dependencia transferencias,Nu
+v13_gp_004_04,transferencias per capita barranquilla ($ constantes 2012),Nu
+v13_gp_004_05,total hogares (eje sec.),Nu
+v13_gp_004_06,transferencias per capita bucaramanga ($ constantes 2012),Nu
+v13_gp_004_07,transferencias per capita cartagena  ($ constantes 2012),Nu
+v13_gp_004_08,transferencias per capita medellin  ($ constantes 2012),Nu
+v2_p_001,incidencia pobreza monetaria,Nu
+v2_p_002,incidencia pobreza monetaria extrema,Nu
+v2_p_007,tasa de trabajo infantil,Nu
+v2_p_007_01,tasa de trabajo infantil ampliada por oficios del hogar (ttia),Nu
+v2_p_009,coeficiente de gini bogota multiproposito,Nu
+v3_gp_035,magnitud de la inversion,Nu
+v3_gp_035_02,ipc,Nu
+v3_gp_035_03,relacion ing. prop/ing. totales,Nu
+v3_gp_035_04,ind. de endeudamiento (sostenibilidad),Nu
+v3_gp_035_05,capacidad de pago (solvencia),Nu
+v3_gp_035_06,relacion g. func/icld,Nu
+v3_gp_035_07,ingresos propios de libre destinacion,Nu
+v3_gp_035_08,ingresos totales,Nu
+v3_gp_035_09,indice de endeudamiento (sostenibilidad),Nu
+v3_gp_035_11,i.c.l.d.,Nu
+v3_gp_035_12,gastos de funcionamiento incluido organos de control,Nu
+v3_gp_035_13,limite del gastos ley 617 de 2000,Nu
+v3_gp_035_14,relacion gf/icld,Nu
+v3_gp_035_15,inversion,Nu
+v3_gp_035_17,ingresos tributarios,Nu
+v3_s_006_01,muertes de menores de 1 ano,Nu
+v3_s_006_02,numero de nacidos muertos,Nu
+v3_s_006_03,numero de defunciones,Nu
+v3_s_006_04,numero de nacidos con bajo peso,Nu
+v3_s_006_07,"numero de casos reportados por ira en < 1 y 5 anos, su mortalidad",Nu
+v3_s_006_09,numero de casos reportados por tuberculosis y su mortalidad.,Nu
+v3_s_006_10,numero de casos reportados por dengue hemorragico y su mortalidad.,Nu
+v3_s_006_11,numero de casos reportados por cancer de cuello uterino y su mortalidad.,Nu
+v3_s_006_12,numero de casos reportados por cancer mamario y su mortalidad.,Nu
+v3_s_006_13,numero de casos reportadospor vih - sida y su mortalidad.,Nu
+v3_s_006_14,"numero de casos reportadospor vih - sida y su mortalidad, en menores de 18 anos.",Nu
+v3_s_006_15,numero de casos reportados por transmision perinatal de vih y/o hb,Nu
+v3_s_006_16,numero  de embarazos en menores de edad,Nu
+v3_s_006_17,numero total de mujeres en embarazo,Nu
+v3_s_006_18,numero total de mujeres en edad fertil,Nu
+v3_s_006_19,numero de casos reportados por mortalidad materna,Nu
+v3_s_006_20,desnutricion global ninos <5 anos,Nu
+v3_s_006_21,desnutricion cronica <5 anos,Nu
+v3_s_006_22,desnutricion aguda <5 anos,Nu
+v3_s_006_24,tasa de sobrepeso en <5 anos,Nu
+v3_s_006_25,cobertura de madres con lactancia exclusiva,Nu
+v3_s_006_26,cobertura de bcg,Nu
+v3_s_006_27,cobertura de polio,Nu
+v3_s_006_28,cobertura de pentavalente,Nu
+v3_s_006_29,cobertura triple viral 1er refuerzo,Nu
+v3_s_006_30,cobertura triple viral 2do refuerzo,Nu
+v3_s_006_31,cobertura fiebre amarilla,Nu
+v3_s_006_32,cobertura hepatitis b,Nu
+v3_s_006_33,tasa de fecundidad en adolecentes (15-19),Nu
+v3_s_006_34,tasa bruta de mortalidad = tbm,Nu
+v3_s_006_35,tasa de mortalidad materna = tmm,Nu
+v3_s_006_36,tasa de mortalidad ninos < 1 ano,Nu
+v3_s_006_37,tasa de mortalidad ninos < 5 anos,Nu
+v3_s_006_38,tasa de incidencia de vih,Nu
+v3_s_006_39,numero de bibliotecas en el municipio,Nu
+v3_s_006_40,numero de escuelas de formacion musical y artistica,Nu
+v3_s_006_41,inversion total en el sector cultura,Nu
+v3_s_006_42,% de la inversion en cultura sobre el total de la inversion municipal,Nu
+v3_s_006_43,inversion total percapita en el sector cultura (pesos),Nu
+v3_s_006_47,inversion total en el sector deporte y recreacion,Nu
+v3_s_006_48,% de la inversion en deporte y recreacion sobre el total de la inversion municipal,Nu
+v3_s_006_49,inversion total percapita en el sector deporte y recreacion (pesos),Nu
+v3_s_006_53,total ocupados,Nu
+v3_s_008_01,cobertura total de acueducto,Nu
+v3_s_008_02,cobertura de acueducto rural,Nu
+v3_s_008_03,cobertura de acueducto urbano,Nu
+v3_s_008_04,cobertura total de alcantarillado,Nu
+v3_s_008_05,cobertura de alcantarillado rural,Nu
+v3_s_008_06,cobertura de alcantarillado urbano,Nu
+v3_s_008_07,inversion total en el sector agua potable y saneamiento basico,Nu
+v3_s_008_08,% de la inversion en agua potable y saneamiento basico sobre el total de la inversion municipal,Nu
+v3_s_008_09,inversion total percapita en el sector agua potable y saneamiento basico (pesos),Nu
+v3_s_008_10,inversion en el sector con recursos del sgp agua potable y saneamiento basico,Nu
+v3_s_008_14,indice de cobertura energia cucuta en el sector rural,Nu
+v3_s_008_15,indice de cobertura energia cucuta en el sector urbano,Nu
+v3_s_008_16,indice total de cobertura energia cucuta,Nu
+v3_s_021,numero de personas afiliadas al regimen subsidiado (subsidio pleno),Nu
+v3_s_024,cobertura al regimen contributivo,Nu
+v3_s_024_01,numero de personas afiliadas al regimen contributivo,Nu
+v3_s_024_02,poblacion pobre no asegurada,Nu
+v3_s_024_03,cobertura de vacunacion de antipolio,Nu
+v3_s_024_04,"cobertura de vacunacion dpt (difteria, tetano y tosferina)",Nu
+v3_s_024_05,cobertura de vacunacion de antihepatitis b,Nu
+v3_s_024_06,cobertura de vacunacion de triple viral,Nu
+v3_s_024_07,tasa de mortalidad materna - muertes x c/100.000 n. v.,Nu
+v3_s_024_08,tasa de mortalidad infantil,Nu
+v3_s_024_09,inversion total en el sector salud,Nu
+v3_s_024_10,% de la inversion en salud sobre el total de la inversion municipal,Nu
+v3_s_024_11,inversion total percapita en el sector salud (pesos),Nu
+v3_s_024_12,inversion en el sector con recursos del sgp educacion,Nu
+v3_s_024_13,inversion en el sector con recursos del sgp proposito general,Nu
+v3_s_024_14,inversion en el sector con recursos propios,Nu
+v3_s_024_15,inversion en el sector con recursos de regalias,Nu
+v3_s_024_16,inversion en el sector con otros recursos,Nu
+v3_s_024_17,tasa bruta de mortalidad,Nu
+v4_e_001,tasa de cobertura bruta en educacion inicial,Nu
+v4_e_017_01,total matricula,Nu
+v4_e_017_02,matricula oficial,Nu
+v4_e_017_03,matricula no oficial,Nu
+v4_e_017_04,matricula zona urbana,Nu
+v4_e_017_05,matricula zona rural,Nu
+v4_e_017_06,matricula sexo femenino,Nu
+v4_e_017_07,matricula sexo masculino,Nu
+v4_e_017_08,mtricula nivel pre jardin y jardin,Nu
+v4_e_017_09,matricula nivel transicion,Nu
+v4_e_017_10,matricula nivel primaria,Nu
+v4_e_017_100,porcentaje de estudiantes en colegios no oficiales en la prueba saber 5 matematicas en nivel avanzado,Nu
+v4_e_017_101,porcentaje de estudiantes en colegios no oficiales en la prueba saber 9 matematicas en nivel insuficiente,Nu
+v4_e_017_102,porcentaje de estudiantes en colegios no oficiales en la prueba saber 9 matematicas en nivel minimo,Nu
+v4_e_017_103,porcentaje de estudiantes en colegios no oficiales en la prueba saber 9 matematicas en nivel satisfactorio,Nu
+v4_e_017_104,porcentaje de estudiantes en colegios no oficiales en la prueba saber 9 matematicas en nivel avanzado,Nu
+v4_e_017_105,porcentaje de estudiantes en colegios no oficiales en la prueba saber 5 lenguaje en nivel insuficiente,Nu
+v4_e_017_106,porcentaje de estudiantes en colegios no oficiales en la prueba saber 5 lenguaje en nivel minimo,Nu
+v4_e_017_107,porcentaje de estudiantes en colegios no oficiales en la prueba saber 5 lenguaje en nivel satisfactorio,Nu
+v4_e_017_108,porcentaje de estudiantes en colegios no oficiales en la prueba saber 5 lenguaje en nivel avanzado,Nu
+v4_e_017_109,porcentaje de estudiantes en colegios no oficiales en la prueba saber 9 lenguaje en nivel insuficiente,Nu
+v4_e_017_11,matricula nivel secundaria,Nu
+v4_e_017_110,porcentaje de estudiantes en colegios no oficiales en la prueba saber 9 lenguaje en nivel minimo,Nu
+v4_e_017_111,porcentaje de estudiantes en colegios no oficiales en la prueba saber 9 lenguaje en nivel satisfactorio,Nu
+v4_e_017_112,porcentaje de estudiantes en colegios no oficiales en la prueba saber 9 lenguaje en nivel avanzado,Nu
+v4_e_017_113,matricula oficial primera infancia grado pre y jardin,Nu
+v4_e_017_114,matricula privada primera infancia grado pre y jardin,Nu
+v4_e_017_115,matricula total primera infancia grado pre y jardin,Nu
+v4_e_017_116,cobertura bruta en educacion inicial (prejardin y jardin),Nu
+v4_e_017_12,matricula nivel media,Nu
+v4_e_017_13,matricula situacion de desplazamiento,Nu
+v4_e_017_14,matricula condicion de discapacidad,Nu
+v4_e_017_15,matricula indigenas,Nu
+v4_e_017_16,tasa de decersion escolar,Nu
+v4_e_017_17,tasa de repitencia escolar,Nu
+v4_e_017_18,tasa de cobertura neta basica y media,Nu
+v4_e_017_19,tasa de cobertura neta transicion,Nu
+v4_e_017_20,tasa de cobertura neta primaria,Nu
+v4_e_017_21,tasa de cobertura neta secundaria,Nu
+v4_e_017_22,tasa de cobertura neta educacion media,Nu
+v4_e_017_23,tasa de cobertura bruta basica y media,Nu
+v4_e_017_24,tasa de cobertura bruta transicion,Nu
+v4_e_017_25,tasa de cobertura bruta primaria,Nu
+v4_e_017_26,tasa de cobertura bruta secundaria,Nu
+v4_e_017_27,tasa de cobertura bruta educacion media,Nu
+v4_e_017_28,icfes % de establecimientos en nivel muy inferiror,Nu
+v4_e_017_29,icfes % de establecimientos en nivel inferiror,Nu
+v4_e_017_30,icfes % de establecimientos en nivel bajo,Nu
+v4_e_017_31,icfes % de establecimientos en nivel medio,Nu
+v4_e_017_32,icfes % de establecimientos en nivel alto,Nu
+v4_e_017_33,icfes % de establecimientos en nivel superior,Nu
+v4_e_017_34,icfes % de establecimientos en nivel muy superior,Nu
+v4_e_017_35,inversion total en el sector educacion,Nu
+v4_e_017_36,% de la inversion en educacion sobre el total de la inversion municipal,Nu
+v4_e_017_37,inversion total por alumno en el sector educacion (pesos),Nu
+v4_e_017_38,inversion en el sector con recursosdel sgp educacion,Nu
+v4_e_017_43,total de establecimientos educativos (educacion basica y media),Nu
+v4_e_017_44,numero de establecimeintos educativos oficiales,Nu
+v4_e_017_45,numero de establecimeintos educativos no oficiales,Nu
+v4_e_017_46,total de centros e instituciones educativas (educacion basica y media),Nu
+v4_e_017_47,numero de centros educativos,Nu
+v4_e_017_48,numero de instituciones educativas,Nu
+v4_e_017_49,"total porcentaje pruebas saber 5 - matematicas, nivel insuficiente",Nu
+v4_e_017_50,"total porcentaje pruebas saber 5 - matematicas, nivel minimo",Nu
+v4_e_017_51,"total porcentaje pruebas saber 5 - matematicas, nivel satisfactorio",Nu
+v4_e_017_52,"total porcentaje pruebas saber 5 - matematicas, nivel avanzado",Nu
+v4_e_017_53,"total porcentaje pruebas saber 9 - matematicas, nivel insuficiente",Nu
+v4_e_017_54,"total porcentaje pruebas saber 9 - matematicas, nivel minimo",Nu
+v4_e_017_55,"total porcentaje pruebas saber 9 - matematicas, nivel satisfactorio",Nu
+v4_e_017_56,"total porcentaje pruebas saber 9 - matematicas, nivel avanzado",Nu
+v4_e_017_57,"total porcentaje pruebas saber 5 - lenguaje, nivel insuficiente",Nu
+v4_e_017_58,"total porcentaje pruebas saber 5 - lenguaje, nivel minimo",Nu
+v4_e_017_59,"total porcentaje pruebas saber 5 - lenguaje, nivel satisfactorio",Nu
+v4_e_017_60,"total porcentaje pruebas saber 5 - lenguaje, nivel avanzado",Nu
+v4_e_017_61,"total porcentaje pruebas saber 9 - lenguaje, nivel insuficiente",Nu
+v4_e_017_62,"total porcentaje pruebas saber 9 - lenguaje, nivel minimo",Nu
+v4_e_017_63,"total porcentaje pruebas saber 9 - lenguaje, nivel satisfactorio",Nu
+v4_e_017_64,"total porcentaje pruebas saber 9 - lenguaje, nivel avanzado",Nu
+v4_e_017_65,porcentaje de estudiantes en colegios oficiales urbanos en la prueba saber 5 matematicas en nivel insuficiente,Nu
+v4_e_017_66,porcentaje de estudiantes en colegios oficiales urbanos en la prueba saber 5 matematicas en nivel minimo,Nu
+v4_e_017_67,porcentaje de estudiantes en colegios oficiales urbanos en la prueba saber 5 matematicas en nivel satisfactorio,Nu
+v4_e_017_68,porcentaje de estudiantes en colegios oficiales urbanos en la prueba saber 5 matematicas en nivel avanzado,Nu
+v4_e_017_69,porcentaje de estudiantes en colegios oficiales urbanos en la prueba saber 9 matematicas en nivel insuficiente,Nu
+v4_e_017_70,porcentaje de estudiantes en colegios oficiales urbanos en la prueba saber 9 matematicas en nivel minimo,Nu
+v4_e_017_71,porcentaje de estudiantes en colegios oficiales urbanos en la prueba saber 9 matematicas en nivel satisfactorio,Nu
+v4_e_017_72,porcentaje de estudiantes en colegios oficiales urbanos en la prueba saber 9 matematicas en nivel avanzado,Nu
+v4_e_017_73,porcentaje de estudiantes en colegios oficiales urbanos en la prueba saber 5 lenguaje en nivel insuficiente,Nu
+v4_e_017_74,porcentaje de estudiantes en colegios oficiales urbanos en la prueba saber 5 lenguaje en nivel minimo,Nu
+v4_e_017_75,porcentaje de estudiantes en colegios oficiales urbanos en la prueba saber 5 lenguaje en nivel satisfactorio,Nu
+v4_e_017_76,porcentaje de estudiantes en colegios oficiales urbanos en la prueba saber 5 lenguaje en nivel avanzado,Nu
+v4_e_017_77,porcentaje de estudiantes en colegios oficiales urbanos en la prueba saber 9 lenguaje en nivel insuficiente,Nu
+v4_e_017_78,porcentaje de estudiantes en colegios oficiales urbanos en la prueba saber 9 lenguaje en nivel minimo,Nu
+v4_e_017_79,porcentaje de estudiantes en colegios oficiales urbanos en la prueba saber 9 lenguaje en nivel satisfactorio,Nu
+v4_e_017_80,porcentaje de estudiantes en colegios oficiales urbanos en la prueba saber 9 lenguaje en nivel avanzado,Nu
+v4_e_017_81,porcentaje de estudiantes en colegios oficiales rurales en la prueba saber 5 matematicas en nivel insuficiente,Nu
+v4_e_017_82,porcentaje de estudiantes en colegios oficiales rurales en la prueba saber 5 matematicas en nivel minimo,Nu
+v4_e_017_83,porcentaje de estudiantes en colegios oficiales rurales en la prueba saber 5 matematicas en nivel satisfactorio,Nu
+v4_e_017_84,porcentaje de estudiantes en colegios oficiales rurales en la prueba saber 5 matematicas en nivel avanzado,Nu
+v4_e_017_85,porcentaje de estudiantes en colegios oficiales rurales en la prueba saber 9 matematicas en nivel insuficiente,Nu
+v4_e_017_86,porcentaje de estudiantes en colegios oficiales rurales en la prueba saber 9 matematicas en nivel minimo,Nu
+v4_e_017_87,porcentaje de estudiantes en colegios oficiales rurales en la prueba saber 9 matematicas en nivel satisfactorio,Nu
+v4_e_017_88,porcentaje de estudiantes en colegios oficiales rurales en la prueba saber 9 matematicas en nivel avanzado,Nu
+v4_e_017_89,porcentaje de estudiantes en colegios oficiales rurales en la prueba saber 5 lenguaje en nivel insuficiente,Nu
+v4_e_017_90,porcentaje de estudiantes en colegios oficiales rurales en la prueba saber 5 lenguaje en nivel minimo,Nu
+v4_e_017_91,porcentaje de estudiantes en colegios oficiales rurales en la prueba saber 5 lenguaje en nivel satisfactorio,Nu
+v4_e_017_92,porcentaje de estudiantes en colegios oficiales rurales en la prueba saber 5 lenguaje en nivel avanzado,Nu
+v4_e_017_93,porcentaje de estudiantes en colegios oficiales rurales en la prueba saber 9 lenguaje en nivel insuficiente,Nu
+v4_e_017_94,porcentaje de estudiantes en colegios oficiales rurales en la prueba saber 9 lenguaje en nivel minimo,Nu
+v4_e_017_95,porcentaje de estudiantes en colegios oficiales rurales en la prueba saber 9 lenguaje en nivel satisfactorio,Nu
+v4_e_017_96,porcentaje de estudiantes en colegios oficiales rurales en la prueba saber 9 lenguaje en nivel avanzado,Nu
+v4_e_017_97,porcentaje de estudiantes en colegios no oficiales en la prueba saber 5 matematicas en nivel insuficiente,Nu
+v4_e_017_98,porcentaje de estudiantes en colegios no oficiales en la prueba saber 5 matematicas en nivel minimo,Nu
+v4_e_017_99,porcentaje de estudiantes en colegios no oficiales en la prueba saber 5 matematicas en nivel satisfactorio,Nu
+v5_ml_001,tasa global de participacion,Nu
+v5_ml_002,tasa de ocupacion,Nu
+v5_ml_003,tasa de informalidad,Nu
+v5_ml_003_01,poblacion en edad de trabajar,Nu
+v5_ml_003_02,poblacion economicamente activa,Nu
+v5_ml_004,tasa de desempleo,Nu
+v5_ml_005_02,NA,Nu
+v5_ml_006_02,NA,Nu
+v6_sc_005_45,tasa de homicidios por cada 100 habitantes,Nu
+v6_sc_005_46,tasa de suicidios  por cada 100 habitantes,Nu
+v6_sc_005_47,tasa de homicidio personas entre 18 y 24 por cada 100 habitantes,Nu
+v6_sc_005_48,tasa de lesiones comunes en mujeres por cada 100 habitantes,Nu
+v6_sc_005_49,tasa de lesiones comunes en hombres por cada 100 habitantes,Nu
+v6_sc_005_50,tasa de lesiones comunes en violencia intrafamiliar por cada 100 habitantes,Nu
+v6_sc_005_51,tasa de hurto a automoviles por cada 100 habitantes,Nu
+v6_sc_005_52,tasa de hurto a motocicletas por cada 100 habitantes,Nu
+v6_sc_005_53,tasa de hurto a personas por cada 100 habitantes,Nu
+v6_sc_005_54,tasa de extorsion por cada 100 habitantes,Nu
+v6_sc_005_55,tasa de causa de muerte por arma de fuego por cada 100 habitantes,Nu
+v6_sc_005_56,tasa de causa de muerte por arma blanca por cada 100 habitantes,Nu
+v6_sc_005_57,tasa de causa de muerte por otro por cada 100 habitantes,Nu
+v6_sc_005_58,adolescentes aprehendidos (14-17 anos),Nu
+v6_sc_008,tasa de adolescentes capturados por cada mil adolescentes (14 a 17 anos),Nu
+v7_v_003,tasa de cobertura del servicio de acueducto,Nu
+v7_v_005,porcentaje de agua tratada no contabilizada en facturacion,Nu
+v7_v_006,tasa de cobertura alcantarillado sanitario,Nu
+v7_v_006_01,% de la inversion en el sector vivienda sobre el total de la inversion minicipal,Nu
+v7_v_006_02,inversion total percapita en el sector vivienda (pesos),Nu
+v8-ma-01_01,inversion total en el sector ambiente,Nu
+v8-ma-01_02,% de la inversion en el sector ambiente sobre el total de la inversion municipal,Nu
+v8-ma-01_03,inversion total percapita en el sector ambiente (pesos),Nu
+<NA>,NA,Nu

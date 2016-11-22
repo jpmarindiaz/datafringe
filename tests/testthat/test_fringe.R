@@ -1,8 +1,5 @@
 context("fringes")
 
-
-
-
 test_that("Fringe utils", {
   ctype <- c("Ca","Nu")
   dic <- data_frame(id=letters[1:2],ctype = ctype)
@@ -131,8 +128,8 @@ test_that("fringeIO",{
   writeFringe(f1)
   f2 <- readFringe("mtcars", forceDic = FALSE)
   f2 <- readFringe("mtcars")
-  unlink("mtcars-data.csv")
-  unlink("mtcars-dic_.csv")
+  unlink("mtcars_data.csv")
+  unlink("mtcars_dic_.csv")
   expect_true(sameFringes(f1,f2))
   # write
   path <- tempdir()
@@ -140,10 +137,10 @@ test_that("fringeIO",{
   f3 <- readFringe(file.path(path,f1$name))
   expect_equal(f1$name, f3$name)
   expect_true(sameFringes(f1,f3))
-  expect_true(file.exists(file.path(path,paste0(f1$name,"-data.csv"))))
-  expect_true(file.exists(file.path(path,paste0(f1$name,"-dic_.csv"))))
-  unlink(file.path(path,paste0(f1$name,"-data.csv")))
-  unlink(file.path(path,paste0(f1$name,"-dic_.csv")))
+  expect_true(file.exists(file.path(path,paste0(f1$name,"_data.csv"))))
+  expect_true(file.exists(file.path(path,paste0(f1$name,"_dic_.csv"))))
+  unlink(file.path(path,paste0(f1$name,"_data.csv")))
+  unlink(file.path(path,paste0(f1$name,"_dic_.csv")))
 
 })
 

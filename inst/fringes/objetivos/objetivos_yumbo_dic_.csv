@@ -1,0 +1,98 @@
+id,ctype,label,Fuente,Tipo_Unidad_Medida,Unidad_medida,Capítulo (Red Cómo Vamos),Anillo,Observaciones,Capitulo (Yumbo),Tipo Fuente
+Ciudad,Ca,Ciudad del dato,No Aplica,Texto,Nombre de la Ciudad,0. Identificación Datos,Identificación Datos,0,NA,NA
+Territorio,Ca,"Localidad, Comuna o Corregimiento",No Aplica,Texto,"Nombre de la Comuna, Localidad o Corregimiento",0. Identificación Datos,Identificación Datos,"En el dato correspondiente a la ciudad se asigó el valor ""Total [Nombre ciudad]""",NA,NA
+Anio,Ye,Año del dato,No Aplica,Número,Año,0. Identificación Datos,Escenarios Transversales,0,NA,NA
+v1_d_001,Nu,Población Total,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0,1. Demografía,Yumbo Cómo Vamos la estructura
+v1_d_022,Nu,Proyección de la población urbana,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0,1. Demografía,Yumbo Cómo Vamos la estructura
+v1_d_023,Nu,Proyección de la población rural,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0,1. Demografía,Yumbo Cómo Vamos la estructura
+v1_d_024,Nu,Proyección de la población entre 0 y 4 años,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0,1. Demografía,Yumbo Cómo Vamos la estructura
+v1_d_025,Nu,Proyección de la población entre 5 y 9 años,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0,1. Demografía,Yumbo Cómo Vamos la estructura
+v1_d_026,Nu,Proyección de la población entre 10 y 19 años,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0,1. Demografía,Yumbo Cómo Vamos la estructura
+v1_d_027,Nu,Proyección de la población entre 20 y 34 años,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0,1. Demografía,Yumbo Cómo Vamos la estructura
+v1_d_028,Nu,Proyección de la población entre 35 y 49 años,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0,1. Demografía,Yumbo Cómo Vamos la estructura
+v1_d_029,Nu,Proyección de la población entre 50 y 64 años,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0,1. Demografía,Yumbo Cómo Vamos la estructura
+v1_d_030,Nu,Proyección de la población mayores de 64 años,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0,1. Demografía,Yumbo Cómo Vamos la estructura
+v1_d_031,Nu,Nacimientos totales,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0,1. Demografía,Yumbo Cómo Vamos la estructura
+v1_d_032,Nu,Total de defunciones no fetales,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0,1. Demografía,Yumbo Cómo Vamos la estructura
+v3_s_024,Nu,Aseguramiento regimén contributivo,Secretaría de Salud municipal de Yumbo,Porcentaje,Porción,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_022,Nu,Aseguramiento regimén subdidiado,Secretaría de Salud municipal de Yumbo,Porcentaje,Porción,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_023,Nu,Población no asegurada,Secretaría de Salud municipal de Yumbo,Porcentaje,Porción,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_025,Nu,Aseguramiento regimén especial,Secretaría de Salud municipal de Yumbo,Porcentaje,Porción,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_010,Nu,Tasa de mortalidad infantil menores de 1 año,Secretaría de Salud municipal de Yumbo,Tasa,Por Cada 1000 nacidos vivos,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_011,Nu,Tasa de mortalidad infantil menores de 5 años,Secretaría de Salud municipal de Yumbo,Tasa,Por cada 100000 menores de cinco años,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_030,Nu,Tasa de mortalidad por IDA menores de 5 años,Secretaría de Salud municipal de Yumbo,Tasa,Por cada 100000 menores de cinco años,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_029,Nu,Tasa de mortalidad por ERA menores de 5 años,Secretaría de Salud municipal de Yumbo,Tasa,Por cada 100000 menores de cinco años,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_005,Nu,Tasa de mortalidad materna,Secretaría de Salud municipal de Yumbo,Tasa,Por Cada 1000 nacidos vivos,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_015,Nu,antituberculosa recien nacido (BCG),Secretaría de Salud municipal de Yumbo,Porcentaje,Porción,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_008,Nu,difteria-tosferina-tetanos (DPT) <1 año 3ra dosis,Secretaría de Salud municipal de Yumbo,Porcentaje,Porción,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_016,Nu,fiebre amarilla 1 año unica  dosis,Secretaría de Salud municipal de Yumbo,Porcentaje,Porción,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_017,Nu,hepatitis B recien nacido,Secretaría de Salud municipal de Yumbo,Porcentaje,Porción,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_040,Nu,influencia estacional menores de 1 año 2da dosis,Secretaría de Salud municipal de Yumbo,Porcentaje,Porción,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_041,Nu,neumococo 1 año 3ra  dosis,Secretaría de Salud municipal de Yumbo,Porcentaje,Porción,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_014,Nu,polio menores de 1 año 3ra  dosis,Secretaría de Salud municipal de Yumbo,Porcentaje,Porción,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_009,Nu,sarampion-rubeola-paperas(TV) 1 año unica dosis,Secretaría de Salud municipal de Yumbo,Porcentaje,Porción,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v3_s_042,Nu,rotavirus menores de 1 año 2da  dosis,Secretaría de Salud municipal de Yumbo,Porcentaje,Porción,3. Salud,Activos de las Personas,0,2. Salud,Yumbo Cómo Vamos lo solicita
+v4_e_114,Nu,Total matricula privada (no oficial),Secretaria de educación municipal de Yumbo,Número,Personas,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_115,Nu,Total matricula oficial,Secretaria de educación municipal de Yumbo,Número,Personas,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_116,Nu,Total matricula zona urbana,Secretaria de educación municipal de Yumbo,Número,Personas,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_117,Nu,Total matricula zona rural,Secretaria de educación municipal de Yumbo,Número,Personas,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_118,Nu,Total matricula Jardín/pre jardín,Secretaria de educación municipal de Yumbo,Número,Personas,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_119,Nu,Total matricula Transición y grado cero,Secretaria de educación municipal de Yumbo,Número,Personas,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_120,Nu,Total matricula Primaria,Secretaria de educación municipal de Yumbo,Número,Personas,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_121,Nu,Total matricula Secundaria,Secretaria de educación municipal de Yumbo,Número,Personas,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_122,Nu,Total matricula Media,Secretaria de educación municipal de Yumbo,Número,Personas,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_123,Nu,Total matricula ciclo 1 de adultos,Secretaria de educación municipal de Yumbo,Número,Personas,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_124,Nu,Total matricula ciclo 2 de adultos,Secretaria de educación municipal de Yumbo,Número,Personas,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_125,Nu,Total matricula ciclo 3 de adultos,Secretaria de educación municipal de Yumbo,Número,Personas,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_126,Nu,Total matricula ciclo 4 de adultos,Secretaria de educación municipal de Yumbo,Número,Personas,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_127,Nu,Total matricula ciclo 5 de adultos,Secretaria de educación municipal de Yumbo,Número,Personas,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_128,Nu,Total matricula ciclo 6 de adultos,Secretaria de educación municipal de Yumbo,Número,Personas,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_129,Nu,Total matricula aceleración del aprendizaje,Secretaria de educación municipal de Yumbo,Número,Personas,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_130,Nu,Tasa de cobertura Bruta en Jardín/pre Jardín,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_013,Nu,Tasa de cobertura Bruta en Transición,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_014,Nu,Tasa de cobertura Bruta en Primaria,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_015,Nu,Tasa de cobertura Bruta en Secundaria,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_016,Nu,Tasa de cobertura Bruta en Media,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_002,Nu,Tasa de cobertura neta en Transición,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_003,Nu,Tasa de cobertura neta en Primaria,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_004,Nu,Tasa de cobertura neta en Secundaria,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_005,Nu,Tasa de cobertura neta en Media,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_006,Nu,Tasa de asistencia escolar de 5 a 16 años,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_007,Nu,Tasa de deserción escolar - sector público,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_131,Nu,Resultados  insuficiente minimo prueba saber 3 lenguaje,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_132,Nu,Resultados insuficiente minimo prueba saber 3 matematicas,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_133,Nu,Resultados  insuficiente minimo prueba saber 5 lenguaje,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_134,Nu,Resultados  insuficiente minimo prueba saber 5 matematicas,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_135,Nu,Resultados  insuficiente minimo prueba saber 9 lenguaje,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_136,Nu,Resultados  insuficiente minimo prueba saber 9 matematicas,Secretaria de educación municipal de Yumbo,Porcentaje,Porción,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v4_e_137,Nu,resultados prueba saber 11,Secretaria de educación municipal de Yumbo,Número,Puntaje Promedio,4. Educación,Activos de las Personas,0,3. Educación,Yumbo Cómo Vamos lo solicita
+v6_sc_005,Nu,Homicidios,Policia nacional Yumbo,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v9_m_007,Nu,Muertes por accidentes de transito,Medicina legal suroccidente,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v6_sc_036,Nu,Muertes accidentales,Medicina legal suroccidente,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v6_sc_037,Nu,Muertes por establecer,Medicina legal suroccidente,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v6_sc_030,Nu,Suicidios,Medicina legal suroccidente,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v6_sc_020,Nu,Hurtos de personas,Policia nacional Yumbo,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v6_sc_022,Nu,Hurtos de residencias,Policia nacional Yumbo,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v6_sc_017,Nu,Hurtos de comercio,Policia nacional Yumbo,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v6_sc_038,Nu,Hurtos de abigeato,Policia nacional Yumbo,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v6_sc_039,Nu,Hurtos de pirateria,Policia nacional Yumbo,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v6_sc_040,Nu,Hurtos de bancos,Policia nacional Yumbo,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v6_sc_011,Nu,Hurtos de automotores,Policia nacional Yumbo,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v6_sc_012,Nu,Hurtos de motos,Policia nacional Yumbo,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v6_sc_006,Nu,Lesiones personales,Medicina legal suroccidente,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v6_sc_041,Nu,Delitos sexuales,Medicina legal suroccidente,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v6_sc_042,Nu,Violencia intrafamiliar,Medicina legal suroccidente,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v6_sc_043,Nu,Delitos de jovenes,Policia nacional Yumbo,Tasa,Tasa por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las Personas,0,4. Seguridad,Yumbo Cómo Vamos lo solicita
+v7_v_006,Nu,Cobertura del servicio de Alcantarillado,Empresa de servicios públicos,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0,5. Vivienda y Servicios Públicos,Yumbo Cómo Vamos lo solicita
+v7_v_010,Nu,Cobertura del servicio de Energía,Empresa de servicios públicos,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0,5. Vivienda y Servicios Públicos,Yumbo Cómo Vamos lo solicita
+v7_v_008,Nu,Cobertura del servicio de Aseo,Empresa de servicios públicos,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0,5. Vivienda y Servicios Públicos,Yumbo Cómo Vamos lo solicita
+v7_v_003,Nu,Cobertura del servicio de Acueducto,Empresa de servicios públicos,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0,5. Vivienda y Servicios Públicos,Yumbo Cómo Vamos lo solicita
+v7_v_005,Nu,Agua no contabilizada,Empresa de servicios públicos,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0,5. Vivienda y Servicios Públicos,Yumbo Cómo Vamos lo solicita
+v8_ma_004,Nu,Generación de residuos sólidos urbanos (aporte pér cápita),Empresas de Aseo de cada ciudad,Número,Kilográmos por habitante,8. Medio ambiente,Hábitat Urbano,0,6. Medio Ambiente,Yumbo Cómo Vamos lo solicita
+v8_ma_005,Nu,Concentración de PM 10,Autoridad ambiental de cada ciudad,Número,partículas por metro cúbico,8. Medio ambiente,Hábitat Urbano,0,6. Medio Ambiente,Yumbo Cómo Vamos lo solicita
+v9_m_005,Nu,No. de automòviles por cada 100 mil hab.,Secretaria de Tránsito de cada ciudad,Tasa,Por cada 100.000 habitantes,9. Movilidad,Hábitat Urbano,0,7. Movilidad,Yumbo Cómo Vamos lo solicita
+v9_m_006,Nu,No. de motos por cada 100 mil hab.,Secretaria de Tránsito de cada ciudad,Tasa,Por cada 100.000 habitantes,9. Movilidad,Hábitat Urbano,0,7. Movilidad,Yumbo Cómo Vamos lo solicita
+v0_ep_001,Nu,"Metros cuadrados de espacio público efectivo por habitante(parques, plazas, plazoletas, zonas verdes)",Oficinas de Planeación Municipal,Número,Metros cuadrados,10. Espacio público,Hábitat Urbano,0,8. Espacio Público,Yumbo Cómo Vamos lo solicita
+v3_gp_054,Nu,Porcentaje del presupuesto participativo ejecutado / total presupuesto de inversión ejecutado *100,Alcaldías municipales,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0,9. Participación Ciudadana,Yumbo Cómo Vamos lo solicita
+v3_gp_007,Nu,saldo de la deuda/ingresos corrientes (ley 358 - 1997,Secretarías de hacienda de cada ciudad,Tasa,NA,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0,10. Finanzas Públicas,Yumbo Cómo Vamos lo solicita
+v3_gp_055,Nu,intereses/ahorro operacional,Secretarías de hacienda de cada ciudad,Tasa,NA,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0,10. Finanzas Públicas,Yumbo Cómo Vamos lo solicita

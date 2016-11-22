@@ -1,0 +1,1311 @@
+id,label,ctype,Descripción,Fuente,Tipo de Fuente,Medida
+Anio,ano del dato,Ye,NA,NA,NA,NA
+v1_cr_001,porcentaje poblacion que leyo por lo menos un libro,Nu,NA,"Encuestas de Percepción Ciudadana, Cómo Vamos",NA,NA
+v1_cr_002,porcentaje de poblacion que participa de alguna actividad cultural,Nu,NA,"Encuestas de Percepción Ciudadana, Cómo Vamos",NA,NA
+v1_cr_003,porcentaje de poblacion que participa en al menos una actividad deportiva o recreativa,Nu,NA,"Encuestas de Percepción Ciudadana, Cómo Vamos",NA,NA
+v1_d_001,poblacion total,Nu,Número total de habitantes en la ciudad y su área rural,DANE,AMB Cómo Vamos lo estructura,Número
+v1_d_001_01,poblacion cabecera,Nu,"Número total de habitantes en la cabecera municipal de Barranquilla, área urbana",DANE,AMB Cómo Vamos lo estructura,Número
+v1_d_001_02,poblacion resto,Nu,"Número total de habitantes que no está en la cabecera municipal de Barranquilla, área rural",DANE,AMB Cómo Vamos lo estructura,Número
+v1_d_002,porcentaje de poblacion en el area urbana,Nu,Participación porcentual de los habitantes del área urbana en el total de la población,DANE,AMB Cómo Vamos lo estructura,Porcentaje
+v1_d_011,indice de envejecimiento,Nu,"Mide la cantidad de adultos mayores por cada 100 niños y jóvenes. Se calcula haciendo la razón entre personas de 65 años y más con respecto a las personas menores de 15 años, multiplicado por 100","DANE, Cálculos BqCV",AMB Cómo Vamos lo estructura,Índice
+v1_d_012_01,indice de masculinidad,Nu,Es la relación entre el número de hombres y de mujeres en una población. Se expresa como la razón del número de hombres entre el número de mujeres por cada 100 mujeres,"DANE, Cálculos BqCV",AMB Cómo Vamos lo estructura,Índice
+v1_d_014,tasa de dependencia,Nu,NA,NA,NA,NA
+v1_d_014_01,relacion de dependencia infantil,Nu,"Es un indicador de dependencia económica de los niños con la población productiva. Mide la cantidad de niños menores de 15 años sobre la población entre 15 a 64 años, multiplicado por 100","DANE, Cálculos BqCV",AMB Cómo Vamos lo estructura,Índice
+v1_d_031,nacimientos totales,Nu,NA,NA,NA,NA
+v1_d_033_01,total defunciones,Nu,Número total de personas fallecidas en la ciudad,DANE,AMB Cómo Vamos lo estructura,Número
+v10_ep_001_01,parques (sin resto de espacio publico),Nu,NA,Foro Hídrico,NA,NA
+v10_ep_001_02,zonas verde,Nu,NA,Foro Hídrico,NA,NA
+v10_ep_001_03,polideportivos,Nu,NA,Foro Hídrico,NA,NA
+v10_ep_001_04,boulevares,Nu,NA,Foro Hídrico,NA,NA
+v10_ep_001_05,plazoletas,Nu,NA,Foro Hídrico,NA,NA
+v10_ep_001_06,plazas,Nu,NA,Foro Hídrico,NA,NA
+v10_ep_001_07,canchas,Nu,NA,Foro Hídrico,NA,NA
+v10_ep_001_08,numero de parques,Nu,NA,Foro Hídrico,NA,NA
+v10_ep_001_09,numero de parques recuperados,Nu,NA,Foro Hídrico,NA,NA
+v10_ep_001_10,zonas verde metros cuadrados,Nu,NA,Foro Hídrico,NA,NA
+v10_ep_001_11,polideportivos metros cuadrados,Nu,NA,Foro Hídrico,NA,NA
+v10_ep_001_12,boulevares metros cuadrados,Nu,NA,Foro Hídrico,NA,NA
+v10_ep_001_13,plazoletas metros cuadrados,Nu,NA,Foro Hídrico,NA,NA
+v10_ep_001_14,plazas metros cuadrados,Nu,NA,Foro Hídrico,NA,NA
+v10_ep_001_15,canchas metros cuadrados,Nu,NA,Foro Hídrico,NA,NA
+v10_ep_001_16,m2 de espacio publico recuperado en la ronda del sistema de canales del rio magdalena,Nu,NA,Secretaría de Control urbano y Espacio público,NA,NA
+v10_ep_001_19,m2 de espacio publico recuperado (zonas verdes),Nu,NA,Secretaría de Control urbano y Espacio público,NA,NA
+v11_cr_001_01,numero de bibliotecas en localidad norte centro historico,Nu,NA,Secretaría de Cultura,NA,NA
+v11_cr_001_02,numero de bibliotecas en localidad riomar,Nu,NA,Secretaría de Cultura,NA,NA
+v11_cr_001_03,numero de bibliotecas en localidad suroccidente,Nu,NA,Secretaría de Cultura,NA,NA
+v11_cr_001_04,numero de bibliotecas en localidad suroriente,Nu,NA,Secretaría de Cultura,NA,NA
+v11_cr_001_05,numero de bibliotecas en localidad metropolitana,Nu,NA,Secretaría de Cultura,NA,NA
+v11_cr_001_06,numero de bibliotecas total ciudad,Nu,NA,Secretaría de Cultura,NA,NA
+v11_cr_001_100,"numero de escuelas de formacion artistica (musica, pintura, teatro, etc.) en la localidad norte centro historico",Nu,NA,Secretaría de Cultura,NA,NA
+v11_cr_001_101,"numero de escuelas de formacion artistica (musica, pintura, teatro, etc.) en la localidad riomar",Nu,NA,Secretaría de Cultura,NA,NA
+v11_cr_001_102,"numero de escuelas de formacion artistica (musica, pintura, teatro, etc.) en la localidad suroccidente",Nu,NA,Secretaría de Cultura,NA,NA
+v11_cr_001_104,"numero de escuelas de formacion artistica (musica, pintura, teatro, etc.) en la localidad suroriente",Nu,NA,Secretaría de Cultura,NA,NA
+v11_cr_001_105,"numero de escuelas de formacion artistica (musica, pintura, teatro, etc.) en la localidad metropolitana",Nu,NA,Secretaría de Cultura,NA,NA
+v11_cr_001_106,"numero de escuelas de formacion artistica (musica, pintura, teatro, etc.) en total ciudad",Nu,NA,Secretaría de Cultura,NA,NA
+v13_gp_004_04,transferencias per capita barranquilla ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_004_06,transferencias per capita bucaramanga ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_004_07,transferencias per capita cartagena  ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_004_08,transferencias per capita medellin  ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_005_02,transferencias (millones de $ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_005_03,ingresos de capital (millones de $ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_005_04,participacion de los ingresos tributarios en los ingresos totales,Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_005_05,participacion de los ingresos no tributarios en los ingresos totales,Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_005_06,participacion de las transferencias en los ingresos totales,Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_005_07,participacion de los ingresos de capital en los ingresos totales,Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_005_08,ingresos tributarios per capita cartagena ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_005_09,ingresos tributarios per capita bucaramanga  ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_005_10,ingresos tributarios per capita barranquilla  ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_005_11,ingresos tributarios per capita medellin  ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_005_12,ingresos tributarios per capita bogota  ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_005_13,ingresos no tributarios per capita cartagena ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_005_14,ingresos no tributarios per capita bucaramanga  ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_005_15,ingresos no tributarios per capita barranquilla  ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_005_16,ingresos no tributarios per capita medellin  ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_005_17,ingresos no tributarios per capita bogota ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_05,transferencias per capita bogota  ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_06,ingreso del predial per capita cartagena  ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_07,ingreso del predial per capita bucaramanga ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_08,ingreso del predial per capita barranquilla ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_09,ingreso del predial per capita medellin  ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_10,ingreso del predial per capita bogota  ($ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_11,ingresos tributarios por predial (millones de $ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_12,ingresos tributarios por industria y comercio (millones de $ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_13,ingresos tributarios por sobretasa (millones de $ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_14,ingresos tributarios por estampilla (millones de $ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_15,ingresos tributarios resto  (millones de $ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_16,participacion del predial en los ingresos tributarios,Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_17,participacion de industria y comercio en los ingresos tributarios,Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_18,participacion de la sobretasa en los ingresos tributarios,Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_19,participacion de la estampilla en los ingresos tributarios,Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_20,participacion del resto ingresos en los ingresos tributarios,Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_21,recaudo de industria y comercio cartagena ($ constantes de 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_22,recaudo de industria y comercio bucaramanga ($ constantes de 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_23,recaudo de industria y comercio barranquilla ($ constantes de 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_24,recaudo de industria y comercio medellin ($ constantes de 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_25,recaudo de industria y comercio bogota($ constantes de 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_26,inversion per capita cartagena ($ constantes de 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_27,inversion per capita bucaramanga ($ constantes de 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_28,inversion per capita barranquilla ($ constantes de 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_29,inversion per capita medellin ($ constantes de 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_30,inversion per capita bogota($ constantes de 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v13_gp_006_31,calificacion del riesgo de la deuda (riesgo crediticio),Ca,NA,Secretaría de Hacienda Distrital,NA,NA
+v13_gp_006_32,inversion educacion (millones de $),Nu,NA,Secretaría de Hacienda Distrital,NA,NA
+v13_gp_006_33,inversion salud (millones de $),Nu,NA,Secretaría de Hacienda Distrital,NA,NA
+v13_gp_006_34,inversion infraestructura (millones de $),Nu,NA,Secretaría de Hacienda Distrital,NA,NA
+v13_gp_006_35,inversion agua potable y saneamiento basico (millones de $),Nu,NA,Secretaría de Hacienda Distrital,NA,NA
+v13_gp_006_36,inversion deporte (millones de $),Nu,NA,Secretaría de Hacienda Distrital,NA,NA
+v13_gp_006_37,inversion cultura (millones de $),Nu,NA,Secretaría de Hacienda Distrital,NA,NA
+v13_gp_006_38,inversion ambiental (millones de $),Nu,NA,Secretaría de Hacienda Distrital,NA,NA
+v13_gp_006_39,inversion otros (millones de $),Nu,NA,Secretaría de Hacienda Distrital,NA,NA
+v13_gp_006_40,tasa de crecimiento anual del servicio de la deuda,Nu,NA,Secretaría de Hacienda Distrital,NA,NA
+v14_ee_010_01,recepcion de personas en la ciudad,Nu,"Mide la cantidad de personas que se establecen en la ciudad, por desplazamiento forzado",DPS,AMB Cómo Vamos lo estructura,Número
+v14_ee_010_02,recepcion de hogares en la ciudad,Nu,"Mide la cantidad de hogares que se establecen en la ciudad, por desplazamiento forzado",DPS,AMB Cómo Vamos lo estructura,Número
+v14_ee_010_03,expulsion de personas de la ciudad,Nu,"Mide la cantidad de personas que dejaron la ciudad, por desplazamiento forzado",DPS,AMB Cómo Vamos lo estructura,Número
+v14_ee_010_04,expulsion de hogares de la ciudad,Nu,"Mide la cantidad de hogares que dejaron la ciudad, por desplazamiento forzado",DPS,AMB Cómo Vamos lo estructura,Número
+v2-p-001_01,valor de la brecha de pobreza monetaria barranquilla am,Nu,"Mide la cantidad de dinero que le falta a la unidad pobre (hogar o persona) para dejar de ser pobre, es decir, para que alcance la línea de pobreza.",DANE,AMB Cómo Vamos lo estructura,Porcentaje
+v2_p_001,incidencia pobreza monetaria,Nu,NA,NA,NA,NA
+v2_p_002,incidencia pobreza monetaria extrema,Nu,NA,NA,NA,NA
+v2_p_003,variacion porcentual en el ingreso promedio del hogar,Ca,Se definen como los aumentos o disminuciones de los ingresos promedios en los hogares en los años determinados,DANE,AMB Cómo Vamos lo estructura,Porcentaje
+v2_p_004,coeficiente de gini de los ingresos,Nu,"Mide la desigualdad en los ingresos, de un territorio. El coeficiente de Gini es un número entre 0 y 1, en donde 0 se corresponde con la perfecta igualdad o todos tienen el mismo ingreso y  1 corresponde con la perfecta desigualdad, o una persona tiene todos los ingresos",DANE,AMB Cómo Vamos lo estructura,Número
+v2_p_005,tasa de cobertura del programa unidos,Nu,Proporción de personas en condición de pobreza cubiertas por el promagra Unidos,DPS,NA,Porcentaje
+v2_p_006,porcentaje de familias promovidas en el programa unidos,Nu,Proporción de personas en condición de pobreza que han superado la pobreza,DPS,NA,Porcentaje
+v2_p_007,tasa de trabajo infantil,Nu,Proporción de menores entre 5 y 17 años que trabajan,DANE,NA,Porcentaje
+v2_p_008,tasa de trabajo infantil ampliado,Nu,"Proporción de menores entre 5 y 17 años que trabajan, la cual incluye a los menores de edad que desempeñan oficios de hogar, como servidumbre y trabajo doméstico",DANE,NA,Porcentaje
+v2_pc_002,porcentaje de participacion electoral camara,Nu,NA,Registraduría Nacional,NA,NA
+v3_gp_001,indice de gobierno abierto,Nu,NA,Procuraduría General de Nación,NA,NA
+v3_gp_001_01,deuda (millones de $ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v3_gp_001_02,ingresos totales  (millones de $ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v3_gp_001_03,gastos totales  (millones de $ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v3_gp_001_04,balance total. ingresos totales -gastos totales  (millones de $ constantes 2012),Ca,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v3_gp_001_05,credito neto (desembolsos-amortizaciones)  (millones de $ constantes 2012),Ca,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v3_gp_001_06,desembolsos  (millones de $ constantes 2012),Ca,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v3_gp_001_07,amortizaciones  (millones de $ constantes 2012),Ca,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v3_gp_001_08,recursos del balance  (millones de $ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v3_gp_001_09,venta de activos  (millones de $ constantes 2012),Ca,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v3_gp_001_10,balance final ( balance total-credito neto- recursos del balance-ventas de activos)  (millones de $ constantes 2012),Ca,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v3_gp_001_11,porcentaje de contribuyentes morosos de impuesto predial,Nu,NA,Secretaría de Hacienda Distrital,NA,NA
+v3_gp_001_12,provision fondo de contingencias  (millones de $ constantes 2012),Nu,NA,Secretaría de Hacienda Distrital,NA,NA
+v3_gp_001_13,ingresos tributarios (millones de $ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v3_gp_001_14,ingresos no tributarios (millones de $ constantes 2012),Nu,NA,CHIP - Ministerio de Hacienda y Crédito Público,NA,NA
+v3_gp_002,ingresos propios como porcentaje de ingresos totales,Nu,NA,Contaduría General de la Nación-FUT,NA,NA
+v3_gp_026,indice de desempeno integral,Nu,NA,DNP,NA,NA
+v3_s_001,cobertura en aseguramiento,Nu,Proporción de personas afiliadas a algún régimen de salud,Secretaría Distrital de salud,NA,Porcentaje
+v3_s_001_01,numero total de muertes,Nu,Número de personas fallecidas en un territorio y tiempo determinado,DANE,NA,Número
+v3_s_001_02,nacimientos de madres entre 10-14 anos,Nu,Número total de nacimientos de madres residentes en la ciudad con edades de 10 a 14 años,DANE,NA,Número
+v3_s_001_03,nacimientos de madres entre 15-19 anos,Nu,Número total de nacimientos de madres residentes en la ciudad con edades de 15 a 19 años,DANE,NA,Número
+v3_s_001_04,nacimientos de madres entre 10-19 anos,Nu,Número total de nacimientos de madres residentes en la ciudad con edades de 10 a 19 años,DANE,NA,Número
+v3_s_001_05,tasa especifica de fecundidad en mujeres de 10 a 14 anos,Nu,"Es el número de nacidos vivos de madres de 10 a 14 años de edad durante un período dado por cada 1.000 mujeres de 10 a 14 años de edad en ese mismo período, en un determinado territorio","DANE, Cálculos BqCV",NA,Tasa por 1000 mujeres de 10 a 14 años
+v3_s_001_06,tasa especifica de fecundidad en mujeres de 15 a 19 anos,Nu,"Es el número de nacidos vivos de madres de 15 a 19 años de edad durante un período dado por cada 1.000 mujeres de 15 a 19 años de edad en ese mismo período, en un determinado territorio","DANE, Cálculos BqCV",NA,Tasa por 1000 mujeres de 15 a 19 años
+v3_s_001_07,tasa especifica de fecundidad en adolescentes (10 a 19 anos),Nu,"Es el número de nacidos vivos de madres de 10 a 19 años de edad durante un período dado por cada 1.000 mujeres de 10 a 19 años de edad en ese mismo período, en un determinado territorio","DANE, Cálculos BqCV",NA,Tasa por 1000 mujeres de 10 a 19 años
+v3_s_001_08,proporcion de embarazos en adolescentes de 10 a 14 anos,Nu,Mide la proporción de nacimientos en los que la madre se encuentra entre los 10 y los 14 años por cada 100 nacimientos,"DANE, Cálculos BqCV",NA,Porcentaje
+v3_s_001_09,proporcion de embarazos en adolescentes de 15 a 19 anos,Nu,Mide la proporción de nacimientos en los que la madre se encuentra entre los 15 y los 19 años por cada 100 nacimientos,"DANE, Cálculos BqCV",NA,Porcentaje
+v3_s_001_10,proporcion de embarazos en adolescentes (10-19 anos),Nu,Mide la proporción de nacimientos en los que la madre se encuentra entre los 10 y los 19 años por cada 100 nacimientos,"DANE, Cálculos BqCV",NA,Porcentaje
+v3_s_001_11,casos vih/sida en menores de 18 anos,Nu,Total de casos reportados de personas menores de 18 años con VIH/SIDA,Secretaría Distrital de Salud-DANE,NA,Número
+v3_s_001_12,tasa de incidencia vih/sida en menores de 18 anos (por 100 mil menores de 18 anos),Nu,"Es el número de menores de 18 años con VIH/SIDA durante un período dado por cada 100.000 menores de 18 años en ese mismo período, en un determinado territorio",Secretaría Distrital de Salud-DANE,NA,Tasa por 100.000 menores de 18 años
+v3_s_001_13,casos vih/sida en personas de 15 a 49 anos,Nu,Total de casos reportados de personas menores entre 15 y 49 años con VIH/SIDA,Secretaría Distrital de Salud-DANE,NA,Número
+v3_s_001_14,tasa de incidencia vih/sida en personas de 15 a 49 anos (por 100 mil personas de 15 a 49 anos),Nu,"Es el número de menores entre 15 y 49 años con VIH/SIDA durante un período dado por cada 100.000 personas entre los 15 y 49 años en ese mismo período, en un determinado territorio",Secretaría Distrital de Salud-DANE,NA,Tasa por 100.000 personas de 15 a 49 años
+v3_s_001_15,numero de muertes  por vih/sida,Nu,Número total de personas fallecidas por VIH/SIDA en un territorio determinado,Secretaría Distrital de Salud-DANE,NA,Número
+v3_s_001_16,tasa de mortalidad por vih/sida (por 100 mil habitantes),Nu,"Es el número total de defunciones estimadas por VIH/Sida dividido por el total de la población, expresada por 100.000 habitantes.",Secretaría Distrital de Salud-DANE,NA,Tasa por 100.000 habitantes
+v3_s_001_17,casos de dengue,Nu,"Es el número de casos de dengue reportados por la autoridad sanitaria nacional para un año dado, en un determinado territorio",Secretaría Distrital de Salud,NA,Número
+v3_s_001_18,tasa incidencia dengue,Nu,"Es el número de casos nuevos de dengue reportados por la autoridad sanitaria nacional para un año dado, en un determinado territorio, por cada 100.000 habitantes.",Secretaría Distrital de Salud,NA,Tasa por 100.000 habitantes
+v3_s_001_19,tasa de letalidad de dengue,Nu,Proporción de casos graves de dengue que terminaron en defunciones,Secretaría Distrital de Salud,NA,Porcentaje
+v3_s_001_20,muertes por dengue,Nu,Número de muertes por dengue en un período y territorio determinado,Secretaría Distrital de Salud,NA,Número
+v3_s_001_21,casos de chicungunya,Nu,Número total de casos reportado con el virus Chicungunya,Secretaría Distrital de Salud,NA,Número
+v3_s_001_22,casos de tuberculosis (pulmonar y extrapulmonar),Nu,"Es el número de casos de tuberculosis reportados por la autoridad sanitaria nacional para un año dado, en un determinado territorio, incluye tuberculosis pulmunar y extrapulmonar",Secretaría Distrital de Salud-SIVIGILA,NA,Número
+v3_s_001_23,tasa de incidencia de tuberculosis (por 100 mil habitantes),Nu,"Es el número de casos nuevos de tuberculosis reportados por la autoridad sanitaria nacional para un año dado, en un determinado territorio, por cada 100.000 habitantes.",Secretaría Distrital de Salud-SIVIGILA,NA,Tasa por 100.000 habitantes
+v3_s_001_24,casos de tuberculosis pulmonar,Nu,"Es el número de casos de tuberculosis pulmonar reportados por la autoridad sanitaria nacional para un año dado, en un determinado territorio",Secretaría Distrital de Salud-SIVIGILA,NA,Número
+v3_s_001_25,casos de tuberculosis extrapulmonar,Nu,"Es el número de casos de tuberculosis extrapulmonar reportados por la autoridad sanitaria nacional para un año dado, en un determinado territorio",Secretaría Distrital de Salud-SIVIGILA,NA,Número
+v3_s_001_26,muertes por tuberculosis,Nu,Número total de muertes por tuberculosis en un periodo dado y territorio,Secretaría Distrital de Salud-DANE,NA,Número
+v3_s_001_27,tasa de mortalidad por tuberculosis (por 100 mil habitantes),Nu,"Es el número total de defunciones estimadas por Tuberculosis en una población total dividido por el total de esa población, expresada por 100.000 habitantes.",Secretaría Distrital de Salud-DANE,NA,Tasa por 100.000 habitantes
+v3_s_001_28,casos suicidios,Nu,Número total de lesiones fatales autoinflingidas en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_29,tasa de suicidios (por 100 mil habitantes),Nu,"Es el número total de lesiones fatales autoinflingidas dividido por el total de la población, expresada por 100.000 habitantes.",Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_30,suicidios de personas de 10-14 anos,Nu,Número total de lesiones fatales autoinflingidas de personas de 10 a 14 años de edad en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_31,suicidios de personas de 15-17 anos,Nu,Número total de lesiones fatales autoinflingidas de personas de 15 a 17 años de edad en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_32,suicidios de personas de 18-19 anos,Nu,Número total de lesiones fatales autoinflingidas de personas de 18 a 19 años de edad en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_33,suicidios de personas de 20-24 anos,Nu,Número total de lesiones fatales autoinflingidas de personas de 20 a 24 años de edad en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_34,suicidios de personas de 25-29 anos,Nu,Número total de lesiones fatales autoinflingidas de personas de 25 a 29 años de edad en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_35,suicidios de personas de 30-34 anos,Nu,Número total de lesiones fatales autoinflingidas de personas de 30 a 34 años de edad en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_36,suicidios de personas de 35-39 anos,Nu,Número total de lesiones fatales autoinflingidas de personas de 35 a 39 años de edad en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_37,suicidios de personas de 40-44 anos,Nu,Número total de lesiones fatales autoinflingidas de personas de 40 a 44 años de edad en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_38,suicidios de personas de 45-49 anos,Nu,Número total de lesiones fatales autoinflingidas de personas de 45 a 49 años de edad en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_39,suicidios de personas de 50-54 anos,Nu,Número total de lesiones fatales autoinflingidas de personas de 50 a 54 años de edad en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_40,suicidios de personas de 55-59 anos,Nu,Número total de lesiones fatales autoinflingidas de personas de 55 a 59 años de edad en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_41,suicidios de personas de 60-64 anos,Nu,Número total de lesiones fatales autoinflingidas de personas de 60 a 64 años de edad en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_42,suicidios de personas de 65-69 anos,Nu,Número total de lesiones fatales autoinflingidas de personas de 65 a 69 años de edad en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_43,suicidios de personas de 70-74 anos,Nu,Número total de lesiones fatales autoinflingidas de personas de 70 a 74 años de edad en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_44,suicidios de personas de 75-79 anos,Nu,Número total de lesiones fatales autoinflingidas de personas de 75 a 79 años de edad en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_45,suicidios de personas de 80 y mas anos,Nu,Número total de lesiones fatales autoinflingidas de personas de 80 y más años de edad en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_46,suicidios hombres,Nu,Número total de lesiones fatales autoinflingidas en hombre en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_001_47,suicidios mujeres,Nu,Número total de lesiones fatales autoinflingidas en mujeres en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v3_s_004,tasa de mortalidad general,Nu,"Número de personas fallecidas en un territorio y tiempo determinado sobre la población total del territorio, multiplicado por 100.000",DANE,NA,Tasa por 100.000 habitantes
+v3_s_005,tasa de mortalidad materna,Nu,"Es el número de mujeres que mueren durante el embarazo o en los 42 días siguientes a su terminación y debida a cualquier causa relacionada con o agravada por el embarazo mismo o su atención, por cada 100.000 nacidos vivos para un año dado, en un determinado país, territorio o área geográfica.",Secretaría Distrital de Salud-DANE,NA,Tasa por 100.000 Nacidos Vivos
+v3_s_006,porcentaje de nacidos vivos con bajo peso al nacer,Nu,"Es el número de nacidos vivos con peso inferior a 2.500 gramos medido al momento del nacimiento o dentro de las primeras horas de vida por 100 nacidos vivos, en un determinado territorio.",DANE,NA,Porcentaje
+v3_s_006_01,muertes de menores de 1 ano,Nu,"Es el número de defunciones de niños menores de 1 año para un año dado, en un determinado territorio.",Secretaría Distrital de salud-DANE,NA,Número
+v3_s_008,cobertura en vacunacion  dtp tercera dosis,Nu,NA,NA,NA,NA
+v3_s_011,tasa de mortalidad en menores de 5 anos,Nu,NA,NA,NA,NA
+v3_s_011_012,muertes de menores de 5 anos,Nu,"Es el número de defunciones de niños menores de 5 año para un año dado, en un determinado territorio.",Secretaría Distrital de salud-DANE,NA,Número
+v3_s_011_013,la tasa de morbilidad por enfermedad diarreica aguda (eda) en menores de 5 anos (tasa por mil menores de 5anos),Nu,"Es el número de niños menores de 5 años que enferman de una Enfermedad Infecciosa Intestinal dividido entre el número total de población menor de 5 años para un año dado por cada 1000 menores de 5 años, en un determinado territorio.",Secretaría Distrital de salud-DANE,NA,Tasa por 1000 menores de 5 años
+v3_s_011_014,casos de enfermedad diarreica aguda (eda) en menores de 5 anos,Nu,"Es el número de niños menores de 5 años que enferman de una Enfermedad Infecciosa Intestinal para un año dado, en un determinado territorio.",Secretaría Distrital de salud-DANE,NA,Número
+v3_s_011_015,tasa de mortalidad por enfermedad diarreica aguda (eda) en menores de 5 anos (por 100 mil >5 anos),Nu,"Es el número de niños menores de 5 años que mueren de una Enfermedad Infecciosa Intestinal dividido entre el número total de población menor de 5 años para un año dado por cada 100.000 menores de 5 años, en un determinado territorio.",Secretaría Distrital de salud-DANE,NA,Tasa por 100.000 menores de 5 años
+v3_s_011_016,muertes por enfermedad diarreica aguda (eda) en menores de 5 anos,Nu,"Es el número de niños menores de 5 años que mueren de una Enfermedad Infecciosa Intestinal para un año dado, en un determinado territorio.",Secretaría Distrital de salud-DANE,NA,Número
+v3_s_011_017,tasa de morbilidad por infeccion respiratoria aguda ira en menores de 5 anos (por mil menores de 5 anos),Nu,"Es el número de niños menores de 5 años que enferman de una Infección Respiratoria Aguda (IRA) dividido entre el número total de población menor de 5 años para un año dado por cada 1000 menores de 5 años, en un determinado territorio.",Secretaría Distrital de salud-DANE,NA,Tasa por 1000 menores de 5 años
+v3_s_011_018,casos enfermos por infeccion respiratoria aguda ira en menores de 5 anos,Nu,"Es el número de niños menores de 5 años que enferman de una Infección Respiratoria Aguda para un año dado, en un determinado territorio.",Secretaría Distrital de salud-DANE,NA,Número
+v3_s_011_019,tasa de mortalidad por infeccion respiratoria aguda (ira) en menores de 5 anos (por 100 mil >5 anos),Nu,"Es el número de niños menores de 5 años que mueren de Infección Respiratoria Aguda dividido entre el número total de población menor de 5 años para un año dado por cada 100.000 menores de 5 años, en un determinado territorio.",Secretaría Distrital de salud-DANE,NA,Tasa por 100.000 menores de 5 años
+v3_s_011_020,muertes por infeccion respiratoria aguda (ira) en menores de 5 anos,Nu,"Es el número de niños menores de 5 años que mueren de Infección Respiratoria Aguda para un año dado, en un determinado territorio.",Secretaría Distrital de salud-DANE,NA,Número
+v3_s_011_021,tasa de mortalidad por desnutricion en menores de 5 anos (por 100 mil menores de 5 anos),Nu,"Es el número de niños menores de 5 años que mueren por desnutrición entre el número total de población menor de 5 años para un año dado por cada 100.000 menores de 5 años, en un determinado territorio.",Secretaría Distrital de Salud,NA,Tasa por 100.000 menores de 5 años
+v3_s_011_022,muertes por desnutricion en menores de 5 anos,Nu,"Es el número de niños menores de 5 años que mueren de desnutrición para un año dado, en un determinado territorio.",Secretaría Distrital de Salud,NA,Número
+v3_s_014,cobertura de vacunacion con antipolio en menores de un ano,Nu,NA,NA,NA,NA
+v3_s_015,cobertura de vacunacion con bcg en ninos menores de un ano,Nu,NA,NA,NA,NA
+v3_s_016,cobertura de vacunacion contra fiebre amarilla en ninos de un ano de edad,Nu,NA,NA,NA,NA
+v3_s_017,cobertura de vacunacion contra hepatitis b en menores de un ano,Nu,NA,NA,NA,NA
+v3_s_017_02,cobertura de vacunacion influenza tipo b (hib),Nu,"Proporción de las dosis de vacunas contra la hinfluencia tipo B, administradas en los servicios oficiales de vacunación",Secretaría Distrital de salud-PAI,NA,Porcentaje
+v3_s_017_03,cobertura de vacunacion triple viral (t.v),Nu,"Proporción de las dosis de vacunas triple viral (Sarampión, paperas, rubéola) administradas en los servicios oficiales de vacunación",Secretaría Distrital de salud-PAI,NA,Porcentaje
+v3_s_021,numero de personas afiliadas al regimen subsidiado (subsidio pleno),Nu,NA,NA,NA,NA
+v3_s_022,cobertura de poblacion afiliada al regimen subsidiado en total de la poblacion,Nu,NA,NA,NA,NA
+v3_s_024,cobertura al regimen contributivo,Nu,NA,NA,NA,NA
+v3_s_077,NÚMERO DE AFILIADOS AL RÉGIMEN CONTRIBUTIVO DE SALUD,Nu,NA,NA,NA,NA
+v3_s_080,NÚMERO DE MUERTES MATERNAS,Nu,NA,NA,NA,NA
+v4_e_002,tasa de cobertura neta en basica preescolar,Nu,NA,NA,NA,NA
+v4_e_003,tasa de cobertura neta en basica primaria,Nu,NA,NA,NA,NA
+v4_e_004,tasa de cobertura neta en basica secundaria,Nu,NA,NA,NA,NA
+v4_e_005,tasa de cobertura neta en media vocacional,Nu,NA,NA,NA,NA
+v4_e_007,"tasa de desercion educacion preescolar, basica primaria, basica secundaria y media vocacional publica",Nu,NA,NA,NA,NA
+v4_e_008,porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de matematicas,Nu,Sumatoria del porcentaje avanzados y del porcentaje satisfactorio de estudiantes de 5° en las pruebas Saber en matemáticas,ICFES,NA,Porcentaje
+v4_e_008_10,tasa de repitencia  escolar - sector publico,Nu,"Número de estudiantes desertores al terminar el año lectivo entre el número de estudiantes matriculados durante el año lectivo, multiplicado por 101",Ministerio de educación,NA,Porcentaje
+v4_e_008_11,tasa de repitencia  escolar - sector publico y privado,Nu,Número de estudiantes que deben repetir curso al terminar el año lectivo.,Secretaría de educación distrital,NA,Porcentaje
+v4_e_008_12,numero de instituciones educativas oficiales en la localidad suroriente,Nu,Número total de instituciones educativas oficiales en la localidad Suroriente,Secretaría de educación distrital,NA,Número
+v4_e_008_13,numero de instituciones educativas oficiales en la localidad metropolitana,Nu,Número total de instituciones educativas oficiales en la localidad Metropolitana,Secretaría de educación distrital,NA,Número
+v4_e_008_14,numero de instituciones educativas oficiales en la localidad suroccidente,Nu,Número total de instituciones educativas oficiales en la localidad Suroccidente,Secretaría de educación distrital,NA,Número
+v4_e_008_15,numero de instituciones educativas oficiales en la localidad norte centro historico,Nu,Número total de instituciones educativas oficiales en la localidad Norte Centro Histórico,Secretaría de educación distrital,NA,Número
+v4_e_008_16,numero de instituciones educativas oficiales en la localidad riomar,Nu,Número total de instituciones educativas oficiales en la localidad Riomar,Secretaría de educación distrital,NA,Número
+v4_e_008_17,numero de instituciones educativas no oficiales en la localidad suroriente,Nu,Número total de instituciones educativas no oficiales en la localidad Suroriente,Secretaría de educación distrital,NA,Número
+v4_e_008_18,numero de instituciones educativas no oficiales en la localidad metropolitana,Nu,Número total de instituciones educativas no oficiales en la localidad Metropolitana,Secretaría de educación distrital,NA,Número
+v4_e_008_19,numero de instituciones educativas  no oficiales en la localidad suroccidente,Nu,Número total de instituciones educativas  no oficiales en la localidad Suroccidente,Secretaría de educación distrital,NA,Número
+v4_e_008_20,numero de instituciones educativas  no oficiales en la localidad norte centro historico,Nu,Número total de instituciones educativas  no oficiales en la localidad Norte Centro Histórico,Secretaría de educación distrital,NA,Número
+v4_e_008_21,numero de instituciones educativas  no oficiales  en la localidad riomar,Nu,Número de instituciones educativas  no oficiales  en la localidad Riomar,Secretaría de educación distrital,NA,Número
+v4_e_008_22,estudiantes vinculados al programa universidad al barrio,Nu,Número total de estudiantes vinculados al programa Universidad al barrio,Secretaría de educación distrital,NA,Número
+v4_e_008_23,sedes vinculadas al programa universidad al barrio,Nu,Número total de sedes educativas vinculadas al programa Universdad al barrio,Secretaría de educación distrital,NA,Número
+v4_e_008_24,universidades vinculadas al programa universidad al barrio,Nu,Número total de Universidades vinculadas al programa Universdad al barrio,Secretaría de educación distrital,NA,Número
+v4_e_008_25,porcentaje de estudiantes de 3º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de matematicas,Nu,Sumatoria del porcentaje avanzados y del porcentaje satisfactorio de estudiantes de 3° en las pruebas Saber en matematica,ICFES,NA,Porcentaje
+v4_e_008_26,porcentaje de estudiantes de 3º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de lenguaje,Nu,Sumatoria del porcentaje avanzados y del porcentaje satisfactorio de estudiantes de 3° en las pruebas Saber en lenguaje,ICFES,NA,Porcentaje
+v4_e_008_32,porcentaje poblacion en edad de trabajar,Nu,Proporción de la población mayor de 12 años (zona urbana),DANE,NA,Porcentaje
+v4_e_009,porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de lenguaje,Nu,Sumatoria del porcentaje avanzados y del porcentaje satisfactorio de estudiantes de 5° en las pruebas Saber en lenguaje,ICFES,NA,Porcentaje
+v4_e_010,porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de matematicas,Nu,Sumatoria del porcentaje avanzados y del porcentaje satisfactorio de estudiantes de 9° en las pruebas Saber en matemáticas,ICFES,NA,Porcentaje
+v4_e_011,porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de lenguaje,Nu,Sumatoria del porcentaje avanzados y del porcentaje satisfactorio de estudiantes de 9° en las pruebas Saber en lenguaje,ICFES,NA,Porcentaje
+v4_e_012,tasa global de cobertura bruta en educacion,Nu,NA,NA,NA,NA
+v4_e_114,total matricula privada (no oficial),Nu,NA,NA,NA,NA
+v4_e_115,total matricula oficial,Nu,NA,NA,NA,NA
+v4_e_115_01,matricula total oficial y no oficial,Nu,"Número total de estudiantes matriculados sector oficial (público), más los matriculados en el sector no oficial (privado)",Secretaría de educación distrital,NA,Número
+v4_e_115_02,total matricula jardin/pre jardin (oficial + privado),Ca,NA,Secretaria de educación distrital.,AMB Cómo Vamos lo solicita,Número de estudiantes matriculados
+v4_e_115_03,total matricula transicion (oficial + privado),Ca,NA,Secretaria de educación distrital.,AMB Cómo Vamos lo solicita,Número de estudiantes matriculados
+v4_e_115_04,total matricula primaria (oficial + privado),Ca,NA,Secretaria de educación distrital.,AMB Cómo Vamos lo solicita,Número de estudiantes matriculados
+v4_e_115_05,total matricula secundaria (oficial + privado),Ca,NA,Secretaria de educación distrital.,AMB Cómo Vamos lo solicita,Número de estudiantes matriculados
+v4_e_115_06,total matricula media (oficial + privado),Ca,NA,Secretaria de educación distrital.,AMB Cómo Vamos lo solicita,Número de estudiantes matriculados
+v4_e_115_07,total matricula ciclo 1 de adultos (oficial + privado),Ca,NA,Secretaria de educación distrital.,AMB Cómo Vamos lo solicita,Número de estudiantes matriculados
+v4_e_115_08,total matricula ciclo 2 de adultos (oficial + privado),Ca,NA,Secretaria de educación distrital.,AMB Cómo Vamos lo solicita,Número de estudiantes matriculados
+v4_e_115_09,total matricula ciclo 3 de adultos (oficial + privado),Ca,NA,Secretaria de educación distrital.,AMB Cómo Vamos lo solicita,Número de estudiantes matriculados
+v4_e_115_10,total matricula ciclo 4 de adultos (oficial + privado),Ca,NA,Secretaria de educación distrital.,AMB Cómo Vamos lo solicita,Número de estudiantes matriculados
+v4_e_115_11,total matricula ciclo 5 de adultos (oficial+privado),Ca,NA,Secretaria de educación distrital.,AMB Cómo Vamos lo solicita,Número de estudiantes matriculados
+v4_e_115_12,total matricula ciclo 6 de adultos (oficial + privado),Ca,NA,Secretaria de educación distrital.,AMB Cómo Vamos lo solicita,Número de estudiantes matriculados
+v4_e_115_13,total matricula aceleracion del aprendizaje (oficina + privado),Ca,NA,Secretaria de educación distrital.,AMB Cómo Vamos lo solicita,Número de estudiantes matriculados
+v4_e_115_14,matricula total oficial en la localidad suroriente,Nu,Número total de estudiantes matriculados en el sector oficial (público) en la localidad Suroriente,Secretaría de educación distrital,NA,Número
+v4_e_115_15,matricula total oficial en la localidad metropolitana,Nu,Número total de estudiantes matriculados en el sector oficial (público) en la localidad Metropolitana,Secretaría de educación distrital,NA,Número
+v4_e_115_16,matricula total oficial en la localidad suroccidente,Nu,Número total de estudiantes matriculados en el sector oficial (público) en la localidad Suroccidente,Secretaría de educación distrital,NA,Número
+v4_e_115_17,matricula total oficial en la localidad norte centro historico,Nu,Número total de estudiantes matriculados en el sector oficial (público) en la localidad Norte Centro Histórico,Secretaría de educación distrital,NA,Número
+v4_e_115_18,matricula total oficial en la localidad riomar,Nu,Número total de estudiantes matriculados en el sector oficial (público) en la localidad Riomar,Secretaría de educación distrital,NA,Número
+v4_e_115_19,matricula total no oficial en la localidad suroriente,Nu,Número total de estudiantes matriculados en el sector no oficial (privado) en la localidad Suroriente,Secretaría de educación distrital,NA,Número
+v4_e_115_20,matricula total no oficial en la localidad metropolitana,Nu,Número total de estudiantes matriculados en el sector no oficial (privado) en la localidad Metropolitana,Secretaría de educación distrital,NA,Número
+v4_e_115_21,matricula total no oficial en la localidad suroccidente,Nu,Número total de estudiantes matriculados en el sector no oficial (privado) en la localidad Suroccidente,Secretaría de educación distrital,NA,Número
+v4_e_115_22,matricula total no oficial en la localidad norte centro historico,Nu,Número total de estudiantes matriculados en el sector no oficial (privado) en la localidad Norte Centro Histórico,Secretaría de educación distrital,NA,Número
+v4_e_115_23,matricula total no oficial en la localidad riomar,Nu,Número total de estudiantes matriculados en el sector no oficial (privado) en la localidad Riomar,Secretaría de educación distrital,NA,Número
+v4_e_115_24,matricula en extraedad oficial y privada en 0°,Nu,"Número de niños o jóvenes que tienen dos o tres años más, por encima de la edad promedio, esperada para cursar un determinado grado.",Secretaría de educación distrital,NA,Número
+v4_e_115_25,matricula en extraedad oficial y privada en 1°,Nu,"Número de niños o jóvenes que tienen dos o tres años más, por encima de la edad promedio, esperada para cursar un determinado grado.",Secretaría de educación distrital,NA,Número
+v4_e_115_26,matricula en extraedad oficial y privada en 2°,Nu,"Número de niños o jóvenes que tienen dos o tres años más, por encima de la edad promedio, esperada para cursar un determinado grado.",Secretaría de educación distrital,NA,Número
+v4_e_115_27,matricula en extraedad oficial y privada en 3°,Nu,"Número de niños o jóvenes que tienen dos o tres años más, por encima de la edad promedio, esperada para cursar un determinado grado.",Secretaría de educación distrital,NA,Número
+v4_e_115_28,matricula en extraedad oficial y privada en 4°,Nu,"Número de niños o jóvenes que tienen dos o tres años más, por encima de la edad promedio, esperada para cursar un determinado grado.",Secretaría de educación distrital,NA,Número
+v4_e_115_29,matricula en extraedad oficial y privada en 5°,Nu,"Número de niños o jóvenes que tienen dos o tres años más, por encima de la edad promedio, esperada para cursar un determinado grado.",Secretaría de educación distrital,NA,Número
+v4_e_115_30,matricula en extraedad oficial y privada en 6°,Nu,"Número de niños o jóvenes que tienen dos o tres años más, por encima de la edad promedio, esperada para cursar un determinado grado.",Secretaría de educación distrital,NA,Número
+v4_e_115_31,matricula en extraedad oficial y privada en 7°,Nu,"Número de niños o jóvenes que tienen dos o tres años más, por encima de la edad promedio, esperada para cursar un determinado grado.",Secretaría de educación distrital,NA,Número
+v4_e_115_32,matricula en extraedad oficial y privada en 8°,Nu,"Número de niños o jóvenes que tienen dos o tres años más, por encima de la edad promedio, esperada para cursar un determinado grado.",Secretaría de educación distrital,NA,Número
+v4_e_115_33,matricula en extraedad oficial y privada en 9°,Nu,"Número de niños o jóvenes que tienen dos o tres años más, por encima de la edad promedio, esperada para cursar un determinado grado.",Secretaría de educación distrital,NA,Número
+v4_e_115_34,matricula en extraedad oficial y privada en 10°,Nu,"Número de niños o jóvenes que tienen dos o tres años más, por encima de la edad promedio, esperada para cursar un determinado grado.",Secretaría de educación distrital,NA,Número
+v4_e_115_35,matricula en extraedad oficial y privada en 11°,Nu,"Número de niños o jóvenes que tienen dos o tres años más, por encima de la edad promedio, esperada para cursar un determinado grado.",Secretaría de educación distrital,NA,Número
+v4_e_115_36,total de matriculas en extraedad oficial y privada,Nu,"Número de niños o jóvenes que tienen dos o tres años más, por encima de la edad promedio, esperada para cursar un determinado grado.",Secretaría de educación distrital,NA,Número
+v4_e_115_37,relacion estudiante por computador,Nu,Total de computadores educativos sobre total de estudiantes matriculados,Secretaría de educación distrital,NA,Número
+v4_ee_001,tasa de inflacion,Nu,NA,DANE,NA,NA
+v4_ee_002,tasa de penetracion de internet,Nu,NA,Ministerio de Tecnologías de la Información y las Comunicaciones,NA,NA
+v4_ee_003,posicion ocupada en ranking nacional del doing bussines,Nu,NA,Banco Mundial,NA,NA
+v4_ee_007_01,indice de atractividad de inversiones-inai,Nu,NA,Universidad del Rosario CEPEC,NA,NA
+v4_ee_007_02,metros cuadrados de vias nuevas,Nu,NA,Secretaría de Infraestructura,NA,NA
+v4_ee_007_03,cobertura malla vial en buen estado,Nu,NA,Secretaría de Infraestructura,NA,NA
+v4_ee_007_04,recuperacion de la malla vial ( metros cuadrados anuales recuperados),Nu,NA,Secretaría de Infraestructura,NA,NA
+v4_ee_007_05,metros cuadrados de ciclorutas existentes,Nu,NA,Secretaría de Infraestructura,NA,NA
+v4_ee_007_08,metros cuadrados de vias existentes,Nu,NA,Secretaría de Infraestructura,NA,NA
+v5_ml_001,tasa global de participacion,Nu,Es la relación porcentual entre la población económicamente activa y la población en edad de trabajar. Este indicador refleja la presión de la población sobre el mercado laboral.,DANE,NA,Porcentaje
+v5_ml_002,tasa de ocupacion,Nu,Es la relación porcentual entre la población ocupada  y el número de personas que integran la población en edad de trabajar,DANE,NA,Porcentaje
+v5_ml_003,tasa de informalidad,Nu,"Proporción del personal ocupado con las siguientes características: 1. Los empleados particulares y los obreros que laboran en establecimientos, negocios o empresas que ocupen hasta cinco personas en todas sus agencias y sucursales, incluyendo al patrono y/o socio; 2. Los trabajadores familiares sin remuneración; 3. Los trabajadores sin remuneración en empresas o negocios de otros hogares; 4. Los empleados domésticos; 5. Los jornaleros o peones; 6. Los trabajadores por cuenta propia que laboran en establecimientos hasta cinco personas, excepto los independientes profesionales; 7. Los patrones o empleadores en empresas de cinco trabajadores o menos; 8. Se excluyen los obreros o empleados del gobierno.",DANE,NA,Porcentaje
+v5_ml_003_01,poblacion en edad de trabajar,Nu,Total de la población mayor de 12 años (zona urbana),DANE,NA,Número
+v5_ml_003_02,poblacion economicamente activa,Nu,Número total de personas en edad de trabajar que trabajan (ocupados) o están buscando empleo (desempleados),DANE,NA,Número
+v5_ml_003_03,ocupados,Nu,"Son las personas que durante el período de referencia se encontraban en una de las siguientes situaciones: 1. Trabajó por lo menos una hora remunerada en dinero o en especie en la semana de referencia. 2. Los que no trabajaron la semana de referencia, pero tenían un trabajo. 3. Trabajadores familiares sin remuneración que trabajaron en la semana de referencia por lo menos 1 hora.",DANE,NA,Número
+v5_ml_003_04,desocupados,Nu,"son las personas que en la semana de referencia se encontraban en una de las siguientes situaciones: 1. Desempleo abierto: Sin empleo en la semana de referencia. Hicieron diligencias en el mes . Disponibilidad. 2. Desempleo oculto: Sin empleo en la semana de referencia. No hicieron diligencias en el mes, pero sí en los últimos 12 meses y tienen una razón válida de desaliento. 3. Disponibilidad.",DANE,NA,Número
+v5_ml_003_05,desocupados abiertos,Nu,son las personas que en la semana de referencia se encontraban en una de las siguientes situaciones: 1. Desempleo abierto: Sin empleo en la semana de referencia. Hicieron diligencias en el mes . Disponibilidad.,DANE,NA,Número
+v5_ml_003_06,desocupados ocultos,Nu,"son las personas que en la semana de referencia se encontraban en una de las siguientes situaciones:  Desempleo oculto: Sin empleo en la semana de referencia. No hicieron diligencias en el mes, pero sí en los últimos 12 meses y tienen una razón válida de desaliento. 3. Disponibilidad.",DANE,NA,Número
+v5_ml_003_07,inactivos,Nu,"Comprende a todas las personas en edad de trabajar que en la semana de referencia no participan en la producción de bienes y servicios porque no necesitan, no pueden o no están interesadas en tener actividad remunerada. A este grupo pertenecen estudiantes, amas de casa, pensionados, jubilados, rent istas, inválidos (incapacitados permanentemente para trabajar), personas que no les llama la atención o creen que no vale la pena trabajar.",DANE,NA,Número
+v5_ml_003_08,subempleados subjetivos,Nu,Es el número de personas en subempleo subjetivo.,DANE,NA,Número
+v5_ml_003_12,subempleados objetivos,Nu,"Es el número de personas en subempleo objetivo. Se considera subempleo objetivo, si la persona se considera subempleado pero ha hecho gestiones para mejorar su condición y está dispuesto hacer cambios.",DANE,NA,Número
+v5_ml_003_16,poblacion total area metropolitana,Nu,"Número total de habitantes del área metropolitana de Barranquilla, que abarca Barranquilla y los municipios de Puerto Colombia, Galapa, Malambo y Soledad",DANE,NA,Número
+v5_ml_004,tasa de desempleo,Nu,"Es la relación porcentual entre el número de personas que están buscando trabajo (Desempleados), y el número de personas que integran la fuerza laboral (Población Economicamente ActivaPEA)",DANE,NA,Porcentaje
+v5_ml_004_01,tasa de desempleo abierto,Nu,"Es la relación porcentual entre el número de personas que están buscando trabajo (Desempleo abierto), y el número de personas que integran la fuerza laboral (Población Economicamente ActivaPEA). Se considera desempleo abierto: 1. Si la persona no tuvo empleo en la semana de referencia. 2.Hizo diligencias en el mes para conseguir empleo. 3. Disponibilidad",DANE,NA,Porcentaje
+v5_ml_004_02,tasa de desempleo oculto,Nu,"Es la relación porcentual entre el número de personas en desempleo oculto, y el número de personas que integran la fuerza laboral (Población Economicamente Activa PEA). Se considera desempleo oculto: 1.Si la persona estuvo sin empleo en la semana de referencia 2. No hizo diligencias en el mes para conseguir empleo, pero sí en los últimos 12 meses y tienen una razón válida de desaliento. 3. Disponibilidad.",DANE,NA,Porcentaje
+v5_ml_004_03,tasa de subempleo subjetivo,Nu,"Es la relación porcentual entre el número de personas en subempleo subjetivo, y el de personas que integran la fuerza laboral (Población Economicamente Activa, PEA).",DANE,NA,Porcentaje
+v5_ml_004_04,insuficiencia de horas (subjetivo),Nu,"Es la relación porcentual entre el número de personas en subempleo subjetivo por insuficiencia de horas laborales, y el de personas que integran la fuerza laboral (Población Economicamente Activa, PEA).",DANE,NA,Porcentaje
+v5_ml_004_05,empleo inadecuado por competencias (subjetivo),Nu,"Es la relación porcentual entre el número de personas en subempleo subjetivo por competencias, y el de personas que integran la fuerza laboral (Población Economicamente Activa, PEA).",DANE,NA,Porcentaje
+v5_ml_004_06,empleo inadecuado por ingresos (subjetivo),Nu,"Es la relación porcentual entre el número de personas en subempleo subjetivo por inadecuados ingresos, y el de personas que integran la fuerza laboral (Población Economicamente Activa, PEA).",DANE,NA,Porcentaje
+v5_ml_004_07,tasa de subempleo objetivo,Nu,"Es la relación porcentual entre el número de personas en subempleo objetivo, y el de personas que integran la fuerza laboral (Población Economicamente Activa, PEA). Se considera subempleo objetivo, si la persona se considera subempleado pero ha hecho gestiones para mejorar su condición y está dispuesto hacer cambios.",DANE,NA,Porcentaje
+v5_ml_004_08,insuficiencia de horas (objetivo),Nu,"Es la relación porcentual entre el número de personas en subempleo objetivo por insuficiencia de horas laborales, y el de personas que integran la fuerza laboral (Población Economicamente Activa, PEA).Se considera subempleo objetivo, si la persona se considera subempleado pero ha hecho gestiones para mejorar su condición y está dispuesto hacer cambios.",DANE,NA,Porcentaje
+v5_ml_004_09,empleo inadecuado por competencias (objetivo),Nu,"Es la relación porcentual entre el número de personas en subempleo objetivo por competencias, y el de personas que integran la fuerza laboral (Población Economicamente Activa, PEA).Se considera subempleo objetivo, si la persona se considera subempleado pero ha hecho gestiones para mejorar su condición y está dispuesto hacer cambios.",DANE,NA,Porcentaje
+v5_ml_004_10,empleo inadecuado por ingresos (objetivo),Nu,"Es la relación porcentual entre el número de personas en subempleo objetivo por inadecuados ingresos, y el de personas que integran la fuerza laboral (Población Economicamente Activa, PEA).Se considera subempleo objetivo, si la persona se considera subempleado pero ha hecho gestiones para mejorar su condición y está dispuesto hacer cambios.",DANE,NA,Porcentaje
+v5_ml_005,tasa de desempleo juvenil (15 - 25 anos),Nu,"Es la relación porcentual entre el número de personas que están buscando trabajo con edades entre los 15 y 25 años (Desempleados), y el número de personas que integran la fuerza laboral (Población Economicamente ActivaPEA)",DANE,NA,Porcentaje
+v6_sc_001_01,tasa de muertes accidentales por cada 100 mil habitantes,Nu,"Número total de muertes accidentales en un período y territorio determinado dividido por el total de la población, expresada por 100.000 habitantes. Muertes accidentales: no intencionadas, como caídas, inmersión, ahogamiento etc",Instituto Nacional de Medicina Legal,NA,Tasa por 100.000 habitantes
+v6_sc_001_02,numero de muertes accidentales,Nu,"Número total de muertes accidentales en un período y territorio determinado. Muertes accidentales: no intencionadas, como caídas, inmersión, ahogamiento etc",Instituto Nacional de Medicina Legal,NA,Número
+v6_sc_001_03,casos muertes violentas,Nu,"Número total de muertes violentas (homicidios, suicidios, accidente de tránsito, indeterminadas, accidentales)",Instituto Nacional de Medicina Legal,NA,Número
+v6_sc_001_04,tasa de muertes violentas por cada 100 mil habitantes,Nu,"Número total de muertes violentas (homicidios, suicidios, accidente de tránsito, indeterminadas, accidentales) en un territorio en un período determinado dividido por el total de la población, expresada por 100.000 habitantes",Instituto Nacional de Medicina Legal,NA,Tasa por 100.000 habitantes
+v6_sc_001_05,tasa de homicidios de hombres por cada 100 mil hombres,Nu,"Número total de homicidios en el que la víctima era hombre, en un período y territorio determinado dividido por el total de la población masculina, expresada por 100.000 hombres",Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Tasa por 100.000 hombres
+v6_sc_001_06,tasa de homicidios de mujeres por cada 100 mil mujeres,Nu,"Número total de homicidios en el que la víctima era mujer, en un período y territorio determinado dividido por el total de la población femenina, expresada por 100.000 mujeres",Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Tasa por 100.000 mujeres
+v6_sc_001_07,homicidios de hombres,Nu,Número total de homicidios en el que la víctima era hombre en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_08,homicidios de mujeres,Nu,Número total de homicidios en el que la víctima era mujer en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_09,homicidios a menores de 5 anos,Nu,Número total de homicidios en el que la víctima era menor de 5 años.,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_10,homicidios de personas de 5 a 14 anos,Nu,Número total de homicidios en el que la víctima tenía entre 5 a 14 años de edad.,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_100,hurtos en el mes de mayo,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_101,hurtos en el mes de junio,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_102,hurtos en el mes de julio,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_103,hurtos en el mes de agosto,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_104,hurtos en el mes de septiembre,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_105,hurtos en el mes de octubre,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_106,hurtos en el mes de noviembre,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_107,hurtos en el mes de diciembre,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_11,homicidios de personas de 15 a 17 anos,Nu,Número total de homicidios en el que la víctima tenía entre 15 a 17 años de edad.,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_110,reportes de llamadas al cad por rinas,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_111,casos de contravenciones,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_12,homicidios de personas de 18 a 24 anos,Nu,Número total de homicidios en el que la víctima tenía entre 18 a 24 años de edad.,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_13,homicidios de personas de 25 a 34 anos,Nu,Número total de homicidios en el que la víctima tenía entre 25 a 34 años de edad.,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_14,homicidios de personas de 35 a 44 anos,Nu,Número total de homicidios en el que la víctima tenía entre 35 a 44 años de edad.,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_15,homicidios de personas de 45 a 59 anos,Nu,Número total de homicidios en el que la víctima tenía entre 45 a 59 años de edad.,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_16,homicidios de personas mayores de 60 anos,Nu,Número total de homicidios en el que la víctima tenía 60 o más años de edad.,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_17,homicidios en el mes de enero,Nu,Número total de homicidios ocurridos en el mes de Enero.,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_18,homicidios en el mes de febrero,Nu,Número total de homicidios ocurridos en el mes de Febrero,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_19,homicidios en el mes de marzo,Nu,Número total de homicidios ocurridos en el mes de Marzo.,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_20,homicidios en el mes de abril,Nu,Número total de homicidios ocurridos en el mes de Abril.,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_21,homicidios en el mes de mayo,Nu,Número total de homicidios ocurridos en el mes de Mayo.,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_22,homicidios en el mes de junio,Nu,Número total de homicidios ocurridos en el mes de Junio.,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_23,homicidios en el mes de julio,Nu,Número total de homicidios ocurridos en el mes de Julio.,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_24,homicidios en el mes de agosto,Nu,Número total de homicidios ocurridos en el mes de Agosto.,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_25,homicidios en el mes de septiembre,Nu,Número total de homicidios ocurridos en el mes de Septiembre,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_26,homicidios en el mes de octubre,Nu,Número total de homicidios ocurridos en el mes de Octubre,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_27,homicidios en el mes de noviembre,Nu,Número total de homicidios ocurridos en el mes de Noviembre,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_28,homicidios en el mes de diciembre,Nu,Número total de homicidios ocurridos en el mes de Diciembre,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_29,homicidio en que el mecanismo fue proyectil de arma de fuego,Ca,Número total de homicidio en que el mecanismo usado fue Proyectil de Arma de Fuego,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_30,homicidio en que el mecanismo fue corto punzante,Nu,Número total de homicidio en que el mecanismo usado fue Corto Punzante,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_31,homicidio en que el mecanismo fue contundente,Nu,Número total de homicidio en que el mecanismo usado fue Contundente,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_32,homicidio en que el mecanismo fue corto contundente,Nu,Número total de homicidio en que el mecanismo usado fue Corto Contundente,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_33,homicidio en que el mecanismo fue estrangulamiento,Nu,Número total de homicidio en que el mecanismo usado fue Estrangulamiento,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_34,homicidio en que el mecanismo fue sofocacion,Nu,Número total de homicidio en que el mecanismo usado fue Sofocación,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_35,homicidio en que el mecanismo fue cortante,Nu,Número total de homicidio en que el mecanismo usado fue Cortante,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_36,homicidio en que el mecanismo por determinar,Nu,Número total de homicidio en que el mecanismo usado está por determinar,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_37,homicidio en que el mecanismo fue quemadura de fuego,Nu,Número total de homicidio en que el mecanismo usado fue Quemadura de fuego,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v6_sc_001_38,tasa de homicidio en que el mecanismo fue proyectil de arma de fuego (por cada 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_39,tasa de homicidio en que el mecanismo fue corto punzante  (por cada 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_40,tasa de homicidio en que el mecanismo fue contundente  (por cada 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_41,tasa de homicidio en que el mecanismo fue corto contundente  (por cada 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_42,tasa de homicidio en que el mecanismo fue estrangulamiento  (por cada 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_43,tasa de homicidio en que el mecanismo fue sofocacion  (por cada 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_44,tasa de homicidio en que el mecanismo fue cortante  (por cada 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_45,tasa de homicidio en que el mecanismo por determinar  (por cada 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_46,tasa de homicidio en que el mecanismo fue quemadura de fuego  (por cada 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_47,numero de homicidios los dias lunes,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_48,numero de homicidios los dias martes,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_49,numero de homicidios los dias miercoles,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_50,numero de homicidios los dias jueves,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_51,numero de homicidios los dias viernes,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_52,numero de homicidios los dias sabado,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_53,numero de homicidios los dias domingo,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_54,homicidios ocurridos de 00:00 a 05:59,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_55,homicidios ocurridos de 06:00 a 11:59,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_56,homicidios ocurridos de 12:00 a :17:59,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_57,homicidios ocurridos de 18:00 a 23:59,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_58,homicidios sin dato de hora del hecho,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_59,lesionados por violencia interpersonal,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_60,lesiones en accidentes de transito,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_61,lesionados por maltrato de pareja,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_62,lesionados por presunto delito sexual,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_63,lesionados por violencia entre otros familiares,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_64,lesionados en maltrato a menores de edad,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_65,lesiones accidentales,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_66,tasa violencia interpersonal (por cada 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_67,tasa lesiones en accidentes de transito (por cada 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_68,tasa maltrato de pareja (por cada 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_69,tasa presunto delito sexual (por cada 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_70,tasa violencia entre otros familiares (por cada 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_71,tasa maltrato a menores de edad (por cada 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_72,tasa lesiones accidentales (por cada 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_73,hurto automotores,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_74,hurto entidades comerciales,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_75,hurto entidades financieras,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_76,hurto motocicletas,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_77,hurto personas,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_78,hurto residencias,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_79,pirateria terrestre,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_80,total hurtos,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_81,tasa hurto automotores (por 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_82,tasa hurto entidades comerciales (por 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_83,tasa hurto entidades financieras (por 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_84,tasa hurto motocicletas (por 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_85,tasa hurto personas (por 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_86,tasa hurto residencias (por 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_87,tasa pirateria terrestre (por 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_88,tasa hurtos (por 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_89,hurtos los dias lunes,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_90,hurtos los dias martes,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_91,hurtos los dias miercoles,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_92,hurtos los dias jueves,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_93,hurtos los dias viernes,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_94,hurtos los dias sabado,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_95,hurtos los dias domingo,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_96,hurtos en el mes de enero,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_97,hurtos en el mes de febrero,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_98,hurtos en el mes de marzo,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_001_99,hurtos en el mes de abril,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v6_sc_004,porcentaje de victimas de hurto a personas en la via publica,Nu,NA,DANE,NA,NA
+v6_sc_005,tasa de homicidios por cada 100 mil habitantes,Nu,"Número total de homicidios en un período y territorio determinado dividido por el total de la población, expresada por 100.000 habitantes.",Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Tasa por 100.000 habitantes
+v6_sc_007,tasa de homicidios de personas entre 15 y 24 anos de edad,Nu,NA,Instituto Nacional de Medicina Legal,NA,NA
+v6_sc_008,tasa de adolescentes capturados por cada mil adolescentes (14 a 17 anos),Nu,NA,ICBF,NA,NA
+v6_sc_009,indice de intensidad (expulsion) del desplazamiento forzado,Nu,NA,DPS,NA,NA
+v6_sc_010,porcentaje de ciudadanos que fue extorsionado o lo han intentado extorsionar,Nu,NA,DANE,NA,NA
+v6_sc_028,numero de homicidios,Nu,Número total de homicidios en un período y territorio determinado,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,Número
+v7_v_001_01,numero de suscriptores servicio de acueducto estrato 1,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_02,numero de suscriptores servicio de acueducto estrato 2,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_03,numero de suscriptores servicio de acueducto estrato 3,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_04,numero de suscriptores servicio de acueducto estrato 4,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_05,numero de suscriptores servicio de acueducto estrato 5,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_06,numero de suscriptores servicio de acueducto estrato 6,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_07,numero de suscriptores servicio de acueducto total residencial,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_08,numero de suscriptores del servicio de acuerducto industrial (no residencial),Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_09,numero de suscriptores del servicio de acuerducto comercial (no residencial),Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_10,numero de suscriptores del servicio de acuerducto oficial (no residencial),Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_100,"unidades iniciadas de viviendas de interes social, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_101,unidades iniciadas de viviendas de interes social ii trimestre de 2014,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_102,unidades iniciadas de vivienda de ineteres social iii trimestre de 2014,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_103,unidades iniciadas de viviendas de interes social iv trimestre de 2014,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_104,"area iniciadas en m2 de viviendas de interes social,i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_105,"area iniciadas en m2 de viviendas de interes social, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_106,"area iniciadas en m2 de viviendas de interes social, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_107,"area iniciadas en m2 de viviendas de interes social, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_108,"area iniciadas en m2 de viviendas de interes social,i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_109,"area iniciadas en m2 de viviendas de interes social, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_11,numero de suscriptores del servicio de acuerducto otros (no residencial),Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_110,"area iniciadas en m2  de viviendas de interes social, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_111,"area iniciadas en m2  de viviendas de interes social, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_112,"area iniciadas en m2 de viviendas de interes social,i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_113,"area iniciadas en m2  de viviendas de interes social, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_114,"area iniciadas en m2 de viviendas de interes social, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_115,"area iniciadas en m2  de viviendas de interes social, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_116,"area iniciadas en m2 de viviendas de interes social,i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_117,"area iniciadas en m2 de viviendas de interes social, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_118,"area iniciadas en m2 de viviendas de interes social, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_119,"area iniciadas en m2 de viviendas de interes social, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_12,numero de suscriptores del servicio de acuerduto no residencial,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_120,"area iniciadas en m2 de viviendas de interes social,i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_121,"area iniciadas en m2 de viviendas de interes social, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_122,"area iniciadas en m2  de viviendas de interes social, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_123,"area iniciadas en m2 de viviendas de interes social, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_124,"area iniciadas en m2 de viviendas de interes social,i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_125,"area iniciadas en m2 de viviendas de interes social,ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_126,"area iniciadas en m2 de viviendas de interes social,iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_127,"area iniciadas en m2 de viviendas de interes social,iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_128,"unidades culminadas de viviendas de interes social,i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_129,"unidades culminadas de viviendas de interes social, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_13,numero de suscriptores del servicio de acuerduto no residencial y residencial en total,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_130,"unidades culminadas de viviendas de interes social, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_131,"unidadesculminadas de viviendas de interes social, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_132,"unidades culminadas de viviendas de interes social,i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_133,"unidades culminadas de viviendas de interes social, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_134,"unidades culminadas de viviendas de interes social, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_135,"unidades culminadas de viviendas de interes social, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_136,"unidades culminadas de viviendas de interes social,i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_137,"unidades culminadas de viviendas de interes social, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_138,"unidades culminadas de viviendas de interes social, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_139,"unidades culminadas de viviendas de interes social, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_14,metros cubicos consumidos en promedio por suscriptores residenciales de estrato 1,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_140,"unidades culminadas  de viviendas de interes social,i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_141,"unidades culminadas de viviendas de interes social, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_142,"unidades culminadas de viviendas de interes social, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_143,"unidades culminadas de viviendas de interes social, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_144,"unidades culminadas de viviendas de interes social,i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_145,"unidades culminadas de viviendas de interes social, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_146,"unidades culminadas de viviendas de interes social, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_147,"unidades culminadas de viviendas de interes social, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_148,"unidades culminadas de viviendas de interes social, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_149,"unidades culminadas de viviendas de interes social, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_15,metros cubicos consumidos en promedio por suscriptores residenciales de estrato 2,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_150,"unidades culminadas de viviendas de interes social, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_151,"unidades culminadas de viviendas de interes social, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_152,"area culminada en m2 de viviendas de interes social,i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_153,"area culminada  en m2 de viviendas de interes social, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_154,"area culminada en m2 de viviendas de interes social, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_155,"area culminada en m2 de viviendas de interes social, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_156,"area culminada en m2 de viviendas de interes social,i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_157,"area culminada en m2 de viviendas de interes social, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_158,"area culminada en m2  de viviendas de interes social, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_159,"area culminada en m2  de viviendas de interes social, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_16,metros cubicos consumidos en promedio por suscriptores residenciales de estrato 3,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_160,"area culminada  en m2 de viviendas de interes social,i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_161,"area culminada en m2  de viviendas de interes social, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_162,"area  culminada en m2 de viviendas de interes social, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_163,"area culminada en m2  de viviendas de interes social, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_164,"area culminada en m2 de viviendas de interes social,i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_165,"area culminada en m2 de viviendas de interes social, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_166,"area culminada en m2 de viviendas de interes social, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_167,"area culminada en m2 de viviendas de interes social, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_168,"area  culminada en m2 de viviendas de interes social,i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_169,"area culminada en m2 de viviendas de interes social, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_17,metros cubicos consumidos en promedio por suscriptores residenciales de estrato 4,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_170,"area culminada en m2  de viviendas de interes social, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_171,"area  culminada en m2 de viviendas de interes social, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_172,"area  culminada en m2 de viviendas de interes social, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_173,"area  culminada en m2 de viviendas de interes social, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_174,"area  culminada en m2 de viviendas de interes social, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_175,"area  culminada en m2 de viviendas de interes social, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_176,"obras nuevas para viviendas de interes social,i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_177,"obras nuevas para viviendas de interes social, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_178,"obras nuevas para viviendas de interes social, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_179,"obras nuevas para viviendas de interes social, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_18,metros cubicos consumidos en promedio por suscriptores residenciales de estrato 5,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_180,"obras nuevas para viviendas de interes social,i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_181,"obras nuevas para viviendas de interes social, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_182,"obras nuevas para viviendas de interes social, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_183,"obras nuevas para viviendas de interes social, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_184,"obras nuevas para viviendas de interes social,i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_185,"obras nuevas para viviendas de interes social, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_186,"obras nuevas para viviendas de interes social, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_187,"obras nuevas para viviendas de interes social, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_188,"obras nuevas para viviendas de interes social,i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_189,"obras nuevas para viviendas de interes social, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_19,metros cubicos consumidos en promedio por suscriptores residenciales de estrato 6,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_190,"obras nuevas para viviendas de interes social, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_191,"obras nuevas para viviendas de interes social, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_192,"obras nuevas para viviendas de interes social,i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_193,"obras nuevas paraviviendas de interes social, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_194,"obras nuevas para viviendas de interes social, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_195,"obras nuevas para viviendas de interes social, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_196,"obras nuevas para viviendas de interes social, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_197,"obras nuevas para viviendas de interes social, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_198,"obras nuevas para viviendas de interes social, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_199,"obras nuevas para viviendas de interes social, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_20,metros cubicos consumidos en promedio por suscriptores residenciales,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_200,"obras continuan en proceso viviendas de interes social,i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_201,"obras continuan en proceso  viviendas de interes social, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_202,"obras continuan en proceso viviendas de interes social, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_203,"obras continuan en proceso viviendas de interes social, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_204,"obras continuan en proceso viviendas de interes social,i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_205,"obras continuan en proceso viviendas de interes social, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_206,"obras continuan en proceso viviendas de interes social, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_207,"obras continuan en proceso viviendas de interes social, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_208,"obras continuan en proceso viviendas de interes social,i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_209,"obras continuan en proceso viviendas de interes social, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_21,metros cubicos consumidos en promedio por suscriptores industriales (no residenciales),Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_210,"obras continuan en proceso viviendas de interes social, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_211,"obras continuan en proceso viviendas de interes social, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_212,"obras continuan en proceso viviendas de interes social,i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_213,"obras continuan en proceso viviendas de interes social, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_214,"obras continuan en proceso viviendas de interes social, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_215,"obras continuan en proceso viviendas de interes social, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_216,"obras continuan en proceso viviendas de interes social,i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_217,"obras continuan en proceso viviendas de interes social, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_218,"obras continuan en proceso viviendas de interes social, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_219,"obras continuan en proceso viviendas de interes social, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_22,metros cubicos consumidos en promedio por suscriptores comerciales (no residenciales),Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_220,"obras continuan en proceso viviendas de interes social, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_221,"obras continuan en proceso viviendas de interes social, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_222,"obras continuan en proceso viviendas de interes social, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_223,"obras continuan en proceso viviendas de interes social, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_224,"reinicio proceso viviendas de interes social,i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_225,"reinicio proceso viviendas de interes social, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_226,"reinicio proceso viviendas de interes social, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_227,"reinicio proceso  viviendas de interes social, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_228,"reinicio proceso viviendas de interes social,i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_229,"reinicio proceso viviendas de interes social, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_23,metros cubicos consumidos en promedio por suscriptores oficiales (no residenciales),Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_230,"reinicio proceso viviendas de interes social, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_231,"reinicio proceso  viviendas de interes social, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_232,"reinicio proceso viviendas de interes social,i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_233,"reinicio proceso viviendas de interes social, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_234,"reinicio proceso  viviendas de interes social, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_235,"reinicio proceso  viviendas de interes social, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_236,"reinicio proceso viviendas de interes social,i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_237,"reinicio proceso  viviendas de interes social, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_238,"reinicio proceso  viviendas de interes social, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_239,"reinicio proceso viviendas de interes social, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_24,metros cubicos consumidos en promedio por otros suscriptores no residenciales,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_240,"reinicio proceso viviendas de interes social,i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_241,"reinicio proceso viviendas de interes social, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_242,"reinicio proceso  viviendas de interes social, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_243,"reinicio proceso viviendas de interes social, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_244,"reinicio proceso viviendas de interes social, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_245,"reinicio proceso viviendas de interes social, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_246,"reinicio proceso viviendas de interes social, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_247,"reinicio proceso viviendas de interes social, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_248,"metros cuadradados de obras nuevas para viviendas de interes social,i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_249,"metros cuadradados de obras nuevas para viviendas de interes social, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_25,metros cubicos consumidos en promedio por suscriptores no residenciales,Nu,NA,Sistema Único de Información de Servicios Públicos.,NA,NA
+v7_v_001_250,"metros cuadradados de obras nuevas para viviendas de interes social, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_251,"metros cuadradados de obras nuevas para viviendas de interes social, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_252,"metros cuadradados de obras nuevas para viviendas de interes social,i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_253,"metros cuadradados de obras nuevas para viviendas de interes social, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_254,"metros cuadradados de obras nuevas para viviendas de interes social, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_255,"metros cuadradados de obras nuevas para viviendas de interes social, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_256,"metros cuadradados de obras nuevas para viviendas de interes social,i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_257,"metros cuadradados de obras nuevas para viviendas de interes social, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_258,"metros cuadradados de obras nuevas para viviendas de interes social, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_259,"metros cuadradados de obras nuevas para viviendas de interes social, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_26,numero de hogares,Nu,NA,Expediente Urbano Plan de Ordenamiento territorial 2014,NA,NA
+v7_v_001_260,"metros cuadradados de obras nuevas para viviendas de interes social,i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_261,"metros cuadradados de obras nuevas para viviendas de interes social, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_262,"metros cuadradados de obras nuevas para viviendas de interes social, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_263,"metros cuadradados de obras nuevas para viviendas de interes social, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_264,"metros cuadradados de obras nuevas para viviendas de interes social,i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_265,"metros cuadradados de obras nuevas paraviviendas de interes social, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_266,"metros cuadradados de obras nuevas para viviendas de interes social, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_267,"metros cuadradados de obras nuevas para viviendas de interes social, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_268,"metros cuadradados de obras nuevas para viviendas de interes social, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_269,"metros cuadradados de obras nuevas para viviendas de interes social, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_27,hogares con deficit cuantitativo,Nu,NA,Expediente Urbano Plan de Ordenamiento territorial 2015,NA,NA
+v7_v_001_270,"metros cuadradados de obras nuevas para viviendas de interes social, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_271,"metros cuadradados de obras nuevas para viviendas de interes social, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_272,"metros cuadradados de obras continuan en proceso viviendas de interes social,i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_273,"metros cuadradados de obras continuan en proceso  viviendas de interes social, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_274,"metros cuadradados de obras continuan en proceso viviendas de interes social, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_275,"metros cuadradados de obras continuan en proceso viviendas de interes social, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_276,"metros cuadradados de obras continuan en proceso viviendas de interes social,i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_277,"metros cuadradados de obras continuan en proceso viviendas de interes social, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_278,"metros cuadradados de obras continuan en proceso viviendas de interes social, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_279,"metros cuadradados de obras continuan en proceso viviendas de interes social, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_280,"metros cuadradados de obras continuan en proceso viviendas de interes social,i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_281,"metros cuadradados de obras continuan en proceso viviendas de interes social, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_282,"metros cuadradados de obras continuan en proceso viviendas de interes social, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_283,"metros cuadradados de obras continuan en proceso viviendas de interes social, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_284,"metros cuadradados de obras continuan en proceso viviendas de interes social,i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_285,"metros cuadradados de obras continuan en proceso viviendas de interes social, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_286,"metros cuadradados de obras continuan en proceso viviendas de interes social, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_287,"metros cuadradados de obras continuan en proceso viviendas de interes social, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_288,"metros cuadradados de obras continuan en proceso viviendas de interes social,i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_289,"metros cuadradados de obras continuan en proceso viviendas de interes social, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_29,unidades culminadas de viviendas no vis i trimestre de 2009,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_290,"metros cuadradados de obras continuan en proceso viviendas de interes social, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_291,"metros cuadradados de obras continuan en proceso viviendas de interes social, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_292,"metros cuadradados de obras continuan en proceso viviendas de interes social, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_293,"metros cuadradados de obras continuan en proceso viviendas de interes social, ii trimestre de 4",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_294,"metros cuadradados de obras continuan en proceso viviendas de interes social, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_295,"metros cuadradados de obras continuan en proceso viviendas de interes social, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_296,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social,i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_297,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_298,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_299,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_30,unidades culminadas de viviendas no vis ii trimestre de 2009,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_300,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social,i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_301,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_302,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_303,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_304,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social,i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_305,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_306,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_307,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_308,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social,i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_309,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_31,unidades culminadas de viviendas no vis iii trimestre de 2009,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_310,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_311,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_312,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social,i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_313,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_314,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_315,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_316,"metros cuadradados de vivienda que reinicio proceso, viviendas de interes social, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_317,"etros cuadradados de vivienda que reinicio proceso, viviendas de interes social, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_318,"etros cuadradados de vivienda que reinicio proceso, viviendas de interes social, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_319,"etros cuadradados de vivienda que reinicio proceso, viviendas de interes social, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_32,unidades culminadas de viviendas no vis iv trimestre de 2009,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_320,"obras nuevas paralizadas de viviendas de ineteres social, i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_321,"obras nuevas paralizadas de viviendas de ineteres social, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_322,"obras nuevas paralizadas de viviendas de interes social,iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_323,"obras nuevas paralizadas de viviendas de interes social,iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_324,"obras nuevas paralizadas de viviendas de interes social,i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_325,"obras nuevas paralizadas de viviendas de interes social, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_326,"obras nuevas paralizadas de viviendas de interes social, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_327,"obras nuevas paralizadas de viviendas de interes social, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_328,"obras nuevas paralizadas de viviendas de interes social, i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_329,"obras nuevas paralizadas de viviendas de interes social, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_33,unidades culminadas de viviendas no vis i trimestre de 2010,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_330,"obras nuevas paralizadas de viviendas de interes social, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_331,"obras nuevas  paralizadas de viviendas de ineteres social, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_332,"obras nuevas paralizadas de viviendas de ineres social, i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_333,"obras nuevas paralizadas de viviendas de interes social, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_334,"obras nuevas paralizadas de viviendas de interes social, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_335,"obras nuevas paralizadas de viviendas de interes social, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_336,"obras nuevas paralizadas de viviendas de interes social , i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_337,"obras nuevas paralizadas de viviendas de interes social, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_338,"obras nuevas paralizadas de viviendas de interes social, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_339,"obras nuevas paralizadas de viviendas de interes social, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_34,unidades culminadas de viviendas no vis ii trimestre de 2010,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_340,"obras nuevas paralizadas de viviendas de interes social, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_341,"obras nuevas paralizadas de viviendas de interes social, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_342,"obras nuevas paralizadas de viviendas de interes social, iii trimesre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_343,"obras nuevas paralizadas de viviendas de interes social, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_344,"obras de viviendas de interes social que continuan paralizadas,i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_345,"obras de viviendas de interes social que continuan paralizadas,ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_346,"obras de viviendas de interes social que continuan paralizadas, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_347,"obras de viviendas de interes social que continuan paralizadas, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_348,"obras de viviendas de interes social que continuan paralizadas ,i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_349,"obras de viviendas de interes social que continuan paralizadas, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_35,unidades culminadas de viviendas no vis iii trimestre de 2010,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_350,"obras de viviendas de interes social quecontinuan paralizadas, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_351,"obras de viviendas de interes social que continuan paralizadas, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_352,"obras de viviendas de interes social ue continuan paralizadas, i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_353,"obras de viviendas de interes social que continuan paralizadas, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_354,"obras de viviendas de interes social que continuan paralizadas, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_355,"obras de viviendas de interes social que continuan paralizadas, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_356,"obras de viviendas de interes social que continuan paralizadas ,i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_357,"obras de viviendas de interes social que continuan paralizadas ,ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_358,"obras de viviendas de interes social que continuan paralizadas ,iii  trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_359,"obras de viviendas de interes social que continuan paralizadas ,iv  trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_36,unidades culminadas de viviendas no vis iv trimestre de 2010,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_360,"obras de viviendas de interes social que continuan paralizadas, i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_361,"obras de viviendas de interes social que continuan paralizadas, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_363,"obras de viviendas de interes social que continuan paralizadas, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_364,"obras de viviendas de interes social que continuan paralizadas, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_365,"obras de viviendas de interes social que continuan paralizadas, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_366,"obras de viviendas de interes social que continuan paralizadas, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_367,"obras de viviendas de interes social que continuan paralizadas, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_368,"area paralizada de obras nuevas de viviendas de interes social, i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_369,"area paralizada de obras nuevas de viviendas de interes social, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_37,unidades culminadas de viviendas no vis i trimestre de 2011,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_370,"area paralizada de obras nuevas de viviendas de interes social, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_371,"area paralizada de obras nuevas de viviendas de interes social, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_372,"area paralizada de obras nuevas de viviendas de interes social, i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_373,"area paralizada de obras nuevas de viviendas de interes social, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_374,"area paralizada de obras nuevas de viviendas de interes social, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_375,"area paralizada de obras nuevas de viviendas de interes social, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_376,"area paralizada de obras nuevas de viviendas de interes social, i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_377,"area paralizada de obras nuevas de viviendas de interes social, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_378,"area paralizada de obras nuevas de viviendas de interes social, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_379,"area paralizada de obras nuevas de viviendas de interes social, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_38,unidades culminadas de viviendas no vis ii trimestre de 2011,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_380,"area paralizada de obras nuevas de viviendas de interes social, i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_381,"area paralizada de obras nuevas de viviendas de interes social, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_382,"area paralizada de obras nuevas de viviendas de interes social, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_383,"area paralizada de obras nuevas de viviendas de interes social, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_384,"area paralizada de obras nuevas de viviendas de interes social, i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_385,"area paralizada de obras nuevas de viviendas de interes social, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_386,"area paralizada de obras nuevas de viviendas de interes social, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_387,"area paralizada de obras nuevas de viviendas de interes social, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_388,"area paralizada de obras nuevas de viviendas de interes social, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_389,"area paralizada de obras nuevas de viviendas de interes social, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_39,unidades culminadas de viviendas no vis iii trimestre de 2011,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_390,"area paralizada de obras nuevas de viviendas de interes social, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_391,"area paralizada de obras nuevas de viviendas de interes social, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_392,"area paralizada de viviendas de interes social que continuan paralizadas, i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_393,"area paralizada de viviendas de interes social que continuan paralizadas, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_394,"area paralizada de viviendas de interes social que continuan paralizadas, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_395,"area paralizada de viviendas de interes social que continuan paralizadas, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_396,"area paralizada de viviendas de interes social que continuan paralizadas, i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_397,"area paralizada de viviendas de interes social que continuan paralizadas, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_398,"area paralizada de viviendas de interes social que continuan paralizadas, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_399,"area paralizada de viviendas de interes social que continuan paralizadas, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_40,unidades culminadas de viviendas no vis iv trimestre de 2011,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_400,"area paralizada de viviendas de interes social que continuan paralizadas, i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_401,"area paralizada de viviendas de interes social que continuan paralizadas, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_402,"area paralizada de viviendas de interes social que continuan paralizadas, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_403,"area paralizada de viviendas de interes social que continuan paralizadas, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_404,"area paralizada de viviendas de interes social que continuan paralizadas, i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_405,"area paralizada de viviendas de interes social que continuan paralizadas, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_406,"area paralizada de viviendas de interes social que continuan paralizadas, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_407,"area paralizada de viviendas de interes social que continuan paralizadas, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_408,"area paralizada de viviendas de interes social que continuan paralizadas, i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_409,"area paralizada de viviendas de interes social que continuan paralizadas, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_41,unidades culminadas de viviendas no vis i trimestre de 2012,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_410,"area paralizada de viviendas de interes social que continuan paralizadas, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_411,"area paralizada de viviendas de interes social que continuan paralizadas, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_412,"area paralizada de viviendas de interes social que continuan paralizadas, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_413,"area paralizada de viviendas de interes social que continuan paralizadas, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_414,"area paralizada de viviendas de interes social que continuan paralizadas, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_415,"area paralizada de viviendas de interes social que continuan paralizadas, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_416,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo i trimestre de 2009,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_417,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo ii trimestre de 2009,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_418,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo iii trimestre de 2009,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_419,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo  iv trimestre de 2009,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_42,unidades culminadas de viviendas no vis ii trimestre de 2012,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_420,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo i trimestre de 2010,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_421,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo ii trimestre de 2010,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_422,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo iii trimestre de 2010,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_423,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo  iv trimestre de 2010,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_424,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo i trimestre de 2011,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_425,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo ii trimestre de 2011,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_426,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo iii trimestre de 2011,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_427,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo iv trimestre de 2011,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_428,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo i trimestre de 2012,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_429,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo ii trimestre de 2012,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_43,unidades culminadas de viviendas no vis iii trimestre de 2012,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_430,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo iii trimestre de 2012,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_431,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo iv  trimestre de 2012,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_432,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo i trimestre de 2013,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_433,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo ii trimestre de 2013,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_434,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo iii trimestre de 2013,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_435,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo iv trimestre de 2013,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_436,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo i trimestre de 2014,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_437,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo ii trimestre de 2014,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_438,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo iii trimestre de 2014,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_439,area promedio de apartamentos de viviendas de interes social en estratos bajo_bajo iv trimestre de 2014,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_44,unidades culminadas de viviendas no vis iv trimestre de 2012,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_440,"area promedio de apartamentos de viviendas de interes social en estratos bajo, i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_441,"area promedio de apartamentos de viviendas de interes social en estratos bajo, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_442,"area promedio de apartamentos de viviendas de interes social en estratos bajo, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_443,"area promedio de apartamentos de viviendas de interes social en estratos bajo, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_444,"area promedio de apartamentos de viviendas de interes social en estratos bajo, i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_445,"area promedio de apartamentos de viviendas de interes social en estratos bajo, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_446,"area promedio de apartamentos de viviendas de interes social en estratos bajo, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_447,"area promedio de apartamentos de viviendas de interes social en estratos bajo, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_448,"area promedio de apartamentos de viviendas de interes social en estratos bajo, i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_449,"area promedio de apartamentos de viviendas de interes social en estratos bajo, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_45,unidades culminadas de viviendas no vis i trimestre de 2013,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_450,"area promedio de apartamentos de viviendas de interes social en estratos bajo, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_451,"area promedio de apartamentos de viviendas de interes social en estratos bajo, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_452,"area promedio de apartamentos de viviendas de interes social en estratos bajo, i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_453,"area promedio de apartamentos de viviendas de interes social en estratos bajo, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_454,"area promedio de apartamentos de viviendas de interes social en estratos bajo, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_455,"area promedio de apartamentos de viviendas de interes social en estratos bajo, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_456,"area promedio de apartamentos de viviendas de interes social en estratos bajo, i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_457,"area promedio de apartamentos de viviendas de interes social en estratos bajo, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_458,"area promedio de apartamentos de viviendas de interes social en estratos bajo, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_459,"area promedio de apartamentos de viviendas de interes social en estratos bajo, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_46,unidades culminadas de viviendas no vis ii trimestre de 2013,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_460,"area promedio de apartamentos de viviendas de interes social en estratos bajo, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_461,"area promedio de apartamentos de viviendas de interes social en estratos bajo, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_462,"area promedio de apartamentos de viviendas de interes social en estratos bajo, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_463,"area promedio de apartamentos de viviendas de interes social en estratos bajo, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_464,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_465,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_466,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_467,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_468,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_469,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_47,unidades culminadas de viviendas no vis iii trimestre de 2013,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_470,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_471,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_472,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_473,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_474,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_475,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_476,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_477,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_478,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_479,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_48,unidades culminadas de viviendas no vis iv trimestre de 2013,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_480,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_481,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_482,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_483,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_484,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_485,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_486,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_487,"area promedio de apartamentos de viviendas de interes social en estratos medio_bajo, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_488,"area promedio de apartamentos de viviendas de interes social en estratos medio, i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_489,"area promedio de apartamentos de viviendas de interes social en estratos medio, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_49,unidades culminadas de viviendas no vis i trimestre de 2014,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_490,"area promedio de apartamentos de viviendas de interes social en estratos medio, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_491,"area promedio de apartamentos de viviendas de interes social en estratos medio, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_492,"area promedio de apartamentos de viviendas de interes social en estratos medio, i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_493,"area promedio de apartamentos de viviendas de interes social en estratos medio, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_494,"area promedio de apartamentos de viviendas de interes social en estratos medio, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_495,"area promedio de apartamentos de viviendas de interes social en estratos medio, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_496,"area promedio de apartamentos de viviendas de interes social en estratos medio, i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_497,"area promedio de apartamentos de viviendas de interes social en estratos medio, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_498,"area promedio de apartamentos de viviendas de interes social en estratos medio, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_499,"area promedio de apartamentos de viviendas de interes social en estratos medio, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_50,unidades culminadas de viviendas no vis ii trimestre de 2014,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_500,"area promedio de apartamentos de viviendas de interes social en estratos medio, i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_501,"area promedio de apartamentos de viviendas de interes social en estratos medio, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_502,"area promedio de apartamentos de viviendas de interes social en estratos medio, iii trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_001_503,"area promedio de apartamentos de viviendas de interes social en estratos medio, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_504,"area promedio de apartamentos de viviendas de interes social en estratos medio, i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_505,"area promedio de apartamentos de viviendas de interes social en estratos medio, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_506,"area promedio de apartamentos de viviendas de interes social en estratos medio, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_507,"area promedio de apartamentos de viviendas de interes social en estratos medio, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_508,"area promedio de apartamentos de viviendas de interes social en estratos medio, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_509,"area promedio de apartamentos de viviendas de interes social en estratos medio, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_51,unidades culminadas de viviendas no vis iii trimestre de 2014,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_510,"area promedio de apartamentos de viviendas de interes social en estratos medio, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_511,"area promedio de apartamentos de viviendas de interes social en estratos medio, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_512,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_513,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_514,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_515,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_516,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_517,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_518,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_519,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_52,unidades culminadas de viviendas no vis iv trimestre de 2014,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_520,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_521,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_522,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_523,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_524,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_525,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_526,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_527,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_528,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_529,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_53,area culminada de vivienda no vis i trimestre de 2009,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_530,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_531,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_532,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_533,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_534,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_535,"area promedio de casas de viviendas de interes social en estratos bajo_bajo, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_536,"area promedio de casas de viviendas de interes social en estratos bajo , i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_537,"area promedio de casas de viviendas de interes social en estratos bajo , ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_538,"area promedio de casas de viviendas de interes social en estratos bajo , iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_539,"area promedio de casas de viviendas de interes social en estratos bajo , iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_54,area culminada de vivienda no vis ii trimestre de 2009,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_540,"area promedio de casas de viviendas de interes social en estratos bajo , i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_541,"area promedio de casas de viviendas de interes social en estratos bajo , ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_542,"area promedio de casas de viviendas de interes social en estratos bajo , iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_543,"area promedio de casas de viviendas de interes social en estratos bajo , iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_544,"area promedio de casas de viviendas de interes social en estratos bajo , i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_545,"area promedio de casas de viviendas de interes social en estratos bajo , ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_546,"area promedio de casas de viviendas de interes social en estratos bajo , iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_547,"area promedio de casas de viviendas de interes social en estratos bajo , iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_548,"area promedio de casas de viviendas de interes social en estratos bajo , i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_549,"area promedio de casas de viviendas de interes social en estratos bajo , ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_55,area culminada de vivienda no vis iii trimestre de 2009,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_550,"area promedio de casas de viviendas de interes social en estratos bajo , iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_551,"area promedio de casas de viviendas de interes social en estratos bajo , iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_552,"area promedio de casas de viviendas de interes social en estratos bajo , i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_553,"area promedio de casas de viviendas de interes social en estratos bajo , ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_554,"area promedio de casas de viviendas de interes social en estratos bajo , iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_555,"area promedio de casas de viviendas de interes social en estratos bajo , iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_556,"area promedio de casas de viviendas de interes social en estratos bajo , i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_557,"area promedio de casas de viviendas de interes social en estratos bajo , ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_558,"area promedio de casas de viviendas de interes social en estratos bajo , iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_559,"area promedio de casas de viviendas de interes social en estratos bajo , iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_56,area culminada de vivienda no vis iv trimestre de 2009,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_560,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_561,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_562,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_563,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_564,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_565,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_566,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_567,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_568,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_569,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_57,area culminada de vivienda no vis i trimestre de 2010,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_570,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_571,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_572,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_573,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_574,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_575,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_576,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_577,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_578,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_579,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_58,area culminada de vivienda no vis ii trimestre de 2010,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_580,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_581,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_582,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_583,"area promedio de casas de viviendas de interes social en estratos medio_ bajo , iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_584,"area promedio de casas de viviendas de interes social en estratos medio , i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_585,"area promedio de casas de viviendas de interes social en estratos medio , ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_586,"area promedio de casas de viviendas de interes social en estratos medio , iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_587,"area promedio de casas de viviendas de interes social en estratos medio , iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_588,"area promedio de casas de viviendas de interes social en estratos medio , i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_589,"area promedio de casas de viviendas de interes social en estratos medio , ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_59,area culminada de vivienda no vis iii trimestre de 2010,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_590,"area promedio de casas de viviendas de interes social en estratos medio , iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_591,"area promedio de casas de viviendas de interes social en estratos medio , iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_592,"area promedio de casas de viviendas de interes social en estratos medio , i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_593,"area promedio de casas de viviendas de interes social en estratos medio , ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_594,"area promedio de casas de viviendas de interes social en estratos medio , iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_595,"area promedio de casas de viviendas de interes social en estratos medio , iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_596,"area promedio de casas de viviendas de interes social en estratos medio , i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_597,"area promedio de casas de viviendas de interes social en estratos medio , ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_598,"area promedio de casas de viviendas de interes social en estratos medio , iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_599,"area promedio de casas de viviendas de interes social en estratos medio , iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_60,area culminada de vivienda no vis iv trimestre de 2010,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_600,"area promedio de casas de viviendas de interes social en estratos medio , i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_601,"area promedio de casas de viviendas de interes social en estratos medio , ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_602,"area promedio de casas de viviendas de interes social en estratos medio , iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_603,"area promedio de casas de viviendas de interes social en estratos medio , iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_604,"area promedio de casas de viviendas de interes social en estratos medio , i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_605,"area promedio de casas de viviendas de interes social en estratos medio , ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_606,"area promedio de casas de viviendas de interes social en estratos medio , iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_607,"area promedio de casas de viviendas de interes social en estratos medio , iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_608,"unidades iniciadas de viviendas de interes prioritario,i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_609,"unidades iniciadas de viviendas de interes prioritario, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_61,area culminada de vivienda no vis i trimestre de 2011,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_610,"unidades iniciadas de viviendas de interesprioritario, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_611,"unidades iniciadas de viviendas de interes prioritario, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_612,"unidades iniciadas de viviendas de interes prioritario,i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_613,"unidades iniciadas de viviendas de interes prioritario, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_614,"unidades iniciadas de viviendas de interes prioritario, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_615,"unidades iniciadas de viviendas de interes prioritario, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_616,"unidades iniciadas de viviendas de interes prioritario,i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_617,"unidades iniciadas de viviendas de interes prioritario, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_618,"unidades iniciadas de viviendas de interes prioritario, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_619,"unidades iniciadas de viviendas de interes prioritario, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_62,area culminada de vivienda no vis ii trimestre de 2011,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_620,"unidades iniciadas de viviendas de interes prioritario,i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_621,"unidades iniciadas de viviendas de interes prioritario, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_622,"unidades iniciadas de viviendas de interes prioritario, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_623,"unidades iniciadas de viviendas de interes prioritario, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_624,"unidades iniciadas de viviendas de interes prioritario,i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_625,"unidades iniciadas de viviendas de interes prioritario, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_626,"unidades iniciadas de viviendas de interes prioritario, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_627,"unidades iniciadas de viviendas de interes prioritario, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_628,"unidades iniciadas de viviendas de interes prioritario, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_629,"unidades iniciadas de viviendas de interes prioritario, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_63,area culminada de vivienda no vis iii  trimestre de 2011,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_630,"unidades iniciadas de viviendas de interes prioritario, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_631,"unidades iniciadas de viviendas de interes prioritario, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_632,"unidades iniciadas de viviendas de interes prioritario, ii trimestre de 2012 (apartamentos)",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_633,"unidades iniciadas de viviendas de interes prioritario, iii trimestre de 2012 (apartamentos)",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_634,"unidades iniciadas de viviendas de interes prioritario, iv trimestre de 2012 (apartamentos)",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_635,"unidades iniciadas de viviendas de interes prioritario,i trimestre de 2013 (apartamentos)",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_636,"unidades iniciadas de viviendas de interes prioritario, ii trimestre de 2013 (apartamentos)",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_637,"unidades iniciadas de viviendas de interes prioritario, iii trimestre de 2013 (apartamentos)",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_638,"unidades iniciadas de viviendas de interes prioritario, iv trimestre de 2013 (apartamentos)",Nu,NA,Expediente Urbano Plan de Ordenamiento territorial 2013,NA,NA
+v7_v_001_64,area culminada de vivienda no vis iv trimestre de 2011,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_65,area culminada de vivienda no vis i trimestre de 2012,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_66,area culminada de vivienda no vis ii trimestre de 2012,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_67,area culminada de vivienda no vis iii trimestre de 2012,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_68,area culminada de vivienda no vis iv trimestre de 2012,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_69,area culminada de vivienda no vis i trimestre de 2013,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_70,area culminada de vivienda no vis ii trimestre de 2013,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_71,area culminada de vivienda no vis iii trimestre de 2013,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_72,area culminada de vivienda no vis iv trimestre de 2013,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_73,area culminada de vivienda no vis i trimestre de 2014,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_74,area culminada de vivienda no vis ii trimestre de 2014,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_75,area culminada de vivienda no vis iii trimestre de 2014,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_76,area culminada de vivienda no vis iv trimestre de 2014,Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_77,consumo anual de energia electrica por habitantes,Nu,NA,Superintendencia de Servicios públicos-SUI,NA,NA
+v7_v_001_78,consumo anual de agua por habitantes,Nu,NA,Superintendencia de Servicios públicos-SUI,NA,NA
+v7_v_001_80,"unidades iniciadas de viviendas de interes social,i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_81,"unidades iniciadas de viviendas de interes social, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_82,"unidades iniciadas de viviendas de interes social, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_83,"unidades iniciadas de viviendas de interes social, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_84,"unidades iniciadas de viviendas de interes social,i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_85,"unidades iniciadas de viviendas de interes social, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_86,"unidades iniciadas de viviendas de interes social, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_87,"unidades iniciadas de viviendas de interes social, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_88,"unidades iniciadas de viviendas de interes social,i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_89,"unidades iniciadas de viviendas de interes social, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_90,"unidades iniciadas de viviendas de interes social, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_91,"unidades iniciadas de viviendas de interes social, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_92,"unidades iniciadas de viviendas de interes social,i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_93,"unidades iniciadas de viviendas de interes social, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_94,"unidades iniciadas de viviendas de interes social, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_95,"unidades iniciadas de viviendas de interes social, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_96,"unidades iniciadas de viviendas de interes social,i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_97,"unidades iniciadas de viviendas de interes social, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_98,"unidades iniciadas de viviendas de interes social, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_001_99,"unidades iniciadas de viviendas de interes social, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002,participacion porcentual de la vis en total de unidades de vivienda licenciadas,Nu,NA,DANE,NA,NA
+v7_v_002_100,"unidades en proceso de vivienda no vis (obras nuevas), iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_101,"unidades en proceso de vivienda no vis (continuan en proceso), i  trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_102,"unidades en proceso de vivienda no vis (continuan en proceso), ii trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_103,"unidades en proceso de vivienda no vis (continuan en proceso), iii trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_104,"unidades en proceso de vivienda no vis (continuan en proceso), iv trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_105,"unidades en proceso de vivienda no vis (continuan en proceso ), i trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_106,"unidades en proceso de vivienda no vis (continuan en proceso), ii trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_107,"unidades en proceso de vivienda no vis (continuan en proceso), iii trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_108,"unidades en proceso de vivienda no vis (continuan en proceso), iv trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_109,"unidades en proceso de vivienda no vis (continuan en proceso), i trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_110,"unidades en proceso de vivienda no vis (continuan en proceso), ii trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_111,"unidades en proceso de vivienda no vis (continuan en proceso), iii trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_112,"unidades en proceso de vivienda no vis (continuan en proceso), iv trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_113,"unidades en proceso de vivienda no vis (continuan en proceso), i trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_114,"unidades en proceso de vivienda no vis (continuan en proceso), ii trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_115,"unidades en proceso de vivienda no vis (continuan en proceso), iii trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_116,"unidades en proceso de vivienda no vis (continuan en proceso), iv trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_117,"unidades en proceso de vivienda no vis (continuan en proceso), i trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_118,"unidades en proceso de vivienda no vis (continuan en proceso), ii trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_119,"unidades en proceso de vivienda no vis (continuan en proceso), iii trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_120,"unidades en proceso de vivienda no vis (continuan en proceso), iv trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_121,"unidades en proceso de vivienda no vis (continuan en proceso), i trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_122,"unidades en proceso de vivienda no vis (continuan en proceso), ii trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_123,"unidades en proceso de vivienda no vis (continuan en proceso), iii trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_124,"unidades en proceso de vivienda no vis (continuan en proceso), iv trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_125,"unidades en proceso de vivienda no vis (reinicio  proceso), i trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_126,"unidades en proceso de vivienda no vis (reinicio  proceso), ii trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_127,"unidades en proceso de vivienda no vis (reinicio  proceso), iii trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_128,"unidades en proceso de vivienda no vis (reinicio  proceso), iv trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_129,"unidades en proceso de vivienda no vis (reinicio  proceso), i trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_130,"unidades en proceso de vivienda no vis (reinicio  proceso), ii trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_131,"unidades en proceso de vivienda no vis (reinicio  proceso), iii trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_132,"unidades en proceso de vivienda no vis (reinicio  proceso), iv trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_133,"unidades en proceso de vivienda no vis (reinicio  proceso), i trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_134,"unidades en proceso de vivienda no vis (reinicio  proceso), ii trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_135,"unidades en proceso de vivienda no vis (reinicio  proceso), iii trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_136,"unidades en proceso de vivienda no vis (reinicio  proceso), iv trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_137,"unidades en proceso de vivienda no vis (reinicio  proceso), i trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_138,"unidades en proceso de vivienda no vis (reinicio  proceso), ii trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_139,"unidades en proceso de vivienda no vis (reinicio  proceso), iii trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_140,"unidades en proceso de vivienda no vis (reinicio  proceso), iv trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_141,"unidades en proceso de vivienda no vis (reinicio  proceso), i trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_142,"unidades en proceso de vivienda no vis (reinicio  proceso), ii trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_143,"unidades en proceso de vivienda no vis (reinicio  proceso), iii trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_144,"unidades en proceso de vivienda no vis (reinicio  proceso), iv trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_145,"unidades en proceso de vivienda no vis (reinicio  proceso), i trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_146,"unidades en proceso de vivienda no vis (reinicio  proceso), ii trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_147,"unidades en proceso de vivienda no vis (reinicio  proceso), iii trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_148,"unidades en proceso de vivienda no vis (reinicio  proceso), iv trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_149,"area en proceso de vivienda no vis ( obras nuevas), i trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_150,"area en proceso de vivienda no vis ( obras nuevas), ii trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_151,"area en proceso de vivienda no vis ( obras nuevas), iii trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_152,"area en proceso de vivienda no vis ( obras nuevas), iv trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_153,"area en proceso de vivienda no vis ( obras nuevas), i trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_154,"area en proceso de vivienda no vis ( obras nuevas), ii trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_155,"area en proceso de vivienda no vis ( obras nuevas), iii trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_156,"area en proceso de vivienda no vis ( obras nuevas), iv trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_157,"area en proceso de vivienda no vis ( obras nuevas), i trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_158,"area en proceso de vivienda no vis ( obras nuevas), ii trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_159,"area en proceso de vivienda no vis ( obras nuevas), iii trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_160,"area en proceso de vivienda no vis ( obras nuevas), iv trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_161,"area en proceso de vivienda no vis ( obras nuevas), i trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_162,"area en proceso de vivienda no vis ( obras nuevas), ii trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_163,"area en proceso de vivienda no vis ( obras nuevas), iii trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_164,"area en proceso de vivienda no vis ( obras nuevas), iv trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_165,"area en proceso de vivienda no vis ( obras nuevas), i trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_166,"area en proceso de vivienda no vis ( obras nuevas), ii trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_167,"area en proceso de vivienda no vis ( obras nuevas), iii trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_168,"area en proceso de vivienda no vis ( obras nuevas), iv trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_169,"area en proceso de vivienda no vis ( obras nuevas), i trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_170,"area en proceso de vivienda no vis ( obras nuevas), ii trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_171,"area en proceso de vivienda no vis ( obras nuevas), iii trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_172,"area en proceso de vivienda no vis ( obras nuevas), iv trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_173,"area en proceso de vivienda no vis ( continuan en proceso), i trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_174,"area en proceso de vivienda no vis ( continuan en proceso), ii trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_175,"area en proceso de vivienda no vis ( continuan en proceso), iii trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_176,"area en proceso de vivienda no vis ( continuan en proceso), iv trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_177,"area en proceso de vivienda no vis ( continuan en proceso), i trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_178,"area en proceso de vivienda no vis ( continuan en proceso), ii trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_179,"area en proceso de vivienda no vis ( continuan en proceso), iii trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_180,"area en proceso de vivienda no vis ( continuan en proceso), iv trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_181,"area en proceso de vivienda no vis ( continuan en proceso), i trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_182,"area en proceso de vivienda no vis ( continuan en proceso), ii trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_183,"area en proceso de vivienda no vis ( continuan en proceso), iii trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_184,"area en proceso de vivienda no vis ( continuan en proceso), iv trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_185,"area en proceso de vivienda no vis ( continuan en proceso), i trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_186,"area en proceso de vivienda no vis ( continuan en proceso), ii trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_187,"area en proceso de vivienda no vis ( continuan en proceso), iii trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_188,"area en proceso de vivienda no vis ( continuan en proceso), iv trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_189,"area en proceso de vivienda no vis ( continuan en proceso), i trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_190,"area en proceso de vivienda no vis ( continuan en proceso), ii trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_191,"area en proceso de vivienda no vis ( continuan en proceso), iii trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_192,"area en proceso de vivienda no vis ( continuan en proceso), iv trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_193,"area en proceso de vivienda no vis ( continuan en proceso), i trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_194,"area en proceso de vivienda no vis ( continuan en proceso), ii trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_195,"area en proceso de vivienda no vis ( continuan en proceso), iii trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_196,"area en proceso de vivienda no vis ( continuan en proceso), iv trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_197,"area en proceso de vivienda no vis ( reinicio proceso), i trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_198,"area en proceso de vivienda no vis ( reinicio proceso), ii trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_199,"area en proceso de vivienda no vis ( reinicio proceso), iii trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_200,"area en proceso de vivienda no vis ( reinicio proceso), iv trimestre de 2009",Nu,NA,NA,NA,NA
+v7_v_002_201,"area en proceso de vivienda no vis ( reinicio proceso), i trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_202,"area en proceso de vivienda no vis ( reinicio proceso), ii trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_203,"area en proceso de vivienda no vis ( reinicio proceso), iii trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_204,"area en proceso de vivienda no vis ( reinicio proceso), iv trimestre de 2010",Nu,NA,NA,NA,NA
+v7_v_002_205,"area en proceso de vivienda no vis ( reinicio proceso), i trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_206,"area en proceso de vivienda no vis ( reinicio proceso), ii trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_207,"area en proceso de vivienda no vis ( reinicio proceso), iii trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_208,"area en proceso de vivienda no vis ( reinicio proceso), iv trimestre de 2011",Nu,NA,NA,NA,NA
+v7_v_002_209,"area en proceso de vivienda no vis ( reinicio proceso), i trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_210,"area en proceso de vivienda no vis ( reinicio proceso), ii trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_211,"area en proceso de vivienda no vis ( reinicio proceso), iii trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_212,"area en proceso de vivienda no vis ( reinicio proceso), iv trimestre de 2012",Nu,NA,NA,NA,NA
+v7_v_002_213,"area en proceso de vivienda no vis ( reinicio proceso), i trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_214,"area en proceso de vivienda no vis ( reinicio proceso), ii trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_215,"area en proceso de vivienda no vis ( reinicio proceso), iii trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_216,"area en proceso de vivienda no vis ( reinicio proceso), iv trimestre de 2013",Nu,NA,NA,NA,NA
+v7_v_002_217,"area en proceso de vivienda no vis ( reinicio proceso), i trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_219,"area en proceso de vivienda no vis ( reinicio proceso), ii trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_220,"area en proceso de vivienda no vis ( reinicio proceso), iii trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_221,"area en proceso de vivienda no vis ( reinicio proceso), iv trimestre de 2014",Nu,NA,NA,NA,NA
+v7_v_002_29,"unidades iniciadas de viviendas  diferentes a las vis,i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_30,"unidades iniciadas de viviendas  diferentes a las vis, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_31,"unidades iniciadas de viviendas  diferentes a las vis, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_32,"unidades iniciadas de viviendas   diferentes a las vis, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_33,"unidades iniciadas de viviendas diferentes a las vis,i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_34,"unidades iniciadas de viviendas diferentes a las vis,, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_35,"unidades iniciadas de viviendas  diferentes a las vis, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_36,"unidades iniciadas de viviendas  diferentes a las vis, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_37,"unidades iniciadas de viviendas  diferentes a las vis,i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_38,"unidades iniciadas de viviendas diferentes a las vis, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_39,"unidades iniciadas de viviendas  diferentes a las vis, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_40,"unidades iniciadas de viviendas  diferentes a las vis, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_41,"unidades iniciadas de viviendas  diferentes a las vis,i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_42,"unidades iniciadas de viviendas diferentes a las vis,, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_43,"unidades iniciadas de viviendas diferentes a las vis, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_44,"unidades iniciadas de viviendas diferentes a las vis, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_45,"unidades iniciadas de viviendas diferentes a las vis,i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_46,"unidades iniciadas de viviendas diferentes a las vis, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_47,"unidades iniciadas de viviendas diferentes a las vis, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_48,"unidades iniciadas de viviendas  diferentes a las vis, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_49,"unidades iniciadas de viviendas  diferentes a las vis, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_50,"unidades iniciadas de viviendas  diferentes a las vis, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_51,"unidades iniciadas de viviendas  diferentes a las vis, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_52,"unidades iniciadas de viviendas  diferentes a las vis, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_53,"area iniciadas en m2 de viviendas diferentes a las vis,i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_54,"area iniciadas en m2 de viviendas diferentes a las vis, ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_55,"area iniciadas en m2 de viviendas diferentes a las vis, iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_56,"area iniciadas en m2 de viviendas diferentes a las vis, iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_57,"area iniciadas en m2 de viviendas diferentes a las vis,i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_58,"area iniciadas en m2 de viviendas diferentes a las vis, ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_59,"area iniciadas en m2  de viviendas diferentes a las vis, iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_60,"area iniciadas en m2  de viviendas diferentes a las vis, iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_61,"area iniciadas en m2 de viviendas diferentes a las vis,i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_62,"area iniciadas en m2  de viviendas diferentes a las vis, ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_63,"area iniciadas en m2 de viviendas diferentes a las vis, iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_64,"area iniciadas en m2  de viviendas diferentes a las vis, iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_65,"area iniciadas en m2 de viviendas diferentes a las vis,i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_66,"area iniciadas en m2 de viviendas diferentes a las vis, ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_67,"area iniciadas en m2 de viviendas diferentes a las vis, iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_68,"area iniciadas en m2 de viviendas diferentes a las vis, iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_69,"area iniciadas en m2 de viviendas diferentes a las vis,i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_70,"area iniciadas en m2 de viviendas diferentes a las vis, ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_71,"area iniciadas en m2  de viviendas diferentes a las vis, iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_72,"area iniciadas en m2 de viviendas diferentes a las vis, iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_73,"area iniciadas en m2 de viviendas diferentes a las vis, i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_74,"area iniciadas en m2 de viviendas diferentes a las vis, ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_75,"area iniciadas en m2 de viviendas diferentes a las vis, iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_76,"area iniciadas en m2 de viviendas diferentes a las vis, iv trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_77,"unidades en proceso de vivienda no vis (obras nuevas), i trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_78,"unidades en proceso de vivienda no vis (obras nuevas), ii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_79,"unidades en proceso de vivienda no vis (obras nuevas), iii trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_80,"unidades en proceso de vivienda no vis (obras nuevas), iv trimestre de 2009",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_81,"unidades en proceso de vivienda no vis (obras nuevas), i trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_82,"unidades en proceso de vivienda no vis (obras nuevas), ii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_83,"unidades en proceso de vivienda no vis (obras nuevas), iii trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_84,"unidades en proceso de vivienda no vis (obras nuevas), iv trimestre de 2010",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_85,"unidades en proceso de vivienda no vis (obras nuevas), i trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_86,"unidades en proceso de vivienda no vis (obras nuevas), ii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_87,"unidades en proceso de vivienda no vis (obras nuevas), iii trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_88,"unidades en proceso de vivienda no vis (obras nuevas), iv trimestre de 2011",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_89,"unidades en proceso de vivienda no vis (obras nuevas), i trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_90,"unidades en proceso de vivienda no vis (obras nuevas), ii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_91,"unidades en proceso de vivienda no vis (obras nuevas), iii trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_92,"unidades en proceso de vivienda no vis (obras nuevas), iv trimestre de 2012",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_93,"unidades en proceso de vivienda no vis (obras nuevas), i trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_94,"unidades en proceso de vivienda no vis (obras nuevas), ii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_95,"unidades en proceso de vivienda no vis (obras nuevas), iii trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_96,"unidades en proceso de vivienda no vis (obras nuevas), iv trimestre de 2013",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_97,"unidades en proceso de vivienda no vis (obras nuevas), i trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_98,"unidades en proceso de vivienda no vis (obras nuevas), ii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_002_99,"unidades en proceso de vivienda no vis (obras nuevas), iii trimestre de 2014",Nu,NA,DANE-Censo de edificaciones,NA,NA
+v7_v_003,tasa de cobertura del servicio de acueducto,Nu,NA,Expediente Urbano Plan de Ordenamiento territorial 2013,NA,NA
+v8_ma_01_04,accidentes totales en transmetro,Nu,NA,Transmetro S.A,NA,NA
+v8_ma_06,"existencia, monitoreo y cumplimiento de regulaciones sobre polucion acustica",Ca,NA,DAMAB,NA,NA
+v9_m_001_01,pasajeros movilizados en transporte masivo,Nu,NA,Transmetro S.A,NA,NA
+v9_m_001_02,heridos en el sistema transmetro,Nu,NA,Transmetro S.A,NA,NA
+v9_m_001_05,no. de automotores de transporte particular por cada 100 habitantes.,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_001_06,no. de motos por cada 100 habitantes.,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_002,promedio diario de pasajeros del sistema de transporte masivo,Nu,NA,Transmetro S.A,NA,NA
+v9_m_003,porcentaje de cumplimiento del promedio diario de pasajeros de pasajeros en el stm frente a su respectivo documento conpes,Nu,NA,NA,NA,NA
+v9_m_004,variacion en el numero de pasajeros del tranporte publico,Nu,NA,NA,NA,NA
+v9_m_009,kilometros de ciclovias exclusivas existentes,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_010,porcentaje de victimas conductores,Nu,NA,Instituto Nacional de Medicina Legal,NA,NA
+v9_m_011,porcentaje de victimas peatones,Nu,NA,Instituto Nacional de Medicina Legal,NA,NA
+v9_m_012,porcentaje de victimas pasajeros,Nu,NA,Instituto Nacional de Medicina Legal,NA,NA
+v9_m_013,porcentaje de lesionados conductores,Nu,NA,Instituto Nacional de Medicina Legal,NA,NA
+v9_m_014,porcentaje de lesionados peatones,Nu,NA,Instituto Nacional de Medicina Legal,NA,NA
+v9_m_015,porcentaje de lesionados pasajeros,Nu,NA,Instituto Nacional de Medicina Legal,NA,NA
+v9_m_016,total accidentes de transito,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_01,numero de lesiones no fatales en accidente de transito,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_02,tasa de lesiones no fatales en accidente de transito (por 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_03,muertes en accidente de transito victima peaton,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_04,muertes en accidente de transito victima motociclista conductor,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_05,muertes en accidente de transito victima pasajero,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_06,muertes en accidente de transito victima motociclista pasajero,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_07,muertes en accidente de transito victima ciclista,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_08,muertes en accidente de transito victima conductor,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_09,total muertes en accidente de transito,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_10,tasa muertes en accidente de transito (por 100 mil habitantes),Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_11,lesiones en accidente de transito victima <1 a 4 anos,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_12,lesiones en accidente de transito victima de 5 a 14 anos,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_13,lesiones en accidente de transito victima de 15 a 17 anos,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_14,lesiones en accidente de transito victima de 18 a 24 anos,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_15,lesiones en accidente de transito victima de 25 a 34 anos,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_16,lesiones en accidente de transito victima de 35 a 44 anos,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_17,lesiones en accidente de transito victima de 45 a 59 anos,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_18,lesiones en accidente de transito victima > 60anos,Nu,NA,Sistema de Información unificado del Fondo de seguridad y convivencia Distrital,NA,NA
+v9_m_016_19,comparendos por infracciones de transito pagados,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_20,comparendos por infracciones de transito a taxis,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_21,comparendos por infracciones de transito a transporte particular,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_22,comparendos por infracciones de transito a transporte publico colectivo,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_23,total comparendos por infracciones de transito,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_24,comparendos por alcoholemia en transporte publico colectivo,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_25,comparendos por alcoholemia en taxis,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_26,total comparendos por alcoholemia,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_27,comparendos por alcoholemia en transporte particular,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_28,comparendo por revision tecno mecanica y de gases a automoviles particulares,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_29,comparendo por revision tecno mecanica y de gases a motocicletas,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_30,comparendo por revision tecno mecanica y de gases a transporte publico,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_31,parque automotor motocicletas,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_32,parque automotor de taxis,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_33,parque automotor de transporte publico colectivo,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_34,parque automor de transporte particular,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_36,numero de senalizaciones verticales,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_38,numero de licencias otorgadas a taxis,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_45,numero de licencias otorgadas a transporte publico colectivo,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_016_46,"metros cuadrados de espacio publico efectivo por habitantes(parques, plazas, plazoletas, zonas verdes)",Nu,NA,Documento técnico de soporte componente urbano-Plan de Ordenamiento Territorial 2013,NA,NA
+v9_m_016_47,m² de senalizacion horizontal,Nu,NA,Secretaría Distrital de Movilidad,NA,NA
+v9_m_064_03,velocidad promedio de recorrido en transmetro,Nu,NA,Transmetro S.A,NA,NA
+v9_m_076,numero de intersecciones semaforizadas,Nu,NA,Secretaría Distrital de Movilidad,NA,NA

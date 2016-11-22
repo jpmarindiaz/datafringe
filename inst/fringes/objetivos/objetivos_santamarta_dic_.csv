@@ -1,0 +1,295 @@
+id,label,ctype
+Anio,Año,Ye
+v0_ep_001,"metros cuadrados de espacio publico efectivo por habitante(parques, plazas, plazoletas, zonas verdes)",Nu
+v1_d_001,poblacion total,Nu
+v1_d_001_01,poblacion total de hombres,Nu
+v1_d_001_02,poblacion de hombres de 0 a 4 anos,Nu
+v1_d_001_03,poblacion de hombres de 5 a 9 anos,Nu
+v1_d_001_04,poblacion de hombres de 10 a 14 anos,Nu
+v1_d_001_05,poblacion de hombres de 15 a 19 anos,Nu
+v1_d_001_06,poblacion de hombres de 20 a 24 anos,Nu
+v1_d_001_07,poblacion de hombres de 25 a 29 anos,Nu
+v1_d_001_08,poblacion de hombres de 30 a 34 anos,Nu
+v1_d_001_09,poblacion de hombres de 35 a 39 anos,Nu
+v1_d_001_10,poblacion de hombres de 40 a 44 anos,Nu
+v1_d_001_11,poblacion de hombres de 45 a 49 anos,Nu
+v1_d_001_12,poblacion de hombres de 50 a 54 anos,Nu
+v1_d_001_13,poblacion de hombres de 55 a 59 anos,Nu
+v1_d_001_14,poblacion de hombres de 60 a 64 anos,Nu
+v1_d_001_15,poblacion de hombres de 65 a 69 anos,Nu
+v1_d_001_16,poblacion de hombres de 70 a 74 anos,Nu
+v1_d_001_17,poblacion de hombres de 75 a 79 anos,Nu
+v1_d_001_18,poblacion de hombres 80+,Nu
+v1_d_004,poblacion mujeres,Nu
+v1_d_004_001,distribucion de la poblacion por area (urbana),Nu
+v1_d_004_01,poblacion de mujeres de 0 a 4 anos,Nu
+v1_d_004_02,poblacion de mujeres de 5 a 9 anos,Nu
+v1_d_004_03,poblacion de mujeres de 10 a 14 anos,Nu
+v1_d_004_04,poblacion de mujeres de 15 a 19 anos,Nu
+v1_d_004_05,poblacion de mujeres de 20 a 24 anos,Nu
+v1_d_004_06,poblacion de mujeres de 25 a 29 anos,Nu
+v1_d_004_07,poblacion de  mujeres de 30 a 34 anos,Nu
+v1_d_004_08,poblacion de  mujeres de 35 a 39 anos,Nu
+v1_d_004_09,poblacion de  mujeres de 40 a 44 anos,Nu
+v1_d_004_10,poblacion de  mujeres de 45 a 49 anos,Nu
+v1_d_004_11,poblacion de  mujeres de 50 a 54 anos,Nu
+v1_d_004_12,poblacion de  mujeres de 55 a 59 anos,Nu
+v1_d_004_13,poblacion de  mujeres de 60 a 64 anos,Nu
+v1_d_004_14,poblacion de  mujeres de 65 a 69 anos,Nu
+v1_d_004_15,poblacion de  mujeres de 70 a 74 anos,Nu
+v1_d_004_16,poblacion de  mujeresde 75 a 79 anos,Nu
+v1_d_004_17,poblacion de  mujeres 80+,Nu
+v1_d_005,extension territorial area km2,Nu
+v1_d_008,densidad poblacional (habitante/km2),Nu
+v1_d_010,tasa de crecimiento de la poblacion,Nu
+v1_d_011,indice de envejecimiento,Nu
+v1_d_012,indice de envejecimiento hombres,Nu
+v1_d_013,indice de envejecimiento mujeres,Nu
+v1_d_014,tasa de dependencia economica,Nu
+v1_d_015,tasa de dependencia economica hombres,Nu
+v1_d_016,tasa de dependencia economica mujeres,Nu
+v1_d_017,porcentaje de poblacion indigena,Nu
+v1_d_017_01,"porcentaje de poblacion, negro, mulato o afrocolmbiana",Nu
+v1_d_031,numero de nacimientos,Nu
+v1_d_031_01,numero de nacimientos en la cabecera municipal,Nu
+v1_d_031_02,numero de nacimientos en el centro poblado,Nu
+v1_d_031_03,numero de nacimientos en la zona rural dispersa,Nu
+v1_d_032_01,numero de defunciones en menores de 1 ano,Nu
+v1_d_032_02,numero de defunciones en menores de 5 ano (1-4 anos),Nu
+v1_d_032_03,numero de defunciones maternas,Nu
+v1_d_032_04,numero de muertes perinatales (fetales),Nu
+v1_d_033_01,numero total de defunciones,Nu
+v2_p_001,incidencia pobreza monetaria (ipm),Nu
+v2_p_002,incidencia pobreza monetaria extrema (ipme),Nu
+v2_p_003,variacion porcentual en el ingreso promedio del hogar,Nu
+v2_p_004,coeficiente de gini de los ingresos,Nu
+v2_p_005,tasa de cobertura del programa unidos,Nu
+v2_p_006,porcentaje de familias promovidas en el programa unidos,Nu
+v2_p_007,tasa de trabajo infantil,Nu
+v2_p_008,tasa de trabajo infantil ampliado,Nu
+v3_gp_001,indice de gobierno abierto,Nu
+v3_gp_002,ingresos propios como porcentaje de ingresos totales,Nu
+v3_gp_003,ingresos tributarios por habitante,Nu
+v3_gp_004,transferencias totales como porcentaje del ingreso total,Nu
+v3_gp_005,gasto inversion como porcentaje del gasto total,Nu
+v3_gp_006,inversion total por habitante,Nu
+v3_gp_007,saldo de la deuda/ingresos corrientes (ley 358 - 1997),Nu
+v3_gp_024,indice de desempeno fiscal,Nu
+v3_gp_025,ranking de desempeno fiscal,Nu
+v3_gp_035_08,ingresos totales,Nu
+v3_gp_035_09,ingresos propios,Nu
+v3_gp_035_17,ingresos tributarios,Nu
+v3_gp_035_18,ingresos no tributarios,Nu
+v3_gp_035_19,transferencias totales,Nu
+v3_gp_035_20,gasto total,Nu
+v3_gp_035_21,gasto en inversion,Nu
+v3_gp_035_22,gasto en funcionamiento,Nu
+v3_gp_035_23,ingresos corrientes,Nu
+v3_gp_035_25,transferencias de la nacion (para inversion),Nu
+v3_gp_035_26,gasto en funcionamiento como porcentaje del gasto total,Nu
+v3_gp_035_28,composicion y saldo de la deuda (deuda externa),Nu
+v3_s_001,cobertura en aseguramiento,Nu
+v3_s_001_05,fecundidad en adolescentes de 10 a 14 anos,Nu
+v3_s_003_02,numero de hospitales,Nu
+v3_s_003_03,numero ese,Nu
+v3_s_003_04,numero de centros de salud,Nu
+v3_s_003_05,numero de centros de salud nivel 1,Nu
+v3_s_003_06,numero de centros de salud nivel 2,Nu
+v3_s_003_07,numero de centros de salud nivel 3,Nu
+v3_s_003_08,numero de centros de salud nivel 4,Nu
+v3_s_003_09,"espacio publico verde (parques,areas de recreacion, areas naturales permanentes tanto privadas como publicas) por habitante",Nu
+v3_s_003_11,espacio publicos de recreacion por cada cien mil habitantes,Nu
+v3_s_004,tasa de mortalidad general,Nu
+v3_s_005,tasa de mortalidad materna por 100.000 nacidos vivos,Nu
+v3_s_006,porcentaje de nacidos vivos con bajo peso al nacer,Nu
+v3_s_006_01,porcentaje de nacidos vivos con bajo peso al nacer en la cabecera municipal,Nu
+v3_s_006_02,porcentaje de nacidos vivos con bajo peso al nacer en el centro poblado,Nu
+v3_s_006_03,porcentaje de nacidos vivos con bajo peso al nacer en la zona rural dispersa,Nu
+v3_s_007,fecundidad en adolescentes de 15 a 19 anos,Nu
+v3_s_008,cobertura en vacunacion  dtp tercera dosis (menores de un ano),Nu
+v3_s_009,cobertura en vacunacion tv (un ano),Nu
+v3_s_010,tasa de mortalidad en menores de un ano por 1.000 nacidos vivos,Nu
+v3_s_011_014,numero de muertes por enfermedad diarreica aguda eda menores de cinco anos,Nu
+v3_s_014,cobertura de vacunacion con antipolio en menores de un ano,Nu
+v3_s_015,cobertura de vacunacion con bcg en ninos menores de un ano,Nu
+v3_s_019,nacimientos en adolescentes de 10 a 14 anos,Nu
+v3_s_019_01,"numero de muertes por embarazo, parto y puerperio",Nu
+v3_s_020,nacimientos en adolescentes de 15 a 19 anos,Nu
+v3_s_021,cobertura al regimen subsidiado,Nu
+v3_s_021_01,numero de personas afiliadas al regimen subsidiado,Nu
+v3_s_021_02,cobertura de personas vinculadas pero no afiliadas,Nu
+v3_s_021_03,numero de personas vinculadas pero no afiliadas,Nu
+v3_s_024,cobertura al regimen contributivo,Nu
+v3_s_024_01,numero de personas afiliadas al regimen contributivo,Nu
+v3_s_025,cobertura al regimen de excepcion,Nu
+v3_s_027,tasa de mortalidad perinatal por 1.000 nacidos vivos,Nu
+v3_s_028,tasa de mortalidad por desnutricion en ninos y ninas menores de cinco anos (por 100.000 menores de cinco anos),Nu
+v3_s_029,tasa de mortalidad por enfermedad diarreica aguda eda por 100.000 menores de cinco anos,Nu
+v3_s_030,tasa de mortalidad  por infeccion respiratoria aguda ira por 100.000 menores de cinco anos,Nu
+v3_s_030_01,numero de muertes por infeccion respiratoria aguda ira en menores de cinco anos,Nu
+v3_s_032,incidencia del vih (por 100.000 habitantes),Nu
+v3_s_032_01,numero de casos de vih,Nu
+v3_s_032_02,incidencia de dengue (por 100.000 habitantes),Nu
+v3_s_032_03,numero de casos de dengue,Nu
+v3_s_032_04,incidencia de tuberculosis (por 100.000 habitantes),Nu
+v3_s_032_05,numero de casos de tuberculosis,Nu
+v3_s_032_06,numero de camas hospitalarias (por 1.000 habitantes),Nu
+v3_s_058,numero de nacidos con bajo peso al nacer,Nu
+v3_s_058_01,numero de nacidos con bajo peso al nacer en la cabecera municipal,Nu
+v3_s_058_02,numero de nacidos con bajo peso al nacer en el centro poblado,Nu
+v3_s_058_03,numero de nacidos con bajo peso al nacer en la zona rural dispersa,Nu
+v4_e_002,tasa de cobertura neta en preescolar,Nu
+"v4_e_002_301""",tasa de mortalidad en menores de cinco anos por 1.000 nacidos vivos,Nu
+v4_e_003,tasa de cobertura neta en primaria,Nu
+v4_e_004,tasa de cobertura neta en secundaria,Nu
+v4_e_005,tasa de cobertura neta en media,Nu
+v4_e_006,tasa de asistencia escolar de 5 a 16 anos,Nu
+v4_e_018,tasa de cobertura neta total,Nu
+v4_e_026_01,tasa de desercion escolar del sector publico,Nu
+v4_e_026_02,tasa de desercion escolar del sector publico (preescolar),Nu
+v4_e_026_03,tasa de desercion escolar del sector publico (primaria),Nu
+v4_e_026_04,tasa de desercion escolar del sector publico (secundaria),Nu
+v4_e_026_05,tasa de desercion escolar del sector publico ( media),Nu
+v4_e_026_06,tasa de repitencia  escolar del sector publico,Nu
+v4_e_026_07,tasa de repitencia  escolar del sector publico (preescolar),Nu
+v4_e_026_08,tasa de repitencia escolar del sector publico (primaria),Nu
+v4_e_026_09,tasa de repitencia escolar del sector publico (secundaria),Nu
+v4_e_026_10,tasa de repitencia  escolar del sector publico ( media),Nu
+v4_e_026_11,porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de matematicas,Nu
+v4_e_026_12,porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de lenguaje,Nu
+v4_e_026_13,porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de matematicas,Nu
+v4_e_026_14,porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de lenguaje,Nu
+v4_e_026_16,indice sintetico de calidad educativa primaria,Nu
+v4_e_026_17,indice sintetico de calidad educativa secundaria,Nu
+v4_e_026_18,indice sintetico de calidad educativa media,Nu
+v4_e_053,tasa de analfabetismo de 15 a 24 anos,Nu
+v4_ee_001,tasa de inflacion,Nu
+v4_ee_003,posicion ocupada en ranking nacional del doing bussines,Nu
+v4_ee_004,empresas creadas,Nu
+v4_ee_005,empresas canceladas,Nu
+v4_ee_010_01,movimiento aereo de pasajeros nacionales en santa marta,Nu
+v4_ee_010_02,total de turistas de cruceros,Nu
+v5_ml_001,tasa global de participacion,Nu
+v5_ml_001_01,tasa global de participacion hombres,Nu
+v5_ml_001_02,tasa global de participacion mujeres,Nu
+v5_ml_001_03,tasa de subempleo,Nu
+v5_ml_001_04,tasa de subempleo hombres,Nu
+v5_ml_001_05,tasa de subempleo mujeres,Nu
+v5_ml_002_01,tasa de ocupacion,Nu
+v5_ml_002_02,tasa de ocupacion hombres,Nu
+v5_ml_002_03,tasa de ocupacion mujeres,Nu
+v5_ml_003,tasa de informalidad,Nu
+v5_ml_004,tasa de desempleo,Nu
+v5_ml_004_01,tasa de desempleo hombres,Nu
+v5_ml_004_02,tasa de desempleo de mujeres,Nu
+v5_ml_004_03,tasa de desempleo preescolar,Nu
+v5_ml_004_04,tasa de desempleo basica primaria,Nu
+v5_ml_004_05,tasa de desempleo basica secundaria,Nu
+v5_ml_004_06,tasa de desempleo educacion media,Nu
+v5_ml_004_07,tasa de desempleo ningun nivel educativo,Nu
+v5_ml_004_08,tasa de desempleo superior o universitaria,Nu
+v5_ml_004_09,tasa de desempleo de personas de 10 a 17 anos,Nu
+v5_ml_004_10,tasa de desempleo de personas de 18 a 28 anos,Nu
+v5_ml_004_11,tasa de desempleo de personas de 29 a 40 anos,Nu
+v5_ml_004_12,tasa de desempleo de personas de 41  a 60 anos,Nu
+v5_ml_004_13,tasa de desempleo de perosnas de 61 y mas,Nu
+v6_sc_001_81,tasa de hurto a vehiculos,Nu
+v6_sc_004,porcentaje de victimas de hurto a personas en la via publica,Nu
+v6_sc_005,tasa de homicidios por cada 100 mil habitantes,Nu
+v6_sc_006,tasa de lesiones personales,Nu
+v6_sc_007,tasa de homicidios de personas entre 15 y 24 anos de edad,Nu
+v6_sc_008_01,numero de homicidios de personas entre 15 y 24 anos de edad,Nu
+v6_sc_008_02,numero de lessiones personales,Nu
+v6_sc_009,indice de intensidad (expulsion) del desplazamiento forzado,Nu
+v6_sc_010,porcentaje de ciudadanos que fue extorsionado o lo han intentado extorsionar,Nu
+v6_sc_012,tasa de hurto de motocicletas,Nu
+v6_sc_019,numero de hurtos a motocicletas,Nu
+v6_sc_023,numero de hurtos a vehiculos,Nu
+v6_sc_028,numero de homicidios,Nu
+v7_v_001_77,consumo anual de energia electrica por suscriptores,Nu
+v7_v_001_771,consumo anual de energia electrica por suscriptores estrato 1,Nu
+v7_v_001_772,consumo anual de energia electrica por suscriptores estrato 2,Nu
+v7_v_001_773,consumo anual de energia electrica por suscriptores estrato 3,Nu
+v7_v_001_774,consumo anual de energia electrica por suscriptores estrato 4,Nu
+v7_v_001_775,consumo anual de energia electrica por suscriptores estrato 5,Nu
+v7_v_001_776,consumo anual de energia electrica por suscriptores estrato 6,Nu
+v7_v_001_777,consumo anual de energia electrica por suscriptores industria,Nu
+v7_v_001_778,consumo anual de energia electrica por suscriptores comercial,Nu
+v7_v_001_779,consumo total de energia,Nu
+v7_v_001_780,numero de suscriptores,Nu
+v7_v_001_88,porcentaje de poblacion afectada por desastres naturales,Nu
+v7_v_002,participacion porcentual de la vis en total de unidades de vivienda licenciadas (incluye vip),Nu
+v7_v_003,tasa de cobertura del servicio de acueducto,Nu
+v7_v_005,porcentaje de agua tratada no contabilizada en facturacion,Nu
+v7_v_006,tasa de cobertura del servicio de alcantarillado,Nu
+v7_v_008,tasa de cobertura del servicio de aseo,Nu
+v7_v_009_01,produccion de residuos solidos,Nu
+v7_v_009_03,tasa de cobertura del servicio de energia total,Nu
+v7_v_009_04,tasa de cobertura del servicio de energia cabecera,Nu
+v7_v_009_05,tasa de cobertura del servicio de energia resto,Nu
+v7_v_009_06,empresas canceladas (juridicas),Nu
+v8_ma_004,generacion de residuos solidos urbanos (kg diarios por habitante),Nu
+v8_ma_004_01,generacion de residuos solidos aprovechables en santa marta,Nu
+v8_ma_01,consumo anual de energia electrica por habitante,Nu
+v8_ma_03,porcentaje de aguas residuales que reciben tratamiento de acuerdo a normas nacionales,Nu
+v9_m_002,promedio diario de pasajeros del sistema de transporte masivo,Nu
+v9_m_002_01,total pasajeros urbanos transportados,Nu
+v9_m_002_02,total pasajeros urbanos transportados (iv trimestre),Nu
+v9_m_002_03,total pasajeros urbanos transportados (iii trimestre),Nu
+v9_m_002_04,total pasajeros urbanos transportados (ii trimestre),Nu
+v9_m_002_05,total pasajeros urbanos transportados (i trimestre),Nu
+v9_m_004,variacion en el numero de pasajeros del tranporte publico,Nu
+v9_m_005_01,numero de automoviles por cada 100 habitantes,Nu
+v9_m_005_02,numero de automoviles totales,Nu
+v9_m_005_03,numero de automoviles particulares,Nu
+v9_m_005_04,numero de automoviles publicos,Nu
+v9_m_005_05,numero de automoviles oficiales,Nu
+v9_m_005_06,numero de motos por cada 100 habitantes,Nu
+v9_m_005_07,parque automotor matriculado en santa marta,Nu
+v9_m_005_08,numero de motos,Nu
+v9_m_005_09,tasa de lesionados en accidentes transito por 100.000 habitantes,Nu
+v9_m_005_10,numero de atropellos,Nu
+v9_m_005_11,accidentalidad vehicular,Nu
+v9_m_005_12,accidentes que involucran motocicletas,Nu
+v9_m_009,kilometros de ciclovias exclusivas existentes,Nu
+v9_m_010,porcentaje de victimas conductores,Nu
+v9_m_010_01,tasa de mortalidad por accidentes de transito por 100.000 habtantes,Nu
+v9_m_010_02,tasa de mortalidad masculina por accidentes de transito por 100.000 habtantes,Nu
+v9_m_010_03,tasa de mortalidad femenina por accidentes de transito por 100.000 habtantes,Nu
+v9_m_010_04,tasa de lesionados masculina en accidentes transito por 100.000 habitantes,Nu
+v9_m_010_05,tasa de lesionados femenina en accidentes transito por 100.000 habitantes,Nu
+v9_m_010_06,numero total de victimas (conductores+peatones+pasajeros),Nu
+v9_m_010_07,numero de conductores victimas,Nu
+v9_m_010_08,numero de conductores (mujeres) victimas,Nu
+v9_m_010_09,numero de conductores (hombres) victimas,Nu
+v9_m_010_10,numero de conductores peatones victima,Nu
+v9_m_010_11,numero de conductores peatones (mujeres) victima,Nu
+v9_m_010_12,numero de conductores peatones (hombres) victima,Nu
+v9_m_010_13,numero de conductores pasajeros victima,Nu
+v9_m_010_14,numero de conductores (hombres) pasajeros victimas,Nu
+v9_m_010_15,numero de conductores (mujeres) pasajeros victimas,Nu
+v9_m_011,porcentaje de victimas peatones,Nu
+v9_m_012,porcentaje de victimas pasajeros,Nu
+v9_m_013,porcentaje de lesionados conductores,Nu
+v9_m_014,porcentaje de lesionados peatones,Nu
+v9_m_015,porcentaje de lesionados pasajeros,Nu
+v9_m_016_001,numero total de lesionados (conductores+peatones+pasajeros),Nu
+v9_m_016_002,numero de conductores lesionados,Nu
+v9_m_016_003,numero de conductores (mujeres) lesionados,Nu
+v9_m_016_004,numero de conductores (hombres) lesionados,Nu
+v9_m_016_005,numero de conductores peatones lesionados,Nu
+v9_m_016_006,numero de conductores peatones (mujeres) lesionados,Nu
+v9_m_016_007,numero de conductores peatones (hombres) lesionados,Nu
+v9_m_016_008,numero de conductores pasajeros lesionados,Nu
+v9_m_016_009,numero de conductores (hombres) pasajeros lesionados,Nu
+v9_m_016_010,numero de conductores (mujeres) pasajeros lesionados,Nu
+v9_m_016_011,tiempo promedio de viaje en minutos de los pasajero en moto,Nu
+v9_m_016_012,tiempo promedio de viaje en minutos de los pasajero a pie,Nu
+v9_m_016_013,tiempo promedio de viaje en minutos de los pasajero moto taxi,Nu
+v9_m_016_014,tiempo promedio de viaje en minutos de los pasajero moto carro,Nu
+v9_m_040,tiempo promedio de viaje en minutos de los pasajero taxi,Nu
+v9_m_041,tiempo promedio de viaje en minutos de los pasajero conductor de moto,Nu
+v9_m_054,porcentaje de la malla vial en estado bueno,Nu
+v9_m_055,porcentaje de la malla vial en estado regular,Nu
+v9_m_056,porcentaje de la malla vial en estado malo,Nu
+v9_m_100_01,"numero total de motocicletas matriculadas (no incluye motocarro, cuatrimoto y rnrys)",Nu

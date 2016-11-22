@@ -78,9 +78,9 @@ Fringe <- R6Class("Fringe",
                     writeCSV = function(path, type = "all"){
                       path <- path %||% "."
                       name <- self$name %||% "fringe"
-                      file <- file.path(path,paste0(name,"-data.csv"))
+                      file <- file.path(path,paste0(name,"_data.csv"))
                       write_csv(self$data,file)
-                      file <- file.path(path,paste0(name,"-dic_.csv"))
+                      file <- file.path(path,paste0(name,"_dic_.csv"))
                       write_csv(self$dic_$d,file)
                       file.path(path,name)
                     },
