@@ -1,3 +1,18 @@
+
+#' @export
+readFringeSqlite <- function(name,db, excludeCols = NULL){
+  #name <- "objetivos_bogota"
+  data <- tbl(db,paste0(name,"_data")) %>% collect()
+  dic <- tbl(db,paste0(name,"_dic_")) %>% collect()
+  if(!is.null(excludeCols)){
+    keepCols <- names(data)[!names(data) %in% excludeCols]
+    data <- data[keepCols]
+    dic <- dic %>% filter(!id %in% excludeCols)
+  }
+  fringe(data,dic = dic,name = name)
+}
+
+
 #' @export
 list_fringes <- function(path, groups = NULL){
   fidxpath <- file.path(path,"fringe_idx.csv")
@@ -51,6 +66,5 @@ write_fpkg_sqlite <- function(fringes_path, sqlite_path, fringe_idx = NULL){
   }
   sqlite_path
 }
-
 
 

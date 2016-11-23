@@ -7,7 +7,7 @@ writeFringe <- function(f,path = NULL){
 }
 
 #' @export
-readFringe <- function(path, forceDic = TRUE, name = NULL, verbose = FALSE, n_max = Inf){
+readFringe <- function(path, forceDic = TRUE, name = NULL, verbose = FALSE, n_max = Inf, excludeCols = NULL){
   name <- name %||% basename(path)
   if(verbose) message("Reading: ",name,"\n")
   dic <- NULL
@@ -16,6 +16,11 @@ readFringe <- function(path, forceDic = TRUE, name = NULL, verbose = FALSE, n_ma
   data <- read_csv(dataFile,n_max = n_max)
   if(forceDic){
     dic <- read_csv(dicFile)
+  }
+  if(!is.null(excludeCols)){
+    keepCols <- names(data)[!names(data) %in% excludeCols]
+    data <- data[keepCols]
+    dic <- dic %>% filter(!id %in% excludeCols)
   }
   fringe(data = data,dic = dic, name = name)
 }

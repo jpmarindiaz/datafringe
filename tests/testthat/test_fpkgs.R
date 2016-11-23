@@ -4,7 +4,7 @@ test_that("Fpkg loading", {
 
   path <- sysfile("fringes/objetivos")
   files <- list.files(path)
-  frsNames <- list_fringe(path)$id
+  frsNames <- list_fringes(path)$id
   frsFilenames <- c(paste0(frsNames,"_data.csv"),paste0(frsNames,"_dic_.csv"))
   expect_true(all(frsFilenames %in% files))
   fringe_idx <- sysfile("fringes/objetivos/fringe_idx.csv")
@@ -16,6 +16,19 @@ test_that("Fpkg loading", {
   db <- src_sqlite(sqlite_out)
   tableNames <- src_tbls(db)
   expect_true(all(file_path_sans_ext(frsFilenames) %in% tableNames))
-  unlink(sqlite_out)
 
+  fr_csv <- readFringe(file.path(sysfile("fringes/objetivos"),"objetivos_bogota"))
+  fr_sqlite <- readFringeSqlite("objetivos_bogota",db)
+  expect_equal(fr_csv$name,fr_sqlite$name)
+  expect_equal(getCnames(fr_csv),getCnames(fr_sqlite))
+  expect_true(identical(fr_csv$data,fr_sqlite$data))
+  expect_true(identical(fr_csv$dic_$d,fr_sqlite$dic_$d))
+  # expect_equal(fr_csv$data,fr_sqlite$data)
+  # expect_equal(fr_csv$dic_$d,fr_sqlite$dic_$d)
+
+  excludeCols <- c("v1_d_001","v1_d_003","v1_d_004")
+  fr_sqlite_exclude <- readFringeSqlite("objetivos_bogota",db, excludeCols = excludeCols)
+  expect_true(all(!excludeCols %in% getCnames(fr_sqlite_exclude)))
+
+  unlink(sqlite_out)
 })
