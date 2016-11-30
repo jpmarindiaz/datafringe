@@ -16,7 +16,7 @@ Dic <- R6Class("Dic",
                    availableCtypeNames <- names(availableCtypes())
                    if(!all(self$d$ctype %in% availableCtypeNames))
                      stop("ctypes not in ",availableCtypeNames)
-                   self$d$name <- d$name %||% d$id
+                   self$d$label <- d$label %||% d$id
                    self$d$cformat <- d$cformat %||% NA
                    self$d$cdescription <- d$cdescription %||% NA
 
