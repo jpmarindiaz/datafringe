@@ -12,13 +12,19 @@ readFringeSqlite <- function(name,db, excludeCols = NULL){
   fringe(data,dic = dic,name = name)
 }
 
-
-
 #' @export
-list_fringes_sqlite <- function(path,groups = NULL){
-
-  fidxpath <- file.path(path,"fringe_idx.csv")
-  fidx <- read_csv(fidxpath)
+list_fringes_sqlite <- function(path,groups = NULL, fringe_idx = NULL){
+  fringe_idx <- fringe_idx %||% "fringe_idx"
+  db <- src_sqlite(path)
+  x <- src_tbls(db)
+  x <- x[grepl("_data",x)]
+  x <- gsub("_data","",x)
+  fringe_idx <- tbl(db,fringe_idx) %>% collect()
+  fringe_idx <- filter(fringe_idx, id %in% x)
+  if(!is.null(groups)){
+    fringe_idx <- fringe_idx %>% filter(group %in% groups)
+  }
+  fringe_idx
 }
 
 #' @export

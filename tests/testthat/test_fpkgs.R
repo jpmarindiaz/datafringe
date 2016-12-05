@@ -13,6 +13,11 @@ test_that("Fpkg loading", {
   sqlite_out <- write_fpkg_sqlite(fringes_path, sqlite_path, fringe_idx = fringe_idx)
   expect_equal(sqlite_path,sqlite_out)
 
+  sqlite_path <- sqlite_out
+  expect_equal(nrow(list_fringes_sqlite(sqlite_path)),8)
+  fringe_idx <- read_csv(fringe_idx)
+  expect_equal(fringe_idx %>% filter(!exclude) %>% .$id, list_fringes_sqlite(sqlite_path) %>% .$id)
+
   db <- src_sqlite(sqlite_out)
   tableNames <- src_tbls(db)
   expect_true(all(file_path_sans_ext(frsFilenames) %in% tableNames))
