@@ -14,8 +14,10 @@ test_that("Fpkg loading", {
   expect_equal(sqlite_path,sqlite_out)
 
   sqlite_path <- sqlite_out
+  fringe_idx_sqlite <- read_fringe_idx_sqlite(sqlite_path)
   expect_equal(nrow(list_fringes_sqlite(sqlite_path)),8)
   fringe_idx <- read_csv(fringe_idx)
+  expect_equal(fringe_idx_sqlite %>% .$id, fringe_idx %>% .$id)
   expect_equal(fringe_idx %>% filter(!exclude) %>% .$id, list_fringes_sqlite(sqlite_path) %>% .$id)
 
   db <- src_sqlite(sqlite_out)

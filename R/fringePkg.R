@@ -28,6 +28,14 @@ list_fringes_sqlite <- function(path,groups = NULL, fringe_idx = NULL){
 }
 
 #' @export
+read_fringe_idx_sqlite <- function(path,fringe_idx = NULL){
+  fringe_idx <- fringe_idx %||% "fringe_idx"
+  db <- src_sqlite(path)
+  tbl(db,fringe_idx) %>% collect()
+}
+
+
+#' @export
 list_fringes <- function(path, groups = NULL, fringe_idx = NULL){
   fringe_idx <- fringe_idx %||% "fringe_idx.csv"
   fidxpath <- file.path(path,"fringe_idx.csv")
