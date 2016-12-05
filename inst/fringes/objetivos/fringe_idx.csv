@@ -1,13 +1,13 @@
-id,withDic,label
-objetivos_comparada,TRUE,Objetivos Comparada
-objetivos_barranquilla,TRUE,Objetivos Barranquilla
-objetivos_bogota,TRUE,Objetivos Bogotá
-objetivos_cali,TRUE,Objetivos Cali
-objetivos_cartagena,TRUE,Objetivos Cartagena
-objetivos_cucuta,TRUE,Objetivos Cúcuta
-objetivos_ibague,TRUE,Objetivos Ibagué
-objetivos_manizales,TRUE,Objetivos Manizales
-objetivos_medellin,TRUE,Objetivos Medellín
-objetivos_pereira,TRUE,Objetivos Pereira
-objetivos_santamarta,TRUE,Objetivos Santa Marta
-objetivos_yumbo,TRUE,Objetivos Yumbo
+id,withDic,label,exclude
+objetivos_comparada,TRUE,Objetivos Comparada,FALSE
+objetivos_barranquilla,TRUE,Objetivos Barranquilla,TRUE
+objetivos_bogota,TRUE,Objetivos Bogotá,TRUE
+objetivos_cali,TRUE,Objetivos Cali,TRUE
+objetivos_cartagena,TRUE,Objetivos Cartagena,FALSE
+objetivos_cucuta,TRUE,Objetivos Cúcuta,FALSE
+objetivos_ibague,TRUE,Objetivos Ibagué,FALSE
+objetivos_manizales,TRUE,Objetivos Manizales,FALSE
+objetivos_medellin,TRUE,Objetivos Medellín,TRUE
+objetivos_pereira,TRUE,Objetivos Pereira,FALSE
+objetivos_santamarta,TRUE,Objetivos Santa Marta,FALSE
+objetivos_yumbo,TRUE,Objetivos Yumbo,FALSE

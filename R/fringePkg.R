@@ -13,10 +13,20 @@ readFringeSqlite <- function(name,db, excludeCols = NULL){
 }
 
 
+
 #' @export
-list_fringes <- function(path, groups = NULL){
+list_fringes_sqlite <- function(path,groups = NULL){
+
   fidxpath <- file.path(path,"fringe_idx.csv")
   fidx <- read_csv(fidxpath)
+}
+
+#' @export
+list_fringes <- function(path, groups = NULL, fringe_idx = NULL){
+  fringe_idx <- fringe_idx %||% "fringe_idx.csv"
+  fidxpath <- file.path(path,"fringe_idx.csv")
+  fidx <- read_csv(fidxpath)
+  fidx <- fidx %>% filter(!exclude)
   dbs <- fidx  %>% filter(!is.na(id))
   groups <- groups %||% unique(dbs$group)
   if(!is.null(groups)){
@@ -35,8 +45,8 @@ list_fringes <- function(path, groups = NULL){
 }
 
 #' @export
-load_fringes <- function(path, groups = NULL, n_max = Inf){
-  frs <- list_fringes(path)
+load_fringes <- function(path, groups = NULL, n_max = Inf, fringe_idx = NULL){
+  frs <- list_fringes(path, fringe_idx = fringe_idx)
   groups <- groups %||% unique(frs$group)
   frs <- list_fringes(path, groups = groups)
   paths <- file.path(path,frs$id)
@@ -48,6 +58,7 @@ load_fringes <- function(path, groups = NULL, n_max = Inf){
 
 #' @export
 write_fpkg_sqlite <- function(fringes_path, sqlite_path, fringe_idx = NULL){
+  fringe_idx <- fringe_idx %||% "fringe_idx"
   frs <- load_fringes(fringes_path)
   db <- src_sqlite(sqlite_path, create = T)
   # fr <- fpkg[[1]]
