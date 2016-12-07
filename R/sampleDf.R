@@ -9,12 +9,23 @@
 #' }
 sampleData <- function(ftype,nrow = 20,asFringe=FALSE,...){
   #nrow <- 100
-  #ftype <- "Ca-Ye-Da"
+  #ftype <- "Ca-Ye-Nu-Da"
   ftypes <- strsplit(ftype,"-")[[1]]
   if(!all(ftypes %in% names(availableCtypes()))) stop("Wrong ftype")
   ncols <- length(ftypes)
-  ca <- function(n) sample(paste0("cat",LETTERS[1:5]),n,replace = TRUE)
-  nu <- function(n) round(rnorm(n,1000,300)*1)
+  ca <- function(n){
+    prefix <- sample(c("Cat","Type","X_","Form","Ilk"),1)
+    sample(paste0(prefix,LETTERS[1:5]),n,replace = TRUE)
+    }
+  nu <- function(n,gt0 = NULL){
+    gt0 <- gt0 %||% FALSE
+    if(!gt0){
+      v <- rnorm(n,1000,300)-400
+      v[1] <- -10
+      return(v)
+    }
+    round(rnorm(n,1000,300)*1)
+    }
   da <- function(n,type = "seq"){
     # type = seq || random
     seqdates <- seq(as.Date('2000-01-01'),length.out=n, by="day")
@@ -28,7 +39,14 @@ sampleData <- function(ftype,nrow = 20,asFringe=FALSE,...){
   }
   s <- list(Ca = ca, Nu = nu, Da = da, Ye = ye)
   sel <- s[ftypes]
-  params <- rep(list(n = nrow),ncols)
+  # args <- list(gt0 = TRUE)
+  args <- list(...)
+  makeFtypeParams <- function(ftype){
+    if(ftype == "Nu")
+      return(list(n = nrow,gt0 = args$gt0))
+    list(n = nrow)
+  }
+  params <- map(ftypes,makeFtypeParams)
   d <- invoke_map(sel, params)
   names(d) <- letterNames(ncols)
   out <- as_data_frame(d)
