@@ -2,10 +2,8 @@
 fringe<- function(data, dic=NULL,
                    name = NULL, description = NULL,recordName = NULL,...){
   if(isFringe(data)){
-    warning("data is already a Fringe")
     return(data)
   }
-  #Fringe$new(data,dic_ = dic)
   fringe <- Fringe$new(data,
                     dic_ = dic,
                     name = name %||% deparse(substitute(data)),
