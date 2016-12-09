@@ -20,8 +20,8 @@ sampleData <- function(ftype,nrow = 20,asFringe=FALSE,...){
   nu <- function(n,gt0 = NULL){
     gt0 <- gt0 %||% FALSE
     if(!gt0){
-      v <- rnorm(n,1000,300)-400
-      v[1] <- -10
+      v <- rnorm(n,1000,300)-600
+      v[sample(n,1)] <- -10
       return(v)
     }
     round(rnorm(n,1000,300)*1)

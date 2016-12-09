@@ -69,3 +69,46 @@ selectDicCtypes <- function(f,ctypes, as_list = FALSE, filter = NULL){
   }
   out
 }
+
+
+#' @export
+joinFringes <- function(f1,f2,prefix1 = NULL, prefix2 = NULL, type = "full",...){
+  if(!type %in% c("full","inner","left","right","semi","anti"))
+    stop("join type not known")
+  prefix1 <- prefix1 %||% substring(f1$name,1,3)
+  prefix2 <- prefix1 %||% substring(f2$name,1,3)
+  if(type == "full"){
+    d <- full_join(f1$data,f2$data,...)
+  }
+  if(type == "inner"){
+    d <- inner_join(f1$data,f2$data,...)
+  }
+  if(type == "left"){
+    d <- left_join(f1$data,f2$data,...)
+  }
+  if(type == "right"){
+    d <- right_join(f1$data,f2$data,...)
+  }
+  if(type == "semi"){
+    d <- semi_join(f1$data,f2$data,...)
+  }
+  if(type == "anti"){
+    d <- anti_join(f1$data,f2$data,...)
+  }
+  joinBy <- intersect(getCnames(f1),getCnames(f2))
+  f1Names <- setdiff(getCnames(f1),getCnames(f2))
+  f2Names <- setdiff(getCnames(f2),getCnames(f1))
+  dic1 <- f1$dic_$d
+  idx <- dic1$id %in% f1Names
+  #dic1$id[idx] <- paste0(prefix1,"_",dic1$id[idx])
+  dic1$label[idx] <- paste0(prefix1,": ",dic1$label[idx])
+  dic2 <- f2$dic_$d
+  idx <- dic2$id %in% f2Names
+  #dic2$id[idx] <- paste0(prefix2,"_",dic2$id[idx])
+  dic2$label[idx] <- paste0(prefix2,": ",dic2$label[idx])
+
+  dic <- bind_rows(dic1,dic2) %>% distinct()
+  fringe(d, dic = dic)
+}
+
+

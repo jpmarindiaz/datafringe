@@ -93,23 +93,6 @@ test_that("Sample Data", {
   expect_true(any(t$b < 0))
 })
 
-test_that("Fringe funs", {
-  f <- sampleData("Ca-Nu-Ye", asFringe = TRUE)
-  ctypes <- c("Ca","Ye")
-  dic2 <- selectDicCtypes(f,ctypes)
-  expect_equal(dic2$ctype,"Ca")
-  f2 <- selectFringeCtypes(f,ctypes)
-  expect_equal(getFtype(f2),"Ca")
-  f3 <- sampleData("Ca-Ca-Ca-Nu")
-  dic <- data_frame(id=letters[1:4],
-                    ctype = c("Ca","Ca","Ca","Nu"),
-                    visualize = c(NA,TRUE,FALSE,TRUE))
-  f3 <- fringe(f3,dic)
-  dic3 <- selectDicCtypes(f3,ctypes = c("Ca","Nu"), filter = "visualize")
-  expect_equal(dic3$id, c("b","d"))
-  })
-
-
 
 # test_that("fringeValidations", {
 #   t <- sampleData("Ca-Nu",asFringe = TRUE)
