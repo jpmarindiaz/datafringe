@@ -31,6 +31,7 @@ keepFringeRows <- function(fringeIn,col,values){
 
 #' @export
 selectFringeCols <- function(fringeIn,cols){
+  if(is.null(fringeIn)) return()
   if(!class(fringeIn)[1] %in% c("Fringe","data.frame"))
     stop("fringe must be either a Fringe of a data.frame")
   if(!isFringe(fringeIn)) fringe <- fringe(fringeIn)
@@ -38,7 +39,7 @@ selectFringeCols <- function(fringeIn,cols){
   if(class(cols) %in% c("numeric","integer"))
     cols <- getCnames(fringe)[cols]
   if(! all(cols %in% getCnames(fringe)))
-    stop("cols not in fringe")
+    stop("cols: ",cols[!cols %in% getCnames(fringe)]," not in fringe ",fringe$name)
   d <- getDatafringe(fringe)
   dic <- fringe$dic_$d %>% filter(id %in% cols) %>%
     slice(match(cols, id)) # added to rearrange dictionary given cols
