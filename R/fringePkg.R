@@ -84,7 +84,7 @@ write_fpkg_sqlite <- function(fringes_path, sqlite_path, fringe_idx = NULL){
     copy_to(db,fr$dic_$d, name = paste0(name,"_dic_"), temporary=FALSE)
     NULL
   }
-  map(frs, copyFringeToSQlite)
+  purrr::map(frs, copyFringeToSQlite)
   if(!is.null(fringe_idx)){
     fridx <- read_csv(fringe_idx)
     copy_to(db,fridx, name = "fringe_idx", temporary=FALSE)
