@@ -10,7 +10,14 @@
 sampleData <- function(ftype,nrow = 20,asFringe=FALSE,...){
   #nrow <- 100
   #ftype <- "Ca-Ye-Nu-Da"
+  #ftype <- "Ca-Ye-NuP"
   ftypes <- strsplit(ftype,"-")[[1]]
+  ftypes <- flatten_chr(map(ftypes, function(ftype){
+    if(grepl("P",ftype)){
+      return(rep(gsub("P","",ftype),sample(1:6,1)))
+    }
+    ftype
+  }))
   if(!all(ftypes %in% names(availableCtypes()))) stop("Wrong ftype")
   ncols <- length(ftypes)
   ca <- function(n){
