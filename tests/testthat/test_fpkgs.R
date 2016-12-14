@@ -2,6 +2,20 @@ context("Fringe pkgs")
 
 test_that("Fpkg loading", {
 
+  fd1 <- sampleData("Ca-Da-Ye-Nu",asFringe = TRUE)
+  fd2 <- sampleData("Ca-Ca-Nu",asFringe = TRUE)
+  frs <- list(fd1,fd2)
+  names(frs) <- c("d1","d2")
+  tmpfile <- tempfile(fileext = ".sqlite3")
+  write_fpkg_sqlite(frs,tmpfile)
+  frsnames <- list_fringes_sqlite(tmpfile) %>% .$id
+  expect_equal(frsnames, names(frs))
+  db <- src_sqlite(tmpfile)
+  d1sqlite <- readFringeSqlite("d1",db)
+  expect_equal(getCnames(fd1),getCnames(d1sqlite))
+  expect_equal(fd1$dic_$d,d1sqlite$dic_$d)
+  unlink(tmpfile)
+
   path <- sysfile("fringes/objetivos")
   files <- list.files(path)
   frsNames <- list_fringes(path)$id
@@ -18,7 +32,10 @@ test_that("Fpkg loading", {
   expect_equal(nrow(list_fringes_sqlite(sqlite_path)),8)
   fringe_idx <- read_csv(fringe_idx)
   expect_equal(fringe_idx_sqlite %>% .$id, fringe_idx %>% .$id)
-  expect_equal(fringe_idx %>% filter(!exclude) %>% .$id, list_fringes_sqlite(sqlite_path) %>% .$id)
+
+  frs_idx <- fringe_idx %>% filter(!exclude) %>% .$id
+  frs_sqlite <- list_fringes_sqlite(sqlite_path) %>% .$id
+  expect_equal(intersect(frs_idx,frs_sqlite),union(frs_idx,frs_sqlite))
 
   db <- src_sqlite(sqlite_out)
   tableNames <- src_tbls(db)

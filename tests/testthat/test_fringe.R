@@ -14,6 +14,24 @@ test_that("Fringe utils", {
   expect_equal(fr$dic_,fr3$dic_)
 })
 
+
+test_that("Guess Ctypes",{
+  data <- data_frame(a = as.Date(c("2016-04-03", "2016-05-04")),
+                     b = as.character(c("2016-04-03", "2016-05-04")),
+                     c = as.factor(c("2016-04-03", "2016-05-04")))
+  v <- data[[1]]
+  expect_true(isDate(v))
+  expect_equal(guessCtype(v),"Da")
+  v <- data[[2]]
+  expect_equal(guessCtype(v),"Da")
+  v <- data[[3]]
+  expect_true(isDate(v))
+  expect_equal(guessCtypes(data),c("Da","Da","Da"))
+  data <- sampleData("Ca-Da-Ye-Nu")
+  expect_equal(guessFtype(data),"Ca-Da-Nu-Ye")
+})
+
+
 test_that("Create Fringe", {
   #test empty fringees
   void = data_frame(col1 = character(0), col2 = character(0))

@@ -62,17 +62,20 @@ guessCtype <- function(v){
   v <- unique(v[!is.na(v)])
   if(length(v) == 0)
     return("_")
+
   if(class(v) %in% c("integer","numeric")){
     ctype <- "Nu"
-    # if(all(v %in% 1000:2200)) ctype <- "Ye"
+    if(all(v %in% 1900:2200)) ctype <- "Ye"
     # if(all(v %in% 1:31)) ctype <- "Dy"
     #if(all(v %in% 1:12)) ctype <- "Mn"
     return(ctype)
   }
-
+  if(class(v) == "Date")
+    return("Da")
   if(class(v)!= "factor" & !has_warning(as.numeric(v))){
     return("Nu")
   }
+
   dth <- whichDTH(v)
   if(!is.null(dth))
     ctype <- dth
@@ -110,7 +113,7 @@ guessCformats <- function(df){
 guessFtype <- function(df){
   s <- guessCtypes(df)
   s <- sort(s)
-  paste(s,collapse="")
+  paste(s,collapse="-")
 }
 
 forceCtypes <- function(df, ctypes, cformat = NULL){

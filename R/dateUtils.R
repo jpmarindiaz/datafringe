@@ -35,9 +35,6 @@ parseDatetime <- function(v, datetimeType){
 guessDateFormat <- function(v) parseDateTime(v)$format
 
 
-
-
-
 whichDTH <-function(x){
   d <- c(isDate(x),isDatetime(x), isTime(x))
   if(!any(d)) return(NULL)
@@ -48,7 +45,13 @@ whichDTH <-function(x){
 
 isD_format <- function(format, expectedFormat){
   function(v){
+    v <-as.character(v)
+    if(class(v) == "Date"){
+      return(TRUE)
+    }
     guess = guess_formats(v,format)
+    if(all(guess %in% c("%Y-%Om-%d","%Y-%m-%d" )) & format =="%Y-%m-%d")
+      return(TRUE)
     if(length((guess))< length(v))
       #stop("Dates do not seem to have the same format")
       return(FALSE)
@@ -58,11 +61,25 @@ isD_format <- function(format, expectedFormat){
   }
 }
 
-isDate <- isD_format("ymd","%Y-%m-%d")
+isDate <- function(v){
+  if("Date" %in% class(v)){
+    return(TRUE)
+  }
+  guess <- guess_formats(v,"%Y-%m-%d")
+  if(is.null(guess)){
+    return(FALSE)
+  }else{
+    if(all(guess %in% c("%Y-%Om-%d","%Y-%m-%d")))
+      return(TRUE)
+    if(length((guess))< length(v))
+      #stop("Dates do not seem to have the same format")
+      return(FALSE)
+    if(unique(guess) != expectedFormat)
+      return(FALSE)
+  }
+  TRUE
+}
 isTime <- isD_format("HMS","%H:%M:%S")
 isDatetime <- isD_format("ymd HMS","%Y-%m-%d %H:%M:%S")
 
-# v <- c("2015-04-03"," fdsaf")
-# format <- "ymd"
-# isDate(v)
 

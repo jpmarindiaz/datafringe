@@ -14,17 +14,19 @@ readFringeSqlite <- function(name,db, excludeCols = NULL){
 
 #' @export
 list_fringes_sqlite <- function(path,groups = NULL, fringe_idx = NULL){
-  fringe_idx <- fringe_idx %||% "fringe_idx"
   db <- src_sqlite(path)
   x <- src_tbls(db)
   x <- x[grepl("_data",x)]
   x <- gsub("_data","",x)
-  fringe_idx <- tbl(db,fringe_idx) %>% collect()
-  fringe_idx <- filter(fringe_idx, id %in% x)
-  if(!is.null(groups)){
-    fringe_idx <- fringe_idx %>% filter(group %in% groups)
+  if(!is.null(fringe_idx)){
+    fringe_idx <- tbl(db,fringe_idx) %>% collect()
+    fringe_idx <- filter(fringe_idx, id %in% x)
+    if(!is.null(groups)){
+      fringe_idx <- fringe_idx %>% filter(group %in% groups)
+    }
+    return(fringe_idx)
   }
-  fringe_idx
+  data_frame(id = x)
 }
 
 #' @export
@@ -72,8 +74,18 @@ load_fringes <- function(path, groups = NULL, n_max = Inf, fringe_idx = NULL){
 
 #' @export
 write_fpkg_sqlite <- function(fringes_path, sqlite_path, fringe_idx = NULL){
-  fringe_idx <- fringe_idx %||% "fringe_idx"
-  frs <- load_fringes(fringes_path)
+  if(class(fringes_path) == "character"){
+    frs <- load_fringes(fringes_path)
+  }
+  if(unique(map(fringes_path,class) %>% map_chr(1))=="Fringe"){
+    frs <- fringes_path
+    if(!is.null(names(frs))){
+      purrr::map(names(frs),function(nms){
+        frs[[nms]]$name <- nms
+        frs
+      })
+    }
+  }
   db <- src_sqlite(sqlite_path, create = T)
   # fr <- fpkg[[1]]
   # db_drop_table(db$con,table='objetivos_comparada_data')
