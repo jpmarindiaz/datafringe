@@ -97,7 +97,7 @@ isTxType <- function(v){
 
 #' @export
 guessCtypes <- function(df){
-  map_chr(unname(df),guessCtype) # how to unname in map?
+  purrr::map_chr(unname(df),guessCtype) # how to unname in map?
 }
 
 guessCformats <- function(df){
@@ -134,7 +134,7 @@ forceCtypes <- function(df, ctypes, cformat = NULL){
 
 getColumnNames <- function(fringe){
   if(!isFringe(fringe)) stop('class is not Fringe')
-  unlist(Map(function(i){i$name},fringe$fields))
+  unlist(purrr::map(fringe$fields,function(i){i$name}))
 }
 
 

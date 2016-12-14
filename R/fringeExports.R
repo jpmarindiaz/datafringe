@@ -140,7 +140,7 @@ validValidators <- function(validators){
   #validators <- c("fringeColVal_greaterThan0:fdsafs","fringeColVal_unique:fdsafds")
   if(length(validators) == 1 && validators == "") return(TRUE)
   v <- strsplit(validators,":")
-  v <- Map(function(i){i[[1]]},v)
+  v <- purrr::map(v,function(i){i[[1]]})
   fringevalf <- paste0("fringeVal_",fringeValidateFuns())
   colvalf <- paste0("fringeColVal_",fringeColValidateFuns())
   all(v %in% c(fringevalf,colvalf))

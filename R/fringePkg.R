@@ -66,7 +66,7 @@ load_fringes <- function(path, groups = NULL, n_max = Inf, fringe_idx = NULL){
   paths <- file.path(path,frs$id)
   names(paths) <- frs$id
   #f <- readFringe(paths[5],name="hola")
-  fpkg <- map2(paths,frs$withDic, ~ readFringe(.x, forceDic = .y,verbose = TRUE, n_max = n_max))
+  fpkg <- purrr::map2(paths,frs$withDic, ~ readFringe(.x, forceDic = .y,verbose = TRUE, n_max = n_max))
   fpkg
 }
 

@@ -12,7 +12,7 @@ sampleData <- function(ftype,nrow = 20,asFringe=FALSE,...){
   #ftype <- "Ca-Ye-Nu-Da"
   #ftype <- "Ca-Ye-NuP"
   ftypes <- strsplit(ftype,"-")[[1]]
-  ftypes <- flatten_chr(map(ftypes, function(ftype){
+  ftypes <- flatten_chr(purrr::map(ftypes, function(ftype){
     if(grepl("P",ftype)){
       return(rep(gsub("P","",ftype),sample(1:6,1)))
     }
@@ -53,7 +53,7 @@ sampleData <- function(ftype,nrow = 20,asFringe=FALSE,...){
       return(list(n = nrow,gt0 = args$gt0))
     list(n = nrow)
   }
-  params <- map(ftypes,makeFtypeParams)
+  params <- purrr::map(ftypes,makeFtypeParams)
   d <- invoke_map(sel, params)
   names(d) <- letterNames(ncols)
   out <- as_data_frame(d)
