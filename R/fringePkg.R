@@ -92,7 +92,9 @@ write_fpkg_sqlite <- function(fringes_path, sqlite_path, fringe_idx = NULL){
   copyFringeToSQlite <- function(fr){
     name <- gsub("-","_",fr$name)
     message("copying: ",name)
-    copy_to(db,fr$data, name = paste0(name,"_data"), temporary=FALSE)
+    data <- fr$data
+    data <- as_data_frame(map_if(data,~class(.)=="Date",as.character))
+    copy_to(db,data, name = paste0(name,"_data"), temporary=FALSE)
     copy_to(db,fr$dic_$d, name = paste0(name,"_dic_"), temporary=FALSE)
     NULL
   }

@@ -27,6 +27,7 @@ test_that("Guess Ctypes",{
   v <- data[[3]]
   expect_true(isDate(v))
   expect_equal(guessCtypes(data),c("Da","Da","Da"))
+
   data <- sampleData("Ca-Da-Ye-Nu")
   expect_equal(guessFtype(data),"Ca-Da-Nu-Ye")
 })

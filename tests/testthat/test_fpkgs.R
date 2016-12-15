@@ -16,6 +16,20 @@ test_that("Fpkg loading", {
   expect_equal(fd1$dic_$d,d1sqlite$dic_$d)
   unlink(tmpfile)
 
+  data <- data.frame(date = as.Date(c("2016-07-01", "2016-07-01", "2016-07-02", "2016-07-02")),
+                     player_id = c("32771", "130715", "40017", "37927"))
+  dic <- data.frame(label = names(data), id = c("date", "player_id"))
+  fr <- fringe(data, dic = dic)
+  tmpfile <- tempfile(fileext = ".sqlite3")
+  fringes_path <- list(fr)
+  outpath <- write_fpkg_sqlite(fringes_path, sqlite_path = tmpfile)
+  db <- src_sqlite(outpath)
+  src_tbls(db)
+  selectedTable <- "data"
+  f0 <- readFringeSqlite(selectedTable,db)
+  expect_equal(getCnames(fr),getCnames(f0))
+  expect_equal(fr$dic_$d,f0$dic_$d)
+
   path <- sysfile("fringes/objetivos")
   files <- list.files(path)
   frsNames <- list_fringes(path)$id
