@@ -29,6 +29,7 @@ test_that("Fpkg loading", {
   f0 <- readFringeSqlite(selectedTable,db)
   expect_equal(getCnames(fr),getCnames(f0))
   expect_equal(fr$dic_$d,f0$dic_$d)
+  unlink(tmpfile)
 
   path <- sysfile("fringes/objetivos")
   files <- list.files(path)

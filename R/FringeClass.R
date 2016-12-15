@@ -26,6 +26,7 @@ Fringe <- R6Class("Fringe",
                         dic_ <- createDic(d, as_data_frame = FALSE)
                       }
                       else{
+                        dic_ <- as_tibble(map_if(dic_,~class(.)=="factor",as.character))
                         dic_ <- createDic(d, dic = dic_, as_data_frame = FALSE)
                       }
                       ctypes <- dic_$d$ctype %||% guessCtypes(d)

@@ -4,7 +4,7 @@ fringe<- function(data, dic=NULL,
   if(isFringe(data)){
     return(data)
   }
-  fringe <- Fringe$new(as_data_frame(data),
+  fringe <- Fringe$new(data,
                     dic_ = dic,
                     name = name %||% deparse(substitute(data)),
                     description = description,
