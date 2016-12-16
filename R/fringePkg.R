@@ -77,7 +77,7 @@ write_fpkg_sqlite <- function(fringes_path, sqlite_path, fringe_idx = NULL){
   if(class(fringes_path) == "character"){
     frs <- load_fringes(fringes_path)
   }
-  if(unique(map(fringes_path,class) %>% map_chr(1))=="Fringe"){
+  if(unique(purrr::map(fringes_path,class) %>% map_chr(1))=="Fringe"){
     frs <- fringes_path
     if(!is.null(names(frs))){
       purrr::map(names(frs),function(nms){
