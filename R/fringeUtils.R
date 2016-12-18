@@ -121,6 +121,7 @@ forceCtypes <- function(df, ctypes, cformat = NULL){
   if(ncol(df)!= length(ctypes)) stop("number of df cols must be the same as col types length")
   for (i in seq_along(ctypes)){
     if(ctypes[i]=="Nu"){df[,i]<- as.numeric(df[,i])}
+    if(ctypes[i]=="Ye"){df[,i]<- as.character(df[,i])}
     if(ctypes[i]=="Ca"){df[,i]<- as.character(df[,i])}
     if(ctypes[i]=="Tx"){df[,i]<- as.character(df[,i])}
     if(ctypes[i]=="Im"){

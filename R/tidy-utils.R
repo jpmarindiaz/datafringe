@@ -9,3 +9,7 @@ fct_recode_df <- function(d,col,codes){
 fct_to_chr <- function(d){
   d %>% mutate_if(is.factor, as.character)
 }
+
+date_to_chr <- function(d){
+  d %>% mutate_if(is.Date, as.character)
+}

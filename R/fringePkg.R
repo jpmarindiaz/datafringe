@@ -2,8 +2,8 @@
 #' @export
 readFringeSqlite <- function(name,db, excludeCols = NULL){
   #name <- "objetivos_bogota"
-  data <- tbl(db,paste0(name,"_data")) %>% collect()
-  dic <- tbl(db,paste0(name,"_dic_")) %>% collect()
+  data <- tbl(db,paste0(name,"_data")) %>% collect(n=Inf)
+  dic <- tbl(db,paste0(name,"_dic_")) %>% collect(n=Inf)
   if(!is.null(excludeCols)){
     keepCols <- names(data)[!names(data) %in% excludeCols]
     data <- data[keepCols]
@@ -19,7 +19,7 @@ list_fringes_sqlite <- function(path,groups = NULL, fringe_idx = NULL){
   x <- x[grepl("_data",x)]
   x <- gsub("_data","",x)
   if(!is.null(fringe_idx)){
-    fringe_idx <- tbl(db,fringe_idx) %>% collect()
+    fringe_idx <- tbl(db,fringe_idx) %>% collect(n=Inf)
     fringe_idx <- filter(fringe_idx, id %in% x)
     if(!is.null(groups)){
       fringe_idx <- fringe_idx %>% filter(group %in% groups)
@@ -33,7 +33,7 @@ list_fringes_sqlite <- function(path,groups = NULL, fringe_idx = NULL){
 read_fringe_idx_sqlite <- function(path,fringe_idx = NULL){
   fringe_idx <- fringe_idx %||% "fringe_idx"
   db <- src_sqlite(path)
-  tbl(db,fringe_idx) %>% collect()
+  tbl(db,fringe_idx) %>% collect(n=Inf)
 }
 
 
@@ -93,7 +93,7 @@ write_fpkg_sqlite <- function(fringes_path, sqlite_path, fringe_idx = NULL){
     name <- gsub("-","_",fr$name)
     message("copying: ",name)
     data <- fr$data
-    data <- as_data_frame(map_if(data,~class(.)=="Date",as.character))
+    data <- date_to_chr(data)
     copy_to(db,data, name = paste0(name,"_data"), temporary=FALSE)
     copy_to(db,fr$dic_$d, name = paste0(name,"_dic_"), temporary=FALSE)
     NULL

@@ -22,9 +22,9 @@ src_tbls(db)
 tbl(dbmtcars,"mtcars")
 
 dfdb <- tbl(db, sql("SELECT * FROM mtcars"))
-df <- tbl(db, sql("SELECT * FROM mtcars")) %>% collect()
+df <- tbl(db, sql("SELECT * FROM mtcars")) %>% collect(n=Inf)
 
-x <- df %>% filter(gear == 4) %>% collect()
+x <- df %>% filter(gear == 4) %>% collect(n=Inf)
 
 
 my_db <- src_sqlite( "my_db.sqlite3", create = TRUE)                 # create src
