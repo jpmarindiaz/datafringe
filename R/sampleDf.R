@@ -7,7 +7,7 @@
 #' @examples \dontrun{
 #' fringe <- newDatafringeFromDatafringe(mtcars)
 #' }
-sampleData <- function(ftype,nrow = 20,asFringe=FALSE,...){
+sampleData <- function(ftype,nrow = 20,asFringe=FALSE, loremNames = FALSE,...){
   #nrow <- 100
   #ftype <- "Ca-Ye-Nu-Da"
   #ftype <- "Ca-Ye-NuP"
@@ -55,7 +55,11 @@ sampleData <- function(ftype,nrow = 20,asFringe=FALSE,...){
   }
   params <- purrr::map(ftypes,makeFtypeParams)
   d <- invoke_map(sel, params)
-  names(d) <- letterNames(ncols)
+  if(!loremNames){
+    names(d) <- letterNames(ncols)
+  }else{
+    names(d) <- loremNames(ncols)
+  }
   out <- as_data_frame(d)
   if(asFringe){out <- fringe(d)}
   out
