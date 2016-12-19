@@ -143,9 +143,9 @@ getColumnNames <- function(fringe){
 
 
 #' @export
-sample2 <- function(v, n){
+sample2 <- function(v, n,replace = TRUE){
   if(length(v)==1) return(v)
-  sample(v,n,replace = TRUE)
+  sample(v,n,replace = replace)
 }
 
 #' @export

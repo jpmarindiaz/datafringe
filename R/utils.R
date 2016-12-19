@@ -1,6 +1,6 @@
 
 loremNames <- function(ncol){
-  sample2(read_lines(sysfile("aux/lorem.txt")),ncol)
+  sample2(read_lines(sysfile("aux/lorem.txt")),ncol,replace = FALSE)
 }
 
 

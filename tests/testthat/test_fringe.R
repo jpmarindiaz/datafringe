@@ -54,13 +54,13 @@ test_that("Create Fringe", {
   expect_equal(fringe$data, fct_to_chr(iris))
   df <- sampleData('Ca-Nu', asFringe = TRUE)
   expect_equal(getCtypes(df),c('Ca','Nu'))
-  expect_equal(getCnames(df),c('a','b'))
+  expect_equal(getCnames(df),names(df$data))
   #expect_equal(getCformats(df),c('','')) ## OJO FORMATS
 
   t <- sampleData("Ca-Ca-Nu", asFringe = TRUE)
   cnames <- c("res","sec")
   t$setCnames(cnames, idx = c(3,1))
-  expect_equal(getCnames(t),c('sec','b','res'))
+  expect_equal(getCnames(t),c('sec',names(t$data)[2],'res'))
   cnames = c("a","v","vd")
   t$setCnames(cnames)
   expect_equal(getCnames(setCnames(t,cnames)),getCnames(t))
