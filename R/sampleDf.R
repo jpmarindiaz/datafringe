@@ -7,7 +7,7 @@
 #' @examples \dontrun{
 #' fringe <- newDatafringeFromDatafringe(mtcars)
 #' }
-sampleData <- function(ftype,nrow = 20,asFringe=FALSE, loremNames = TRUE,...){
+sampleData <- function(ftype,nrow = 20,asFringe=FALSE, loremNames = TRUE,addNA = TRUE, rep = FALSE,...){
   #nrow <- 100
   #ftype <- "Ca-Ye-Nu-Da"
   #ftype <- "Ca-Ye-NuP"
@@ -20,29 +20,37 @@ sampleData <- function(ftype,nrow = 20,asFringe=FALSE, loremNames = TRUE,...){
   }))
   if(!all(ftypes %in% names(availableCtypes()))) stop("Wrong ftype")
   ncols <- length(ftypes)
-  ca <- function(n){
+  ca <- function(n, nlevels = 5, addNA = TRUE,...){
     prefix <- sample(c("Cat","Type","X_","Form","Ilk"),1)
-    sample(paste0(prefix,LETTERS[1:5]),n,replace = TRUE)
-    }
-  nu <- function(n,gt0 = NULL){
-    gt0 <- gt0 %||% FALSE
-    if(!gt0){
-      v <- rnorm(n,1000,300)-600
-      v[sample(n,1)] <- -10
-      return(v)
-    }
-    round(rnorm(n,1000,300)*1)
-    }
-  da <- function(n,type = "seq"){
-    # type = seq || random
-    seqdates <- seq(as.Date('2000-01-01'),length.out=n, by="day")
-    if(type == "seq") return(seqdates)
-    sample(seq(as.Date('2000-01-01'),length.out=n/10, by="day"),n=n,replace = TRUE)
+    v <- sample(paste0(prefix,LETTERS[1:nlevels]),n,replace = TRUE)
+    if(addNA) v[sample(n,round(n/10))] <- NA
+    v
   }
-  ye <- function(n, type = "seq"){
-    seqyear <- seq(1900,length.out = n)
-    if(type == "seq") return(seqyear)
-    sample(seq(1900,length.out = n/10),n, replace = TRUE)
+  nu <- function(n,gt0 = NULL, addNA = TRUE,...){
+    gt0 <- gt0 %||% FALSE
+    v <- round(rnorm(n,1000,300)*1)
+    if(!gt0) v[sample(n,1)] <- -10
+    if(addNA) v[sample(n,round(n/10))] <- NA
+    v
+  }
+  da <- function(n,rep = FALSE, addNA = TRUE,...){
+    # type = seq || random
+    if(!rep){
+      v <- seq(as.Date('2000-01-01'),length.out=n, by="day")
+    }else{
+      v <- sample(seq(as.Date('2000-01-01'),length.out=n/10, by="day"),n=n,replace = TRUE)
+    }
+    if(addNA) v[sample(n,round(n/10))] <- NA
+    v
+  }
+  ye <- function(n, rep = FALSE, addNA = TRUE,...){
+    if(!rep) {
+      v <- seq(1900,length.out = n)
+    }else{
+      v <- sample(seq(1900,length.out = n/10),n, replace = TRUE)
+    }
+    if(addNA) v[sample(n,round(n/10))] <- NA
+    v
   }
   s <- list(Ca = ca, Nu = nu, Da = da, Ye = ye)
   sel <- s[ftypes]
@@ -50,8 +58,8 @@ sampleData <- function(ftype,nrow = 20,asFringe=FALSE, loremNames = TRUE,...){
   args <- list(...)
   makeFtypeParams <- function(ftype){
     if(ftype == "Nu")
-      return(list(n = nrow,gt0 = args$gt0))
-    list(n = nrow)
+      return(list(n = nrow,gt0 = args$gt0,addNA = addNA))
+    list(n = nrow, addNA = addNA, rep = rep)
   }
   params <- purrr::map(ftypes,makeFtypeParams)
   d <- invoke_map(sel, params)
