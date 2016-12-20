@@ -19,7 +19,8 @@ keepFringeRows <- function(fringeIn,col,values){
   if(class(col) %in% c("numeric","integer"))
     cols <- getCnames(fringe)[col]
   if(!all(col %in% getCnames(fringe)))
-    stop("col not in fringe")
+    stop("col not in fringe",
+         paste(col[!col %in% getCnames(fringe)],collapse="\n"))
   colPos <- match(col,getCnames(fringe))
   colLetter <- letterNames(colPos)[colPos]
   filter_criteria <- interp(~ col %in% values, col = as.name(getCnames(fringe)[colPos]))
