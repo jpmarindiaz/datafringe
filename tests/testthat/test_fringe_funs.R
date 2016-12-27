@@ -22,6 +22,13 @@ test_that("Fringe funs", {
   f2$name <- "F2"
   fjoin <- joinFringes(f1,f2)
   expect_true(all(fjoin$dic_$d$id %in% union(getCnames(f1),getCnames(f2))))
+  f1$name
+  fjoin$name <- "FJOIN"
+  f4 <- sampleData("Ca-Ca-Da", asFringe = TRUE)
+  setCnames(f4,c("a","f4_b","f4_c"))
+  f4$name <- "F4"
+  fjoin3 <- joinFringes(fjoin,f4)
+  expect_equal(c(NA,"F1","F1","F2","F4","F4"),fjoin3$dic_$d$join_group)
 
 })
 

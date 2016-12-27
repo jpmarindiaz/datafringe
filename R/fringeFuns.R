@@ -74,44 +74,46 @@ selectDicCtypes <- function(f,ctypes, as_list = FALSE, filter = NULL){
 
 
 #' @export
-joinFringes <- function(f1,f2,prefix1 = NULL, prefix2 = NULL, type = "full",...){
+joinFringes <- function(fx,fy,prefixX = NULL, prefixY = NULL, type = "full",...){
   if(!type %in% c("full","inner","left","right","semi","anti"))
     stop("join type not known")
-  prefix1 <- prefix1 %||% f1$name
-  prefix2 <- prefix2 %||% f2$name
+  prefixX <- prefixX %||% fx$name
+  prefixY <- prefixY %||% fy$name
   if(type == "full"){
-    d <- full_join(f1$data,f2$data,...)
+    #d <- full_join(fx$data,fy$data)
+    d <- full_join(fx$data,fy$data,...)
   }
   if(type == "inner"){
-    d <- inner_join(f1$data,f2$data,...)
+    d <- inner_join(fx$data,fy$data,...)
   }
   if(type == "left"){
-    d <- left_join(f1$data,f2$data,...)
+    d <- left_join(fx$data,fy$data,...)
   }
   if(type == "right"){
-    d <- right_join(f1$data,f2$data,...)
+    d <- right_join(fx$data,fy$data,...)
   }
   if(type == "semi"){
-    d <- semi_join(f1$data,f2$data,...)
+    d <- semi_join(fx$data,fy$data,...)
   }
   if(type == "anti"){
-    d <- anti_join(f1$data,f2$data,...)
+    d <- anti_join(fx$data,fy$data,...)
   }
-  joinBy <- intersect(getCnames(f1),getCnames(f2))
-  f1Names <- setdiff(getCnames(f1),getCnames(f2))
-  f2Names <- setdiff(getCnames(f2),getCnames(f1))
-  dic1 <- f1$dic_$d
-  idx <- dic1$id %in% f1Names
-  #dic1$id[idx] <- paste0(prefix1,"_",dic1$id[idx])
-  dic1$group <- NA
-  dic1$group[idx] <- prefix1
-  dic2 <- f2$dic_$d
-  idx <- dic2$id %in% f2Names
-  #dic2$id[idx] <- paste0(prefix2,"_",dic2$id[idx])
-  dic2$group <- NA
-  dic2$group[idx] <- prefix2
-
-  dic <- bind_rows(dic1,dic2) %>% distinct(id,.keep_all = TRUE)
+  joinBy <- intersect(getCnames(fx),getCnames(fy))
+  fxNames <- setdiff(getCnames(fx),getCnames(fy))
+  fyNames <- setdiff(getCnames(fy),getCnames(fx))
+  dicx <- fx$dic_$d
+  idx <- dicx$id %in% fxNames
+  if(is.null(dicx$join_group)){
+    dicx$join_group <- NA
+    dicx$join_group[idx] <- prefixX
+  }
+  dicy <- fy$dic_$d
+  idx <- dicy$id %in% fyNames
+  if(is.null(dicy$join_group)) {
+    dicy$join_group <- NA
+    dicy$join_group[idx] <- prefixY
+  }
+  dic <- bind_rows(dicx,dicy) %>% distinct(id,.keep_all = TRUE)
   fringe(d, dic = dic)
 }
 
