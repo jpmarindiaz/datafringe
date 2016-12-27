@@ -77,8 +77,8 @@ selectDicCtypes <- function(f,ctypes, as_list = FALSE, filter = NULL){
 joinFringes <- function(f1,f2,prefix1 = NULL, prefix2 = NULL, type = "full",...){
   if(!type %in% c("full","inner","left","right","semi","anti"))
     stop("join type not known")
-  prefix1 <- prefix1 %||% substring(f1$name,1,3)
-  prefix2 <- prefix2 %||% substring(f2$name,1,3)
+  prefix1 <- prefix1 %||% f1$name
+  prefix2 <- prefix2 %||% f2$name
   if(type == "full"){
     d <- full_join(f1$data,f2$data,...)
   }
@@ -103,11 +103,13 @@ joinFringes <- function(f1,f2,prefix1 = NULL, prefix2 = NULL, type = "full",...)
   dic1 <- f1$dic_$d
   idx <- dic1$id %in% f1Names
   #dic1$id[idx] <- paste0(prefix1,"_",dic1$id[idx])
-  dic1$label[idx] <- paste0(prefix1,": ",dic1$label[idx])
+  dic1$group <- NA
+  dic1$group[idx] <- prefix1
   dic2 <- f2$dic_$d
   idx <- dic2$id %in% f2Names
   #dic2$id[idx] <- paste0(prefix2,"_",dic2$id[idx])
-  dic2$label[idx] <- paste0(prefix2,": ",dic2$label[idx])
+  dic2$group <- NA
+  dic2$group[idx] <- prefix2
 
   dic <- bind_rows(dic1,dic2) %>% distinct(id,.keep_all = TRUE)
   fringe(d, dic = dic)
