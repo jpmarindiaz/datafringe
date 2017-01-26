@@ -57,6 +57,21 @@ test_that("Create Fringe", {
   expect_equal(getCnames(df),names(df$data))
   #expect_equal(getCformats(df),c('','')) ## OJO FORMATS
 
+  # test fringes with shuffled dic
+  ctype <- c("Ca","Nu")
+  dic <- data_frame(id=letters[1:2],ctype = ctype)
+  dic_shuffle <- dic %>% arrange(desc(id))
+  d <- data_frame(a="x",b=1)
+  fr <- fringe(d,dic = dic)
+  fr2 <- Fringe$new(d, dic_ = dic_shuffle, name = "d")
+  expect_equal(fr,fr2)
+  expect_equal(getFtype(fr),"Ca-Nu")
+  expect_equal(fr$dic_,createDic(d, as_data_frame = FALSE))
+
+  dic2 <- rbind(dic,c("c","Ge"))
+  fr3 <- fringe(d,dic2)
+  expect_equal(fr$dic_,fr3$dic_)
+
   t <- sampleData("Ca-Ca-Nu", asFringe = TRUE)
   cnames <- c("res","sec")
   t$setCnames(cnames, idx = c(3,1))

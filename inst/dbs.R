@@ -5,7 +5,13 @@
 library(tidyverse)
 
 
+###
+db <- src_sqlite("~/Desktop/fringe/db.sqlite3", create = T)
+src_tbls(db)
+tbl(db,"hola_data")
 
+
+###
 db <- src_sqlite("db.sqlite3", create = T)
 
 copy_to(db,cars)

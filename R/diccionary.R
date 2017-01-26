@@ -5,6 +5,7 @@ createDic <- function(d, dic = NULL, as_data_frame = TRUE,...){
     if(!all( names(d) %in% dic$id))
       stop("Vars in data not in diccionary: ",
            paste(names(d)[!names(d) %in% dic$id],collapse="\n"))
+    dic <- dic %>% slice(match(names(d), id))
     dic$ctype <- dic$ctype %||% guessCtypes(d)
   }else{
     dic <- data_frame(id=names(d), ctype = guessCtypes(d))
