@@ -39,14 +39,21 @@ read_fringe_idx_sqlite <- function(path,fringe_idx = NULL){
 
 #' @export
 list_fringes <- function(path, groups = NULL, fringe_idx = NULL){
-  fringe_idx <- fringe_idx %||% "fringe_idx.csv"
-  fidxpath <- file.path(path,"fringe_idx.csv")
-  fidx <- read_csv(fidxpath)
-  fidx <- fidx %>% filter(!exclude)
-  dbs <- fidx  %>% filter(!is.na(id))
-  groups <- groups %||% unique(dbs$group)
-  if(!is.null(groups)){
-    dbs <- dbs %>% filter(group %in% groups)
+  if(is.null(fringe_idx)){
+    frsNames <- list.files(path) %>% keep(~grepl("_data",.)) %>%
+      map_chr(~gsub("_data.csv","",.))
+    dbs <- data_frame(id=frsNames)
+    dbs$withDic <- TRUE
+  }else{
+    fringe_idx <- fringe_idx %||% "fringe_idx.csv"
+    fidxpath <- file.path(path,"fringe_idx.csv")
+    fidx <- read_csv(fidxpath)
+    fidx <- fidx %>% filter(!exclude)
+    dbs <- fidx  %>% filter(!is.na(id))
+    groups <- groups %||% unique(dbs$group)
+    if(!is.null(groups)){
+      dbs <- dbs %>% filter(group %in% groups)
+    }
   }
   fs <- list.files(path,recursive = TRUE)
   dbFiles <- dbs %>% select(id,withDic) %>%
@@ -62,9 +69,8 @@ list_fringes <- function(path, groups = NULL, fringe_idx = NULL){
 
 #' @export
 load_fringes <- function(path, groups = NULL, n_max = Inf, fringe_idx = NULL){
+  #groups <- groups %||% unique(frs$group)
   frs <- list_fringes(path, fringe_idx = fringe_idx)
-  groups <- groups %||% unique(frs$group)
-  frs <- list_fringes(path, groups = groups)
   paths <- file.path(path,frs$id)
   names(paths) <- frs$id
   #f <- readFringe(paths[5],name="hola")
@@ -75,7 +81,7 @@ load_fringes <- function(path, groups = NULL, n_max = Inf, fringe_idx = NULL){
 #' @export
 write_fpkg_sqlite <- function(fringes_path, sqlite_path, fringe_idx = NULL){
   if(class(fringes_path) == "character"){
-    frs <- load_fringes(fringes_path)
+    frs <- load_fringes(fringes_path, fringe_idx = fringe_idx)
   }
   if(unique(purrr::map(fringes_path,class) %>% map_chr(1))=="Fringe"){
     frs <- fringes_path

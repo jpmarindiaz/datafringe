@@ -31,14 +31,23 @@ test_that("Fpkg loading", {
   expect_equal(fr$dic_$d,f0$dic_$d)
   unlink(tmpfile)
 
+
+  path <- sysfile("fringes/sample2")
+  files <- list.files(path)
+  fringes_path <- sysfile("fringes/sample2")
+  sqlite_path <- tempfile(fileext = ".sqlite3")
+  list_fringes(fringes_path)
+  sqlite_out <- write_fpkg_sqlite(fringes_path, sqlite_path)
+  expect_equal(sqlite_path,sqlite_out)
+
   path <- sysfile("fringes/objetivos")
   files <- list.files(path)
   frsNames <- list_fringes(path)$id
   frsFilenames <- c(paste0(frsNames,"_data.csv"),paste0(frsNames,"_dic_.csv"))
   expect_true(all(frsFilenames %in% files))
-  fringe_idx <- sysfile("fringes/objetivos/fringe_idx.csv")
   fringes_path <- sysfile("fringes/objetivos")
   sqlite_path <- tempfile(fileext = ".sqlite3")
+  fringe_idx <- sysfile("fringes/objetivos/fringe_idx.csv")
   sqlite_out <- write_fpkg_sqlite(fringes_path, sqlite_path, fringe_idx = fringe_idx)
   expect_equal(sqlite_path,sqlite_out)
 
@@ -50,11 +59,14 @@ test_that("Fpkg loading", {
 
   frs_idx <- fringe_idx %>% filter(!exclude) %>% .$id
   frs_sqlite <- list_fringes_sqlite(sqlite_path) %>% .$id
-  expect_equal(intersect(frs_idx,frs_sqlite),union(frs_idx,frs_sqlite))
+  expect_true(all(frs_idx %in% frs_sqlite) && all(frs_sqlite %in% frs_idx))
 
   db <- src_sqlite(sqlite_out)
   tableNames <- src_tbls(db)
-  expect_true(all(file_path_sans_ext(frsFilenames) %in% tableNames))
+  inputTables <- fringe_idx %>% filter(!exclude) %>% .$id
+  inputTableNames <- c(paste0(inputTables,"_data"),paste0(inputTables,"_dic_"))
+
+  expect_true(all(inputTableNames %in% tableNames))
 
   fr_csv <- readFringe(file.path(sysfile("fringes/objetivos"),"objetivos_comparada"))
   fr_sqlite <- readFringeSqlite("objetivos_comparada",db)
