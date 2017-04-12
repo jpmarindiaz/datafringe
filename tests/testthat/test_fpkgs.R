@@ -2,8 +2,8 @@ context("Fringe pkgs")
 
 test_that("Fpkg loading", {
 
-  fd1 <- sampleData("Ca-Da-Ye-Nu",asFringe = TRUE)
-  fd2 <- sampleData("Ca-Ca-Nu",asFringe = TRUE)
+  fd1 <- sampleFringe("Cat-Dat-Yea-Num")
+  fd2 <- sampleFringe("Cat-Cat-Num")
   frs <- list(fd1,fd2)
   names(frs) <- c("d1","d2")
   tmpfile <- tempfile(fileext = ".sqlite3")

@@ -2,7 +2,7 @@ context("dic")
 
 test_that("Create Dic", {
 
-  ctypes <- c("Ca","Nu")
+  ctypes <- c("Cat","Num")
   dic <- data_frame(id=letters[1:2],ctype = ctypes)
   dic1 <- createDic(data_frame(a="x",b=1),dic)
   expect_equal(dic1 %>% select(id,ctype),dic)
@@ -12,7 +12,7 @@ test_that("Create Dic", {
 
   d <- mtcars
   dic2 <- createDic(d)
-  expect_equal(unique(dic2$ctype),"Nu")
+  expect_true(all(unique(dic2$ctype) %in% c("Num","Pct")))
 
   dic_ <- createDic(d, as_data_frame = FALSE)
   expect_equal(class(dic_),c("Dic","R6"))
@@ -39,12 +39,12 @@ test_that("Create Dic", {
   # expect_equal("iris",fringe$name)
   # iris2 <- dfFactorsToCharacters(iris)
   # expect_equal(fringe$data, iris2)
-  # df <- sampleData('CN', asFringe = TRUE)
+  # df <- sampleFringe('CN')
   # expect_equal(getCtypes(df),c('Ca','Nu'))
   # expect_equal(getCnames(df),c('a','number'))
   # #expect_equal(getCformats(df),c('','')) ## OJO FORMATS
   #
-  # t <- sampleData("CCN", asFringe = TRUE)
+  # t <- sampleFringe("CCN")
   # cnames <- c("res","sec")
   # t$setCnames(cnames, idx = c(3,1))
   # expect_equal(getCnames(t),c('sec','category2','res'))
@@ -54,7 +54,7 @@ test_that("Create Dic", {
   # expect_error(t$setCnames(c("res","res")))
   # expect_error(setCnames(t,c("first","second")))
   #
-  # t <- sampleData("CCN", asFringe = TRUE)
+  # t <- sampleFringe("CCN")
   # cdescriptions <- c("res","sec")
   # t$setCdescriptions(cdescriptions, idx = c(3,1))
   # expect_equal(getCdescriptions(t),c('sec','','res'))

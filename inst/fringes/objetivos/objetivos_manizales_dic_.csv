@@ -1,216 +1,216 @@
 id,ctype,label,Fuente,Tipo_Unidad_Medida,Unidad_medida,Capitulo,Anillo,Observaciones
-Ciudad,Ca,Ciudad del dato,No Aplica,Texto,Nombre de la Ciudad,0. Identificación Datos,Identificación Datos,0
-Territorio,Ca,"Localidad, Comuna o Corregimiento",No Aplica,Texto,"Nombre de la Comuna, Localidad o Corregimiento",0. Identificación Datos,Identificación Datos,"En el dato correspondiente a la ciudad se asigó el valor ""Total [Nombre ciudad]"""
-Anio,Ye,Año del dato,No Aplica,Número,Año,0. Identificación Datos,Identificación Datos,0
-v0_g_001,Nu,Ciudadanos que se sienten orgullosos o muy orgullosos de Manizales,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,0. Identificación Datos,Identificación Datos,Variables de contexto en percepción ciudadana
-v0_g_002,Nu,Ciudadanos que consideran que las cosas van por buen camino,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,0. Identificación Datos,Identificación Datos,0
-v0_g_003,Nu,Ciudadanos que se sienten satisfechos o muy satisfechos con Manizales como ciudad para vivir,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,0. Identificación Datos,Identificación Datos,0
-v0_g_004,Ca,Agenda ciudadana: 5 temas claves a los que debería prestarles más atención la Administración de la Ciudad,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Texto,5 Temas Claves,0. Identificación Datos,Identificación Datos,0
-v1_d_001,Nu,Población Total,DANE,Número,Personas,1. Demografía,Escenarios Transversales,"En el caso de las Comunas, se trata de estimaciónes de la secretaría de planeación municipal"
-v1_d_010,Nu,Tasa de crecimiento de la población,DANE,Porcentaje,Variación,1. Demografía,Escenarios Transversales,0
-v1_d_002,Nu,Porcentaje de población en el área Urbana,DANE,Porcentaje,Porción,1. Demografía,Escenarios Transversales,0
-v1_d_003,Nu,Población Hombres,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0
-v1_d_004,Nu,Población Mujeres,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0
-v1_d_023,Nu,Población zona rural,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0
-v2_p_017,Nu,Personas que se consideran pobres,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0
-v2_p_018,Nu,Valor de línea de pobreza,DANE,Número,Pesos,2. Pobreza y equidad,Escenarios Transversales,0
-v2_p_019,Nu,Valor de línea de pobreza extrema,DANE,Número,Pesos,2. Pobreza y equidad,Escenarios Transversales,0
-v2_p_001,Nu,Incidencia pobreza monetaria,DANE,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0
-v2_p_002,Nu,Incidencia pobreza monetaria extrema,DANE,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0
-v2_p_003,Nu,Variación porcentual en el Ingreso promedio del hogar,DANE,Porcentaje,Variación,2. Pobreza y equidad,Escenarios Transversales,0
-v2_p_020,Nu,Ingreso promedio del hogar,DANE,Número,Pesos,2. Pobreza y equidad,Escenarios Transversales,0
-v2_p_004,Nu,coeficiente de Gini de los ingresos,DANE,Número,Valor entre 0 y 1,2. Pobreza y equidad,Escenarios Transversales,0
-v3_s_001,Nu,Cobertura en aseguramiento,Ministerio de Salud,Porcentaje,Porción,3. Salud,Activos de las Personas,0
-v3_s_024,Nu,Porcentaje de población en el régimen contributivo,Ministerio de Salud,Porcentaje,Porción,3. Salud,Activos de las Personas,0
-v3_s_022,Nu,Porcentaje de población en el régimen subsidiado,Ministerio de Salud,Porcentaje,Porción,3. Salud,Activos de las Personas,0
-v3_s_043,Nu,Porcentaje de población que piensa que se le está garantizando el derecho a la salud,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,3. Salud,Activos de las Personas,0
-v3_s_002,Nu,Porcentaje de población que requirió el servicio de salud y accedió al mismo,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,3. Salud,Activos de las Personas,0
-v3_s_003,Nu,Porcentaje de población que utilizó el servicio de salud y se siente satisfecha o muy satisfecha con el servicio de salud,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,3. Salud,Activos de las Personas,0
-v3_s_036,Nu,Camas hospitalarias por cada 1000 habitantes,Secretaría de Salud,Tasa,Por cada 1000 habitantes,3. Salud,Activos de las Personas,0
-v3_s_044,Nu,N de ambulancias habilitadas en la ciudad,Secretaría de Salud,Número,Ambulancias,3. Salud,Activos de las Personas,0
-v3_s_045,Nu,Esperanza de vida al nacer,DANE,Número,Años,3. Salud,Activos de las Personas,0
-v3_s_046,Nu,Esperanza de vida al nacer Hombres,DANE,Número,Años,3. Salud,Activos de las Personas,0
-v3_s_047,Nu,Esperanza de vida al nacer Mujeres,DANE,Número,Años,3. Salud,Activos de las Personas,0
-v3_s_004,Nu,Tasa de mortalidad general,DANE,Tasa,Por cada 100.000 habitantes,3. Salud,Activos de las Personas,0
-v3_s_048,Ca,Cinco principales causas de mortalidad,DANE,Texto,5 Causas,3. Salud,Activos de las Personas,0
-v3_s_049,Ca,Tres principales causas de mortalidad en personas de 15 a 44 años,DANE,Texto,3 Causas,3. Salud,Activos de las Personas,0
-v3_s_050,Nu,% muertes por causas prevenibles con vacunación o tratamiento preventivo o precoz,DANE,Porcentaje,Porción,3. Salud,Activos de las Personas,0
-v3_s_051,Nu,% muertes por causas prevenibles con medidas mixtas,DANE,Porcentaje,Porción,3. Salud,Activos de las Personas,0
-v3_s_052,Nu,Número total de nacimientos en la ciudad,DANE,Número,Casos,3. Salud,Activos de las Personas,0
-v3_s_053,Nu,Porcentaje de nacimientos en adolescentes de 10 a 14 años,DANE,Porcentaje,Porción,3. Salud,Activos de las Personas,0
-v3_s_054,Nu,Porcentaje de nacimientos en adolescentes de 15 a 19 años,DANE,Porcentaje,Porción,3. Salud,Activos de las Personas,0
-v3_s_007,Nu,Fecundidad en adolescentes de 15 a 19 años,DANE,Tasa,Por cada 1000 mujeres,3. Salud,Activos de las Personas,0
-v3_s_055,Nu,N casos de Mortalidad Materna,DANE,Número,Casos,3. Salud,Activos de las Personas,0
-v3_s_005,Nu,Tasa de mortalidad materna,DANE,Tasa,Por cada 1000 nacidos vivos,3. Salud,Activos de las Personas,0
-v3_s_006,Nu,Porcentaje de nacidos vivos con bajo peso al nacer,DANE,Porcentaje,Porción,3. Salud,Activos de las Personas,0
-v3_s_010,Nu,Tasa de mortalidad en menores de 1 año,DANE,Tasa,Por cada 1000 Nacidos Vivos,3. Salud,Activos de las Personas,0
-v3_s_011,Nu,Tasa de mortalidad en menores de 5 años (por cada 1000 NV),DANE,Tasa,Por cada 1000 Nacidos Vivos,3. Salud,Activos de las Personas,0
-v3_s_029,Nu,Casos de Mortalidad por EDA en menores de cinco años,Secretaría de Salud,Número,Casos,3. Salud,Activos de las Personas,0
-v3_s_030,Nu,Casos de Mortalidad por IRA en menores de cinco años,Secretaría de Salud,Número,Casos,3. Salud,Activos de las Personas,0
-v3_s_028,Nu,Casos de Mortalidad por Desnutrición en menores de cinco años,Secretaría de Salud,Número,Casos,3. Salud,Activos de las Personas,0
-v3_s_056,Nu,Porcentaje de niños menores de cinco años con valoración nutricional,Secretaría de Salud,Porcentaje,Porción,3. Salud,Activos de las Personas,0
-v3_s_012,Nu,Porcentaje de desnutrición crónica en menores de 5 años (población valorada),Secretaría de Salud,Porcentaje,Porción,3. Salud,Activos de las Personas,0
-v3_s_057,Nu,Porcentaje de desnutrición aguda en menores de 5 años (población valorada),Secretaría de Salud,Porcentaje,Porción,3. Salud,Activos de las Personas,0
-v4_e_138,Nu,Satisfacción con la educación recibida con niños y jóvenes del hogar,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_120,Nu,Matrícula en Primaria,Secretaría de Educación,Número,Estudiantes,4. Educación,Activos de las Personas,0
-v4_e_121,Nu,Matrícula en Secundaria,Secretaría de Educación,Número,Estudiantes,4. Educación,Activos de las Personas,0
-v4_e_122,Nu,Matrícula en Media,Secretaría de Educación,Número,Estudiantes,4. Educación,Activos de las Personas,0
-v4_e_013,Nu,Tasa de cobertura bruta en preescolar,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_014,Nu,Tasa de cobertura bruta en Primaria,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_015,Nu,Tasa de cobertura bruta en Secundaria,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_016,Nu,Tasa de cobertura bruta en Media,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_002,Nu,Tasa de cobertura neta en preescolar,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_003,Nu,Tasa de cobertura neta en Primaria,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_004,Nu,Tasa de cobertura neta en Secundaria,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_005,Nu,Tasa de cobertura neta en Media,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_007,Nu,Tasa de deserción escolar - sector público,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_008,Nu,Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de matemáticas,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_009,Nu,Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de lenguaje,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_010,Nu,Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de matemáticas,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_011,Nu,Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de lenguaje,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_139,Nu,Sector Oficial - Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de Matemáticas,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_140,Nu,Sector Oficial - Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de Lenguaje,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_141,Nu,Sector Oficial - Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de Matemáticas,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_142,Nu,Sector Oficial - Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de Lenguaje,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_143,Nu,Sector No Oficial - Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de Matemáticas,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_144,Nu,Sector No Oficial - Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de Lenguaje,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_145,Nu,Sector No Oficial - Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de Matemáticas,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_146,Nu,Sector No Oficial - Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de Lenguaje,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_012,Nu,Porcentaje de estudiantes de 11° con dominio del inglés con nivel B1 o B+,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
-v4_e_147,Nu,Número de estudiantes de pregrado (presenciales),Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
-v4_e_148,Nu,Número de estudiantes de programas técnicos profesionales (presenciales),Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
-v4_e_149,Nu,Número de estudiantes de programas tecnológicos (presenciales),Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
-v4_e_150,Nu,Número de estudiantes de programas Universitarios (presenciales),Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
-v4_e_151,Nu,Número de estudiantes de posgrado,Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
-v4_e_152,Nu,Número de estudiantes de especializaciones,Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
-v4_e_153,Nu,Número de estudiantes de maestrías,Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
-v4_e_154,Nu,Número de estudiantes de doctorados,Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
-v4_e_155,Nu,Profesores universitarios con Doctorado,Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
-v4_e_156,Nu,Profesores universitarios con Doctorado Tasa por cada 100mil habitantes,Ministerio de Educación Nacional-SNIES,Tasa,Por cada 100.000 habitantes,4. Educación,Activos de las Personas,0
-v4_e_157,Nu,Índice de Progreso en la Educación Superior-IPES,Ministerio de Educación Nacional,Número,Índice de cero a cien,4. Educación,Activos de las Personas,0
-v4_e_158,Nu,IPES-Componente Calidad,Ministerio de Educación Nacional,Número,Índice de cero a cien,4. Educación,Activos de las Personas,0
-v4_e_159,Nu,IPES-Componente Acceso,Ministerio de Educación Nacional,Número,Índice de cero a cien,4. Educación,Activos de las Personas,0
-v4_e_160,Nu,IPES-Componente Logro,Ministerio de Educación Nacional,Número,Índice de cero a cien,4. Educación,Activos de las Personas,0
-v5_ml_016,Nu,Proporción de ciudadanos en desacuerdo con que en Manizales es fácil conseguir empleo,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-v5_ml_017,Nu,Proporción de ciudadanos en desacuerdo con que en Manizales es fácil crear empresa,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-v5_ml_001,Nu,Tasa global de participacion,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-v5_ml_018,Nu,Tasa global de participacion-Hombres,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-v5_ml_019,Nu,Tasa global de participacion-Mujeres,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-v5_ml_002,Nu,Tasa de Ocupación,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-v5_ml_020,Nu,Número de ocupados,DANE,Número,Personas,5. Mercado laboral,Activos de las personas,0
-v5_ml_013,Nu,Número de ocupados Formales,DANE,Número,Personas,5. Mercado laboral,Activos de las personas,0
-v5_ml_003,Nu,Tasa de informalidad,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-v5_ml_004,Nu,Tasa de desempleo,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-v5_ml_005,Nu,Tasa de desempleo juvenil (15 - 25 años),DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-v5_ml_021,Nu,Tasa de desempleo en Hombres,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-v5_ml_022,Nu,Tasa de desempleo en Mujeres,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-v5_ml_023,Nu,Índce Sintético de Calidad del Empleo,DANE,Número,Índice de cero a cien,5. Mercado laboral,Activos de las personas,0
-v5_ml_024,Nu,Índce Sintético de Calidad del Empleo-Asalariados,DANE,Número,Índice de cero a cien,5. Mercado laboral,Activos de las personas,0
-v5_ml_025,Nu,Índce Sintético de Calidad del Empleo-Independientes,DANE,Número,Índice de cero a cien,5. Mercado laboral,Activos de las personas,0
-v5_ml_026,Nu,Proporción de graduados de pregrados de Caldas que cotizan a seguridad social,Ministerio de Educación Nacional,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-v5_ml_027,Nu,Proporción de graduados de pregrados de Caldas que cotizan a seguridad social en Caldas,Ministerio de Educación Nacional,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-v6_sc_003,Nu,Porcentaje de ciudadanos que se sienten seguros o muy seguros en la ciudad,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_044,Nu,Porcentaje de ciudadanos que se sienten seguros o muy seguros en su barrio,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_001,Nu,Porcentaje de la población que fue víctima de un delito en los últimos 12 meses,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_002,Nu,Porcentaje de ciudadanos que fueron víctimas de algún delito y denunciaron el hecho,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_028,Nu,Número de homicidios (Medicina Legal),Instituto Nacional de Medicina Legal,Número,Casos,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_045,Nu,Número de homicidios (Policía Nacional),Policía Nacional-MEMAZ,Número,Casos,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_005,Nu,Tasa de Homicidios por cada 100 mil habitantes,Instituto Nacional de Medicina Legal,Tasa,Por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_007,Nu,Tasa de homicidios de personas entre 15 y 24 años de edad,Instituto Nacional de Medicina Legal,Tasa,Por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_006,Nu,Tasa de lesiones personales (Medicina Legal),Instituto Nacional de Medicina Legal,Tasa,Por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_046,Nu,Tasa de lesiones personales (Policía Nacional),Policía Nacional-MEMAZ,Tasa,Por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_019,Nu,Número de casos de hurto a personas,Policía Nacional-MEMAZ,Número,Casos,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_020,Nu,Tasa de Hurto a personas,Policía Nacional-MEMAZ,Tasa,Por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_016,Nu,N de casos de hurto a Comercios,Policía Nacional-MEMAZ,Número,Casos,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_021,Nu,N de casos de hurto a Residencias,Policía Nacional-MEMAZ,Número,Casos,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_023,Nu,N de casos de hurto a Automóviles,Policía Nacional-MEMAZ,Número,Casos,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_018,Nu,N de casos de hurto a Motociletas,Policía Nacional-MEMAZ,Número,Casos,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_047,Nu,N de casos de hurto a BICICLETAS,Policía Nacional-MEMAZ,Número,Casos,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_011,Nu,Tasa de hurto a automóviles,Policía Nacional-MEMAZ,Tasa,Por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las personas,0
-v6_sc_012,Nu,Tasa de hurto de motocicletas,Policía Nacional-MEMAZ,Tasa,Por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las personas,0
-v7_v_001,Nu,% de personas que se encuentran satisfechas o muy satisfechas con la vivienda que habitan,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v0_ep_001,Nu,"Metros cuadrados de espacio público efectivo por habitante (parques, plazas, plazoletas, zonas verdes)",Secretaría de Planeación,Número,Metros Cuadrados,7. Vivienda,Hábitat Urbano,0
-v0_ep_002,Nu,Porcentaje de ciudadanos que se siente satisfecho o muy satisfecho con el espacio público de la ciudad,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v7_v_072,Nu,Satisfacción con vías del barrio,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v7_v_073,Nu,Satisfacción con alumbrado público del barrio,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v7_v_074,Nu,Satisfacción con parques y zonas verdes públicas del barrio,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v7_v_075,Nu,Satisfacción con andenes y separadores viales del barrio,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v7_v_012,Nu,Déficit de vivienda,DANE,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,Cálculos de Manizales Cómo Vamos
-v7_v_013,Nu,Déficit Cuantitativo de vivienda,DANE,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,Cálculos de Manizales Cómo Vamos
-v7_v_014,Nu,Déficit Cualitativo de vivienda,DANE,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,Cálculos de Manizales Cómo Vamos
-v7_v_076,Nu,N de viviendas en zonas de riesgo,Unidad de Gestión del Riesgo,Número,Viviendas,7. Vivienda,Hábitat Urbano,0
-v7_v_048,Nu,N de viviendas Nuevas Terminadas,DANE,Número,Viviendas,7. Vivienda,Hábitat Urbano,0
-v7_v_002,Nu,Participación porcentual de la VIS en total de unidades de vivienda Terminadas,DANE,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v7_v_066,Nu,Metros cuadrados licenciados para vivienda,DANE,Número,Metros Cuadrados,7. Vivienda,Hábitat Urbano,0
-v7_v_077,Nu,Metros cuadrados licenciados para otros usos,DANE,Número,Metros Cuadrados,7. Vivienda,Hábitat Urbano,0
-v7_v_078,Nu,Variación IPC grupo Vivienda,DANE,Porcentaje,Variación,7. Vivienda,Hábitat Urbano,0
-v7_v_079,Nu,Variación IPC Arrendamientos,DANE,Porcentaje,Variación,7. Vivienda,Hábitat Urbano,0
-v7_v_003,Nu,Tasa de cobertura del servicio de Acueducto (Zona Urbana),Aguas de Manizales,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v7_v_004,Nu,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servicio de Acueducto,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v7_v_006,Nu,Tasa de cobertura del servicio de Alcantarillado (Zona Urbana),Aguas de Manizales,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v7_v_007,Nu,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servicio de Alcantarillado,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v7_v_008,Nu,Tasa de cobertura del servicio de Aseo (Zona Urbana),EMAS,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v7_v_009,Nu,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servicio de Aseo,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v7_v_010,Nu,Tasa de cobertura del servicio de Energía (Zona Urbana),CHEC,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v7_v_011,Nu,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servicio de Energía,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v7_v_021,Nu,Tasa de cobertura del servicio de Gas domiciliario (Zona Urbana),Efigas S.A. E.S.P,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v7_v_080,Nu,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servicio de Gas domiciliario,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
-v8_ma_054,Ca,CUATRO Principales problemas medio ambientales percibidos por los ciudadanos,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Texto,Principales Causas,8. Medio Ambiente,Hábitat Urbano,0
-v8_ma_001,Nu,Consumo anual de energía eléctrica por habitante (Kw/hora al año),Superintendencia de Servicios públicos-SUI,Tasa,Por cada habitante,8. Medio Ambiente,Hábitat Urbano,0
-v8_ma_002,Nu,Consumo anual de agua por habitante (Litros/día),Superintendencia de Servicios públicos-SUI,Tasa,Por cada habitante,8. Medio Ambiente,Hábitat Urbano,0
-v8_ma_004,Nu,Generación de residuos sólidos urbanos (Kg diarios por habitante),EMAS,Tasa,Por cada habitante,8. Medio Ambiente,Hábitat Urbano,0
-v8_ma_055,Nu,Promedio anual de Concentración de partículas PM 2.5 (ed. Licorera),CORPOCALDAS,Número,Partículas por metro cúbico,8. Medio Ambiente,Hábitat Urbano,0
-v8_ma_056,Nu,Promedio anual de Concentración de partículas PM 10 (ed. Licorera),CORPOCALDAS,Número,Partículas por metro cúbico,8. Medio Ambiente,Hábitat Urbano,0
-v8_ma_057,Nu,Promedio anual de Concentración de partículas PM 10 (Liceo),CORPOCALDAS,Número,Partículas por metro cúbico,8. Medio Ambiente,Hábitat Urbano,0
-v8_ma_058,Nu,Promedio anual de Concentración de partículas PM 10 (Milán),CORPOCALDAS,Número,Partículas por metro cúbico,8. Medio Ambiente,Hábitat Urbano,0
-v8_ma_007,Nu,Porcentaje de residuos sólidos de la ciudad que son separados y clasificados para reciclado,EMAS,Porcentaje,Porción,8. Medio Ambiente,Hábitat Urbano,0
-v8_ma_059,Nu,N personas muertas en desastres naturales,Unidad Nacional de Gestión del Riesgo de Desastres,Número,Personas,8. Medio Ambiente,Hábitat Urbano,0
-v8_ma_060,Nu,N personas afectadas en desastres naturales,Unidad Nacional de Gestión del Riesgo de Desastres,Número,Personas,8. Medio Ambiente,Hábitat Urbano,0
-v8_ma_061,Nu,N de Viviendas destruídas por desastres naturales,Unidad Nacional de Gestión del Riesgo de Desastres,Número,Personas,8. Medio Ambiente,Hábitat Urbano,0
-v8_ma_062,Nu,N de Viviendas averiadas por desastres naturales,Unidad Nacional de Gestión del Riesgo de Desastres,Número,Personas,8. Medio Ambiente,Hábitat Urbano,0
-v9_m_001,Nu,Porcentaje de personas que se sienten satisfechas o muy satisfechas con el medio de transporte que utilizan habitualmente,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0
-v9_m_077,Nu,Porcentaje de personas que consideran que sus desplazamientos cotidianos se demoran menos tiempo que el año anterior,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0
-v9_m_078,Nu,Pasajeros promedio movilizados por día en TP-Colectivo,DANE,Número,Personas,9. Movilidad,Hábitat Urbano,0
-v9_m_079,Nu,Pasajeros movilizados diariamente en Busetas,DANE,Número,Personas,9. Movilidad,Hábitat Urbano,0
-v9_m_080,Nu,Pasajeros movilizados diariamente en Buses,DANE,Número,Personas,9. Movilidad,Hábitat Urbano,0
-v9_m_081,Nu,Pasajeros movilizados diariamente en Microbuses,DANE,Número,Personas,9. Movilidad,Hábitat Urbano,0
-v9_m_082,Nu,Pasajeros movilizados diariamente en Cable Aéreo,DANE,Número,Personas,9. Movilidad,Hábitat Urbano,0
-v9_m_004,Nu,Variación en el número de pasajeros del tranporte público,DANE,Porcentaje,Variación,9. Movilidad,Hábitat Urbano,0
-v9_m_005,Nu,No. de automóviles por cada 100 hab.,Secretaría de Tránsito de Manizales,Tasa,Por cada 100 habitantes,9. Movilidad,Hábitat Urbano,0
-v9_m_006,Nu,No. de motos por cada 100 hab.,Secretaría de Tránsito de Manizales,Tasa,Por cada 100 habitantes,9. Movilidad,Hábitat Urbano,0
-v9_m_083,Nu,Velocidad promedio en las vías de Manizales (Km/h),Secretaría de Tránsito de Manizales,Número,Kilómetros por hora,9. Movilidad,Hábitat Urbano,0
-v9_m_007,Nu,Tasa de mortalidad por accidentes de tránsito,Instituto Nacional de Medicina Legal,Tasa,Por cada 100 habitantes,9. Movilidad,Hábitat Urbano,0
-v9_m_008,Nu,Tasa de lesionados en accidentes tránsito,Instituto Nacional de Medicina Legal,Tasa,Por cada 100 habitantes,9. Movilidad,Hábitat Urbano,0
-v1_cr_001,Nu,Porcentaje población que leyó por lo menos un libro,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,"11. Cultura, recreación y deporte",Buen gobierno y Ciudadanía,0
-v1_cr_002,Nu,Porcentaje de población que participa de alguna actividad cultural,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,"11. Cultura, recreación y deporte",Buen gobierno y Ciudadanía,0
-v1_cr_003,Nu,Porcentaje de población que participa en al menos una actividad deportiva o recreativa,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,"11. Cultura, recreación y deporte",Buen gobierno y Ciudadanía,0
-v2_pc_001,Nu,Porcentaje de población que pertenece a alguna organización social,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-v2_pc_003,Nu,% de población que considera que la ALCALDIA esta haciendo acciones por mejorar su calidad de vida,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-v2_pc_004,Nu,Porcentaje de población que considera que la CONCEJO esta haciendo acciones por mejorar su calidad de vida,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-v2_pc_005,Nu,Porcentaje de población que considera que la GOBIERNO NACIONAL esta haciendo acciones por mejorar su calidad de vida,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-v2_pc_006,Nu,Porcentaje de población que considera que la EMPRESA PRIVADA esta haciendo acciones por mejorar su calidad de vida,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-v2_pc_007,Nu,Porcentaje de población que considera que la LAS UNIVERSIDADES esta haciendo acciones por mejorar su calidad de vida,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-v2_pc_008,Nu,Porcentaje de población que considera que NINGUNA entidad esta haciendo acciones por mejorar su calidad de vida,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-v2_pc_009,Nu,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a CUIDADO Y USO DE LOS ESPACIOS PÚBLICOS,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-v2_pc_010,Nu,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente al  CUMPLIMIENTO DE LAS NORMAS BÁSICAS DE TRÁNSITO,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-v2_pc_011,Nu,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a RESPETO DE LAS NORMAS AMBIENTALES,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-v2_pc_013,Nu,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a RESPETO POR LAS NIÑAS Y NIÑOS,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-v2_pc_014,Nu,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a RESPETO POR LAS MUJERES,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-v2_pc_015,Nu,Porcentaje de población que considera probable o muy probable ser castigado o amonestado por INFRINGIR LAS NORMAS Y SEÑALES DE TRÁNSITO,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-v2_pc_016,Nu,Porcentaje de población que considera probable o muy probable ser castigado o amonestado por NO PAGAR IMPUESTOS,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-v2_pc_017,Nu,Porcentaje de población que considera probable o muy probable ser castigado o amonestado por PORTAR ARMAS,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-v3_gp_001,Nu,Índice de Gobierno Abierto,Procuraduría General de Nación,Número,Índice de cero a cien,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-v3_gp_024,Nu,Índice de desempeño fiscal,Departamento Nacional de Planeación,Número,Índice de cero a cien,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-v3_gp_004,Nu,Transferencias totales como porcentaje del ingreso total,Contaduría General de la Nación-FUT,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-v3_gp_005,Nu,Gasto inversión como porcentaje del gasto total,Contaduría General de la Nación-FUT,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-v3_gp_003,Nu,Ingresos tributarios por habitante,Contaduría General de la Nación-FUT,Número,Pesos por habitante,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-v3_gp_006,Nu,Inversión total por habitante,Contaduría General de la Nación-FUT,Número,Pesos por habitante,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-v3_gp_008,Nu,Porcentaje de ciudadanos que se siente satisfecho o muy satisfechos con la forma como la alcaldía invierte los recursos,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-v3_gp_009,Nu,Porcentaje de ciudadanos que califica la gestión del alcalde con 4 o 5 en escala de 1 a 5,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-v4_ee_001,Nu,Tasa de inflación,DANE,Porcentaje,Variación,14. Entorno económico,Entorno Económico,0
-v4_ee_020,Nu,Índice departamental de competitividad,Consejo Privado de Competitividad,Número,Índice de cero a cien,14. Entorno económico,Entorno Económico,0
-v4_ee_021,Nu,Posición en el índice departamental de competitividad,Consejo Privado de Competitividad,Número,Posición,14. Entorno económico,Entorno Económico,0
-v4_ee_004,Nu,Número de nuevas empresas creadas en Manizales,Cámara de Comercio de Manizales por Caldas,Número,Empresas,14. Entorno económico,Entorno Económico,0
-v4_ee_005,Nu,Número de empresas disueltas en Manizales,Cámara de Comercio de Manizales por Caldas,Número,Empresas,14. Entorno económico,Entorno Económico,0
-v4_ee_013,Nu,PIB Per cápita de Caldas (Precios corrientes),DANE,Número,Pesos,14. Entorno económico,Entorno Económico,0
-v4_ee_022,Nu,Tasa de Crecimiento del PIB de Caldas (precios constantes),DANE,Porcentaje,Variación,14. Entorno económico,Entorno Económico,0
+Ciudad,Cat,Ciudad del dato,No Aplica,Texto,Nombre de la Ciudad,0. Identificación Datos,Identificación Datos,0
+Territorio,Cat,"Localidad, Comuna o Corregimiento",No Aplica,Texto,"Nombre de la Comuna, Localidad o Corregimiento",0. Identificación Datos,Identificación Datos,"En el dato correspondiente a la ciudad se asigó el valor ""Total [Nombre ciudad]"""
+Anio,Yea,Año del dato,No Aplica,Número,Año,0. Identificación Datos,Identificación Datos,0
+v0_g_001,Num,Ciudadanos que se sienten orgullosos o muy orgullosos de Manizales,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,0. Identificación Datos,Identificación Datos,Variables de contexto en percepción ciudadana
+v0_g_002,Num,Ciudadanos que consideran que las cosas van por buen camino,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,0. Identificación Datos,Identificación Datos,0
+v0_g_003,Num,Ciudadanos que se sienten satisfechos o muy satisfechos con Manizales como ciudad para vivir,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,0. Identificación Datos,Identificación Datos,0
+v0_g_004,Cat,Agenda ciudadana: 5 temas claves a los que debería prestarles más atención la Administración de la Ciudad,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Texto,5 Temas Claves,0. Identificación Datos,Identificación Datos,0
+v1_d_001,Num,Población Total,DANE,Número,Personas,1. Demografía,Escenarios Transversales,"En el caso de las Comunas, se trata de estimaciónes de la secretaría de planeación municipal"
+v1_d_010,Num,Tasa de crecimiento de la población,DANE,Porcentaje,Variación,1. Demografía,Escenarios Transversales,0
+v1_d_002,Num,Porcentaje de población en el área Urbana,DANE,Porcentaje,Porción,1. Demografía,Escenarios Transversales,0
+v1_d_003,Num,Población Hombres,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0
+v1_d_004,Num,Población Mujeres,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0
+v1_d_023,Num,Población zona rural,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0
+v2_p_017,Num,Personas que se consideran pobres,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0
+v2_p_018,Num,Valor de línea de pobreza,DANE,Número,Pesos,2. Pobreza y equidad,Escenarios Transversales,0
+v2_p_019,Num,Valor de línea de pobreza extrema,DANE,Número,Pesos,2. Pobreza y equidad,Escenarios Transversales,0
+v2_p_001,Num,Incidencia pobreza monetaria,DANE,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0
+v2_p_002,Num,Incidencia pobreza monetaria extrema,DANE,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0
+v2_p_003,Num,Variación porcentual en el Ingreso promedio del hogar,DANE,Porcentaje,Variación,2. Pobreza y equidad,Escenarios Transversales,0
+v2_p_020,Num,Ingreso promedio del hogar,DANE,Número,Pesos,2. Pobreza y equidad,Escenarios Transversales,0
+v2_p_004,Num,coeficiente de Gini de los ingresos,DANE,Número,Valor entre 0 y 1,2. Pobreza y equidad,Escenarios Transversales,0
+v3_s_001,Num,Cobertura en aseguramiento,Ministerio de Salud,Porcentaje,Porción,3. Salud,Activos de las Personas,0
+v3_s_024,Num,Porcentaje de población en el régimen contributivo,Ministerio de Salud,Porcentaje,Porción,3. Salud,Activos de las Personas,0
+v3_s_022,Num,Porcentaje de población en el régimen subsidiado,Ministerio de Salud,Porcentaje,Porción,3. Salud,Activos de las Personas,0
+v3_s_043,Num,Porcentaje de población que piensa que se le está garantizando el derecho a la salud,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,3. Salud,Activos de las Personas,0
+v3_s_002,Num,Porcentaje de población que requirió el servicio de salud y accedió al mismo,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,3. Salud,Activos de las Personas,0
+v3_s_003,Num,Porcentaje de población que utilizó el servicio de salud y se siente satisfecha o muy satisfecha con el servicio de salud,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,3. Salud,Activos de las Personas,0
+v3_s_036,Num,Camas hospitalarias por cada 1000 habitantes,Secretaría de Salud,Tasa,Por cada 1000 habitantes,3. Salud,Activos de las Personas,0
+v3_s_044,Num,N de ambulancias habilitadas en la ciudad,Secretaría de Salud,Número,Ambulancias,3. Salud,Activos de las Personas,0
+v3_s_045,Num,Esperanza de vida al nacer,DANE,Número,Años,3. Salud,Activos de las Personas,0
+v3_s_046,Num,Esperanza de vida al nacer Hombres,DANE,Número,Años,3. Salud,Activos de las Personas,0
+v3_s_047,Num,Esperanza de vida al nacer Mujeres,DANE,Número,Años,3. Salud,Activos de las Personas,0
+v3_s_004,Num,Tasa de mortalidad general,DANE,Tasa,Por cada 100.000 habitantes,3. Salud,Activos de las Personas,0
+v3_s_048,Num,Cinco principales causas de mortalidad,DANE,Texto,5 Causas,3. Salud,Activos de las Personas,0
+v3_s_049,Num,Tres principales causas de mortalidad en personas de 15 a 44 años,DANE,Texto,3 Causas,3. Salud,Activos de las Personas,0
+v3_s_050,Num,% muertes por causas prevenibles con vacunación o tratamiento preventivo o precoz,DANE,Porcentaje,Porción,3. Salud,Activos de las Personas,0
+v3_s_051,Num,% muertes por causas prevenibles con medidas mixtas,DANE,Porcentaje,Porción,3. Salud,Activos de las Personas,0
+v3_s_052,Num,Número total de nacimientos en la ciudad,DANE,Número,Casos,3. Salud,Activos de las Personas,0
+v3_s_053,Num,Porcentaje de nacimientos en adolescentes de 10 a 14 años,DANE,Porcentaje,Porción,3. Salud,Activos de las Personas,0
+v3_s_054,Num,Porcentaje de nacimientos en adolescentes de 15 a 19 años,DANE,Porcentaje,Porción,3. Salud,Activos de las Personas,0
+v3_s_007,Num,Fecundidad en adolescentes de 15 a 19 años,DANE,Tasa,Por cada 1000 mujeres,3. Salud,Activos de las Personas,0
+v3_s_055,Num,N casos de Mortalidad Materna,DANE,Número,Casos,3. Salud,Activos de las Personas,0
+v3_s_005,Num,Tasa de mortalidad materna,DANE,Tasa,Por cada 1000 nacidos vivos,3. Salud,Activos de las Personas,0
+v3_s_006,Num,Porcentaje de nacidos vivos con bajo peso al nacer,DANE,Porcentaje,Porción,3. Salud,Activos de las Personas,0
+v3_s_010,Num,Tasa de mortalidad en menores de 1 año,DANE,Tasa,Por cada 1000 Nacidos Vivos,3. Salud,Activos de las Personas,0
+v3_s_011,Num,Tasa de mortalidad en menores de 5 años (por cada 1000 NV),DANE,Tasa,Por cada 1000 Nacidos Vivos,3. Salud,Activos de las Personas,0
+v3_s_029,Num,Casos de Mortalidad por EDA en menores de cinco años,Secretaría de Salud,Número,Casos,3. Salud,Activos de las Personas,0
+v3_s_030,Num,Casos de Mortalidad por IRA en menores de cinco años,Secretaría de Salud,Número,Casos,3. Salud,Activos de las Personas,0
+v3_s_028,Num,Casos de Mortalidad por Desnutrición en menores de cinco años,Secretaría de Salud,Número,Casos,3. Salud,Activos de las Personas,0
+v3_s_056,Num,Porcentaje de niños menores de cinco años con valoración nutricional,Secretaría de Salud,Porcentaje,Porción,3. Salud,Activos de las Personas,0
+v3_s_012,Num,Porcentaje de desnutrición crónica en menores de 5 años (población valorada),Secretaría de Salud,Porcentaje,Porción,3. Salud,Activos de las Personas,0
+v3_s_057,Num,Porcentaje de desnutrición aguda en menores de 5 años (población valorada),Secretaría de Salud,Porcentaje,Porción,3. Salud,Activos de las Personas,0
+v4_e_138,Num,Satisfacción con la educación recibida con niños y jóvenes del hogar,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_120,Num,Matrícula en Primaria,Secretaría de Educación,Número,Estudiantes,4. Educación,Activos de las Personas,0
+v4_e_121,Num,Matrícula en Secundaria,Secretaría de Educación,Número,Estudiantes,4. Educación,Activos de las Personas,0
+v4_e_122,Num,Matrícula en Media,Secretaría de Educación,Número,Estudiantes,4. Educación,Activos de las Personas,0
+v4_e_013,Num,Tasa de cobertura bruta en preescolar,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_014,Num,Tasa de cobertura bruta en Primaria,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_015,Num,Tasa de cobertura bruta en Secundaria,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_016,Num,Tasa de cobertura bruta en Media,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_002,Num,Tasa de cobertura neta en preescolar,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_003,Num,Tasa de cobertura neta en Primaria,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_004,Num,Tasa de cobertura neta en Secundaria,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_005,Num,Tasa de cobertura neta en Media,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_007,Num,Tasa de deserción escolar - sector público,Secretaría de Educación,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_008,Num,Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de matemáticas,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_009,Num,Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de lenguaje,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_010,Num,Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de matemáticas,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_011,Num,Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de lenguaje,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_139,Num,Sector Oficial - Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de Matemáticas,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_140,Num,Sector Oficial - Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de Lenguaje,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_141,Num,Sector Oficial - Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de Matemáticas,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_142,Num,Sector Oficial - Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de Lenguaje,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_143,Num,Sector No Oficial - Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de Matemáticas,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_144,Num,Sector No Oficial - Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de Lenguaje,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_145,Num,Sector No Oficial - Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de Matemáticas,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_146,Num,Sector No Oficial - Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de Lenguaje,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_012,Num,Porcentaje de estudiantes de 11° con dominio del inglés con nivel B1 o B+,ICFES,Porcentaje,Porción,4. Educación,Activos de las Personas,0
+v4_e_147,Num,Número de estudiantes de pregrado (presenciales),Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
+v4_e_148,Num,Número de estudiantes de programas técnicos profesionales (presenciales),Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
+v4_e_149,Num,Número de estudiantes de programas tecnológicos (presenciales),Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
+v4_e_150,Num,Número de estudiantes de programas Universitarios (presenciales),Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
+v4_e_151,Num,Número de estudiantes de posgrado,Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
+v4_e_152,Num,Número de estudiantes de especializaciones,Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
+v4_e_153,Num,Número de estudiantes de maestrías,Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
+v4_e_154,Num,Número de estudiantes de doctorados,Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
+v4_e_155,Num,Profesores universitarios con Doctorado,Ministerio de Educación Nacional-SNIES,Número,Personas,4. Educación,Activos de las Personas,0
+v4_e_156,Num,Profesores universitarios con Doctorado Tasa por cada 100mil habitantes,Ministerio de Educación Nacional-SNIES,Tasa,Por cada 100.000 habitantes,4. Educación,Activos de las Personas,0
+v4_e_157,Num,Índice de Progreso en la Educación Superior-IPES,Ministerio de Educación Nacional,Número,Índice de cero a cien,4. Educación,Activos de las Personas,0
+v4_e_158,Num,IPES-Componente Calidad,Ministerio de Educación Nacional,Número,Índice de cero a cien,4. Educación,Activos de las Personas,0
+v4_e_159,Num,IPES-Componente Acceso,Ministerio de Educación Nacional,Número,Índice de cero a cien,4. Educación,Activos de las Personas,0
+v4_e_160,Num,IPES-Componente Logro,Ministerio de Educación Nacional,Número,Índice de cero a cien,4. Educación,Activos de las Personas,0
+v5_ml_016,Num,Proporción de ciudadanos en desacuerdo con que en Manizales es fácil conseguir empleo,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
+v5_ml_017,Num,Proporción de ciudadanos en desacuerdo con que en Manizales es fácil crear empresa,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
+v5_ml_001,Num,Tasa global de participacion,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
+v5_ml_018,Num,Tasa global de participacion-Hombres,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
+v5_ml_019,Num,Tasa global de participacion-Mujeres,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
+v5_ml_002,Num,Tasa de Ocupación,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
+v5_ml_020,Num,Número de ocupados,DANE,Número,Personas,5. Mercado laboral,Activos de las personas,0
+v5_ml_013,Num,Número de ocupados Formales,DANE,Número,Personas,5. Mercado laboral,Activos de las personas,0
+v5_ml_003,Num,Tasa de informalidad,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
+v5_ml_004,Num,Tasa de desempleo,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
+v5_ml_005,Num,Tasa de desempleo juvenil (15 - 25 años),DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
+v5_ml_021,Num,Tasa de desempleo en Hombres,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
+v5_ml_022,Num,Tasa de desempleo en Mujeres,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
+v5_ml_023,Num,Índce Sintético de Calidad del Empleo,DANE,Número,Índice de cero a cien,5. Mercado laboral,Activos de las personas,0
+v5_ml_024,Num,Índce Sintético de Calidad del Empleo-Asalariados,DANE,Número,Índice de cero a cien,5. Mercado laboral,Activos de las personas,0
+v5_ml_025,Num,Índce Sintético de Calidad del Empleo-Independientes,DANE,Número,Índice de cero a cien,5. Mercado laboral,Activos de las personas,0
+v5_ml_026,Num,Proporción de graduados de pregrados de Caldas que cotizan a seguridad social,Ministerio de Educación Nacional,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
+v5_ml_027,Num,Proporción de graduados de pregrados de Caldas que cotizan a seguridad social en Caldas,Ministerio de Educación Nacional,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
+v6_sc_003,Num,Porcentaje de ciudadanos que se sienten seguros o muy seguros en la ciudad,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_044,Num,Porcentaje de ciudadanos que se sienten seguros o muy seguros en su barrio,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_001,Num,Porcentaje de la población que fue víctima de un delito en los últimos 12 meses,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_002,Num,Porcentaje de ciudadanos que fueron víctimas de algún delito y denunciaron el hecho,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_028,Num,Número de homicidios (Medicina Legal),Instituto Nacional de Medicina Legal,Número,Casos,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_045,Num,Número de homicidios (Policía Nacional),Policía Nacional-MEMAZ,Número,Casos,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_005,Num,Tasa de Homicidios por cada 100 mil habitantes,Instituto Nacional de Medicina Legal,Tasa,Por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_007,Num,Tasa de homicidios de personas entre 15 y 24 años de edad,Instituto Nacional de Medicina Legal,Tasa,Por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_006,Num,Tasa de lesiones personales (Medicina Legal),Instituto Nacional de Medicina Legal,Tasa,Por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_046,Num,Tasa de lesiones personales (Policía Nacional),Policía Nacional-MEMAZ,Tasa,Por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_019,Num,Número de casos de hurto a personas,Policía Nacional-MEMAZ,Número,Casos,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_020,Num,Tasa de Hurto a personas,Policía Nacional-MEMAZ,Tasa,Por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_016,Num,N de casos de hurto a Comercios,Policía Nacional-MEMAZ,Número,Casos,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_021,Num,N de casos de hurto a Residencias,Policía Nacional-MEMAZ,Número,Casos,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_023,Num,N de casos de hurto a Automóviles,Policía Nacional-MEMAZ,Número,Casos,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_018,Num,N de casos de hurto a Motociletas,Policía Nacional-MEMAZ,Número,Casos,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_047,Num,N de casos de hurto a BICICLETAS,Policía Nacional-MEMAZ,Número,Casos,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_011,Num,Tasa de hurto a automóviles,Policía Nacional-MEMAZ,Tasa,Por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las personas,0
+v6_sc_012,Num,Tasa de hurto de motocicletas,Policía Nacional-MEMAZ,Tasa,Por cada 100.000 habitantes,6. Seguridad Ciudadana,Activos de las personas,0
+v7_v_001,Num,% de personas que se encuentran satisfechas o muy satisfechas con la vivienda que habitan,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v0_ep_001,Num,"Metros cuadrados de espacio público efectivo por habitante (parques, plazas, plazoletas, zonas verdes)",Secretaría de Planeación,Número,Metros Cuadrados,7. Vivienda,Hábitat Urbano,0
+v0_ep_002,Num,Porcentaje de ciudadanos que se siente satisfecho o muy satisfecho con el espacio público de la ciudad,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v7_v_072,Num,Satisfacción con vías del barrio,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v7_v_073,Num,Satisfacción con alumbrado público del barrio,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v7_v_074,Num,Satisfacción con parques y zonas verdes públicas del barrio,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v7_v_075,Num,Satisfacción con andenes y separadores viales del barrio,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v7_v_012,Num,Déficit de vivienda,DANE,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,Cálculos de Manizales Cómo Vamos
+v7_v_013,Num,Déficit Cuantitativo de vivienda,DANE,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,Cálculos de Manizales Cómo Vamos
+v7_v_014,Num,Déficit Cualitativo de vivienda,DANE,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,Cálculos de Manizales Cómo Vamos
+v7_v_076,Num,N de viviendas en zonas de riesgo,Unidad de Gestión del Riesgo,Número,Viviendas,7. Vivienda,Hábitat Urbano,0
+v7_v_048,Num,N de viviendas Nuevas Terminadas,DANE,Número,Viviendas,7. Vivienda,Hábitat Urbano,0
+v7_v_002,Num,Participación porcentual de la VIS en total de unidades de vivienda Terminadas,DANE,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v7_v_066,Num,Metros cuadrados licenciados para vivienda,DANE,Número,Metros Cuadrados,7. Vivienda,Hábitat Urbano,0
+v7_v_077,Num,Metros cuadrados licenciados para otros usos,DANE,Número,Metros Cuadrados,7. Vivienda,Hábitat Urbano,0
+v7_v_078,Num,Variación IPC grupo Vivienda,DANE,Porcentaje,Variación,7. Vivienda,Hábitat Urbano,0
+v7_v_079,Num,Variación IPC Arrendamientos,DANE,Porcentaje,Variación,7. Vivienda,Hábitat Urbano,0
+v7_v_003,Num,Tasa de cobertura del servicio de Acueducto (Zona Urbana),Aguas de Manizales,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v7_v_004,Num,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servicio de Acueducto,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v7_v_006,Num,Tasa de cobertura del servicio de Alcantarillado (Zona Urbana),Aguas de Manizales,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v7_v_007,Num,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servicio de Alcantarillado,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v7_v_008,Num,Tasa de cobertura del servicio de Aseo (Zona Urbana),EMAS,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v7_v_009,Num,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servicio de Aseo,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v7_v_010,Num,Tasa de cobertura del servicio de Energía (Zona Urbana),CHEC,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v7_v_011,Num,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servicio de Energía,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v7_v_021,Num,Tasa de cobertura del servicio de Gas domiciliario (Zona Urbana),Efigas S.A. E.S.P,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v7_v_080,Num,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servicio de Gas domiciliario,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,7. Vivienda,Hábitat Urbano,0
+v8_ma_054,Num,CUATRO Principales problemas medio ambientales percibidos por los ciudadanos,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Texto,Principales Causas,8. Medio Ambiente,Hábitat Urbano,0
+v8_ma_001,Num,Consumo anual de energía eléctrica por habitante (Kw/hora al año),Superintendencia de Servicios públicos-SUI,Tasa,Por cada habitante,8. Medio Ambiente,Hábitat Urbano,0
+v8_ma_002,Num,Consumo anual de agua por habitante (Litros/día),Superintendencia de Servicios públicos-SUI,Tasa,Por cada habitante,8. Medio Ambiente,Hábitat Urbano,0
+v8_ma_004,Num,Generación de residuos sólidos urbanos (Kg diarios por habitante),EMAS,Tasa,Por cada habitante,8. Medio Ambiente,Hábitat Urbano,0
+v8_ma_055,Num,Promedio anual de Concentración de partículas PM 2.5 (ed. Licorera),CORPOCALDAS,Número,Partículas por metro cúbico,8. Medio Ambiente,Hábitat Urbano,0
+v8_ma_056,Num,Promedio anual de Concentración de partículas PM 10 (ed. Licorera),CORPOCALDAS,Número,Partículas por metro cúbico,8. Medio Ambiente,Hábitat Urbano,0
+v8_ma_057,Num,Promedio anual de Concentración de partículas PM 10 (Liceo),CORPOCALDAS,Número,Partículas por metro cúbico,8. Medio Ambiente,Hábitat Urbano,0
+v8_ma_058,Num,Promedio anual de Concentración de partículas PM 10 (Milán),CORPOCALDAS,Número,Partículas por metro cúbico,8. Medio Ambiente,Hábitat Urbano,0
+v8_ma_007,Num,Porcentaje de residuos sólidos de la ciudad que son separados y clasificados para reciclado,EMAS,Porcentaje,Porción,8. Medio Ambiente,Hábitat Urbano,0
+v8_ma_059,Num,N personas muertas en desastres naturales,Unidad Nacional de Gestión del Riesgo de Desastres,Número,Personas,8. Medio Ambiente,Hábitat Urbano,0
+v8_ma_060,Num,N personas afectadas en desastres naturales,Unidad Nacional de Gestión del Riesgo de Desastres,Número,Personas,8. Medio Ambiente,Hábitat Urbano,0
+v8_ma_061,Num,N de Viviendas destruídas por desastres naturales,Unidad Nacional de Gestión del Riesgo de Desastres,Número,Personas,8. Medio Ambiente,Hábitat Urbano,0
+v8_ma_062,Num,N de Viviendas averiadas por desastres naturales,Unidad Nacional de Gestión del Riesgo de Desastres,Número,Personas,8. Medio Ambiente,Hábitat Urbano,0
+v9_m_001,Num,Porcentaje de personas que se sienten satisfechas o muy satisfechas con el medio de transporte que utilizan habitualmente,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0
+v9_m_077,Num,Porcentaje de personas que consideran que sus desplazamientos cotidianos se demoran menos tiempo que el año anterior,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0
+v9_m_078,Num,Pasajeros promedio movilizados por día en TP-Colectivo,DANE,Número,Personas,9. Movilidad,Hábitat Urbano,0
+v9_m_079,Num,Pasajeros movilizados diariamente en Busetas,DANE,Número,Personas,9. Movilidad,Hábitat Urbano,0
+v9_m_080,Num,Pasajeros movilizados diariamente en Buses,DANE,Número,Personas,9. Movilidad,Hábitat Urbano,0
+v9_m_081,Num,Pasajeros movilizados diariamente en Microbuses,DANE,Número,Personas,9. Movilidad,Hábitat Urbano,0
+v9_m_082,Num,Pasajeros movilizados diariamente en Cable Aéreo,DANE,Número,Personas,9. Movilidad,Hábitat Urbano,0
+v9_m_004,Num,Variación en el número de pasajeros del tranporte público,DANE,Porcentaje,Variación,9. Movilidad,Hábitat Urbano,0
+v9_m_005,Num,No. de automóviles por cada 100 hab.,Secretaría de Tránsito de Manizales,Tasa,Por cada 100 habitantes,9. Movilidad,Hábitat Urbano,0
+v9_m_006,Num,No. de motos por cada 100 hab.,Secretaría de Tránsito de Manizales,Tasa,Por cada 100 habitantes,9. Movilidad,Hábitat Urbano,0
+v9_m_083,Num,Velocidad promedio en las vías de Manizales (Km/h),Secretaría de Tránsito de Manizales,Número,Kilómetros por hora,9. Movilidad,Hábitat Urbano,0
+v9_m_007,Num,Tasa de mortalidad por accidentes de tránsito,Instituto Nacional de Medicina Legal,Tasa,Por cada 100 habitantes,9. Movilidad,Hábitat Urbano,0
+v9_m_008,Num,Tasa de lesionados en accidentes tránsito,Instituto Nacional de Medicina Legal,Tasa,Por cada 100 habitantes,9. Movilidad,Hábitat Urbano,0
+v1_cr_001,Num,Porcentaje población que leyó por lo menos un libro,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,"11. Cultura, recreación y deporte",Buen gobierno y Ciudadanía,0
+v1_cr_002,Num,Porcentaje de población que participa de alguna actividad cultural,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,"11. Cultura, recreación y deporte",Buen gobierno y Ciudadanía,0
+v1_cr_003,Num,Porcentaje de población que participa en al menos una actividad deportiva o recreativa,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,"11. Cultura, recreación y deporte",Buen gobierno y Ciudadanía,0
+v2_pc_001,Num,Porcentaje de población que pertenece a alguna organización social,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
+v2_pc_003,Num,% de población que considera que la ALCALDIA esta haciendo acciones por mejorar su calidad de vida,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
+v2_pc_004,Num,Porcentaje de población que considera que la CONCEJO esta haciendo acciones por mejorar su calidad de vida,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
+v2_pc_005,Num,Porcentaje de población que considera que la GOBIERNO NACIONAL esta haciendo acciones por mejorar su calidad de vida,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
+v2_pc_006,Num,Porcentaje de población que considera que la EMPRESA PRIVADA esta haciendo acciones por mejorar su calidad de vida,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
+v2_pc_007,Num,Porcentaje de población que considera que la LAS UNIVERSIDADES esta haciendo acciones por mejorar su calidad de vida,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
+v2_pc_008,Num,Porcentaje de población que considera que NINGUNA entidad esta haciendo acciones por mejorar su calidad de vida,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
+v2_pc_009,Num,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a CUIDADO Y USO DE LOS ESPACIOS PÚBLICOS,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
+v2_pc_010,Num,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente al  CUMPLIMIENTO DE LAS NORMAS BÁSICAS DE TRÁNSITO,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
+v2_pc_011,Num,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a RESPETO DE LAS NORMAS AMBIENTALES,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
+v2_pc_013,Num,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a RESPETO POR LAS NIÑAS Y NIÑOS,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
+v2_pc_014,Num,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a RESPETO POR LAS MUJERES,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
+v2_pc_015,Num,Porcentaje de población que considera probable o muy probable ser castigado o amonestado por INFRINGIR LAS NORMAS Y SEÑALES DE TRÁNSITO,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
+v2_pc_016,Num,Porcentaje de población que considera probable o muy probable ser castigado o amonestado por NO PAGAR IMPUESTOS,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
+v2_pc_017,Num,Porcentaje de población que considera probable o muy probable ser castigado o amonestado por PORTAR ARMAS,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
+v3_gp_001,Num,Índice de Gobierno Abierto,Procuraduría General de Nación,Número,Índice de cero a cien,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
+v3_gp_024,Num,Índice de desempeño fiscal,Departamento Nacional de Planeación,Número,Índice de cero a cien,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
+v3_gp_004,Num,Transferencias totales como porcentaje del ingreso total,Contaduría General de la Nación-FUT,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
+v3_gp_005,Num,Gasto inversión como porcentaje del gasto total,Contaduría General de la Nación-FUT,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
+v3_gp_003,Num,Ingresos tributarios por habitante,Contaduría General de la Nación-FUT,Número,Pesos por habitante,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
+v3_gp_006,Num,Inversión total por habitante,Contaduría General de la Nación-FUT,Número,Pesos por habitante,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
+v3_gp_008,Num,Porcentaje de ciudadanos que se siente satisfecho o muy satisfechos con la forma como la alcaldía invierte los recursos,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
+v3_gp_009,Num,Porcentaje de ciudadanos que califica la gestión del alcalde con 4 o 5 en escala de 1 a 5,Encuesta de Percepción Ciudadana - Manizales Cómo Vamos,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
+v4_ee_001,Num,Tasa de inflación,DANE,Porcentaje,Variación,14. Entorno económico,Entorno Económico,0
+v4_ee_020,Num,Índice departamental de competitividad,Consejo Privado de Competitividad,Número,Índice de cero a cien,14. Entorno económico,Entorno Económico,0
+v4_ee_021,Num,Posición en el índice departamental de competitividad,Consejo Privado de Competitividad,Número,Posición,14. Entorno económico,Entorno Económico,0
+v4_ee_004,Num,Número de nuevas empresas creadas en Manizales,Cámara de Comercio de Manizales por Caldas,Número,Empresas,14. Entorno económico,Entorno Económico,0
+v4_ee_005,Num,Número de empresas disueltas en Manizales,Cámara de Comercio de Manizales por Caldas,Número,Empresas,14. Entorno económico,Entorno Económico,0
+v4_ee_013,Num,PIB Per cápita de Caldas (Precios corrientes),DANE,Número,Pesos,14. Entorno económico,Entorno Económico,0
+v4_ee_022,Num,Tasa de Crecimiento del PIB de Caldas (precios constantes),DANE,Porcentaje,Variación,14. Entorno económico,Entorno Económico,0

@@ -1,4 +1,12 @@
 
+#' sampleFringe
+#' @export
+sampleFringe <- function(ftype){
+  d <- sampleData(ftype)
+  fringe(d)
+}
+
+
 #' @export
 keep_not_na_FringeRows <- function(fringeIn){
   if(!class(fringeIn)[1] %in% c("Fringe","data.frame"))

@@ -1,5 +1,5 @@
 Package: datafringe
-Version: 0.0.0.1
+Version: 0.1.1
 Title: Fringer
 Author: Juan Pablo Marin Diaz
 Maintainer: Juan Pablo Marin Diaz <jpmarindiaz@gmail.com>
@@ -9,8 +9,7 @@ LazyData: no
 Depends:
     R (>= 3.0.0),
     R6,
-    lubridate,
-    tidyverse,
+    homodata,
     lazyeval
 Suggests:
     testthat

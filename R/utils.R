@@ -1,7 +1,5 @@
 
-loremNames <- function(ncol){
-  sample2(read_lines(sysfile("aux/lorem.txt")),ncol,replace = FALSE)
-}
+
 
 
 trim_punct <- function (x){

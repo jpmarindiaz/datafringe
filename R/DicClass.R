@@ -13,7 +13,7 @@ Dic <- R6Class("Dic",
                    attr(d, "spec") <- NULL
                    if(!all(c("id","ctype") %in% names(d) ))
                      stop("Need id and ctype for dictionary")
-                   availableCtypeNames <- names(availableCtypes())
+                   availableCtypeNames <- availableCtypeIds()
                    if(!all(self$d$ctype %in% availableCtypeNames))
                      stop("ctypes not in ",availableCtypeNames)
                    self$d$label <- d$label %||% d$id

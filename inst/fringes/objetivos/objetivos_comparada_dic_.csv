@@ -1,123 +1,123 @@
-Variable,id,label,ctype,Fuente,Tipo_Unidad_Medida,Unidad_medida,Capitulo,Anillo,Observaciones
-Ciudad,Ciudad,Ciudad del dato,Ca,No Aplica,Texto,Nombre de la Ciudad,0. Identificación Datos,Identificación Datos,0
-Territorio,Territorio,"Localidad, Comuna o Corregimiento",Ca,No Aplica,Texto,"Nombre de la Comuna, Localidad o Corregimiento",0. Identificación Datos,Identificación Datos,"En el dato correspondiente a la ciudad se asigó el valor ""Total [Nombre ciudad]"""
-Anio,Anio,Año del dato,Ye,No Aplica,Número,Año,0. Identificación Datos,Escenarios Transversales,0
-01-d-001,v1_d_001,Población Total,Nu,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0
-01-d-002,v1_d_002,Porcentaje de población en el área Urbana,Nu,DANE,Porcentaje,Porción,1. Demografía,Escenarios Transversales,0
-02-p-001,v2_p_001,Incidencia pobreza monetaria,Nu,DANE,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0
-02-p-002,v2_p_002,Incidencia pobreza monetaria extrema,Nu,DANE,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0
-02-p-003,v2_p_003,Variación porcentual en el Ingreso promedio del hogar,Nu,DANE,Porcentaje,Variación,2. Pobreza y equidad,Escenarios Transversales,0
-02-p-004,v2_p_004,coeficiente de Gini de los ingresos,Nu,DANE,Número,Coeficiente de GINI,2. Pobreza y equidad,Escenarios Transversales,0
-02-p-005,v2_p_005,Tasa de cobertura del programa Unidos,Nu,DPS,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0
-02-p-006,v2_p_006,Porcentaje de familias promovidas en el programa Unidos,Nu,DPS,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0
-02-p-007,v2_p_007,Tasa de trabajo infantil,Nu,DANE,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0
-02-p-008,v2_p_008,Tasa de trabajo infantil ampliado,Nu,DANE,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0
-03-s-001,v3_s_001,Cobertura en aseguramiento,Nu,Ministerio de Salud,Porcentaje,Porción,3. Salud,Activos de las personas,0
-03-s-002,v3_s_002,Porcentaje de población que requirió el servicio de salud y accedió al mismo,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,3. Salud,Activos de las personas,0
-03-s-003,v3_s_003,Porcentaje de población que utilizó el servicio de salud y se siente satisfecha o muy satisfecha con el servicio de salud,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,3. Salud,Activos de las personas,0
-03-s-004,v3_s_004,Tasa de mortalidad general,Nu,DANE,Tasa,Por cada 100000 habitantes,3. Salud,Activos de las personas,0
-03-s-005,v3_s_005,Tasa de mortalidad materna,Nu,DANE,Tasa,Por cada 1000 nacidos vivos,3. Salud,Activos de las personas,0
-03-s-006,v3_s_006,Porcentaje de nacidos vivos con bajo peso al nacer,Nu,DANE,Porcentaje,Porción,3. Salud,Activos de las personas,0
-03-s-007,v3_s_007,Fecundidad en adolescentes de 15 a 19 años,Nu,DANE,Tasa,Por cada 1000 mujeres en ese rango de edad,3. Salud,Activos de las personas,0
-03-s-008,v3_s_008,Cobertura en vacunación  DTP tercera dosis (menores de un año),Nu,Ministerio de Salud,Porcentaje,Porción,3. Salud,Activos de las personas,0
-03-s-009,v3_s_009,Cobertura en vacunación TV (un año),Nu,Ministerio de Salud,Porcentaje,Porción,3. Salud,Activos de las personas,0
-03-s-010,v3_s_010,Tasa de mortalidad en menores de 1 año,Nu,DANE,Tasa,Por cada 1000 nacidos vivos,3. Salud,Activos de las personas,0
-03-s-011,v3_s_011,Tasa de mortalidad en menores de 5 años,Nu,DANE,Tasa,Por cada 1000 nacidos vivos,3. Salud,Activos de las personas,0
-03-s-012,v3_s_012,Porcentaje de desnutrición crónica en menores de 5 años,Nu,Secretarías de Salud de cada ciudad,Porcentaje,Porción,3. Salud,Activos de las personas,0
-04-e-001,v4_e_001,Cobertura neta en educación inicial (prejardin y jardín),Nu,Secretarías de educación de cada ciudad,Porcentaje,Porción,4. Educación,Activos de las personas,0
-04-e-002,v4_e_002,Tasa de cobertura neta en preescolar,Nu,Secretarías de educación de cada ciudad,Porcentaje,Porción,4. Educación,Activos de las personas,0
-04-e-003,v4_e_003,Tasa de cobertura neta en Primaria,Nu,Secretarías de educación de cada ciudad,Porcentaje,Porción,4. Educación,Activos de las personas,0
-04-e-004,v4_e_004,Tasa de cobertura neta en Secundaria,Nu,Secretarías de educación de cada ciudad,Porcentaje,Porción,4. Educación,Activos de las personas,0
-04-e-005,v4_e_005,Tasa de cobertura neta en Media,Nu,Secretarías de educación de cada ciudad,Porcentaje,Porción,4. Educación,Activos de las personas,0
-04-e-006,v4_e_006,Tasa de asistencia escolar de 5 a 16 años,Nu,Secretarías de educación de cada ciudad,Porcentaje,Porción,4. Educación,Activos de las personas,0
-04-e-007,v4_e_007,Tasa de deserción escolar - sector público,Nu,Ministerio de educación,Porcentaje,Porción,4. Educación,Activos de las personas,0
-04-e-008,v4_e_008,Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de matemáticas,Nu,ICFES,Porcentaje,Porción,4. Educación,Activos de las personas,0
-04-e-009,v4_e_009,Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de lenguaje,Nu,ICFES,Porcentaje,Porción,4. Educación,Activos de las personas,0
-04-e-010,v4_e_010,Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de matemáticas,Nu,ICFES,Porcentaje,Porción,4. Educación,Activos de las personas,0
-04-e-011,v4_e_011,Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de lenguaje,Nu,ICFES,Porcentaje,Porción,4. Educación,Activos de las personas,0
-04-e-012,v4_e_012,Porcentaje de estudiantes de 11° con dominio del inglés con nivel B1 o B+,Nu,ICFES,Porcentaje,Porción,4. Educación,Activos de las personas,0
-05-ml-001,v5_ml_001,Tasa global de participacion,Nu,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-05-ml-002,v5_ml_002,Tasa de ocupación,Nu,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-05-ml-003,v5_ml_003,Tasa de informalidad,Nu,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-05-ml-004,v5_ml_004,Tasa de desempleo,Nu,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-05-ml-005,v5_ml_005,Tasa de desempleo juvenil (15 - 25 años),Nu,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0
-06-sc-001,v6_sc_001,Porcentaje de la población que fue víctima de un delito en los últimos 12 meses,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,6. Seguridad ciudadana,Activos de las personas,0
-06-sc-002,v6_sc_002,Porcentaje de ciudadanos que fueron víctimas de algún delito y denunciaron el hecho,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,6. Seguridad ciudadana,Activos de las personas,0
-06-sc-003,v6_sc_003,Porcentaje de ciudadanos que se sienten seguros o muy seguros en la ciudad,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,6. Seguridad ciudadana,Activos de las personas,0
-06-sc-004,v6_sc_004,Porcentaje de victimas de hurto a personas en la vía pública,Nu,DANE,Porcentaje,Porción,6. Seguridad ciudadana,Activos de las personas,0
-06-sc-005,v6_sc_005,Tasa de Homicidios por cada 100 mil habitantes,Nu,Instituto Nacional de Medicina Legal,Tasa,Por cada 100000 habitantes,6. Seguridad ciudadana,Activos de las personas,0
-06-sc-006,v6_sc_006,Tasa de lesiones personales,Nu,Instituto Nacional de Medicina Legal,Tasa,Por cada 100000 habitantes,6. Seguridad ciudadana,Activos de las personas,0
-06-sc-007,v6_sc_007,Tasa de homicidios de personas entre 15 y 24 años de edad,Nu,Instituto Nacional de Medicina Legal,Tasa,Por cada 100000 personas en ese rango de edad,6. Seguridad ciudadana,Activos de las personas,0
-06-sc-008,v6_sc_008,Tasa de adolescentes capturados por cada mil adolescentes (14 a 17 años),Nu,ICBF,Tasa,Por cada 1000 adolescentes,6. Seguridad ciudadana,Activos de las personas,0
-06-sc-009,v6_sc_009,Indice de intensidad (expulsión) del desplazamiento forzado,Nu,DPS,Porcentaje,Porción,6. Seguridad ciudadana,Activos de las personas,0
-06-sc-010,v6_sc_010,Porcentaje de ciudadanos que fue extorsionado o lo han intentado extorsionar,Nu,DANE,Porcentaje,Porción,6. Seguridad ciudadana,Activos de las personas,0
-06-sc-011,v6_sc_011,Tasa de hurto a automóviles,Nu,Policía Nacional,Tasa,Por cada 100000 habitantes,6. Seguridad ciudadana,Activos de las personas,0
-06-sc-012,v6_sc_012,Tasa de hurto de motocicletas,Nu,Policía Nacional,Tasa,Por cada 100000 habitantes,6. Seguridad ciudadana,Activos de las personas,0
-07-v-001,v7_v_001,Porcentaje de personas que se encuentran satisfechas o muy satisfechas con la vivienda que habitan,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0
-07-v-002,v7_v_002,Participación porcentual de la VIS en total de unidades de vivienda licenciadas,Nu,DANE,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0
-07-v-003,v7_v_003,Tasa de cobertura del servicio de Acueducto,Nu,Empresas de Servicios Públicos de cada ciudad,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0
-07-v-004,v7_v_004,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servio de Acueducto,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0
-07-v-005,v7_v_005,Porcentaje de agua tratada no contabilizada en facturación,Nu,Empresas de Servicios Públicos de cada ciudad,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0
-07-v-006,v7_v_006,Tasa de cobertura del servicio de Alcantarillado,Nu,Empresas de Servicios Públicos de cada ciudad,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0
-07-v-007,v7_v_007,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servio de Alcantarillado,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0
-07-v-008,v7_v_008,Tasa de cobertura del servicio de Aseo,Nu,Empresas de Servicios Públicos de cada ciudad,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0
-07-v-009,v7_v_009,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servio de Aseo,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0
-07-v-010,v7_v_010,Tasa de cobertura del servicio de Energía,Nu,Empresas de Servicios Públicos de cada ciudad,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0
-07-v-011,v7_v_011,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servio de Energía,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0
-08-ma-01,v8_ma_01,Consumo anual de energía eléctrica por habitante,Nu,Superintendencia de Servicios públicos-SUI,Número,Kilowatios/Hora Promedio anual,8. Medio ambiente,Hábitat Urbano,0
-08-ma-02,v8_ma_02,Consumo anual de agua por habitante,Nu,Superintendencia de Servicios públicos-SUI,Número,Metros cúbicos anuales,8. Medio ambiente,Hábitat Urbano,0
-08-ma-03,v8_ma_03,Porcentaje de aguas residuales que reciben tratamiento de acuerdo a normas nacionales,Nu,Empresa de Alcantarillado de cada ciudad,Porcentaje,Porción,8. Medio ambiente,Hábitat Urbano,0
-08-ma-04,v8_ma_04,Generación de residuos sólidos urbanos (Kg diarios por habitante),Nu,Empresas de Servicios Públicos de cada ciudad,Número,Kilogramso diarios por habitante,8. Medio ambiente,Hábitat Urbano,0
-08-ma-05,v8_ma_05,Concentración de partículas PM 10,Nu,Autoridades ambientales de cada ciudad,Número,Partículas promedio por año,8. Medio ambiente,Hábitat Urbano,0
-08-ma-06,v8_ma_06,"Existencia, monitoreo y cumplimiento de regulaciones sobre polución acústica",Nu,Autoridades ambientales de cada ciudad,Binario,1= Si; 0=No,8. Medio ambiente,Hábitat Urbano,0
-08-ma-07,v8_ma_07,Porcentaje de residuos sólidos de la ciudad que son separados y clasificados para reciclado,Nu,Autoridades ambientales de cada ciudad,Porcentaje,Porción,8. Medio ambiente,Hábitat Urbano,0
-08-ma-08,v8_ma_08,Tasa de población afectada por desastres naturales por cada 100 mil habitantes,Nu,Sistema Nacional de Atención y Prevención de Desastres,Tasa,Por cada 100000 habitantes,8. Medio ambiente,Hábitat Urbano,0
-09-m-001,v9_m_001,Porcentaje de personas que se sienten satisfechas o muy satisfechas con el medio de transporte que utilizan habitualmente,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0
-09-m-002,v9_m_002,Promedio diario de pasajeros del sistema de transporte masivo,Nu,DANE,Número,Pasajeros Día,9. Movilidad,Hábitat Urbano,0
-09-m-003,v9_m_003,Porcentaje de cumplimiento del promedio diario de pasajeros de pasajeros en el STM frente a su respectivo documento CONPES,Nu,Empresas de Transporte Masivo de cada ciudad,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0
-09-m-004,v9_m_004,Variación en el número de pasajeros del tranporte público,Nu,DANE,Porcentaje,Variación,9. Movilidad,Hábitat Urbano,0
-09-m-005,v9_m_005,No. de automóviles por cada 100 hab.,Nu,Secretaria de Tránsito de cada ciudad,Tasa,Por cada 100 habitantes,9. Movilidad,Hábitat Urbano,0
-09-m-006,v9_m_006,No. de motos por cada 100 hab.,Nu,Secretaria de Tránsito de cada ciudad,Tasa,Por cada 100 habitantes,9. Movilidad,Hábitat Urbano,0
-09-m-007,v9_m_007,Tasa de mortalidad por accidentes de tránsito,Nu,Instituto Nacional de Medicina Legal,Tasa,Por cada 100000 habitantes,9. Movilidad,Hábitat Urbano,0
-09-m-008,v9_m_008,Tasa de lesionados en accidentes tránsito,Nu,Instituto Nacional de Medicina Legal,Tasa,Por cada 100000 habitantes,9. Movilidad,Hábitat Urbano,0
-09-m-009,v9_m_009,Kilómetros de ciclovías exclusivas existentes,Nu,Secretarías de tránsito de cada ciudad,Número,Kilómetros,9. Movilidad,Hábitat Urbano,0
-09-m-010,v9_m_010,Porcentaje de víctimas conductores,Nu,Instituto Nacional de Medicina Legal,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0
-09-m-011,v9_m_011,Porcentaje de víctimas peatones,Nu,Instituto Nacional de Medicina Legal,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0
-09-m-012,v9_m_012,Porcentaje de víctimas pasajeros,Nu,Instituto Nacional de Medicina Legal,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0
-09-m-013,v9_m_013,Porcentaje de lesionados conductores,Nu,Instituto Nacional de Medicina Legal,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0
-09-m-014,v9_m_014,Porcentaje de lesionados peatones,Nu,Instituto Nacional de Medicina Legal,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0
-09-m-015,v9_m_015,Porcentaje de lesionados pasajeros,Nu,Instituto Nacional de Medicina Legal,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0
-10-ep-001,v0_ep_001,"Metros cuadrados de espacio público efectivo por habitante(parques, plazas, plazoletas, zonas verdes)",Nu,Secretarías de Planeación de cada ciudad,Número,Metros cuadrados,10. Espacio público,Hábitat Urbano,0
-10-ep-002,v0_ep_002,Porcentaje de ciudadanos que se siente satisfecho o muy satisfecho con el espacio público de la ciudad,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,10. Espacio público,Hábitat Urbano,0
-11-cr-001,v1_cr_001,Porcentaje población que leyó por lo menos un libro,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,"11. Cultura, recreación y deporte",Buen gobierno y Ciudadanía,0
-11-cr-002,v1_cr_002,Porcentaje de población que participa de alguna actividad cultural,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,"11. Cultura, recreación y deporte",Buen gobierno y Ciudadanía,0
-11-cr-003,v1_cr_003,Porcentaje de población que participa en al menos una actividad deportiva o recreativa,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,"11. Cultura, recreación y deporte",Buen gobierno y Ciudadanía,0
-12-pc-001,v2_pc_001,Porcentaje de población que pertenece a alguna organización social,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-12-pc-002,v2_pc_002,Porcentaje de participación electoral Cámara,Nu,Registraduría Nacional,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-12-pc-003,v2_pc_003,Porcentaje de población que considera que la ALCALDIA esta haciendo acciones por mejorar su calidad de vida,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-12-pc-004,v2_pc_004,Porcentaje de población que considera que la CONCEJO esta haciendo acciones por mejorar su calidad de vida,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-12-pc-005,v2_pc_005,Porcentaje de población que considera que la GOBIERNO NACIONAL esta haciendo acciones por mejorar su calidad de vida,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-12-pc-006,v2_pc_006,Porcentaje de población que considera que la EMPRESA PRIVADA esta haciendo acciones por mejorar su calidad de vida,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-12-pc-007,v2_pc_007,Porcentaje de población que considera que la LAS UNIVERSIDADES esta haciendo acciones por mejorar su calidad de vida,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-12-pc-008,v2_pc_008,Porcentaje de población que considera que NINGUNA entidad esta haciendo acciones por mejorar su calidad de vida,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-12-pc-009,v2_pc_009,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a CUIDADO Y USO DE LOS ESPACIOS PÚBLICOS,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-12-pc-010,v2_pc_010,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente al  CUMPLIMIENTO DE LAS NORMAS BÁSICAS DE TRÁNSITO,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-12-pc-011,v2_pc_011,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a RESPETO DE LAS NORMAS AMBIENTALES,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-12-pc-012,v2_pc_012,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a RESPETO POR LA VIDA,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-12-pc-013,v2_pc_013,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a RESPETO POR LAS NIÑAS Y NIÑOS,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-12-pc-014,v2_pc_014,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a RESPETO POR LAS MUJERES,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-12-pc-015,v2_pc_015,Porcentaje de población que considera probable o muy probable ser castigado o amonestado por INFRINGIR LAS NORMAS Y SEÑALES DE TRÁNSITO,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-12-pc-016,v2_pc_016,Porcentaje de población que considera probable o muy probable ser castigado o amonestado por NO PAGAR IMPUESTOS,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-12-pc-017,v2_pc_017,Porcentaje de población que considera probable o muy probable ser castigado o amonestado por PORTAR ARMAS,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0
-13-gp-001,v3_gp_001,Índice de Gobierno Abierto,Nu,Procuraduría General de Nación,Número,Índice,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-13-gp-002,v3_gp_002,Ingresos propios como porcentaje de ingresos totales,Nu,Contaduría General de la Nación-FUT,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-13-gp-003,v3_gp_003,Ingresos tributarios por habitante,Nu,Contaduría General de la Nación-FUT,Número,Pesos,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-13-gp-004,v3_gp_004,Transferencias totales como porcentaje del ingreso total,Nu,Contaduría General de la Nación-FUT,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-13-gp-005,v3_gp_005,Gasto inversión como porcentaje del gasto total,Nu,Contaduría General de la Nación-FUT,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-13-gp-006,v3_gp_006,Inversión total por habitante,Nu,Contaduría General de la Nación-FUT,Número,Pesos,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-13-gp-007,v3_gp_007,Saldo de la deuda/ingresos corrientes (ley 358 - 1997,Nu,Secretarías de hacienda de cada ciudad,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-13-gp-008,v3_gp_008,Porcentaje de ciudadanos que se siente satisfecho o muy satisfechos con la forma como la alcaldía invierte los recursos,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-13-gp-009,v3_gp_009,Porcentaje de ciudadanos que califica la gestión del alcalde con 4 o 5 en escala de 1 a 5,Nu,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0
-14-ee-001,v4_ee_001,Tasa de inflación,Nu,DANE,Porcentaje,Variación,14. Entorno económico,Entorno Económico,0
-14-ee-002,v4_ee_002,Tasa de penetración de internet,Nu,Ministerio de Tecnologías de la Información y las Comunicaciones,Tasa,Por cada 1000 habitantes,14. Entorno económico,Entorno Económico,0
-14-ee-003,v4_ee_003,Posición ocupada en ranking nacional del Doing Bussines,Nu,Banco Mundial,Número,Posición,14. Entorno económico,Entorno Económico,0
+Variable,id,label,ctype,Fuente,Tipo_Unidad_Medida,Unidad_medida,Capitulo,Anillo,Observaciones,
+Ciudad,Ciudad,Ciudad del dato,Cat,No Aplica,Texto,Nombre de la Ciudad,0. Identificación Datos,Identificación Datos,0,
+Territorio,Territorio,"Localidad, Comuna o Corregimiento",Cat,No Aplica,Texto,"Nombre de la Comuna, Localidad o Corregimiento",0. Identificación Datos,Identificación Datos,"En el dato correspondiente a la ciudad se asigó el valor ""Total [Nombre ciudad]""",
+Anio,Anio,Año del dato,Yea,No Aplica,Número,Año,0. Identificación Datos,Escenarios Transversales,0,
+01-d-001,v1_d_001,Población Total,Num,DANE,Número,Personas,1. Demografía,Escenarios Transversales,0,
+01-d-002,v1_d_002,Porcentaje de población en el área Urbana,Num,DANE,Porcentaje,Porción,1. Demografía,Escenarios Transversales,0,
+02-p-001,v2_p_001,Incidencia pobreza monetaria,Num,DANE,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0,
+02-p-002,v2_p_002,Incidencia pobreza monetaria extrema,Num,DANE,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0,
+02-p-003,v2_p_003,Variación porcentual en el Ingreso promedio del hogar,Num,DANE,Porcentaje,Variación,2. Pobreza y equidad,Escenarios Transversales,0,
+02-p-004,v2_p_004,coeficiente de Gini de los ingresos,Num,DANE,Número,Coeficiente de GINI,2. Pobreza y equidad,Escenarios Transversales,0,
+02-p-005,v2_p_005,Tasa de cobertura del programa Unidos,Num,DPS,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0,
+02-p-006,v2_p_006,Porcentaje de familias promovidas en el programa Unidos,Num,DPS,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0,
+02-p-007,v2_p_007,Tasa de trabajo infantil,Num,DANE,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0,
+02-p-008,v2_p_008,Tasa de trabajo infantil ampliado,Num,DANE,Porcentaje,Porción,2. Pobreza y equidad,Escenarios Transversales,0,
+03-s-001,v3_s_001,Cobertura en aseguramiento,Num,Ministerio de Salud,Porcentaje,Porción,3. Salud,Activos de las personas,0,
+03-s-002,v3_s_002,Porcentaje de población que requirió el servicio de salud y accedió al mismo,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,3. Salud,Activos de las personas,0,
+03-s-003,v3_s_003,Porcentaje de población que utilizó el servicio de salud y se siente satisfecha o muy satisfecha con el servicio de salud,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,3. Salud,Activos de las personas,0,
+03-s-004,v3_s_004,Tasa de mortalidad general,Num,DANE,Tasa,Por cada 100000 habitantes,3. Salud,Activos de las personas,0,
+03-s-005,v3_s_005,Tasa de mortalidad materna,Num,DANE,Tasa,Por cada 1000 nacidos vivos,3. Salud,Activos de las personas,0,
+03-s-006,v3_s_006,Porcentaje de nacidos vivos con bajo peso al nacer,Num,DANE,Porcentaje,Porción,3. Salud,Activos de las personas,0,
+03-s-007,v3_s_007,Fecundidad en adolescentes de 15 a 19 años,Num,DANE,Tasa,Por cada 1000 mujeres en ese rango de edad,3. Salud,Activos de las personas,0,
+03-s-008,v3_s_008,Cobertura en vacunación  DTP tercera dosis (menores de un año),Num,Ministerio de Salud,Porcentaje,Porción,3. Salud,Activos de las personas,0,
+03-s-009,v3_s_009,Cobertura en vacunación TV (un año),Num,Ministerio de Salud,Porcentaje,Porción,3. Salud,Activos de las personas,0,
+03-s-010,v3_s_010,Tasa de mortalidad en menores de 1 año,Num,DANE,Tasa,Por cada 1000 nacidos vivos,3. Salud,Activos de las personas,0,
+03-s-011,v3_s_011,Tasa de mortalidad en menores de 5 años,Num,DANE,Tasa,Por cada 1000 nacidos vivos,3. Salud,Activos de las personas,0,
+03-s-012,v3_s_012,Porcentaje de desnutrición crónica en menores de 5 años,Num,Secretarías de Salud de cada ciudad,Porcentaje,Porción,3. Salud,Activos de las personas,0,
+04-e-001,v4_e_001,Cobertura neta en educación inicial (prejardin y jardín),Num,Secretarías de educación de cada ciudad,Porcentaje,Porción,4. Educación,Activos de las personas,0,
+04-e-002,v4_e_002,Tasa de cobertura neta en preescolar,Num,Secretarías de educación de cada ciudad,Porcentaje,Porción,4. Educación,Activos de las personas,0,
+04-e-003,v4_e_003,Tasa de cobertura neta en Primaria,Num,Secretarías de educación de cada ciudad,Porcentaje,Porción,4. Educación,Activos de las personas,0,
+04-e-004,v4_e_004,Tasa de cobertura neta en Secundaria,Num,Secretarías de educación de cada ciudad,Porcentaje,Porción,4. Educación,Activos de las personas,0,
+04-e-005,v4_e_005,Tasa de cobertura neta en Media,Num,Secretarías de educación de cada ciudad,Porcentaje,Porción,4. Educación,Activos de las personas,0,
+04-e-006,v4_e_006,Tasa de asistencia escolar de 5 a 16 años,Num,Secretarías de educación de cada ciudad,Porcentaje,Porción,4. Educación,Activos de las personas,0,
+04-e-007,v4_e_007,Tasa de deserción escolar - sector público,Num,Ministerio de educación,Porcentaje,Porción,4. Educación,Activos de las personas,0,
+04-e-008,v4_e_008,Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de matemáticas,Num,ICFES,Porcentaje,Porción,4. Educación,Activos de las personas,0,
+04-e-009,v4_e_009,Porcentaje de estudiantes de 5º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de lenguaje,Num,ICFES,Porcentaje,Porción,4. Educación,Activos de las personas,0,
+04-e-010,v4_e_010,Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de matemáticas,Num,ICFES,Porcentaje,Porción,4. Educación,Activos de las personas,0,
+04-e-011,v4_e_011,Porcentaje de estudiantes de 9º con un nivel avanzado o satisfactorio en las pruebas estandarizadas nacionales de lenguaje,Num,ICFES,Porcentaje,Porción,4. Educación,Activos de las personas,0,
+04-e-012,v4_e_012,Porcentaje de estudiantes de 11° con dominio del inglés con nivel B1 o B+,Num,ICFES,Porcentaje,Porción,4. Educación,Activos de las personas,0,
+05-ml-001,v5_ml_001,Tasa global de participacion,Num,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0,
+05-ml-002,v5_ml_002,Tasa de ocupación,Num,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0,
+05-ml-003,v5_ml_003,Tasa de informalidad,Num,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0,
+05-ml-004,v5_ml_004,Tasa de desempleo,Num,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0,
+05-ml-005,v5_ml_005,Tasa de desempleo juvenil (15 - 25 años),Num,DANE,Porcentaje,Porción,5. Mercado laboral,Activos de las personas,0,
+06-sc-001,v6_sc_001,Porcentaje de la población que fue víctima de un delito en los últimos 12 meses,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,6. Seguridad ciudadana,Activos de las personas,0,
+06-sc-002,v6_sc_002,Porcentaje de ciudadanos que fueron víctimas de algún delito y denunciaron el hecho,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,6. Seguridad ciudadana,Activos de las personas,0,
+06-sc-003,v6_sc_003,Porcentaje de ciudadanos que se sienten seguros o muy seguros en la ciudad,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,6. Seguridad ciudadana,Activos de las personas,0,
+06-sc-004,v6_sc_004,Porcentaje de victimas de hurto a personas en la vía pública,Num,DANE,Porcentaje,Porción,6. Seguridad ciudadana,Activos de las personas,0,
+06-sc-005,v6_sc_005,Tasa de Homicidios por cada 100 mil habitantes,Num,Instituto Nacional de Medicina Legal,Tasa,Por cada 100000 habitantes,6. Seguridad ciudadana,Activos de las personas,0,
+06-sc-006,v6_sc_006,Tasa de lesiones personales,Num,Instituto Nacional de Medicina Legal,Tasa,Por cada 100000 habitantes,6. Seguridad ciudadana,Activos de las personas,0,
+06-sc-007,v6_sc_007,Tasa de homicidios de personas entre 15 y 24 años de edad,Num,Instituto Nacional de Medicina Legal,Tasa,Por cada 100000 personas en ese rango de edad,6. Seguridad ciudadana,Activos de las personas,0,
+06-sc-008,v6_sc_008,Tasa de adolescentes capturados por cada mil adolescentes (14 a 17 años),Num,ICBF,Tasa,Por cada 1000 adolescentes,6. Seguridad ciudadana,Activos de las personas,0,
+06-sc-009,v6_sc_009,Indice de intensidad (expulsión) del desplazamiento forzado,Num,DPS,Porcentaje,Porción,6. Seguridad ciudadana,Activos de las personas,0,
+06-sc-010,v6_sc_010,Porcentaje de ciudadanos que fue extorsionado o lo han intentado extorsionar,Num,DANE,Porcentaje,Porción,6. Seguridad ciudadana,Activos de las personas,0,
+06-sc-011,v6_sc_011,Tasa de hurto a automóviles,Num,Policía Nacional,Tasa,Por cada 100000 habitantes,6. Seguridad ciudadana,Activos de las personas,0,
+06-sc-012,v6_sc_012,Tasa de hurto de motocicletas,Num,Policía Nacional,Tasa,Por cada 100000 habitantes,6. Seguridad ciudadana,Activos de las personas,0,
+07-v-001,v7_v_001,Porcentaje de personas que se encuentran satisfechas o muy satisfechas con la vivienda que habitan,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0,
+07-v-002,v7_v_002,Participación porcentual de la VIS en total de unidades de vivienda licenciadas,Num,DANE,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0,
+07-v-003,v7_v_003,Tasa de cobertura del servicio de Acueducto,Num,Empresas de Servicios Públicos de cada ciudad,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0,
+07-v-004,v7_v_004,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servio de Acueducto,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0,
+07-v-005,v7_v_005,Porcentaje de agua tratada no contabilizada en facturación,Num,Empresas de Servicios Públicos de cada ciudad,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0,
+07-v-006,v7_v_006,Tasa de cobertura del servicio de Alcantarillado,Num,Empresas de Servicios Públicos de cada ciudad,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0,
+07-v-007,v7_v_007,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servio de Alcantarillado,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0,
+07-v-008,v7_v_008,Tasa de cobertura del servicio de Aseo,Num,Empresas de Servicios Públicos de cada ciudad,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0,
+07-v-009,v7_v_009,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servio de Aseo,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0,
+07-v-010,v7_v_010,Tasa de cobertura del servicio de Energía,Num,Empresas de Servicios Públicos de cada ciudad,Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0,
+07-v-011,v7_v_011,Porcentaje de población que manifiesta estar satisfecho o muy satisfecho con el servio de Energía,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,7. Vivienda y Servicios públicos,Hábitat Urbano,0,
+08-ma-01,v8_ma_01,Consumo anual de energía eléctrica por habitante,Num,Superintendencia de Servicios públicos-SUI,Número,Kilowatios/Hora Promedio anual,8. Medio ambiente,Hábitat Urbano,0,
+08-ma-02,v8_ma_02,Consumo anual de agua por habitante,Num,Superintendencia de Servicios públicos-SUI,Número,Metros cúbicos anuales,8. Medio ambiente,Hábitat Urbano,0,
+08-ma-03,v8_ma_03,Porcentaje de aguas residuales que reciben tratamiento de acuerdo a normas nacionales,Num,Empresa de Alcantarillado de cada ciudad,Porcentaje,Porción,8. Medio ambiente,Hábitat Urbano,0,
+08-ma-04,v8_ma_04,Generación de residuos sólidos urbanos (Kg diarios por habitante),Num,Empresas de Servicios Públicos de cada ciudad,Número,Kilogramso diarios por habitante,8. Medio ambiente,Hábitat Urbano,0,
+08-ma-05,v8_ma_05,Concentración de partículas PM 10,Num,Autoridades ambientales de cada ciudad,Número,Partículas promedio por año,8. Medio ambiente,Hábitat Urbano,0,
+08-ma-06,v8_ma_06,"Existencia, monitoreo y cumplimiento de regulaciones sobre polución acústica",Num,Autoridades ambientales de cada ciudad,Binario,1= Si, 0=No,8. Medio ambiente,Hábitat Urbano,0
+08-ma-07,v8_ma_07,Porcentaje de residuos sólidos de la ciudad que son separados y clasificados para reciclado,Num,Autoridades ambientales de cada ciudad,Porcentaje,Porción,8. Medio ambiente,Hábitat Urbano,0,
+08-ma-08,v8_ma_08,Tasa de población afectada por desastres naturales por cada 100 mil habitantes,Num,Sistema Nacional de Atención y Prevención de Desastres,Tasa,Por cada 100000 habitantes,8. Medio ambiente,Hábitat Urbano,0,
+09-m-001,v9_m_001,Porcentaje de personas que se sienten satisfechas o muy satisfechas con el medio de transporte que utilizan habitualmente,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0,
+09-m-002,v9_m_002,Promedio diario de pasajeros del sistema de transporte masivo,Num,DANE,Número,Pasajeros Día,9. Movilidad,Hábitat Urbano,0,
+09-m-003,v9_m_003,Porcentaje de cumplimiento del promedio diario de pasajeros de pasajeros en el STM frente a su respectivo documento CONPES,Num,Empresas de Transporte Masivo de cada ciudad,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0,
+09-m-004,v9_m_004,Variación en el número de pasajeros del tranporte público,Num,DANE,Porcentaje,Variación,9. Movilidad,Hábitat Urbano,0,
+09-m-005,v9_m_005,No. de automóviles por cada 100 hab.,Num,Secretaria de Tránsito de cada ciudad,Tasa,Por cada 100 habitantes,9. Movilidad,Hábitat Urbano,0,
+09-m-006,v9_m_006,No. de motos por cada 100 hab.,Num,Secretaria de Tránsito de cada ciudad,Tasa,Por cada 100 habitantes,9. Movilidad,Hábitat Urbano,0,
+09-m-007,v9_m_007,Tasa de mortalidad por accidentes de tránsito,Num,Instituto Nacional de Medicina Legal,Tasa,Por cada 100000 habitantes,9. Movilidad,Hábitat Urbano,0,
+09-m-008,v9_m_008,Tasa de lesionados en accidentes tránsito,Num,Instituto Nacional de Medicina Legal,Tasa,Por cada 100000 habitantes,9. Movilidad,Hábitat Urbano,0,
+09-m-009,v9_m_009,Kilómetros de ciclovías exclusivas existentes,Num,Secretarías de tránsito de cada ciudad,Número,Kilómetros,9. Movilidad,Hábitat Urbano,0,
+09-m-010,v9_m_010,Porcentaje de víctimas conductores,Num,Instituto Nacional de Medicina Legal,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0,
+09-m-011,v9_m_011,Porcentaje de víctimas peatones,Num,Instituto Nacional de Medicina Legal,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0,
+09-m-012,v9_m_012,Porcentaje de víctimas pasajeros,Num,Instituto Nacional de Medicina Legal,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0,
+09-m-013,v9_m_013,Porcentaje de lesionados conductores,Num,Instituto Nacional de Medicina Legal,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0,
+09-m-014,v9_m_014,Porcentaje de lesionados peatones,Num,Instituto Nacional de Medicina Legal,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0,
+09-m-015,v9_m_015,Porcentaje de lesionados pasajeros,Num,Instituto Nacional de Medicina Legal,Porcentaje,Porción,9. Movilidad,Hábitat Urbano,0,
+10-ep-001,v0_ep_001,"Metros cuadrados de espacio público efectivo por habitante(parques, plazas, plazoletas, zonas verdes)",Num,Secretarías de Planeación de cada ciudad,Número,Metros cuadrados,10. Espacio público,Hábitat Urbano,0,
+10-ep-002,v0_ep_002,Porcentaje de ciudadanos que se siente satisfecho o muy satisfecho con el espacio público de la ciudad,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,10. Espacio público,Hábitat Urbano,0,
+11-cr-001,v1_cr_001,Porcentaje población que leyó por lo menos un libro,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,"11. Cultura, recreación y deporte",Buen gobierno y Ciudadanía,0,
+11-cr-002,v1_cr_002,Porcentaje de población que participa de alguna actividad cultural,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,"11. Cultura, recreación y deporte",Buen gobierno y Ciudadanía,0,
+11-cr-003,v1_cr_003,Porcentaje de población que participa en al menos una actividad deportiva o recreativa,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,"11. Cultura, recreación y deporte",Buen gobierno y Ciudadanía,0,
+12-pc-001,v2_pc_001,Porcentaje de población que pertenece a alguna organización social,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+12-pc-002,v2_pc_002,Porcentaje de participación electoral Cámara,Num,Registraduría Nacional,Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+12-pc-003,v2_pc_003,Porcentaje de población que considera que la ALCALDIA esta haciendo acciones por mejorar su calidad de vida,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+12-pc-004,v2_pc_004,Porcentaje de población que considera que la CONCEJO esta haciendo acciones por mejorar su calidad de vida,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+12-pc-005,v2_pc_005,Porcentaje de población que considera que la GOBIERNO NACIONAL esta haciendo acciones por mejorar su calidad de vida,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+12-pc-006,v2_pc_006,Porcentaje de población que considera que la EMPRESA PRIVADA esta haciendo acciones por mejorar su calidad de vida,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+12-pc-007,v2_pc_007,Porcentaje de población que considera que la LAS UNIVERSIDADES esta haciendo acciones por mejorar su calidad de vida,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+12-pc-008,v2_pc_008,Porcentaje de población que considera que NINGUNA entidad esta haciendo acciones por mejorar su calidad de vida,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+12-pc-009,v2_pc_009,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a CUIDADO Y USO DE LOS ESPACIOS PÚBLICOS,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+12-pc-010,v2_pc_010,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente al  CUMPLIMIENTO DE LAS NORMAS BÁSICAS DE TRÁNSITO,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+12-pc-011,v2_pc_011,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a RESPETO DE LAS NORMAS AMBIENTALES,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+12-pc-012,v2_pc_012,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a RESPETO POR LA VIDA,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+12-pc-013,v2_pc_013,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a RESPETO POR LAS NIÑAS Y NIÑOS,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+12-pc-014,v2_pc_014,Porcentaje de población que considera que los residentes de su ciudad se comportan bien o muy bien frente a RESPETO POR LAS MUJERES,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+12-pc-015,v2_pc_015,Porcentaje de población que considera probable o muy probable ser castigado o amonestado por INFRINGIR LAS NORMAS Y SEÑALES DE TRÁNSITO,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+12-pc-016,v2_pc_016,Porcentaje de población que considera probable o muy probable ser castigado o amonestado por NO PAGAR IMPUESTOS,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+12-pc-017,v2_pc_017,Porcentaje de población que considera probable o muy probable ser castigado o amonestado por PORTAR ARMAS,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,12. Participación y cultura ciudadana,Buen gobierno y Ciudadanía,0,
+13-gp-001,v3_gp_001,Índice de Gobierno Abierto,Num,Procuraduría General de Nación,Número,Índice,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0,
+13-gp-002,v3_gp_002,Ingresos propios como porcentaje de ingresos totales,Num,Contaduría General de la Nación-FUT,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0,
+13-gp-003,v3_gp_003,Ingresos tributarios por habitante,Num,Contaduría General de la Nación-FUT,Número,Pesos,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0,
+13-gp-004,v3_gp_004,Transferencias totales como porcentaje del ingreso total,Num,Contaduría General de la Nación-FUT,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0,
+13-gp-005,v3_gp_005,Gasto inversión como porcentaje del gasto total,Num,Contaduría General de la Nación-FUT,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0,
+13-gp-006,v3_gp_006,Inversión total por habitante,Num,Contaduría General de la Nación-FUT,Número,Pesos,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0,
+13-gp-007,v3_gp_007,Saldo de la deuda/ingresos corrientes (ley 358 - 1997,Num,Secretarías de hacienda de cada ciudad,Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0,
+13-gp-008,v3_gp_008,Porcentaje de ciudadanos que se siente satisfecho o muy satisfechos con la forma como la alcaldía invierte los recursos,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0,
+13-gp-009,v3_gp_009,Porcentaje de ciudadanos que califica la gestión del alcalde con 4 o 5 en escala de 1 a 5,Num,"Encuestas de Percepción Ciudadana, Cómo Vamos",Porcentaje,Porción,13. Finanzas y gestión pública,Buen gobierno y Ciudadanía,0,
+14-ee-001,v4_ee_001,Tasa de inflación,Num,DANE,Porcentaje,Variación,14. Entorno económico,Entorno Económico,0,
+14-ee-002,v4_ee_002,Tasa de penetración de internet,Num,Ministerio de Tecnologías de la Información y las Comunicaciones,Tasa,Por cada 1000 habitantes,14. Entorno económico,Entorno Económico,0,
+14-ee-003,v4_ee_003,Posición ocupada en ranking nacional del Doing Bussines,Num,Banco Mundial,Número,Posición,14. Entorno económico,Entorno Económico,0,
