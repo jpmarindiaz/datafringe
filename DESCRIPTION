@@ -9,7 +9,7 @@ LazyData: no
 Depends:
     R (>= 3.0.0),
     R6,
-    homodata,
+    homodatum,
     lazyeval
 Suggests:
     testthat
