@@ -40,6 +40,9 @@ test_that("Create Fringe", {
   expect_equal(getCnames(df),names(df$data))
   #expect_equal(getCformats(df),c('','')) ## OJO FORMATS
 
+  data <- sampleFringe("Cat-Num",nrow = 4)
+  expect_equal(nrow(data$data), 4)
+
   # test fringes with shuffled dic
   ctype <- c("Cat","Num")
   dic <- data_frame(id=letters[1:2],ctype = ctype)
