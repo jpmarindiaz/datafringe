@@ -9,4 +9,3 @@ fringeVal_hasCtypes(fringe, ctypes)
 \description{
 fringeVal_hasCtypes
 }
-

@@ -9,4 +9,3 @@ fringeColVal_different(fringe, cols)
 \description{
 fringeColVal_different
 }
-

@@ -9,4 +9,3 @@ fringeVal_allNumeric(fringe)
 \description{
 fringeVal_allNumeric
 }
-

@@ -9,4 +9,3 @@ fringeVal_colnamesInFringe(fringe, cols)
 \description{
 fringeVal_colnamesInFringe
 }
-

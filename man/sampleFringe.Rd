@@ -4,9 +4,8 @@
 \alias{sampleFringe}
 \title{sampleFringe}
 \usage{
-sampleFringe(ftype)
+sampleFringe(ftype, ...)
 }
 \description{
 sampleFringe
 }
-

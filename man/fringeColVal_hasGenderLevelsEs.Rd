@@ -9,4 +9,3 @@ fringeColVal_hasGenderLevelsEs(fringe, cols)
 \description{
 fringeColVal_hasGenderLevelsEs
 }
-

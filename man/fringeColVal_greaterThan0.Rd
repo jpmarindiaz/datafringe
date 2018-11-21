@@ -10,4 +10,3 @@ fringeColVal_greaterThan0(fringe, cols)
 fringeColVal_greaterThan0
 WORKS_WITH_CTYPE: N
 }
-

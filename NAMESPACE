@@ -3,6 +3,7 @@
 export(Column)
 export(Dic)
 export(Fringe)
+export(createDic)
 export(discard_all_na_cols)
 export(discard_all_na_rows)
 export(discard_any_na_rows)

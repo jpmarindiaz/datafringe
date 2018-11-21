@@ -1,5 +1,5 @@
 
-
+#' @export
 createDic <- function(d, dic = NULL, as_data_frame = TRUE,...){
   if(!is.null(dic)){
     if(!all( names(d) %in% dic$id))

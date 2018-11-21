@@ -9,4 +9,3 @@ fringeColVal_unique(fringe, cols)
 \description{
 fringeColVal_unique
 }
-

@@ -9,4 +9,3 @@ fringeVal_hasAnyFtype(fringe, ftype)
 \description{
 fringeVal_hasAnyFtype
 }
-

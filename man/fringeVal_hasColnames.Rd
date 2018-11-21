@@ -9,4 +9,3 @@ fringeVal_hasColnames(fringe, cnames)
 \description{
 fringeVal_hasColnames
 }
-

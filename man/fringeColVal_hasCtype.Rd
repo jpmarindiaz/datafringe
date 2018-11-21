@@ -9,4 +9,3 @@ fringeColVal_hasCtype(fringe, cols, ctype)
 \description{
 fringeColVal_hasCtype
 }
-
