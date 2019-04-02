@@ -6,11 +6,13 @@ fringe<- function(data, dic=NULL,
   }
   if(isGsheetUrl(data)){
     s <- gs_url(data)
+    #if(!s$is_public) stop("Googlesheet must be public")
     tabs <- gs_ws_ls(s)
     data <- gs_read_csv(s, ws = tabs[!grepl("_dic", tabs)])
     if(length(tabs) > 1){
       dic <- gs_read_csv(s, ws = tabs[grepl("_dic", tabs)])
     }
+    name <- s$sheet_title
   }
 
   fringe <- Fringe$new(data,
