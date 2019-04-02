@@ -9,8 +9,9 @@ LazyData: no
 Depends:
     R (>= 3.0.0),
     R6,
+    googlesheets,
     homodatum,
     lazyeval
 Suggests:
     testthat
-RoxygenNote: 6.1.0
+RoxygenNote: 6.1.1

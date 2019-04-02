@@ -4,6 +4,15 @@ fringe<- function(data, dic=NULL,
   if(isFringe(data)){
     return(data)
   }
+  if(isGsheetUrl(data)){
+    s <- gs_url(data)
+    tabs <- gs_ws_ls(s)
+    data <- gs_read_csv(s, ws = tabs[!grepl("_dic", tabs)])
+    if(length(tabs) > 1){
+      dic <- gs_read_csv(s, ws = tabs[grepl("_dic", tabs)])
+    }
+  }
+
   fringe <- Fringe$new(data,
                     dic_ = dic,
                     name = name %||% deparse(substitute(data)),

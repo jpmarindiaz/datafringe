@@ -1,5 +1,7 @@
 
-
+isGsheetUrl <- function(x){
+  grepl("docs.google.com/spreadsheets", x, fixed = TRUE)
+}
 
 
 trim_punct <- function (x){
